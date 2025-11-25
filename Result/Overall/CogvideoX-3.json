@@ -1,0 +1,8002 @@
+[
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_01",
+    "video_path": "./Video/CogvideoX-3/B11_01.mp4",
+    "score": {
+      "BRISQUE": 27.146103379148876,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.656,
+        2.609,
+        2.484,
+        2.422
+      ],
+      "VIIDEO": 0.5304639339447021,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.14754211902618408,
+      "MUSIQ": 67.78563401121531
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_02",
+    "video_path": "./Video/CogvideoX-3/B11_02.mp4",
+    "score": {
+      "BRISQUE": 26.774876185825892,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.812,
+        2.562,
+        2.688,
+        2.688
+      ],
+      "VIIDEO": 0.48703762888908386,
+      "Qalign": 4.83984375,
+      "ViCLIP": 0.23573845624923706,
+      "MUSIQ": 59.48563067513223
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_03",
+    "video_path": "./Video/CogvideoX-3/B11_03.mp4",
+    "score": {
+      "BRISQUE": 12.26488006781347,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.672,
+        2.672,
+        2.453,
+        2.25
+      ],
+      "VIIDEO": 0.4881627857685089,
+      "Qalign": 4.74609375,
+      "ViCLIP": 0.20494866371154785,
+      "MUSIQ": 68.38694701579787
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_04",
+    "video_path": "./Video/CogvideoX-3/B11_04.mp4",
+    "score": {
+      "BRISQUE": 32.1991258704144,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.547,
+        2.703,
+        2.562,
+        2.547
+      ],
+      "VIIDEO": 0.47039803862571716,
+      "Qalign": 4.7421875,
+      "ViCLIP": 0.1568821668624878,
+      "MUSIQ": 58.10541901677291
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_05",
+    "video_path": "./Video/CogvideoX-3/B11_05.mp4",
+    "score": {
+      "BRISQUE": 37.22471059479329,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.5,
+        2.734,
+        2.531,
+        2.359
+      ],
+      "VIIDEO": 0.5563807487487793,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.17318153381347656,
+      "MUSIQ": 75.95709801904903
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_06",
+    "video_path": "./Video/CogvideoX-3/B11_06.mp4",
+    "score": {
+      "BRISQUE": 40.300967388271545,
+      "RAFT": true,
+      "VideoScore": [
+        3.0,
+        2.766,
+        3.0,
+        2.766,
+        2.688
+      ],
+      "VIIDEO": 0.6625632047653198,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.20703110098838806,
+      "MUSIQ": 79.40289036531627
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_07",
+    "video_path": "./Video/CogvideoX-3/B11_07.mp4",
+    "score": {
+      "BRISQUE": 44.11615445154794,
+      "RAFT": true,
+      "VideoScore": [
+        2.984,
+        2.797,
+        2.984,
+        2.797,
+        2.812
+      ],
+      "VIIDEO": 0.5814648866653442,
+      "Qalign": 4.06640625,
+      "ViCLIP": 0.21444857120513916,
+      "MUSIQ": 58.788474941846005
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_08",
+    "video_path": "./Video/CogvideoX-3/B11_08.mp4",
+    "score": {
+      "BRISQUE": 42.531302694948565,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.719,
+        2.562,
+        2.578,
+        2.578
+      ],
+      "VIIDEO": 0.49286386370658875,
+      "Qalign": 4.2890625,
+      "ViCLIP": 0.19567900896072388,
+      "MUSIQ": 52.972465586218036
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_09",
+    "video_path": "./Video/CogvideoX-3/B11_09.mp4",
+    "score": {
+      "BRISQUE": 36.386771444948565,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.438,
+        2.922,
+        2.75,
+        2.5
+      ],
+      "VIIDEO": 0.49771496653556824,
+      "Qalign": 4.640625,
+      "ViCLIP": 0.21628029644489288,
+      "MUSIQ": 69.4929348963388
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_10",
+    "video_path": "./Video/CogvideoX-3/B11_10.mp4",
+    "score": {
+      "BRISQUE": 36.214596197471856,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.75,
+        2.875,
+        2.828,
+        2.641
+      ],
+      "VIIDEO": 0.43298792839050293,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.2429727017879486,
+      "MUSIQ": 73.5739275061566
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_11",
+    "video_path": "./Video/CogvideoX-3/B11_11.mp4",
+    "score": {
+      "BRISQUE": 34.8476907481318,
+      "RAFT": true,
+      "VideoScore": [
+        3.25,
+        2.953,
+        3.188,
+        2.766,
+        2.906
+      ],
+      "VIIDEO": 0.6163275837898254,
+      "Qalign": 4.41015625,
+      "ViCLIP": 0.2578903138637543,
+      "MUSIQ": 77.73806383594963
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_12",
+    "video_path": "./Video/CogvideoX-3/B11_12.mp4",
+    "score": {
+      "BRISQUE": 36.46014404296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.469,
+        2.547,
+        2.266,
+        2.234
+      ],
+      "VIIDEO": 0.531667947769165,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.199552983045578,
+      "MUSIQ": 63.36984219758407
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_13",
+    "video_path": "./Video/CogvideoX-3/B11_13.mp4",
+    "score": {
+      "BRISQUE": 35.920041291610055,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.734,
+        2.703,
+        2.359,
+        2.625
+      ],
+      "VIIDEO": 0.3754071593284607,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.14701852202415466,
+      "MUSIQ": 61.33403259182569
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_14",
+    "video_path": "./Video/CogvideoX-3/B11_14.mp4",
+    "score": {
+      "BRISQUE": 26.43329463982434,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.75,
+        2.797,
+        2.812,
+        2.672
+      ],
+      "VIIDEO": 0.6431721448898315,
+      "Qalign": 4.32421875,
+      "ViCLIP": 0.2682996988296509,
+      "MUSIQ": 71.84420776367188
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_15",
+    "video_path": "./Video/CogvideoX-3/B11_15.mp4",
+    "score": {
+      "BRISQUE": 27.36043155267372,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.656,
+        2.766,
+        2.812,
+        2.641
+      ],
+      "VIIDEO": 0.5007380247116089,
+      "Qalign": 4.3125,
+      "ViCLIP": 0.16296707093715668,
+      "MUSIQ": 58.564507739144084
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_16",
+    "video_path": "./Video/CogvideoX-3/B11_16.mp4",
+    "score": {
+      "BRISQUE": 29.954430242502912,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.812,
+        2.594,
+        2.609,
+        2.688
+      ],
+      "VIIDEO": 0.38125333189964294,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.24857668578624725,
+      "MUSIQ": 38.708184686506755
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_17",
+    "video_path": "./Video/CogvideoX-3/B11_17.mp4",
+    "score": {
+      "BRISQUE": 22.2648618709967,
+      "RAFT": true,
+      "VideoScore": [
+        3.078,
+        3.125,
+        3.156,
+        2.984,
+        3.141
+      ],
+      "VIIDEO": 0.5085901618003845,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.2239648699760437,
+      "MUSIQ": 66.67671243892693
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B11_18",
+    "video_path": "./Video/CogvideoX-3/B11_18.mp4",
+    "score": {
+      "BRISQUE": 37.34937092088024,
+      "RAFT": false,
+      "VideoScore": [
+        2.844,
+        2.891,
+        2.562,
+        2.844,
+        2.922
+      ],
+      "VIIDEO": 0.6616670489311218,
+      "Qalign": 4.859375,
+      "ViCLIP": 0.1880870759487152,
+      "MUSIQ": 77.30931096047348
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_01",
+    "video_path": "./Video/CogvideoX-3/B12_01.mp4",
+    "score": {
+      "BRISQUE": 13.256867402828998,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.812,
+        2.828,
+        2.5,
+        2.438
+      ],
+      "VIIDEO": 0.679172694683075,
+      "Qalign": 4.7421875,
+      "ViCLIP": 0.20745328068733215,
+      "MUSIQ": 66.02146127357246
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_02",
+    "video_path": "./Video/CogvideoX-3/B12_02.mp4",
+    "score": {
+      "BRISQUE": 19.903297187378687,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.641,
+        2.75,
+        2.547,
+        2.375
+      ],
+      "VIIDEO": 0.4197002053260803,
+      "Qalign": 4.8359375,
+      "ViCLIP": 0.22477424144744873,
+      "MUSIQ": 64.17439762849986
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_03",
+    "video_path": "./Video/CogvideoX-3/B12_03.mp4",
+    "score": {
+      "BRISQUE": 23.169953340329,
+      "RAFT": false,
+      "VideoScore": [
+        2.938,
+        2.922,
+        2.891,
+        2.797,
+        2.906
+      ],
+      "VIIDEO": 0.442303329706192,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.21013379096984863,
+      "MUSIQ": 51.32032522355548
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_04",
+    "video_path": "./Video/CogvideoX-3/B12_04.mp4",
+    "score": {
+      "BRISQUE": 29.701509653411296,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.562,
+        2.844,
+        2.625,
+        2.391
+      ],
+      "VIIDEO": 0.44140923023223877,
+      "Qalign": 4.7890625,
+      "ViCLIP": 0.2129117101430893,
+      "MUSIQ": 77.34018873131794
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_05",
+    "video_path": "./Video/CogvideoX-3/B12_05.mp4",
+    "score": {
+      "BRISQUE": 36.60289200492527,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.578,
+        2.719,
+        2.594,
+        2.5
+      ],
+      "VIIDEO": 0.5335856676101685,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.26870617270469666,
+      "MUSIQ": 62.60144680331212
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_06",
+    "video_path": "./Video/CogvideoX-3/B12_06.mp4",
+    "score": {
+      "BRISQUE": 34.17021719417217,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.688,
+        2.328,
+        2.328,
+        2.234
+      ],
+      "VIIDEO": 0.5732895135879517,
+      "Qalign": 4.38671875,
+      "ViCLIP": 0.3137574791908264,
+      "MUSIQ": 66.57835276822865
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_07",
+    "video_path": "./Video/CogvideoX-3/B12_07.mp4",
+    "score": {
+      "BRISQUE": 21.50525395174204,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.844,
+        2.469,
+        2.578,
+        2.594
+      ],
+      "VIIDEO": 0.5759876370429993,
+      "Qalign": 4.61328125,
+      "ViCLIP": 0.1944901943206787,
+      "MUSIQ": 65.38082798075231
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_08",
+    "video_path": "./Video/CogvideoX-3/B12_08.mp4",
+    "score": {
+      "BRISQUE": 40.509797090329,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.625,
+        2.516,
+        2.422,
+        2.422
+      ],
+      "VIIDEO": 0.49617764353752136,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.21416667103767395,
+      "MUSIQ": 47.94720395011191
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_09",
+    "video_path": "./Video/CogvideoX-3/B12_09.mp4",
+    "score": {
+      "BRISQUE": 23.357559488426826,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.422,
+        2.828,
+        2.516,
+        2.109
+      ],
+      "VIIDEO": 0.5167792439460754,
+      "Qalign": 4.87109375,
+      "ViCLIP": 0.20953311026096344,
+      "MUSIQ": 72.40556660053893
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_10",
+    "video_path": "./Video/CogvideoX-3/B12_10.mp4",
+    "score": {
+      "BRISQUE": 29.26837082383055,
+      "RAFT": true,
+      "VideoScore": [
+        3.047,
+        2.938,
+        3.062,
+        2.891,
+        2.906
+      ],
+      "VIIDEO": 0.476321816444397,
+      "Qalign": 4.28125,
+      "ViCLIP": 0.19931986927986145,
+      "MUSIQ": 70.06985395443365
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_11",
+    "video_path": "./Video/CogvideoX-3/B12_11.mp4",
+    "score": {
+      "BRISQUE": 32.31665001152465,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.516,
+        2.641,
+        2.609,
+        2.391
+      ],
+      "VIIDEO": 0.6292412281036377,
+      "Qalign": 4.54296875,
+      "ViCLIP": 0.24758146703243256,
+      "MUSIQ": 72.38610408617103
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B12_12",
+    "video_path": "./Video/CogvideoX-3/B12_12.mp4",
+    "score": {
+      "BRISQUE": 25.03713477472341,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.406,
+        2.656,
+        2.344,
+        1.883
+      ],
+      "VIIDEO": 0.5107078552246094,
+      "Qalign": 4.83984375,
+      "ViCLIP": 0.20242434740066528,
+      "MUSIQ": 62.769239816606415
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_01",
+    "video_path": "./Video/CogvideoX-3/B13_01.mp4",
+    "score": {
+      "BRISQUE": 33.250613763465644,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.438,
+        2.75,
+        2.609,
+        2.328
+      ],
+      "VIIDEO": 0.5863795280456543,
+      "Qalign": 4.65234375,
+      "ViCLIP": 0.22049987316131592,
+      "MUSIQ": 69.74042480184424
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_02",
+    "video_path": "./Video/CogvideoX-3/B13_02.mp4",
+    "score": {
+      "BRISQUE": 40.38953736109763,
+      "RAFT": false,
+      "VideoScore": [
+        3.484,
+        3.219,
+        3.594,
+        3.188,
+        3.203
+      ],
+      "VIIDEO": 0.6701298952102661,
+      "Qalign": 4.625,
+      "ViCLIP": 0.1862114816904068,
+      "MUSIQ": 75.11819979270793
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_03",
+    "video_path": "./Video/CogvideoX-3/B13_03.mp4",
+    "score": {
+      "BRISQUE": 24.812837778411296,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.75,
+        2.641,
+        2.703,
+        2.609
+      ],
+      "VIIDEO": 0.5192311406135559,
+      "Qalign": 4.31640625,
+      "ViCLIP": 0.2238602638244629,
+      "MUSIQ": 46.76486239225968
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_04",
+    "video_path": "./Video/CogvideoX-3/B13_04.mp4",
+    "score": {
+      "BRISQUE": 27.927310919909743,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.672,
+        2.516,
+        2.438,
+        2.516
+      ],
+      "VIIDEO": 0.47122061252593994,
+      "Qalign": 4.58203125,
+      "ViCLIP": 0.2760775089263916,
+      "MUSIQ": 72.56468319152452
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_05",
+    "video_path": "./Video/CogvideoX-3/B13_05.mp4",
+    "score": {
+      "BRISQUE": 37.68428333353552,
+      "RAFT": false,
+      "VideoScore": [
+        3.359,
+        3.344,
+        3.359,
+        3.016,
+        3.219
+      ],
+      "VIIDEO": 0.5620362162590027,
+      "Qalign": 4.83984375,
+      "ViCLIP": 0.21218222379684448,
+      "MUSIQ": 76.75670604824279
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_06",
+    "video_path": "./Video/CogvideoX-3/B13_06.mp4",
+    "score": {
+      "BRISQUE": 33.41553151385384,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.703,
+        2.766,
+        2.781,
+        2.578
+      ],
+      "VIIDEO": 0.6209126710891724,
+      "Qalign": 4.453125,
+      "ViCLIP": 0.23092228174209595,
+      "MUSIQ": 69.99594106733429
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_07",
+    "video_path": "./Video/CogvideoX-3/B13_07.mp4",
+    "score": {
+      "BRISQUE": 38.1172219981318,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.453,
+        2.5,
+        2.469,
+        2.219
+      ],
+      "VIIDEO": 0.5472478270530701,
+      "Qalign": 4.53125,
+      "ViCLIP": 0.24044886231422424,
+      "MUSIQ": 58.719657850561674
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_08",
+    "video_path": "./Video/CogvideoX-3/B13_08.mp4",
+    "score": {
+      "BRISQUE": 41.22569625570167,
+      "RAFT": true,
+      "VideoScore": [
+        3.25,
+        3.062,
+        3.281,
+        3.078,
+        2.969
+      ],
+      "VIIDEO": 0.5085062980651855,
+      "Qalign": 4.41796875,
+      "ViCLIP": 0.1595631092786789,
+      "MUSIQ": 70.86857434385311
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_09",
+    "video_path": "./Video/CogvideoX-3/B13_09.mp4",
+    "score": {
+      "BRISQUE": 29.607474569948565,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.562,
+        3.0,
+        2.703,
+        2.453
+      ],
+      "VIIDEO": 0.5610154271125793,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.2455178201198578,
+      "MUSIQ": 68.9908467405331
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_10",
+    "video_path": "./Video/CogvideoX-3/B13_10.mp4",
+    "score": {
+      "BRISQUE": 28.102506838970303,
+      "RAFT": true,
+      "VideoScore": [
+        3.188,
+        3.109,
+        3.156,
+        3.0,
+        3.109
+      ],
+      "VIIDEO": 0.5470795631408691,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.237799271941185,
+      "MUSIQ": 67.4750652668639
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_11",
+    "video_path": "./Video/CogvideoX-3/B13_11.mp4",
+    "score": {
+      "BRISQUE": 39.33164115574049,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.359,
+        2.672,
+        2.312,
+        2.156
+      ],
+      "VIIDEO": 0.5896828770637512,
+      "Qalign": 4.54296875,
+      "ViCLIP": 0.2625139653682709,
+      "MUSIQ": 73.78288842432246
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B13_12",
+    "video_path": "./Video/CogvideoX-3/B13_12.mp4",
+    "score": {
+      "BRISQUE": 32.42958248920322,
+      "RAFT": true,
+      "VideoScore": [
+        3.641,
+        3.531,
+        3.719,
+        3.531,
+        3.594
+      ],
+      "VIIDEO": 0.41914933919906616,
+      "Qalign": 4.484375,
+      "ViCLIP": 0.17348846793174744,
+      "MUSIQ": 73.2612626922797
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_01",
+    "video_path": "./Video/CogvideoX-3/B14_01.mp4",
+    "score": {
+      "BRISQUE": 35.520533212223405,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.266,
+        2.797,
+        2.359,
+        2.094
+      ],
+      "VIIDEO": 0.4994870722293854,
+      "Qalign": 4.9140625,
+      "ViCLIP": 0.1921522170305252,
+      "MUSIQ": 67.05337529152817
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_02",
+    "video_path": "./Video/CogvideoX-3/B14_02.mp4",
+    "score": {
+      "BRISQUE": 28.501071716687694,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.656,
+        2.531,
+        2.562,
+        2.5
+      ],
+      "VIIDEO": 0.4595326781272888,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.2052571326494217,
+      "MUSIQ": 51.08869780072514
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_03",
+    "video_path": "./Video/CogvideoX-3/B14_03.mp4",
+    "score": {
+      "BRISQUE": 33.256388219987386,
+      "RAFT": true,
+      "VideoScore": [
+        2.891,
+        2.891,
+        2.906,
+        2.828,
+        2.844
+      ],
+      "VIIDEO": 0.5057689547538757,
+      "Qalign": 4.38671875,
+      "ViCLIP": 0.20391710102558136,
+      "MUSIQ": 65.62983978461034
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_04",
+    "video_path": "./Video/CogvideoX-3/B14_04.mp4",
+    "score": {
+      "BRISQUE": 36.9338071834967,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.875,
+        2.578,
+        2.75,
+        2.781
+      ],
+      "VIIDEO": 0.5002415776252747,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.23055870831012726,
+      "MUSIQ": 70.82751251599804
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_05",
+    "video_path": "./Video/CogvideoX-3/B14_05.mp4",
+    "score": {
+      "BRISQUE": 32.82799269397807,
+      "RAFT": true,
+      "VideoScore": [
+        3.281,
+        3.172,
+        3.312,
+        3.172,
+        3.25
+      ],
+      "VIIDEO": 0.5984026193618774,
+      "Qalign": 4.43359375,
+      "ViCLIP": 0.22312593460083008,
+      "MUSIQ": 76.80519345680379
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_06",
+    "video_path": "./Video/CogvideoX-3/B14_06.mp4",
+    "score": {
+      "BRISQUE": 31.80002418660229,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.281,
+        2.719,
+        2.453,
+        1.852
+      ],
+      "VIIDEO": 0.5081709623336792,
+      "Qalign": 4.9609375,
+      "ViCLIP": 0.18575617671012878,
+      "MUSIQ": 75.47126049728867
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_07",
+    "video_path": "./Video/CogvideoX-3/B14_07.mp4",
+    "score": {
+      "BRISQUE": 28.738148943978068,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.656,
+        2.766,
+        2.609,
+        2.406
+      ],
+      "VIIDEO": 0.6255630850791931,
+      "Qalign": 4.890625,
+      "ViCLIP": 0.21205756068229675,
+      "MUSIQ": 76.36230582480106
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_08",
+    "video_path": "./Video/CogvideoX-3/B14_08.mp4",
+    "score": {
+      "BRISQUE": 42.10023223687403,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.75,
+        2.672,
+        2.781,
+        2.734
+      ],
+      "VIIDEO": 0.5319881439208984,
+      "Qalign": 4.43359375,
+      "ViCLIP": 0.23214194178581238,
+      "MUSIQ": 42.396675820676435
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_09",
+    "video_path": "./Video/CogvideoX-3/B14_09.mp4",
+    "score": {
+      "BRISQUE": 33.38388724949049,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.922,
+        2.625,
+        2.766,
+        2.844
+      ],
+      "VIIDEO": 0.4240591824054718,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.25612589716911316,
+      "MUSIQ": 61.31525755224761
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_10",
+    "video_path": "./Video/CogvideoX-3/B14_10.mp4",
+    "score": {
+      "BRISQUE": 28.576491456594525,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.688,
+        2.703,
+        2.75,
+        2.625
+      ],
+      "VIIDEO": 0.5328971147537231,
+      "Qalign": 4.80859375,
+      "ViCLIP": 0.1778978407382965,
+      "MUSIQ": 76.77353772465487
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_11",
+    "video_path": "./Video/CogvideoX-3/B14_11.mp4",
+    "score": {
+      "BRISQUE": 38.85748973396254,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.516,
+        2.703,
+        2.484,
+        2.438
+      ],
+      "VIIDEO": 0.6656386256217957,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.20693659782409668,
+      "MUSIQ": 70.89609698183048
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_12",
+    "video_path": "./Video/CogvideoX-3/B14_12.mp4",
+    "score": {
+      "BRISQUE": 33.66998670115974,
+      "RAFT": false,
+      "VideoScore": [
+        2.781,
+        2.906,
+        2.594,
+        2.703,
+        2.781
+      ],
+      "VIIDEO": 0.447719007730484,
+      "Qalign": 4.703125,
+      "ViCLIP": 0.2904703915119171,
+      "MUSIQ": 65.49275918332687
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_13",
+    "video_path": "./Video/CogvideoX-3/B14_13.mp4",
+    "score": {
+      "BRISQUE": 21.620221440096078,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.469,
+        2.688,
+        2.391,
+        2.188
+      ],
+      "VIIDEO": 0.6157607436180115,
+      "Qalign": 4.92578125,
+      "ViCLIP": 0.20447370409965515,
+      "MUSIQ": 76.6821966230499
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_14",
+    "video_path": "./Video/CogvideoX-3/B14_14.mp4",
+    "score": {
+      "BRISQUE": 38.99578857421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.438,
+        3.0,
+        2.578,
+        2.422
+      ],
+      "VIIDEO": 0.48228663206100464,
+      "Qalign": 4.28125,
+      "ViCLIP": 0.22396168112754822,
+      "MUSIQ": 77.1184962017936
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B14_15",
+    "video_path": "./Video/CogvideoX-3/B14_15.mp4",
+    "score": {
+      "BRISQUE": 33.6911890254998,
+      "RAFT": true,
+      "VideoScore": [
+        3.188,
+        3.047,
+        3.234,
+        2.922,
+        2.969
+      ],
+      "VIIDEO": 0.5502682328224182,
+      "Qalign": 4.7734375,
+      "ViCLIP": 0.15919308364391327,
+      "MUSIQ": 75.37465520823224
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_01",
+    "video_path": "./Video/CogvideoX-3/B15_01.mp4",
+    "score": {
+      "BRISQUE": 35.7063287770526,
+      "RAFT": true,
+      "VideoScore": [
+        2.906,
+        2.938,
+        2.953,
+        2.812,
+        3.0
+      ],
+      "VIIDEO": 0.5115162134170532,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.22182124853134155,
+      "MUSIQ": 54.5616337320079
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_02",
+    "video_path": "./Video/CogvideoX-3/B15_02.mp4",
+    "score": {
+      "BRISQUE": 31.579111798209432,
+      "RAFT": false,
+      "VideoScore": [
+        3.219,
+        3.188,
+        3.219,
+        3.016,
+        3.109
+      ],
+      "VIIDEO": 0.6128230690956116,
+      "Qalign": 4.90234375,
+      "ViCLIP": 0.19721923768520355,
+      "MUSIQ": 78.36380445586968
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_03",
+    "video_path": "./Video/CogvideoX-3/B15_03.mp4",
+    "score": {
+      "BRISQUE": 31.710847653217197,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.875,
+        2.594,
+        2.75,
+        2.812
+      ],
+      "VIIDEO": 0.5373841524124146,
+      "Qalign": 4.484375,
+      "ViCLIP": 0.26461246609687805,
+      "MUSIQ": 68.22369204692959
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_04",
+    "video_path": "./Video/CogvideoX-3/B15_04.mp4",
+    "score": {
+      "BRISQUE": 27.197724715523098,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.609,
+        2.609,
+        2.469,
+        2.438
+      ],
+      "VIIDEO": 0.5251244902610779,
+      "Qalign": 4.53125,
+      "ViCLIP": 0.2712586522102356,
+      "MUSIQ": 65.48500788433951
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_05",
+    "video_path": "./Video/CogvideoX-3/B15_05.mp4",
+    "score": {
+      "BRISQUE": 20.829775982021545,
+      "RAFT": true,
+      "VideoScore": [
+        3.141,
+        3.109,
+        3.172,
+        2.953,
+        3.078
+      ],
+      "VIIDEO": 0.6556378602981567,
+      "Qalign": 4.83203125,
+      "ViCLIP": 0.20842523872852325,
+      "MUSIQ": 80.08699391051108
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_06",
+    "video_path": "./Video/CogvideoX-3/B15_06.mp4",
+    "score": {
+      "BRISQUE": 39.054446013077445,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.516,
+        2.625,
+        2.391,
+        2.297
+      ],
+      "VIIDEO": 0.6209927797317505,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.26298555731773376,
+      "MUSIQ": 78.21244352352545
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_07",
+    "video_path": "./Video/CogvideoX-3/B15_07.mp4",
+    "score": {
+      "BRISQUE": 22.861929757254465,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.766,
+        2.562,
+        2.562,
+        2.781
+      ],
+      "VIIDEO": 0.6145278215408325,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.23617030680179596,
+      "MUSIQ": 50.190645229742394
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_08",
+    "video_path": "./Video/CogvideoX-3/B15_08.mp4",
+    "score": {
+      "BRISQUE": 48.73258678365198,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.578,
+        2.734,
+        2.516,
+        2.641
+      ],
+      "VIIDEO": 0.5669789910316467,
+      "Qalign": 3.951171875,
+      "ViCLIP": 0.2852267026901245,
+      "MUSIQ": 35.6024462658426
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_09",
+    "video_path": "./Video/CogvideoX-3/B15_09.mp4",
+    "score": {
+      "BRISQUE": 30.30180747464577,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.672,
+        2.812,
+        2.734,
+        2.609
+      ],
+      "VIIDEO": 0.5014719367027283,
+      "Qalign": 4.796875,
+      "ViCLIP": 0.19331541657447815,
+      "MUSIQ": 76.7425566489652
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_10",
+    "video_path": "./Video/CogvideoX-3/B15_10.mp4",
+    "score": {
+      "BRISQUE": 21.682772997743594,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.609,
+        2.938,
+        2.734,
+        2.5
+      ],
+      "VIIDEO": 0.600744366645813,
+      "Qalign": 4.6484375,
+      "ViCLIP": 0.24774862825870514,
+      "MUSIQ": 58.69685792626802
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_11",
+    "video_path": "./Video/CogvideoX-3/B15_11.mp4",
+    "score": {
+      "BRISQUE": 60.9225736819439,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.688,
+        2.812,
+        2.562,
+        2.625
+      ],
+      "VIIDEO": 0.4073199927806854,
+      "Qalign": 4.79296875,
+      "ViCLIP": 0.16575883328914642,
+      "MUSIQ": 71.89566006867781
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B15_12",
+    "video_path": "./Video/CogvideoX-3/B15_12.mp4",
+    "score": {
+      "BRISQUE": 28.124976874878687,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.516,
+        2.844,
+        2.594,
+        2.312
+      ],
+      "VIIDEO": 0.437645822763443,
+      "Qalign": 4.80078125,
+      "ViCLIP": 0.1723763793706894,
+      "MUSIQ": 75.05847973556992
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_01",
+    "video_path": "./Video/CogvideoX-3/B21_01.mp4",
+    "score": {
+      "BRISQUE": 33.46623997658676,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.312,
+        2.672,
+        2.266,
+        2.281
+      ],
+      "VIIDEO": 0.6220391988754272,
+      "Qalign": 4.546875,
+      "ViCLIP": 0.23375296592712402,
+      "MUSIQ": 76.71061208973761
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_02",
+    "video_path": "./Video/CogvideoX-3/B21_02.mp4",
+    "score": {
+      "BRISQUE": 43.1783754336908,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.422,
+        2.719,
+        2.672,
+        2.469
+      ],
+      "VIIDEO": 0.6152772307395935,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.3232782483100891,
+      "MUSIQ": 71.68669109462951
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_03",
+    "video_path": "./Video/CogvideoX-3/B21_03.mp4",
+    "score": {
+      "BRISQUE": 30.55369084518148,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.672,
+        2.906,
+        2.766,
+        2.703
+      ],
+      "VIIDEO": 0.4725763201713562,
+      "Qalign": 4.44140625,
+      "ViCLIP": 0.23505236208438873,
+      "MUSIQ": 50.22276867694736
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_04",
+    "video_path": "./Video/CogvideoX-3/B21_04.mp4",
+    "score": {
+      "BRISQUE": 40.099161657487386,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.609,
+        2.891,
+        2.766,
+        2.609
+      ],
+      "VIIDEO": 0.5473330616950989,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.25733742117881775,
+      "MUSIQ": 70.07224458493062
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_05",
+    "video_path": "./Video/CogvideoX-3/B21_05.mp4",
+    "score": {
+      "BRISQUE": 14.089483983768439,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.719,
+        2.453,
+        2.297,
+        2.578
+      ],
+      "VIIDEO": 0.47636544704437256,
+      "Qalign": 4.26171875,
+      "ViCLIP": 0.19006258249282837,
+      "MUSIQ": 57.85863776828932
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_06",
+    "video_path": "./Video/CogvideoX-3/B21_06.mp4",
+    "score": {
+      "BRISQUE": 34.29699744941285,
+      "RAFT": true,
+      "VideoScore": [
+        2.875,
+        2.594,
+        3.094,
+        2.859,
+        2.609
+      ],
+      "VIIDEO": 0.555863082408905,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.24569056928157806,
+      "MUSIQ": 75.68744578865004
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_07",
+    "video_path": "./Video/CogvideoX-3/B21_07.mp4",
+    "score": {
+      "BRISQUE": 40.249973842075896,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.5,
+        2.719,
+        2.641,
+        2.422
+      ],
+      "VIIDEO": 0.724624752998352,
+      "Qalign": 4.30078125,
+      "ViCLIP": 0.2561191916465759,
+      "MUSIQ": 70.2190849114649
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_08",
+    "video_path": "./Video/CogvideoX-3/B21_08.mp4",
+    "score": {
+      "BRISQUE": 47.82961221067061,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.609,
+        2.625,
+        2.484,
+        2.531
+      ],
+      "VIIDEO": 0.49742448329925537,
+      "Qalign": 4.3984375,
+      "ViCLIP": 0.2569565176963806,
+      "MUSIQ": 45.812409797810616
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_09",
+    "video_path": "./Video/CogvideoX-3/B21_09.mp4",
+    "score": {
+      "BRISQUE": 35.93556014351223,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.234,
+        2.609,
+        2.281,
+        2.125
+      ],
+      "VIIDEO": 0.6180758476257324,
+      "Qalign": 4.44921875,
+      "ViCLIP": 0.25006183981895447,
+      "MUSIQ": 61.96504711364367
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_10",
+    "video_path": "./Video/CogvideoX-3/B21_10.mp4",
+    "score": {
+      "BRISQUE": 36.822812666804154,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.344,
+        2.547,
+        2.141,
+        2.234
+      ],
+      "VIIDEO": 0.5932973623275757,
+      "Qalign": 4.83984375,
+      "ViCLIP": 0.1983618438243866,
+      "MUSIQ": 63.52897134626874
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_11",
+    "video_path": "./Video/CogvideoX-3/B21_11.mp4",
+    "score": {
+      "BRISQUE": 21.99796006101999,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.766,
+        2.594,
+        2.656,
+        2.672
+      ],
+      "VIIDEO": 0.5286175608634949,
+      "Qalign": 4.375,
+      "ViCLIP": 0.16322006285190582,
+      "MUSIQ": 62.85997018754853
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_12",
+    "video_path": "./Video/CogvideoX-3/B21_12.mp4",
+    "score": {
+      "BRISQUE": 46.55255051133055,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.5,
+        2.406,
+        2.266,
+        2.156
+      ],
+      "VIIDEO": 0.5432149171829224,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.2808135151863098,
+      "MUSIQ": 73.77931222856415
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_13",
+    "video_path": "./Video/CogvideoX-3/B21_13.mp4",
+    "score": {
+      "BRISQUE": 45.5245031510821,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.406,
+        2.797,
+        2.219,
+        2.266
+      ],
+      "VIIDEO": 0.7123467326164246,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.2388800084590912,
+      "MUSIQ": 69.61486098484963
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B21_14",
+    "video_path": "./Video/CogvideoX-3/B21_14.mp4",
+    "score": {
+      "BRISQUE": 34.858445066842975,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.344,
+        2.828,
+        2.516,
+        2.312
+      ],
+      "VIIDEO": 0.5834943652153015,
+      "Qalign": 4.32421875,
+      "ViCLIP": 0.21388715505599976,
+      "MUSIQ": 73.51154550114033
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_01",
+    "video_path": "./Video/CogvideoX-3/B22_01.mp4",
+    "score": {
+      "BRISQUE": 38.941452879342975,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.453,
+        2.609,
+        2.562,
+        2.266
+      ],
+      "VIIDEO": 0.5110536217689514,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.24021795392036438,
+      "MUSIQ": 53.140974672684756
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_02",
+    "video_path": "./Video/CogvideoX-3/B22_02.mp4",
+    "score": {
+      "BRISQUE": 29.98830664972341,
+      "RAFT": true,
+      "VideoScore": [
+        2.875,
+        2.578,
+        2.938,
+        2.578,
+        2.328
+      ],
+      "VIIDEO": 0.533930778503418,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.25326231122016907,
+      "MUSIQ": 67.05631578338813
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_03",
+    "video_path": "./Video/CogvideoX-3/B22_03.mp4",
+    "score": {
+      "BRISQUE": 32.91963186323272,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.578,
+        2.672,
+        2.406,
+        2.344
+      ],
+      "VIIDEO": 0.5203071236610413,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.2903608977794647,
+      "MUSIQ": 60.64880939744274
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_04",
+    "video_path": "./Video/CogvideoX-3/B22_04.mp4",
+    "score": {
+      "BRISQUE": 45.5303625260821,
+      "RAFT": true,
+      "VideoScore": [
+        3.312,
+        2.953,
+        3.484,
+        3.094,
+        3.016
+      ],
+      "VIIDEO": 0.6288617253303528,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.2632634937763214,
+      "MUSIQ": 73.80617314688168
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_05",
+    "video_path": "./Video/CogvideoX-3/B22_05.mp4",
+    "score": {
+      "BRISQUE": 21.677799201159743,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.281,
+        2.656,
+        2.297,
+        1.922
+      ],
+      "VIIDEO": 0.5541978478431702,
+      "Qalign": 4.79296875,
+      "ViCLIP": 0.2049066126346588,
+      "MUSIQ": 70.96172728449662
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_06",
+    "video_path": "./Video/CogvideoX-3/B22_06.mp4",
+    "score": {
+      "BRISQUE": 36.28127236692061,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.578,
+        2.719,
+        2.703,
+        2.594
+      ],
+      "VIIDEO": 0.5073156952857971,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.2294718325138092,
+      "MUSIQ": 43.30160004752023
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_07",
+    "video_path": "./Video/CogvideoX-3/B22_07.mp4",
+    "score": {
+      "BRISQUE": 27.666292747355396,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.781,
+        2.594,
+        2.734,
+        2.656
+      ],
+      "VIIDEO": 0.5008357763290405,
+      "Qalign": 4.72265625,
+      "ViCLIP": 0.2263135313987732,
+      "MUSIQ": 51.21050449631969
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_08",
+    "video_path": "./Video/CogvideoX-3/B22_08.mp4",
+    "score": {
+      "BRISQUE": 37.558743494638,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.859,
+        2.766,
+        2.891,
+        2.781
+      ],
+      "VIIDEO": 0.5174371004104614,
+      "Qalign": 4.62890625,
+      "ViCLIP": 0.205165833234787,
+      "MUSIQ": 61.84667189224906
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_09",
+    "video_path": "./Video/CogvideoX-3/B22_09.mp4",
+    "score": {
+      "BRISQUE": 12.86535682441285,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.219,
+        2.625,
+        2.406,
+        1.969
+      ],
+      "VIIDEO": 0.5514422059059143,
+      "Qalign": 4.734375,
+      "ViCLIP": 0.1676522195339203,
+      "MUSIQ": 62.39383263913741
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_10",
+    "video_path": "./Video/CogvideoX-3/B22_10.mp4",
+    "score": {
+      "BRISQUE": 31.760667504731174,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.781,
+        2.578,
+        2.672,
+        2.688
+      ],
+      "VIIDEO": 0.4744211435317993,
+      "Qalign": 4.69921875,
+      "ViCLIP": 0.21233385801315308,
+      "MUSIQ": 57.10438715300945
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_11",
+    "video_path": "./Video/CogvideoX-3/B22_11.mp4",
+    "score": {
+      "BRISQUE": 29.095476802091422,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.609,
+        2.969,
+        2.656,
+        2.672
+      ],
+      "VIIDEO": 0.48773443698883057,
+      "Qalign": 4.578125,
+      "ViCLIP": 0.2443559616804123,
+      "MUSIQ": 51.76525755698636
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B22_12",
+    "video_path": "./Video/CogvideoX-3/B22_12.mp4",
+    "score": {
+      "BRISQUE": 31.47965103054639,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.422,
+        2.688,
+        2.344,
+        2.016
+      ],
+      "VIIDEO": 0.5338883399963379,
+      "Qalign": 4.8984375,
+      "ViCLIP": 0.18930760025978088,
+      "MUSIQ": 71.34053349939192
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_01",
+    "video_path": "./Video/CogvideoX-3/B31_01.mp4",
+    "score": {
+      "BRISQUE": 31.5349420583026,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.625,
+        2.594,
+        2.547,
+        2.406
+      ],
+      "VIIDEO": 0.43631619215011597,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.1913919895887375,
+      "MUSIQ": 52.23671092157779
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_02",
+    "video_path": "./Video/CogvideoX-3/B31_02.mp4",
+    "score": {
+      "BRISQUE": 38.03678903520478,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.891,
+        2.672,
+        2.703,
+        2.719
+      ],
+      "VIIDEO": 0.46369385719299316,
+      "Qalign": 4.71484375,
+      "ViCLIP": 0.20362809300422668,
+      "MUSIQ": 56.98032099563883
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_03",
+    "video_path": "./Video/CogvideoX-3/B31_03.mp4",
+    "score": {
+      "BRISQUE": 34.942556819560366,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.484,
+        2.938,
+        2.641,
+        2.312
+      ],
+      "VIIDEO": 0.51624596118927,
+      "Qalign": 4.765625,
+      "ViCLIP": 0.20682726800441742,
+      "MUSIQ": 72.81556353361711
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_04",
+    "video_path": "./Video/CogvideoX-3/B31_04.mp4",
+    "score": {
+      "BRISQUE": 21.662243955624028,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.578,
+        2.719,
+        2.141,
+        2.547
+      ],
+      "VIIDEO": 0.5345859527587891,
+      "Qalign": 4.55859375,
+      "ViCLIP": 0.25293293595314026,
+      "MUSIQ": 46.14251929336453
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_05",
+    "video_path": "./Video/CogvideoX-3/B31_05.mp4",
+    "score": {
+      "BRISQUE": 38.14453542010384,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.656,
+        2.844,
+        2.578,
+        2.375
+      ],
+      "VIIDEO": 0.6168792843818665,
+      "Qalign": 4.921875,
+      "ViCLIP": 0.2455974817276001,
+      "MUSIQ": 78.76083738907523
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_06",
+    "video_path": "./Video/CogvideoX-3/B31_06.mp4",
+    "score": {
+      "BRISQUE": 28.309504728139558,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.734,
+        2.812,
+        2.75,
+        2.703
+      ],
+      "VIIDEO": 0.46500515937805176,
+      "Qalign": 4.76953125,
+      "ViCLIP": 0.19425424933433533,
+      "MUSIQ": 63.33457418406232
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_07",
+    "video_path": "./Video/CogvideoX-3/B31_07.mp4",
+    "score": {
+      "BRISQUE": 36.7679735266644,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.656,
+        2.891,
+        2.812,
+        2.656
+      ],
+      "VIIDEO": 0.48587697744369507,
+      "Qalign": 4.73046875,
+      "ViCLIP": 0.17752036452293396,
+      "MUSIQ": 66.51899759517693
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_08",
+    "video_path": "./Video/CogvideoX-3/B31_08.mp4",
+    "score": {
+      "BRISQUE": 36.88575848881502,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.719,
+        2.703,
+        2.672,
+        2.578
+      ],
+      "VIIDEO": 0.5113101601600647,
+      "Qalign": 4.59375,
+      "ViCLIP": 0.19974511861801147,
+      "MUSIQ": 49.82955098596419
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_09",
+    "video_path": "./Video/CogvideoX-3/B31_09.mp4",
+    "score": {
+      "BRISQUE": 38.496968334506015,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.922,
+        2.484,
+        2.625,
+        2.859
+      ],
+      "VIIDEO": 0.3305060565471649,
+      "Qalign": 4.03125,
+      "ViCLIP": 0.2470865249633789,
+      "MUSIQ": 45.52462671410223
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_10",
+    "video_path": "./Video/CogvideoX-3/B31_10.mp4",
+    "score": {
+      "BRISQUE": 41.4705465565557,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.609,
+        2.719,
+        2.594,
+        2.344
+      ],
+      "VIIDEO": 0.5510160326957703,
+      "Qalign": 4.4375,
+      "ViCLIP": 0.20201529562473297,
+      "MUSIQ": 58.785287158089396
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_11",
+    "video_path": "./Video/CogvideoX-3/B31_11.mp4",
+    "score": {
+      "BRISQUE": 24.071244707759124,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.406,
+        2.656,
+        2.422,
+        2.047
+      ],
+      "VIIDEO": 0.4750560522079468,
+      "Qalign": 4.921875,
+      "ViCLIP": 0.2387067973613739,
+      "MUSIQ": 75.83017612244032
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_12",
+    "video_path": "./Video/CogvideoX-3/B31_12.mp4",
+    "score": {
+      "BRISQUE": 20.11394050550757,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.938,
+        2.766,
+        2.75,
+        2.859
+      ],
+      "VIIDEO": 0.48292073607444763,
+      "Qalign": 4.1484375,
+      "ViCLIP": 0.3056275248527527,
+      "MUSIQ": 66.46279888271545
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_13",
+    "video_path": "./Video/CogvideoX-3/B31_13.mp4",
+    "score": {
+      "BRISQUE": 24.636198245220303,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.578,
+        2.688,
+        2.578,
+        2.438
+      ],
+      "VIIDEO": 0.49838000535964966,
+      "Qalign": 4.77734375,
+      "ViCLIP": 0.1672370433807373,
+      "MUSIQ": 64.88431643847353
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B31_14",
+    "video_path": "./Video/CogvideoX-3/B31_14.mp4",
+    "score": {
+      "BRISQUE": 32.47457108586471,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.906,
+        2.609,
+        2.797,
+        2.875
+      ],
+      "VIIDEO": 0.44865673780441284,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.2394135296344757,
+      "MUSIQ": 58.02359525313288
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_01",
+    "video_path": "./Video/CogvideoX-3/B32_01.mp4",
+    "score": {
+      "BRISQUE": 28.172203680002912,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.781,
+        2.562,
+        2.641,
+        2.656
+      ],
+      "VIIDEO": 0.5331178903579712,
+      "Qalign": 4.359375,
+      "ViCLIP": 0.20587244629859924,
+      "MUSIQ": 54.15921700519064
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_02",
+    "video_path": "./Video/CogvideoX-3/B32_02.mp4",
+    "score": {
+      "BRISQUE": 27.203147366920614,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.656,
+        2.75,
+        2.656,
+        2.578
+      ],
+      "VIIDEO": 0.42461907863616943,
+      "Qalign": 4.515625,
+      "ViCLIP": 0.18804562091827393,
+      "MUSIQ": 72.60754375576232
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_03",
+    "video_path": "./Video/CogvideoX-3/B32_03.mp4",
+    "score": {
+      "BRISQUE": 27.812343431555707,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.688,
+        2.672,
+        2.625,
+        2.5
+      ],
+      "VIIDEO": 0.4750654101371765,
+      "Qalign": 4.94140625,
+      "ViCLIP": 0.1482977718114853,
+      "MUSIQ": 67.56326180215207
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_04",
+    "video_path": "./Video/CogvideoX-3/B32_04.mp4",
+    "score": {
+      "BRISQUE": 48.0863935577203,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.781,
+        2.516,
+        2.609,
+        2.469
+      ],
+      "VIIDEO": 0.5291074514389038,
+      "Qalign": 4.60546875,
+      "ViCLIP": 0.21123090386390686,
+      "MUSIQ": 70.39472842956923
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_05",
+    "video_path": "./Video/CogvideoX-3/B32_05.mp4",
+    "score": {
+      "BRISQUE": 38.20192514739421,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.594,
+        2.656,
+        2.594,
+        2.531
+      ],
+      "VIIDEO": 0.5356980562210083,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.24446843564510345,
+      "MUSIQ": 49.38294916567595
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_06",
+    "video_path": "./Video/CogvideoX-3/B32_06.mp4",
+    "score": {
+      "BRISQUE": 34.131185022200114,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.406,
+        2.844,
+        2.516,
+        2.344
+      ],
+      "VIIDEO": 0.5563717484474182,
+      "Qalign": 4.859375,
+      "ViCLIP": 0.14787697792053223,
+      "MUSIQ": 78.88600670476877
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_07",
+    "video_path": "./Video/CogvideoX-3/B32_07.mp4",
+    "score": {
+      "BRISQUE": 20.53046867417993,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.75,
+        2.719,
+        2.703,
+        2.594
+      ],
+      "VIIDEO": 0.4856368899345398,
+      "Qalign": 4.73046875,
+      "ViCLIP": 0.1800094097852707,
+      "MUSIQ": 65.98631369549295
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_08",
+    "video_path": "./Video/CogvideoX-3/B32_08.mp4",
+    "score": {
+      "BRISQUE": 33.01647532208366,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.312,
+        2.562,
+        2.203,
+        2.172
+      ],
+      "VIIDEO": 0.5652902126312256,
+      "Qalign": 4.41015625,
+      "ViCLIP": 0.19679267704486847,
+      "MUSIQ": 66.3128098434543
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_09",
+    "video_path": "./Video/CogvideoX-3/B32_09.mp4",
+    "score": {
+      "BRISQUE": 38.52112764157123,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.5,
+        2.828,
+        2.781,
+        2.359
+      ],
+      "VIIDEO": 0.47263407707214355,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.2196541130542755,
+      "MUSIQ": 70.58716514540015
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_10",
+    "video_path": "./Video/CogvideoX-3/B32_10.mp4",
+    "score": {
+      "BRISQUE": 23.288639044909743,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.922,
+        2.656,
+        2.734,
+        2.906
+      ],
+      "VIIDEO": 0.49919071793556213,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.2712867259979248,
+      "MUSIQ": 57.072055484937586
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B32_11",
+    "video_path": "./Video/CogvideoX-3/B32_11.mp4",
+    "score": {
+      "BRISQUE": 34.98078529879173,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.484,
+        2.719,
+        2.375,
+        2.438
+      ],
+      "VIIDEO": 0.5831695795059204,
+      "Qalign": 4.6796875,
+      "ViCLIP": 0.21351677179336548,
+      "MUSIQ": 72.4501407220497
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_01",
+    "video_path": "./Video/CogvideoX-3/B33_01.mp4",
+    "score": {
+      "BRISQUE": 44.38313511439732,
+      "RAFT": true,
+      "VideoScore": [
+        2.969,
+        2.734,
+        2.938,
+        2.531,
+        2.562
+      ],
+      "VIIDEO": 0.5292655825614929,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.1469636857509613,
+      "MUSIQ": 77.62488001473942
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_02",
+    "video_path": "./Video/CogvideoX-3/B33_02.mp4",
+    "score": {
+      "BRISQUE": 15.705343116144215,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.656,
+        2.641,
+        2.531,
+        2.484
+      ],
+      "VIIDEO": 0.5677968263626099,
+      "Qalign": 4.9296875,
+      "ViCLIP": 0.25008583068847656,
+      "MUSIQ": 79.62326732185316
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_03",
+    "video_path": "./Video/CogvideoX-3/B33_03.mp4",
+    "score": {
+      "BRISQUE": 35.46728629355105,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.562,
+        2.5,
+        2.281,
+        2.578
+      ],
+      "VIIDEO": 0.5060269832611084,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.21630854904651642,
+      "MUSIQ": 63.97821246318936
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_04",
+    "video_path": "./Video/CogvideoX-3/B33_04.mp4",
+    "score": {
+      "BRISQUE": 34.221043936214095,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.578,
+        2.875,
+        2.547,
+        2.578
+      ],
+      "VIIDEO": 0.5731863975524902,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.2186148762702942,
+      "MUSIQ": 75.13199264810693
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_05",
+    "video_path": "./Video/CogvideoX-3/B33_05.mp4",
+    "score": {
+      "BRISQUE": 26.870567179614714,
+      "RAFT": true,
+      "VideoScore": [
+        3.688,
+        3.578,
+        3.641,
+        3.359,
+        3.531
+      ],
+      "VIIDEO": 0.6303688883781433,
+      "Qalign": 4.71875,
+      "ViCLIP": 0.27732229232788086,
+      "MUSIQ": 74.7198733691103
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_06",
+    "video_path": "./Video/CogvideoX-3/B33_06.mp4",
+    "score": {
+      "BRISQUE": 40.24489389739421,
+      "RAFT": true,
+      "VideoScore": [
+        3.203,
+        2.984,
+        3.25,
+        2.906,
+        3.016
+      ],
+      "VIIDEO": 0.5134627223014832,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.24030400812625885,
+      "MUSIQ": 75.08355874008274
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_07",
+    "video_path": "./Video/CogvideoX-3/B33_07.mp4",
+    "score": {
+      "BRISQUE": 33.646464282681485,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.641,
+        2.656,
+        2.547,
+        2.344
+      ],
+      "VIIDEO": 0.5824897289276123,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.2622627317905426,
+      "MUSIQ": 60.475885876957676
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_08",
+    "video_path": "./Video/CogvideoX-3/B33_08.mp4",
+    "score": {
+      "BRISQUE": 41.9246511518585,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.703,
+        2.781,
+        2.859,
+        2.672
+      ],
+      "VIIDEO": 0.5869793891906738,
+      "Qalign": 4.8203125,
+      "ViCLIP": 0.18712231516838074,
+      "MUSIQ": 71.83211612109072
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_09",
+    "video_path": "./Video/CogvideoX-3/B33_09.mp4",
+    "score": {
+      "BRISQUE": 33.35996450104329,
+      "RAFT": false,
+      "VideoScore": [
+        2.875,
+        2.922,
+        2.547,
+        2.75,
+        2.875
+      ],
+      "VIIDEO": 0.5391550660133362,
+      "Qalign": 4.59375,
+      "ViCLIP": 0.22431279718875885,
+      "MUSIQ": 72.69746043519204
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B33_10",
+    "video_path": "./Video/CogvideoX-3/B33_10.mp4",
+    "score": {
+      "BRISQUE": 41.03503304238645,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.547,
+        2.922,
+        2.734,
+        2.594
+      ],
+      "VIIDEO": 0.48529544472694397,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.14180734753608704,
+      "MUSIQ": 69.10400570697666
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_01",
+    "video_path": "./Video/CogvideoX-3/B34_01.mp4",
+    "score": {
+      "BRISQUE": 54.28553345484763,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.844,
+        2.531,
+        2.625,
+        2.797
+      ],
+      "VIIDEO": 0.5956727266311646,
+      "Qalign": 4.6015625,
+      "ViCLIP": 0.17977960407733917,
+      "MUSIQ": 50.054804618314186
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_02",
+    "video_path": "./Video/CogvideoX-3/B34_02.mp4",
+    "score": {
+      "BRISQUE": 38.099983547044836,
+      "RAFT": true,
+      "VideoScore": [
+        3.266,
+        3.156,
+        3.219,
+        2.953,
+        3.156
+      ],
+      "VIIDEO": 0.5284165740013123,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.27021363377571106,
+      "MUSIQ": 59.38047117624224
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_03",
+    "video_path": "./Video/CogvideoX-3/B34_03.mp4",
+    "score": {
+      "BRISQUE": 46.441231484738935,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.406,
+        2.578,
+        2.391,
+        2.234
+      ],
+      "VIIDEO": 0.4987298250198364,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.19115571677684784,
+      "MUSIQ": 47.172727407135575
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_04",
+    "video_path": "./Video/CogvideoX-3/B34_04.mp4",
+    "score": {
+      "BRISQUE": 36.46618538613645,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.812,
+        2.609,
+        2.75,
+        2.766
+      ],
+      "VIIDEO": 0.5040434002876282,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.2582594156265259,
+      "MUSIQ": 51.30473626178244
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_05",
+    "video_path": "./Video/CogvideoX-3/B34_05.mp4",
+    "score": {
+      "BRISQUE": 39.938944751431485,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.594,
+        2.594,
+        2.5,
+        2.219
+      ],
+      "VIIDEO": 0.44195252656936646,
+      "Qalign": 4.83984375,
+      "ViCLIP": 0.27267807722091675,
+      "MUSIQ": 62.92035720066995
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_06",
+    "video_path": "./Video/CogvideoX-3/B34_06.mp4",
+    "score": {
+      "BRISQUE": 45.70473048997962,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.797,
+        2.641,
+        2.766,
+        2.734
+      ],
+      "VIIDEO": 0.48321160674095154,
+      "Qalign": 4.609375,
+      "ViCLIP": 0.2434205859899521,
+      "MUSIQ": 45.29840992992709
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_07",
+    "video_path": "./Video/CogvideoX-3/B34_07.mp4",
+    "score": {
+      "BRISQUE": 34.23561655364421,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.578,
+        2.469,
+        2.406,
+        2.219
+      ],
+      "VIIDEO": 0.6000339984893799,
+      "Qalign": 4.6875,
+      "ViCLIP": 0.18357448279857635,
+      "MUSIQ": 74.89050837925502
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_08",
+    "video_path": "./Video/CogvideoX-3/B34_08.mp4",
+    "score": {
+      "BRISQUE": 37.8395082461908,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.359,
+        2.688,
+        2.312,
+        1.914
+      ],
+      "VIIDEO": 0.5900227427482605,
+      "Qalign": 4.8046875,
+      "ViCLIP": 0.24562519788742065,
+      "MUSIQ": 69.50739198293745
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_09",
+    "video_path": "./Video/CogvideoX-3/B34_09.mp4",
+    "score": {
+      "BRISQUE": 25.978456106245147,
+      "RAFT": true,
+      "VideoScore": [
+        2.891,
+        2.812,
+        3.031,
+        2.75,
+        2.625
+      ],
+      "VIIDEO": 0.4577735364437103,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.2561972439289093,
+      "MUSIQ": 67.5891646628054
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B34_10",
+    "video_path": "./Video/CogvideoX-3/B34_10.mp4",
+    "score": {
+      "BRISQUE": 43.661795100810366,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.781,
+        2.562,
+        2.531,
+        2.547
+      ],
+      "VIIDEO": 0.5314436554908752,
+      "Qalign": 4.60546875,
+      "ViCLIP": 0.20303617417812347,
+      "MUSIQ": 53.10747750797627
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_01",
+    "video_path": "./Video/CogvideoX-3/B41_01.mp4",
+    "score": {
+      "BRISQUE": 6.979171847704775,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.719,
+        2.484,
+        2.5,
+        2.328
+      ],
+      "VIIDEO": 0.4371379017829895,
+      "Qalign": 4.9375,
+      "ViCLIP": 0.17006221413612366,
+      "MUSIQ": 77.16555411771218
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_02",
+    "video_path": "./Video/CogvideoX-3/B41_02.mp4",
+    "score": {
+      "BRISQUE": 40.21765022988645,
+      "RAFT": false,
+      "VideoScore": [
+        2.969,
+        2.859,
+        2.891,
+        2.672,
+        2.594
+      ],
+      "VIIDEO": 0.6156132817268372,
+      "Qalign": 4.83203125,
+      "ViCLIP": 0.26560351252555847,
+      "MUSIQ": 75.44239456461084
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_03",
+    "video_path": "./Video/CogvideoX-3/B41_03.mp4",
+    "score": {
+      "BRISQUE": 44.9673803104377,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.438,
+        2.562,
+        2.453,
+        2.172
+      ],
+      "VIIDEO": 0.56541907787323,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.19797055423259735,
+      "MUSIQ": 48.01434781092294
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_04",
+    "video_path": "./Video/CogvideoX-3/B41_04.mp4",
+    "score": {
+      "BRISQUE": 51.47243295989421,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.531,
+        2.859,
+        2.547,
+        2.328
+      ],
+      "VIIDEO": 0.460813045501709,
+      "Qalign": 4.86328125,
+      "ViCLIP": 0.24209746718406677,
+      "MUSIQ": 76.51345057517105
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_05",
+    "video_path": "./Video/CogvideoX-3/B41_05.mp4",
+    "score": {
+      "BRISQUE": 25.85190937681968,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.625,
+        2.859,
+        2.688,
+        2.344
+      ],
+      "VIIDEO": 0.5678417086601257,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.2145276814699173,
+      "MUSIQ": 53.31817363952258
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_06",
+    "video_path": "./Video/CogvideoX-3/B41_06.mp4",
+    "score": {
+      "BRISQUE": 14.400804223481172,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.797,
+        2.75,
+        2.594,
+        2.656
+      ],
+      "VIIDEO": 0.3492550253868103,
+      "Qalign": 4.88671875,
+      "ViCLIP": 0.21817593276500702,
+      "MUSIQ": 78.3901272886288
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_07",
+    "video_path": "./Video/CogvideoX-3/B41_07.mp4",
+    "score": {
+      "BRISQUE": 27.480051360515333,
+      "RAFT": true,
+      "VideoScore": [
+        3.031,
+        2.734,
+        2.969,
+        2.641,
+        2.453
+      ],
+      "VIIDEO": 0.6104903817176819,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.2848320007324219,
+      "MUSIQ": 65.81124745244566
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_08",
+    "video_path": "./Video/CogvideoX-3/B41_08.mp4",
+    "score": {
+      "BRISQUE": 35.57646416136937,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.688,
+        2.781,
+        2.75,
+        2.562
+      ],
+      "VIIDEO": 0.5578441619873047,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.23070889711380005,
+      "MUSIQ": 66.51649207358035
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_09",
+    "video_path": "./Video/CogvideoX-3/B41_09.mp4",
+    "score": {
+      "BRISQUE": 10.425791485709434,
+      "RAFT": true,
+      "VideoScore": [
+        3.234,
+        3.141,
+        3.062,
+        2.922,
+        2.906
+      ],
+      "VIIDEO": 0.4768495559692383,
+      "Qalign": 4.83203125,
+      "ViCLIP": 0.26857614517211914,
+      "MUSIQ": 71.89531738565576
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_10",
+    "video_path": "./Video/CogvideoX-3/B41_10.mp4",
+    "score": {
+      "BRISQUE": 37.81802993679639,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.766,
+        2.844,
+        2.844,
+        2.766
+      ],
+      "VIIDEO": 0.5004177689552307,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.20950165390968323,
+      "MUSIQ": 66.0686275648034
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_11",
+    "video_path": "./Video/CogvideoX-3/B41_11.mp4",
+    "score": {
+      "BRISQUE": 45.97087106645478,
+      "RAFT": true,
+      "VideoScore": [
+        2.906,
+        2.797,
+        2.719,
+        2.719,
+        2.594
+      ],
+      "VIIDEO": 0.49223586916923523,
+      "Qalign": 4.953125,
+      "ViCLIP": 0.2723221778869629,
+      "MUSIQ": 77.2487033346425
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_12",
+    "video_path": "./Video/CogvideoX-3/B41_12.mp4",
+    "score": {
+      "BRISQUE": 48.997966126625585,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.516,
+        2.531,
+        2.391,
+        2.328
+      ],
+      "VIIDEO": 0.5363037586212158,
+      "Qalign": 4.3515625,
+      "ViCLIP": 0.23624593019485474,
+      "MUSIQ": 43.18472445233268
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B41_13",
+    "video_path": "./Video/CogvideoX-3/B41_13.mp4",
+    "score": {
+      "BRISQUE": 30.51923820542993,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.547,
+        2.656,
+        2.438,
+        2.203
+      ],
+      "VIIDEO": 0.5788501501083374,
+      "Qalign": 4.90234375,
+      "ViCLIP": 0.1677154004573822,
+      "MUSIQ": 72.30614964266002
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_01",
+    "video_path": "./Video/CogvideoX-3/B42_01.mp4",
+    "score": {
+      "BRISQUE": 27.19656921765819,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.781,
+        2.75,
+        2.562,
+        2.484
+      ],
+      "VIIDEO": 0.5813791751861572,
+      "Qalign": 4.73828125,
+      "ViCLIP": 0.17428764700889587,
+      "MUSIQ": 79.90646144321987
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_02",
+    "video_path": "./Video/CogvideoX-3/B42_02.mp4",
+    "score": {
+      "BRISQUE": 53.354578243279306,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.703,
+        2.766,
+        2.484,
+        2.391
+      ],
+      "VIIDEO": 0.3345354199409485,
+      "Qalign": 4.8671875,
+      "ViCLIP": 0.2749021351337433,
+      "MUSIQ": 75.06779261997768
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_03",
+    "video_path": "./Video/CogvideoX-3/B42_03.mp4",
+    "score": {
+      "BRISQUE": 35.92899412546099,
+      "RAFT": true,
+      "VideoScore": [
+        3.281,
+        3.219,
+        3.203,
+        3.094,
+        3.188
+      ],
+      "VIIDEO": 0.4682890474796295,
+      "Qalign": 4.7890625,
+      "ViCLIP": 0.22752101719379425,
+      "MUSIQ": 65.19094583262567
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_04",
+    "video_path": "./Video/CogvideoX-3/B42_04.mp4",
+    "score": {
+      "BRISQUE": 33.66877358004173,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.719,
+        2.609,
+        2.625,
+        2.656
+      ],
+      "VIIDEO": 0.5124317407608032,
+      "Qalign": 4.58984375,
+      "ViCLIP": 0.20947985351085663,
+      "MUSIQ": 57.81539161160866
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_05",
+    "video_path": "./Video/CogvideoX-3/B42_05.mp4",
+    "score": {
+      "BRISQUE": 45.05483421183521,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.922,
+        3.016,
+        2.875,
+        2.844
+      ],
+      "VIIDEO": 0.4398849904537201,
+      "Qalign": 4.7890625,
+      "ViCLIP": 0.2024732232093811,
+      "MUSIQ": 61.5400442751298
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_06",
+    "video_path": "./Video/CogvideoX-3/B42_06.mp4",
+    "score": {
+      "BRISQUE": 34.33532904393925,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.656,
+        2.844,
+        2.547,
+        2.531
+      ],
+      "VIIDEO": 0.49622842669487,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.21131138503551483,
+      "MUSIQ": 64.51607226733096
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_07",
+    "video_path": "./Video/CogvideoX-3/B42_07.mp4",
+    "score": {
+      "BRISQUE": 33.701840228915955,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.891,
+        2.766,
+        2.734,
+        2.844
+      ],
+      "VIIDEO": 0.3963859975337982,
+      "Qalign": 4.22265625,
+      "ViCLIP": 0.22665759921073914,
+      "MUSIQ": 46.00748294332753
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_08",
+    "video_path": "./Video/CogvideoX-3/B42_08.mp4",
+    "score": {
+      "BRISQUE": 47.1944917477436,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.797,
+        2.562,
+        2.781,
+        2.75
+      ],
+      "VIIDEO": 0.47962290048599243,
+      "Qalign": 4.46875,
+      "ViCLIP": 0.2207650989294052,
+      "MUSIQ": 54.13327801153527
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_09",
+    "video_path": "./Video/CogvideoX-3/B42_09.mp4",
+    "score": {
+      "BRISQUE": 34.640883925538624,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.797,
+        2.531,
+        2.547,
+        2.594
+      ],
+      "VIIDEO": 0.30812737345695496,
+      "Qalign": 3.857421875,
+      "ViCLIP": 0.25486019253730774,
+      "MUSIQ": 47.04016077740592
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_10",
+    "video_path": "./Video/CogvideoX-3/B42_10.mp4",
+    "score": {
+      "BRISQUE": 15.15165947386937,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.688,
+        2.797,
+        2.766,
+        2.594
+      ],
+      "VIIDEO": 0.4694609045982361,
+      "Qalign": 4.76171875,
+      "ViCLIP": 0.17235666513442993,
+      "MUSIQ": 76.5946932490568
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_11",
+    "video_path": "./Video/CogvideoX-3/B42_11.mp4",
+    "score": {
+      "BRISQUE": 36.23744836653241,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.875,
+        2.547,
+        2.641,
+        2.844
+      ],
+      "VIIDEO": 0.5738896727561951,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.20112541317939758,
+      "MUSIQ": 39.59157758914166
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B42_12",
+    "video_path": "./Video/CogvideoX-3/B42_12.mp4",
+    "score": {
+      "BRISQUE": 34.66972284731658,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.75,
+        2.688,
+        2.641,
+        2.5
+      ],
+      "VIIDEO": 0.47853896021842957,
+      "Qalign": 4.328125,
+      "ViCLIP": 0.21519990265369415,
+      "MUSIQ": 51.59541484287807
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_01",
+    "video_path": "./Video/CogvideoX-3/B43_01.mp4",
+    "score": {
+      "BRISQUE": 32.33238419242527,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.656,
+        2.766,
+        2.609,
+        2.562
+      ],
+      "VIIDEO": 0.5089784860610962,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.22873415052890778,
+      "MUSIQ": 77.98985499032536
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_02",
+    "video_path": "./Video/CogvideoX-3/B43_02.mp4",
+    "score": {
+      "BRISQUE": 37.91322355092682,
+      "RAFT": false,
+      "VideoScore": [
+        2.797,
+        2.766,
+        2.562,
+        2.391,
+        2.562
+      ],
+      "VIIDEO": 0.6610623002052307,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.265475869178772,
+      "MUSIQ": 68.21116050578053
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_03",
+    "video_path": "./Video/CogvideoX-3/B43_03.mp4",
+    "score": {
+      "BRISQUE": 26.74188232421875,
+      "RAFT": false,
+      "VideoScore": [
+        3.531,
+        3.391,
+        3.531,
+        2.969,
+        3.25
+      ],
+      "VIIDEO": 0.5835363864898682,
+      "Qalign": 4.94921875,
+      "ViCLIP": 0.2563280165195465,
+      "MUSIQ": 75.65615584095072
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_04",
+    "video_path": "./Video/CogvideoX-3/B43_04.mp4",
+    "score": {
+      "BRISQUE": 40.74162756878397,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.75,
+        2.672,
+        2.094,
+        2.531
+      ],
+      "VIIDEO": 0.39713796973228455,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.25253087282180786,
+      "MUSIQ": 55.82741285999369
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_05",
+    "video_path": "./Video/CogvideoX-3/B43_05.mp4",
+    "score": {
+      "BRISQUE": 30.53791420504173,
+      "RAFT": true,
+      "VideoScore": [
+        3.188,
+        2.891,
+        3.203,
+        2.734,
+        2.875
+      ],
+      "VIIDEO": 0.5717824101448059,
+      "Qalign": 4.41015625,
+      "ViCLIP": 0.23354460299015045,
+      "MUSIQ": 64.51945858120177
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_06",
+    "video_path": "./Video/CogvideoX-3/B43_06.mp4",
+    "score": {
+      "BRISQUE": 42.96591849949049,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.5,
+        2.625,
+        2.578,
+        2.359
+      ],
+      "VIIDEO": 0.4939758777618408,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.20232784748077393,
+      "MUSIQ": 59.51693178259808
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_07",
+    "video_path": "./Video/CogvideoX-3/B43_07.mp4",
+    "score": {
+      "BRISQUE": 52.06530951268925,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.688,
+        2.484,
+        2.141,
+        2.359
+      ],
+      "VIIDEO": 0.4082265794277191,
+      "Qalign": 3.865234375,
+      "ViCLIP": 0.29120001196861267,
+      "MUSIQ": 53.01132517275603
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_08",
+    "video_path": "./Video/CogvideoX-3/B43_08.mp4",
+    "score": {
+      "BRISQUE": 24.478971682720303,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.844,
+        2.734,
+        2.609,
+        2.75
+      ],
+      "VIIDEO": 0.5770143270492554,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.19734129309654236,
+      "MUSIQ": 69.3133607236495
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_09",
+    "video_path": "./Video/CogvideoX-3/B43_09.mp4",
+    "score": {
+      "BRISQUE": 12.402372182526204,
+      "RAFT": false,
+      "VideoScore": [
+        2.922,
+        2.969,
+        2.703,
+        2.797,
+        2.984
+      ],
+      "VIIDEO": 0.5375614762306213,
+      "Qalign": 4.8046875,
+      "ViCLIP": 0.25238901376724243,
+      "MUSIQ": 58.920887680527585
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_10",
+    "video_path": "./Video/CogvideoX-3/B43_10.mp4",
+    "score": {
+      "BRISQUE": 27.934962681361608,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.578,
+        2.797,
+        2.406,
+        2.234
+      ],
+      "VIIDEO": 0.5582972168922424,
+      "Qalign": 4.6953125,
+      "ViCLIP": 0.19751326739788055,
+      "MUSIQ": 68.90208072543885
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B43_11",
+    "video_path": "./Video/CogvideoX-3/B43_11.mp4",
+    "score": {
+      "BRISQUE": 26.386380213388005,
+      "RAFT": true,
+      "VideoScore": [
+        2.922,
+        2.734,
+        2.969,
+        2.812,
+        2.719
+      ],
+      "VIIDEO": 0.5485398173332214,
+      "Qalign": 4.921875,
+      "ViCLIP": 0.2200225293636322,
+      "MUSIQ": 77.83127575039123
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_01",
+    "video_path": "./Video/CogvideoX-3/B51_01.mp4",
+    "score": {
+      "BRISQUE": 44.37120406820167,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.594,
+        2.656,
+        2.406,
+        2.234
+      ],
+      "VIIDEO": 0.49295175075531006,
+      "Qalign": 4.76953125,
+      "ViCLIP": 0.20774127542972565,
+      "MUSIQ": 53.384406474806504
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_02",
+    "video_path": "./Video/CogvideoX-3/B51_02.mp4",
+    "score": {
+      "BRISQUE": 31.100571910787075,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.344,
+        2.719,
+        2.359,
+        2.172
+      ],
+      "VIIDEO": 0.5438671112060547,
+      "Qalign": 4.89453125,
+      "ViCLIP": 0.18857596814632416,
+      "MUSIQ": 69.52013001530807
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_03",
+    "video_path": "./Video/CogvideoX-3/B51_03.mp4",
+    "score": {
+      "BRISQUE": 43.1147745262762,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.594,
+        2.625,
+        2.391,
+        2.219
+      ],
+      "VIIDEO": 0.5692143440246582,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.17286750674247742,
+      "MUSIQ": 70.37727704255477
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_04",
+    "video_path": "./Video/CogvideoX-3/B51_04.mp4",
+    "score": {
+      "BRISQUE": 34.654088748908194,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.828,
+        2.578,
+        2.531,
+        2.562
+      ],
+      "VIIDEO": 0.6191915273666382,
+      "Qalign": 4.9140625,
+      "ViCLIP": 0.19753849506378174,
+      "MUSIQ": 63.158332184975194
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_05",
+    "video_path": "./Video/CogvideoX-3/B51_05.mp4",
+    "score": {
+      "BRISQUE": 30.78832363341906,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.609,
+        2.688,
+        2.422,
+        2.344
+      ],
+      "VIIDEO": 0.5643272399902344,
+      "Qalign": 4.96875,
+      "ViCLIP": 0.1890258640050888,
+      "MUSIQ": 77.95511849918721
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_06",
+    "video_path": "./Video/CogvideoX-3/B51_06.mp4",
+    "score": {
+      "BRISQUE": 33.20172498240974,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.875,
+        2.641,
+        2.656,
+        2.656
+      ],
+      "VIIDEO": 0.5657665729522705,
+      "Qalign": 4.72265625,
+      "ViCLIP": 0.2026689052581787,
+      "MUSIQ": 45.12642020468386
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_07",
+    "video_path": "./Video/CogvideoX-3/B51_07.mp4",
+    "score": {
+      "BRISQUE": 30.326382275693906,
+      "RAFT": true,
+      "VideoScore": [
+        3.422,
+        3.359,
+        3.375,
+        3.047,
+        3.219
+      ],
+      "VIIDEO": 0.6404310464859009,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.24643582105636597,
+      "MUSIQ": 68.3845954326369
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_08",
+    "video_path": "./Video/CogvideoX-3/B51_08.mp4",
+    "score": {
+      "BRISQUE": 47.85318618679639,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.516,
+        2.562,
+        2.266,
+        2.031
+      ],
+      "VIIDEO": 0.6938410997390747,
+      "Qalign": 4.91015625,
+      "ViCLIP": 0.20637132227420807,
+      "MUSIQ": 70.17980558975883
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_09",
+    "video_path": "./Video/CogvideoX-3/B51_09.mp4",
+    "score": {
+      "BRISQUE": 36.55493126152465,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.688,
+        2.703,
+        2.562,
+        2.422
+      ],
+      "VIIDEO": 0.5647332668304443,
+      "Qalign": 4.76953125,
+      "ViCLIP": 0.18049998581409454,
+      "MUSIQ": 72.23532535718834
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_10",
+    "video_path": "./Video/CogvideoX-3/B51_10.mp4",
+    "score": {
+      "BRISQUE": 36.76403694863645,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.703,
+        2.719,
+        2.625,
+        2.625
+      ],
+      "VIIDEO": 0.5727632641792297,
+      "Qalign": 4.91796875,
+      "ViCLIP": 0.24095521867275238,
+      "MUSIQ": 77.06402327259134
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_11",
+    "video_path": "./Video/CogvideoX-3/B51_11.mp4",
+    "score": {
+      "BRISQUE": 34.97282722425757,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.828,
+        2.484,
+        2.547,
+        2.594
+      ],
+      "VIIDEO": 0.4514526426792145,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.15275254845619202,
+      "MUSIQ": 63.05840813299144
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B51_12",
+    "video_path": "./Video/CogvideoX-3/B51_12.mp4",
+    "score": {
+      "BRISQUE": 21.703311138271545,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.812,
+        2.625,
+        2.484,
+        2.453
+      ],
+      "VIIDEO": 0.5493529438972473,
+      "Qalign": 4.9453125,
+      "ViCLIP": 0.2143918126821518,
+      "MUSIQ": 71.29779126185068
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_01",
+    "video_path": "./Video/CogvideoX-3/B52_01.mp4",
+    "score": {
+      "BRISQUE": 18.119724060437694,
+      "RAFT": false,
+      "VideoScore": [
+        2.859,
+        3.0,
+        2.609,
+        2.562,
+        2.766
+      ],
+      "VIIDEO": 0.4453796148300171,
+      "Qalign": 4.82421875,
+      "ViCLIP": 0.1796761304140091,
+      "MUSIQ": 56.052338807479195
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_02",
+    "video_path": "./Video/CogvideoX-3/B52_02.mp4",
+    "score": {
+      "BRISQUE": 41.04027372561627,
+      "RAFT": false,
+      "VideoScore": [
+        2.734,
+        2.734,
+        2.562,
+        2.422,
+        2.422
+      ],
+      "VIIDEO": 0.5588603019714355,
+      "Qalign": 4.515625,
+      "ViCLIP": 0.2237979769706726,
+      "MUSIQ": 71.39096121462235
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_03",
+    "video_path": "./Video/CogvideoX-3/B52_03.mp4",
+    "score": {
+      "BRISQUE": 26.43793786090353,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.812,
+        2.609,
+        2.422,
+        2.562
+      ],
+      "VIIDEO": 0.4821816682815552,
+      "Qalign": 4.9609375,
+      "ViCLIP": 0.26740631461143494,
+      "MUSIQ": 73.39310201798907
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_04",
+    "video_path": "./Video/CogvideoX-3/B52_04.mp4",
+    "score": {
+      "BRISQUE": 28.2620534956085,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.844,
+        2.531,
+        2.484,
+        2.562
+      ],
+      "VIIDEO": 0.496337890625,
+      "Qalign": 4.82421875,
+      "ViCLIP": 0.21445688605308533,
+      "MUSIQ": 60.678955907407016
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_05",
+    "video_path": "./Video/CogvideoX-3/B52_05.mp4",
+    "score": {
+      "BRISQUE": 34.35309216990974,
+      "RAFT": true,
+      "VideoScore": [
+        3.062,
+        3.094,
+        2.875,
+        2.562,
+        2.891
+      ],
+      "VIIDEO": 0.5592286586761475,
+      "Qalign": 4.81640625,
+      "ViCLIP": 0.25573256611824036,
+      "MUSIQ": 52.418123067535966
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_06",
+    "video_path": "./Video/CogvideoX-3/B52_06.mp4",
+    "score": {
+      "BRISQUE": 44.79025856160229,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.656,
+        2.781,
+        2.469,
+        2.344
+      ],
+      "VIIDEO": 0.42327892780303955,
+      "Qalign": 4.9609375,
+      "ViCLIP": 0.1863406002521515,
+      "MUSIQ": 64.00522059091129
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_07",
+    "video_path": "./Video/CogvideoX-3/B52_07.mp4",
+    "score": {
+      "BRISQUE": 30.96825072483987,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.734,
+        2.578,
+        2.391,
+        2.594
+      ],
+      "VIIDEO": 0.4910004734992981,
+      "Qalign": 4.921875,
+      "ViCLIP": 0.21489351987838745,
+      "MUSIQ": 67.86419777248217
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_08",
+    "video_path": "./Video/CogvideoX-3/B52_08.mp4",
+    "score": {
+      "BRISQUE": 32.113661487650425,
+      "RAFT": false,
+      "VideoScore": [
+        2.844,
+        2.859,
+        2.766,
+        2.578,
+        2.594
+      ],
+      "VIIDEO": 0.569114625453949,
+      "Qalign": 4.890625,
+      "ViCLIP": 0.22819173336029053,
+      "MUSIQ": 73.96358693756672
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_09",
+    "video_path": "./Video/CogvideoX-3/B52_09.mp4",
+    "score": {
+      "BRISQUE": 30.954909425344525,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.719,
+        2.562,
+        2.453,
+        2.375
+      ],
+      "VIIDEO": 0.5927043557167053,
+      "Qalign": 4.7734375,
+      "ViCLIP": 0.2532326579093933,
+      "MUSIQ": 70.3179586659307
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_10",
+    "video_path": "./Video/CogvideoX-3/B52_10.mp4",
+    "score": {
+      "BRISQUE": 42.55887997076378,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.703,
+        2.531,
+        2.453,
+        2.344
+      ],
+      "VIIDEO": 0.6007728576660156,
+      "Qalign": 4.75390625,
+      "ViCLIP": 0.2450353056192398,
+      "MUSIQ": 61.275954062894264
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_11",
+    "video_path": "./Video/CogvideoX-3/B52_11.mp4",
+    "score": {
+      "BRISQUE": 47.88997711750291,
+      "RAFT": false,
+      "VideoScore": [
+        2.781,
+        2.766,
+        2.609,
+        2.375,
+        2.391
+      ],
+      "VIIDEO": 0.6814863681793213,
+      "Qalign": 4.85546875,
+      "ViCLIP": 0.25819525122642517,
+      "MUSIQ": 68.2692033992791
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "B52_12",
+    "video_path": "./Video/CogvideoX-3/B52_12.mp4",
+    "score": {
+      "BRISQUE": 26.293606775888005,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.609,
+        2.734,
+        2.5,
+        2.328
+      ],
+      "VIIDEO": 0.5336345434188843,
+      "Qalign": 4.76953125,
+      "ViCLIP": 0.25472554564476013,
+      "MUSIQ": 69.494349769924
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_01_01",
+    "video_path": "./Video/CogvideoX-3/L2_01_01.mp4",
+    "score": {
+      "BRISQUE": 24.58093754549204,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.484,
+        2.828,
+        2.484,
+        2.422
+      ],
+      "VIIDEO": 0.6507115960121155,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.19978931546211243,
+      "MUSIQ": 69.77817504598487
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_01_02",
+    "video_path": "./Video/CogvideoX-3/L2_01_02.mp4",
+    "score": {
+      "BRISQUE": 33.40433440593459,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.266,
+        2.75,
+        2.453,
+        1.992
+      ],
+      "VIIDEO": 0.5088863372802734,
+      "Qalign": 4.75390625,
+      "ViCLIP": 0.23319193720817566,
+      "MUSIQ": 66.68186028995869
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_01_03",
+    "video_path": "./Video/CogvideoX-3/L2_01_03.mp4",
+    "score": {
+      "BRISQUE": 34.63757513768925,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.484,
+        2.531,
+        2.281,
+        2.016
+      ],
+      "VIIDEO": 0.5702503323554993,
+      "Qalign": 4.51953125,
+      "ViCLIP": 0.26692092418670654,
+      "MUSIQ": 72.38356153120905
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_01_04",
+    "video_path": "./Video/CogvideoX-3/L2_01_04.mp4",
+    "score": {
+      "BRISQUE": 41.97438911769701,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.438,
+        2.703,
+        2.328,
+        2.5
+      ],
+      "VIIDEO": 0.38628003001213074,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.22862191498279572,
+      "MUSIQ": 66.62723607602327
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_02_01",
+    "video_path": "./Video/CogvideoX-3/L2_02_01.mp4",
+    "score": {
+      "BRISQUE": 41.62027603054639,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.422,
+        2.641,
+        2.547,
+        2.203
+      ],
+      "VIIDEO": 0.6008410453796387,
+      "Qalign": 4.73046875,
+      "ViCLIP": 0.20969665050506592,
+      "MUSIQ": 76.26243572353576
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_02_02",
+    "video_path": "./Video/CogvideoX-3/L2_02_02.mp4",
+    "score": {
+      "BRISQUE": 32.410242305779306,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.828,
+        2.578,
+        2.75,
+        2.75
+      ],
+      "VIIDEO": 0.6422250866889954,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.25106340646743774,
+      "MUSIQ": 52.034408356091994
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_02_03",
+    "video_path": "./Video/CogvideoX-3/L2_02_03.mp4",
+    "score": {
+      "BRISQUE": 39.62870418951378,
+      "RAFT": true,
+      "VideoScore": [
+        3.375,
+        3.25,
+        3.406,
+        2.969,
+        3.141
+      ],
+      "VIIDEO": 0.5658709406852722,
+      "Qalign": 4.51953125,
+      "ViCLIP": 0.23288363218307495,
+      "MUSIQ": 77.08462690270466
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_02_04",
+    "video_path": "./Video/CogvideoX-3/L2_02_04.mp4",
+    "score": {
+      "BRISQUE": 38.090739564125585,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.312,
+        2.781,
+        2.484,
+        2.156
+      ],
+      "VIIDEO": 0.5815048813819885,
+      "Qalign": 4.30078125,
+      "ViCLIP": 0.17692679166793823,
+      "MUSIQ": 65.15255341618698
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_03_01",
+    "video_path": "./Video/CogvideoX-3/L2_03_01.mp4",
+    "score": {
+      "BRISQUE": 38.343581300344525,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.969,
+        2.844,
+        2.672,
+        2.734
+      ],
+      "VIIDEO": 0.4212561249732971,
+      "Qalign": 4.41796875,
+      "ViCLIP": 0.25924986600875854,
+      "MUSIQ": 60.85081100463867
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_03_02",
+    "video_path": "./Video/CogvideoX-3/L2_03_02.mp4",
+    "score": {
+      "BRISQUE": 26.928693877984276,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.75,
+        2.844,
+        2.375,
+        2.391
+      ],
+      "VIIDEO": 0.40634387731552124,
+      "Qalign": 4.68359375,
+      "ViCLIP": 0.27225229144096375,
+      "MUSIQ": 68.59120493349822
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_03_03",
+    "video_path": "./Video/CogvideoX-3/L2_03_03.mp4",
+    "score": {
+      "BRISQUE": 27.885676603139558,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.812,
+        2.609,
+        2.734,
+        2.641
+      ],
+      "VIIDEO": 0.5441661477088928,
+      "Qalign": 4.62109375,
+      "ViCLIP": 0.19764462113380432,
+      "MUSIQ": 68.6211293380453
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_03_04",
+    "video_path": "./Video/CogvideoX-3/L2_03_04.mp4",
+    "score": {
+      "BRISQUE": 41.776768654769995,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.688,
+        2.703,
+        2.391,
+        2.438
+      ],
+      "VIIDEO": 0.49955832958221436,
+      "Qalign": 4.58984375,
+      "ViCLIP": 0.248243048787117,
+      "MUSIQ": 53.75771383913408
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_04_01",
+    "video_path": "./Video/CogvideoX-3/L2_04_01.mp4",
+    "score": {
+      "BRISQUE": 47.52881882945943,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.516,
+        2.609,
+        2.562,
+        2.219
+      ],
+      "VIIDEO": 0.6400244832038879,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.21789686381816864,
+      "MUSIQ": 75.23708523578526
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_04_02",
+    "video_path": "./Video/CogvideoX-3/L2_04_02.mp4",
+    "score": {
+      "BRISQUE": 27.377342461058813,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.906,
+        2.625,
+        2.609,
+        2.719
+      ],
+      "VIIDEO": 0.5256531834602356,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.20232385396957397,
+      "MUSIQ": 56.592279138031955
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_04_03",
+    "video_path": "./Video/CogvideoX-3/L2_04_03.mp4",
+    "score": {
+      "BRISQUE": 31.31018710876844,
+      "RAFT": false,
+      "VideoScore": [
+        2.75,
+        2.641,
+        2.812,
+        2.672,
+        2.516
+      ],
+      "VIIDEO": 0.5629264712333679,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.22833238542079926,
+      "MUSIQ": 75.86719512939453
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_04_04",
+    "video_path": "./Video/CogvideoX-3/L2_04_04.mp4",
+    "score": {
+      "BRISQUE": 3.4689846631162657,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.688,
+        2.688,
+        2.578,
+        2.719
+      ],
+      "VIIDEO": 0.5746324062347412,
+      "Qalign": 4.45703125,
+      "ViCLIP": 0.21155191957950592,
+      "MUSIQ": 47.09288477453386
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_05_01",
+    "video_path": "./Video/CogvideoX-3/L2_05_01.mp4",
+    "score": {
+      "BRISQUE": 33.765034740756015,
+      "RAFT": true,
+      "VideoScore": [
+        3.453,
+        3.203,
+        3.422,
+        3.016,
+        3.094
+      ],
+      "VIIDEO": 0.6415621638298035,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.27087268233299255,
+      "MUSIQ": 64.69772199073934
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_05_02",
+    "video_path": "./Video/CogvideoX-3/L2_05_02.mp4",
+    "score": {
+      "BRISQUE": 32.272568222898876,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.875,
+        2.609,
+        2.547,
+        2.75
+      ],
+      "VIIDEO": 0.4854770600795746,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.2992735207080841,
+      "MUSIQ": 71.47651994598579
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_05_03",
+    "video_path": "./Video/CogvideoX-3/L2_05_03.mp4",
+    "score": {
+      "BRISQUE": 4.695116505119371,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.703,
+        2.688,
+        2.609,
+        2.422
+      ],
+      "VIIDEO": 0.47073227167129517,
+      "Qalign": 4.93359375,
+      "ViCLIP": 0.17383646965026855,
+      "MUSIQ": 69.99753163023765
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_05_04",
+    "video_path": "./Video/CogvideoX-3/L2_05_04.mp4",
+    "score": {
+      "BRISQUE": 51.06160342767372,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.734,
+        2.438,
+        2.5,
+        2.516
+      ],
+      "VIIDEO": 0.6073296070098877,
+      "Qalign": 3.791015625,
+      "ViCLIP": 0.2715013325214386,
+      "MUSIQ": 47.28397582628712
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_06_01",
+    "video_path": "./Video/CogvideoX-3/L2_06_01.mp4",
+    "score": {
+      "BRISQUE": 46.538411584700114,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.656,
+        2.547,
+        2.5,
+        2.547
+      ],
+      "VIIDEO": 0.5918780565261841,
+      "Qalign": 4.515625,
+      "ViCLIP": 0.21434547007083893,
+      "MUSIQ": 48.56152350858132
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_06_02",
+    "video_path": "./Video/CogvideoX-3/L2_06_02.mp4",
+    "score": {
+      "BRISQUE": 37.658483280158194,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.297,
+        2.812,
+        2.547,
+        2.141
+      ],
+      "VIIDEO": 0.45750901103019714,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.19252070784568787,
+      "MUSIQ": 70.34044076196895
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_06_03",
+    "video_path": "./Video/CogvideoX-3/L2_06_03.mp4",
+    "score": {
+      "BRISQUE": 34.01338489603552,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.641,
+        2.672,
+        2.688,
+        2.547
+      ],
+      "VIIDEO": 0.574129045009613,
+      "Qalign": 4.43359375,
+      "ViCLIP": 0.2708064317703247,
+      "MUSIQ": 61.46241456973627
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_06_04",
+    "video_path": "./Video/CogvideoX-3/L2_06_04.mp4",
+    "score": {
+      "BRISQUE": 44.88659250958366,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.391,
+        2.703,
+        2.484,
+        2.0
+      ],
+      "VIIDEO": 0.5643972158432007,
+      "Qalign": 4.6484375,
+      "ViCLIP": 0.2343755066394806,
+      "MUSIQ": 72.28763343384547
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_07_01",
+    "video_path": "./Video/CogvideoX-3/L2_07_01.mp4",
+    "score": {
+      "BRISQUE": 46.10113601210695,
+      "RAFT": true,
+      "VideoScore": [
+        3.5,
+        3.344,
+        3.609,
+        3.188,
+        3.375
+      ],
+      "VIIDEO": 0.49403584003448486,
+      "Qalign": 4.81640625,
+      "ViCLIP": 0.15879398584365845,
+      "MUSIQ": 74.10565811062452
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_07_02",
+    "video_path": "./Video/CogvideoX-3/L2_07_02.mp4",
+    "score": {
+      "BRISQUE": 28.15587203695167,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.531,
+        2.656,
+        2.422,
+        2.203
+      ],
+      "VIIDEO": 0.5157713294029236,
+      "Qalign": 4.93359375,
+      "ViCLIP": 0.2016221582889557,
+      "MUSIQ": 67.11764133050575
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_07_03",
+    "video_path": "./Video/CogvideoX-3/L2_07_03.mp4",
+    "score": {
+      "BRISQUE": 30.540956106245147,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.734,
+        3.031,
+        2.781,
+        2.641
+      ],
+      "VIIDEO": 0.559812068939209,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.22797462344169617,
+      "MUSIQ": 64.68330852437464
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_07_04",
+    "video_path": "./Video/CogvideoX-3/L2_07_04.mp4",
+    "score": {
+      "BRISQUE": 31.28881191466906,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.297,
+        2.781,
+        2.391,
+        2.016
+      ],
+      "VIIDEO": 0.4703477621078491,
+      "Qalign": 4.546875,
+      "ViCLIP": 0.20682452619075775,
+      "MUSIQ": 72.20240878466494
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_08_01",
+    "video_path": "./Video/CogvideoX-3/L2_08_01.mp4",
+    "score": {
+      "BRISQUE": 39.125513680973405,
+      "RAFT": true,
+      "VideoScore": [
+        3.188,
+        2.969,
+        3.281,
+        2.969,
+        2.984
+      ],
+      "VIIDEO": 0.5897319316864014,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.23376359045505524,
+      "MUSIQ": 75.55248691724694
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_08_02",
+    "video_path": "./Video/CogvideoX-3/L2_08_02.mp4",
+    "score": {
+      "BRISQUE": 34.581535007642664,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.469,
+        2.703,
+        2.578,
+        2.219
+      ],
+      "VIIDEO": 0.5645637512207031,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.23640626668930054,
+      "MUSIQ": 61.712580023345
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_08_03",
+    "video_path": "./Video/CogvideoX-3/L2_08_03.mp4",
+    "score": {
+      "BRISQUE": 22.41772423027465,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.703,
+        2.75,
+        2.469,
+        2.672
+      ],
+      "VIIDEO": 0.5024073123931885,
+      "Qalign": 4.07421875,
+      "ViCLIP": 0.1923389881849289,
+      "MUSIQ": 63.14293585356718
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_08_04",
+    "video_path": "./Video/CogvideoX-3/L2_08_04.mp4",
+    "score": {
+      "BRISQUE": 24.528506450771545,
+      "RAFT": false,
+      "VideoScore": [
+        2.812,
+        2.703,
+        2.75,
+        2.609,
+        2.391
+      ],
+      "VIIDEO": 0.6290746927261353,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.23330287635326385,
+      "MUSIQ": 72.62127969872137
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_09_01",
+    "video_path": "./Video/CogvideoX-3/L2_09_01.mp4",
+    "score": {
+      "BRISQUE": 43.70530368970788,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.766,
+        2.672,
+        2.828,
+        2.734
+      ],
+      "VIIDEO": 0.4674822688102722,
+      "Qalign": 4.734375,
+      "ViCLIP": 0.1988142877817154,
+      "MUSIQ": 56.214642471408254
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_09_02",
+    "video_path": "./Video/CogvideoX-3/L2_09_02.mp4",
+    "score": {
+      "BRISQUE": 31.70484573648583,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.469,
+        2.781,
+        2.484,
+        2.297
+      ],
+      "VIIDEO": 0.5428572297096252,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.15429972112178802,
+      "MUSIQ": 69.64284159974282
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_09_03",
+    "video_path": "./Video/CogvideoX-3/L2_09_03.mp4",
+    "score": {
+      "BRISQUE": 37.21968220775912,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.688,
+        2.781,
+        2.688,
+        2.531
+      ],
+      "VIIDEO": 0.5028671622276306,
+      "Qalign": 4.796875,
+      "ViCLIP": 0.1963219940662384,
+      "MUSIQ": 64.89483017062548
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_09_04",
+    "video_path": "./Video/CogvideoX-3/L2_09_04.mp4",
+    "score": {
+      "BRISQUE": 40.23118866156347,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.641,
+        2.953,
+        2.516,
+        2.688
+      ],
+      "VIIDEO": 0.5281194448471069,
+      "Qalign": 4.609375,
+      "ViCLIP": 0.1610877960920334,
+      "MUSIQ": 74.46977556122016
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_10_01",
+    "video_path": "./Video/CogvideoX-3/L2_10_01.mp4",
+    "score": {
+      "BRISQUE": 38.33538060158676,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.812,
+        2.625,
+        2.703,
+        2.734
+      ],
+      "VIIDEO": 0.6057253479957581,
+      "Qalign": 4.3046875,
+      "ViCLIP": 0.25612765550613403,
+      "MUSIQ": 63.16633748119662
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_10_02",
+    "video_path": "./Video/CogvideoX-3/L2_10_02.mp4",
+    "score": {
+      "BRISQUE": 30.376080815096078,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.906,
+        2.516,
+        2.844,
+        2.828
+      ],
+      "VIIDEO": 0.4888686537742615,
+      "Qalign": 4.2734375,
+      "ViCLIP": 0.20625343918800354,
+      "MUSIQ": 51.19967014004725
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_10_03",
+    "video_path": "./Video/CogvideoX-3/L2_10_03.mp4",
+    "score": {
+      "BRISQUE": 12.30695110818614,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.688,
+        2.625,
+        2.359,
+        2.438
+      ],
+      "VIIDEO": 0.47076815366744995,
+      "Qalign": 4.91015625,
+      "ViCLIP": 0.31658080220222473,
+      "MUSIQ": 65.94208178312883
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_10_04",
+    "video_path": "./Video/CogvideoX-3/L2_10_04.mp4",
+    "score": {
+      "BRISQUE": 41.108156950577445,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.781,
+        2.406,
+        2.562,
+        2.656
+      ],
+      "VIIDEO": 0.6414706707000732,
+      "Qalign": 4.3515625,
+      "ViCLIP": 0.23520848155021667,
+      "MUSIQ": 49.7403648566015
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_11_01",
+    "video_path": "./Video/CogvideoX-3/L2_11_01.mp4",
+    "score": {
+      "BRISQUE": 18.631181989397323,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.812,
+        2.969,
+        2.656,
+        2.656
+      ],
+      "VIIDEO": 0.49249035120010376,
+      "Qalign": 4.72265625,
+      "ViCLIP": 0.20306098461151123,
+      "MUSIQ": 61.80454837017178
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_11_02",
+    "video_path": "./Video/CogvideoX-3/L2_11_02.mp4",
+    "score": {
+      "BRISQUE": 43.20881264254173,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.719,
+        2.75,
+        2.703,
+        2.688
+      ],
+      "VIIDEO": 0.5226201415061951,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.2816869914531708,
+      "MUSIQ": 55.38931475811123
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_11_03",
+    "video_path": "./Video/CogvideoX-3/L2_11_03.mp4",
+    "score": {
+      "BRISQUE": 40.99935211750291,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.344,
+        2.734,
+        2.359,
+        2.312
+      ],
+      "VIIDEO": 0.6163308024406433,
+      "Qalign": 4.55859375,
+      "ViCLIP": 0.19007578492164612,
+      "MUSIQ": 74.46968126000824
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_11_04",
+    "video_path": "./Video/CogvideoX-3/L2_11_04.mp4",
+    "score": {
+      "BRISQUE": 42.713986604110055,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.359,
+        2.781,
+        2.484,
+        2.234
+      ],
+      "VIIDEO": 0.6271402835845947,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.20821347832679749,
+      "MUSIQ": 66.53017828331231
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_12_01",
+    "video_path": "./Video/CogvideoX-3/L2_12_01.mp4",
+    "score": {
+      "BRISQUE": 35.54510498046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.562,
+        2.75,
+        2.641,
+        2.391
+      ],
+      "VIIDEO": 0.5523005723953247,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.2114919275045395,
+      "MUSIQ": 67.50953529784398
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_12_02",
+    "video_path": "./Video/CogvideoX-3/L2_12_02.mp4",
+    "score": {
+      "BRISQUE": 28.793870629731174,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.469,
+        2.656,
+        2.5,
+        2.188
+      ],
+      "VIIDEO": 0.5602786540985107,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.1900711953639984,
+      "MUSIQ": 72.39107603464068
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_12_03",
+    "video_path": "./Video/CogvideoX-3/L2_12_03.mp4",
+    "score": {
+      "BRISQUE": 36.97733396921099,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.797,
+        2.703,
+        2.688,
+        2.625
+      ],
+      "VIIDEO": 0.483978807926178,
+      "Qalign": 4.96875,
+      "ViCLIP": 0.18576249480247498,
+      "MUSIQ": 75.56737665211932
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_12_04",
+    "video_path": "./Video/CogvideoX-3/L2_12_04.mp4",
+    "score": {
+      "BRISQUE": 32.578156465329,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.812,
+        2.656,
+        2.781,
+        2.672
+      ],
+      "VIIDEO": 0.4812271296977997,
+      "Qalign": 4.61328125,
+      "ViCLIP": 0.2455681711435318,
+      "MUSIQ": 67.2129370647928
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_13_01",
+    "video_path": "./Video/CogvideoX-3/L2_13_01.mp4",
+    "score": {
+      "BRISQUE": 39.331368203488935,
+      "RAFT": true,
+      "VideoScore": [
+        3.219,
+        3.094,
+        3.094,
+        2.969,
+        2.859
+      ],
+      "VIIDEO": 0.6423414349555969,
+      "Qalign": 4.84375,
+      "ViCLIP": 0.23221473395824432,
+      "MUSIQ": 75.91776517311239
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_13_02",
+    "video_path": "./Video/CogvideoX-3/L2_13_02.mp4",
+    "score": {
+      "BRISQUE": 42.08470428656347,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.844,
+        2.516,
+        2.688,
+        2.719
+      ],
+      "VIIDEO": 0.44454190135002136,
+      "Qalign": 4.33984375,
+      "ViCLIP": 0.2550695538520813,
+      "MUSIQ": 54.377416669952204
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_13_03",
+    "video_path": "./Video/CogvideoX-3/L2_13_03.mp4",
+    "score": {
+      "BRISQUE": 31.287868712999806,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.688,
+        2.594,
+        2.594,
+        2.547
+      ],
+      "VIIDEO": 0.46848589181900024,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.20898006856441498,
+      "MUSIQ": 56.35043872809558
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_13_04",
+    "video_path": "./Video/CogvideoX-3/L2_13_04.mp4",
+    "score": {
+      "BRISQUE": 32.33079803656347,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.516,
+        2.719,
+        2.578,
+        2.375
+      ],
+      "VIIDEO": 0.6498695015907288,
+      "Qalign": 4.58984375,
+      "ViCLIP": 0.2100328803062439,
+      "MUSIQ": 61.032521478878046
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_14_01",
+    "video_path": "./Video/CogvideoX-3/L2_14_01.mp4",
+    "score": {
+      "BRISQUE": 32.2464891516644,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.75,
+        2.828,
+        2.734,
+        2.547
+      ],
+      "VIIDEO": 0.4876803159713745,
+      "Qalign": 4.8046875,
+      "ViCLIP": 0.2072649747133255,
+      "MUSIQ": 58.94686617170061
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_14_02",
+    "video_path": "./Video/CogvideoX-3/L2_14_02.mp4",
+    "score": {
+      "BRISQUE": 28.229414471928376,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.438,
+        2.75,
+        2.438,
+        2.156
+      ],
+      "VIIDEO": 0.5065441131591797,
+      "Qalign": 4.86328125,
+      "ViCLIP": 0.25484341382980347,
+      "MUSIQ": 73.17184012276786
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_14_03",
+    "video_path": "./Video/CogvideoX-3/L2_14_03.mp4",
+    "score": {
+      "BRISQUE": 37.50267000376068,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.609,
+        2.703,
+        2.578,
+        2.422
+      ],
+      "VIIDEO": 0.5656298995018005,
+      "Qalign": 4.81640625,
+      "ViCLIP": 0.1626204550266266,
+      "MUSIQ": 72.29049540454557
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_14_04",
+    "video_path": "./Video/CogvideoX-3/L2_14_04.mp4",
+    "score": {
+      "BRISQUE": 35.26981443796099,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.812,
+        2.391,
+        2.562,
+        2.531
+      ],
+      "VIIDEO": 0.49970030784606934,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.2554474174976349,
+      "MUSIQ": 60.65958397432884
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_15_01",
+    "video_path": "./Video/CogvideoX-3/L2_15_01.mp4",
+    "score": {
+      "BRISQUE": 44.16758472134608,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.344,
+        2.734,
+        2.531,
+        2.156
+      ],
+      "VIIDEO": 0.6581445932388306,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.22360855340957642,
+      "MUSIQ": 68.46672640972255
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_15_02",
+    "video_path": "./Video/CogvideoX-3/L2_15_02.mp4",
+    "score": {
+      "BRISQUE": 39.915031101392664,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.531,
+        2.938,
+        2.516,
+        2.438
+      ],
+      "VIIDEO": 0.4883792996406555,
+      "Qalign": 4.38671875,
+      "ViCLIP": 0.17931720614433289,
+      "MUSIQ": 69.59495733983769
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_15_03",
+    "video_path": "./Video/CogvideoX-3/L2_15_03.mp4",
+    "score": {
+      "BRISQUE": 28.444892077712538,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.578,
+        2.469,
+        2.438,
+        2.25
+      ],
+      "VIIDEO": 0.567974328994751,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.21214374899864197,
+      "MUSIQ": 59.44571602862814
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_15_04",
+    "video_path": "./Video/CogvideoX-3/L2_15_04.mp4",
+    "score": {
+      "BRISQUE": 35.31870928462248,
+      "RAFT": false,
+      "VideoScore": [
+        2.859,
+        2.703,
+        2.906,
+        2.531,
+        2.531
+      ],
+      "VIIDEO": 0.6934895515441895,
+      "Qalign": 4.62109375,
+      "ViCLIP": 0.24420711398124695,
+      "MUSIQ": 71.11305857593229
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_16_01",
+    "video_path": "./Video/CogvideoX-3/L2_16_01.mp4",
+    "score": {
+      "BRISQUE": 37.853152825965644,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.453,
+        2.781,
+        2.688,
+        2.453
+      ],
+      "VIIDEO": 0.6731696128845215,
+      "Qalign": 4.69921875,
+      "ViCLIP": 0.2344544529914856,
+      "MUSIQ": 76.20955302552407
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_16_02",
+    "video_path": "./Video/CogvideoX-3/L2_16_02.mp4",
+    "score": {
+      "BRISQUE": 35.91819128190509,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.641,
+        2.562,
+        2.484,
+        2.234
+      ],
+      "VIIDEO": 0.6789114475250244,
+      "Qalign": 4.8046875,
+      "ViCLIP": 0.24253404140472412,
+      "MUSIQ": 75.97933211237748
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_16_03",
+    "video_path": "./Video/CogvideoX-3/L2_16_03.mp4",
+    "score": {
+      "BRISQUE": 39.68651244358987,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.656,
+        2.688,
+        2.828,
+        2.578
+      ],
+      "VIIDEO": 0.4061504304409027,
+      "Qalign": 4.80078125,
+      "ViCLIP": 0.1622636318206787,
+      "MUSIQ": 58.783076766114796
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_16_04",
+    "video_path": "./Video/CogvideoX-3/L2_16_04.mp4",
+    "score": {
+      "BRISQUE": 17.796175559855396,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.578,
+        2.922,
+        2.609,
+        2.422
+      ],
+      "VIIDEO": 0.42389973998069763,
+      "Qalign": 4.46875,
+      "ViCLIP": 0.22376637160778046,
+      "MUSIQ": 74.49937709073842
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_17_01",
+    "video_path": "./Video/CogvideoX-3/L2_17_01.mp4",
+    "score": {
+      "BRISQUE": 29.241706421656637,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.719,
+        2.484,
+        2.375,
+        2.453
+      ],
+      "VIIDEO": 0.7392467856407166,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.20523878931999207,
+      "MUSIQ": 59.31861702107495
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_17_02",
+    "video_path": "./Video/CogvideoX-3/L2_17_02.mp4",
+    "score": {
+      "BRISQUE": 38.56690173415664,
+      "RAFT": true,
+      "VideoScore": [
+        3.422,
+        3.344,
+        3.422,
+        2.984,
+        3.172
+      ],
+      "VIIDEO": 0.5266906023025513,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.2703470289707184,
+      "MUSIQ": 76.22083145046827
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_17_03",
+    "video_path": "./Video/CogvideoX-3/L2_17_03.mp4",
+    "score": {
+      "BRISQUE": 11.559213579071235,
+      "RAFT": false,
+      "VideoScore": [
+        2.766,
+        2.828,
+        2.656,
+        2.594,
+        2.656
+      ],
+      "VIIDEO": 0.30446577072143555,
+      "Qalign": 4.87890625,
+      "ViCLIP": 0.21076321601867676,
+      "MUSIQ": 65.18753826544152
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_17_04",
+    "video_path": "./Video/CogvideoX-3/L2_17_04.mp4",
+    "score": {
+      "BRISQUE": 34.70640762992527,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.359,
+        2.859,
+        2.625,
+        2.188
+      ],
+      "VIIDEO": 0.5548977851867676,
+      "Qalign": 4.4765625,
+      "ViCLIP": 0.2043628692626953,
+      "MUSIQ": 69.01525016452955
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_18_01",
+    "video_path": "./Video/CogvideoX-3/L2_18_01.mp4",
+    "score": {
+      "BRISQUE": 22.562498104498253,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.531,
+        2.75,
+        2.484,
+        2.203
+      ],
+      "VIIDEO": 0.5339669585227966,
+      "Qalign": 4.7890625,
+      "ViCLIP": 0.23320245742797852,
+      "MUSIQ": 64.39538107451445
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_18_02",
+    "video_path": "./Video/CogvideoX-3/L2_18_02.mp4",
+    "score": {
+      "BRISQUE": 5.3725142390091225,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.781,
+        2.75,
+        2.5,
+        2.531
+      ],
+      "VIIDEO": 0.5818493962287903,
+      "Qalign": 4.95703125,
+      "ViCLIP": 0.2501610517501831,
+      "MUSIQ": 61.79429088616223
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_18_03",
+    "video_path": "./Video/CogvideoX-3/L2_18_03.mp4",
+    "score": {
+      "BRISQUE": 32.640650399723405,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.766,
+        2.656,
+        2.484,
+        2.609
+      ],
+      "VIIDEO": 0.4310540556907654,
+      "Qalign": 4.3359375,
+      "ViCLIP": 0.24185600876808167,
+      "MUSIQ": 41.453649805199284
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_18_04",
+    "video_path": "./Video/CogvideoX-3/L2_18_04.mp4",
+    "score": {
+      "BRISQUE": 43.62650844029018,
+      "RAFT": true,
+      "VideoScore": [
+        3.234,
+        3.125,
+        3.266,
+        2.781,
+        2.922
+      ],
+      "VIIDEO": 0.4511272609233856,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.20637185871601105,
+      "MUSIQ": 65.01862429980166
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_19_01",
+    "video_path": "./Video/CogvideoX-3/L2_19_01.mp4",
+    "score": {
+      "BRISQUE": 40.58571117709142,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.531,
+        2.562,
+        2.281,
+        2.281
+      ],
+      "VIIDEO": 0.4989335536956787,
+      "Qalign": 4.69921875,
+      "ViCLIP": 0.2766037583351135,
+      "MUSIQ": 61.34610866759875
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_19_02",
+    "video_path": "./Video/CogvideoX-3/L2_19_02.mp4",
+    "score": {
+      "BRISQUE": 29.614616820530863,
+      "RAFT": true,
+      "VideoScore": [
+        3.469,
+        3.438,
+        3.453,
+        3.219,
+        3.375
+      ],
+      "VIIDEO": 0.4872604012489319,
+      "Qalign": 4.87109375,
+      "ViCLIP": 0.2636611759662628,
+      "MUSIQ": 71.47020522407864
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_19_03",
+    "video_path": "./Video/CogvideoX-3/L2_19_03.mp4",
+    "score": {
+      "BRISQUE": 26.30731807732434,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.672,
+        2.641,
+        2.578,
+        2.422
+      ],
+      "VIIDEO": 0.5294389724731445,
+      "Qalign": 4.90625,
+      "ViCLIP": 0.1473623663187027,
+      "MUSIQ": 77.4915138860667
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_19_04",
+    "video_path": "./Video/CogvideoX-3/L2_19_04.mp4",
+    "score": {
+      "BRISQUE": 28.044783503372475,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.484,
+        2.656,
+        2.438,
+        2.219
+      ],
+      "VIIDEO": 0.48689141869544983,
+      "Qalign": 4.9375,
+      "ViCLIP": 0.25517329573631287,
+      "MUSIQ": 66.60037124823339
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_20_01",
+    "video_path": "./Video/CogvideoX-3/L2_20_01.mp4",
+    "score": {
+      "BRISQUE": 31.8780824649408,
+      "RAFT": false,
+      "VideoScore": [
+        2.703,
+        2.625,
+        2.531,
+        2.391,
+        2.297
+      ],
+      "VIIDEO": 0.7347450256347656,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.2460741400718689,
+      "MUSIQ": 73.2571428429266
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_20_02",
+    "video_path": "./Video/CogvideoX-3/L2_20_02.mp4",
+    "score": {
+      "BRISQUE": 33.71342856839577,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.906,
+        2.641,
+        2.375,
+        2.641
+      ],
+      "VIIDEO": 0.470487117767334,
+      "Qalign": 4.8984375,
+      "ViCLIP": 0.26203012466430664,
+      "MUSIQ": 74.98195468120693
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_20_03",
+    "video_path": "./Video/CogvideoX-3/L2_20_03.mp4",
+    "score": {
+      "BRISQUE": 22.54784056858987,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.766,
+        2.391,
+        2.547,
+        2.406
+      ],
+      "VIIDEO": 0.5111214518547058,
+      "Qalign": 4.8828125,
+      "ViCLIP": 0.19424200057983398,
+      "MUSIQ": 53.84112328476047
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_20_04",
+    "video_path": "./Video/CogvideoX-3/L2_20_04.mp4",
+    "score": {
+      "BRISQUE": 29.4349050581085,
+      "RAFT": true,
+      "VideoScore": [
+        2.875,
+        2.688,
+        2.875,
+        2.469,
+        2.406
+      ],
+      "VIIDEO": 0.5560445785522461,
+      "Qalign": 4.5,
+      "ViCLIP": 0.17287056148052216,
+      "MUSIQ": 76.26063788751638
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_21_01",
+    "video_path": "./Video/CogvideoX-3/L2_21_01.mp4",
+    "score": {
+      "BRISQUE": 35.86772544339577,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.5,
+        2.672,
+        2.484,
+        1.953
+      ],
+      "VIIDEO": 0.5061569809913635,
+      "Qalign": 4.890625,
+      "ViCLIP": 0.23855051398277283,
+      "MUSIQ": 75.1680208289105
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_21_02",
+    "video_path": "./Video/CogvideoX-3/L2_21_02.mp4",
+    "score": {
+      "BRISQUE": 26.508314049762227,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.75,
+        2.328,
+        2.438,
+        2.469
+      ],
+      "VIIDEO": 0.5820311307907104,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.22392410039901733,
+      "MUSIQ": 58.65564050141329
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_21_03",
+    "video_path": "./Video/CogvideoX-3/L2_21_03.mp4",
+    "score": {
+      "BRISQUE": 42.523717655158194,
+      "RAFT": true,
+      "VideoScore": [
+        3.047,
+        2.844,
+        3.094,
+        2.719,
+        2.625
+      ],
+      "VIIDEO": 0.5662310719490051,
+      "Qalign": 4.625,
+      "ViCLIP": 0.32486090064048767,
+      "MUSIQ": 75.62397131120196
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_21_04",
+    "video_path": "./Video/CogvideoX-3/L2_21_04.mp4",
+    "score": {
+      "BRISQUE": 21.054160929614714,
+      "RAFT": false,
+      "VideoScore": [
+        2.703,
+        2.672,
+        2.703,
+        2.516,
+        2.609
+      ],
+      "VIIDEO": 0.4097084701061249,
+      "Qalign": 3.962890625,
+      "ViCLIP": 0.23217320442199707,
+      "MUSIQ": 61.403572011438214
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_22_01",
+    "video_path": "./Video/CogvideoX-3/L2_22_01.mp4",
+    "score": {
+      "BRISQUE": 37.25825036090353,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.469,
+        2.812,
+        2.641,
+        2.406
+      ],
+      "VIIDEO": 0.5903592705726624,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.17924895882606506,
+      "MUSIQ": 68.24863635234951
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_22_02",
+    "video_path": "./Video/CogvideoX-3/L2_22_02.mp4",
+    "score": {
+      "BRISQUE": 36.713953243279306,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.375,
+        2.625,
+        2.469,
+        2.078
+      ],
+      "VIIDEO": 0.5787854194641113,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.25907230377197266,
+      "MUSIQ": 61.75660933026616
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_22_03",
+    "video_path": "./Video/CogvideoX-3/L2_22_03.mp4",
+    "score": {
+      "BRISQUE": 32.854523652829,
+      "RAFT": true,
+      "VideoScore": [
+        3.047,
+        2.812,
+        3.203,
+        2.734,
+        2.781
+      ],
+      "VIIDEO": 0.5449943542480469,
+      "Qalign": 4.625,
+      "ViCLIP": 0.22707252204418182,
+      "MUSIQ": 75.8130466627038
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_22_04",
+    "video_path": "./Video/CogvideoX-3/L2_22_04.mp4",
+    "score": {
+      "BRISQUE": 38.210507979304154,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.562,
+        2.875,
+        2.719,
+        2.469
+      ],
+      "VIIDEO": 0.45479798316955566,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.22999069094657898,
+      "MUSIQ": 70.20784778476502
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_23_01",
+    "video_path": "./Video/CogvideoX-3/L2_23_01.mp4",
+    "score": {
+      "BRISQUE": 38.47306075007279,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.562,
+        2.609,
+        2.578,
+        2.297
+      ],
+      "VIIDEO": 0.5727569460868835,
+      "Qalign": 4.8046875,
+      "ViCLIP": 0.22335928678512573,
+      "MUSIQ": 67.37586247698862
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_23_02",
+    "video_path": "./Video/CogvideoX-3/L2_23_02.mp4",
+    "score": {
+      "BRISQUE": 37.49309847813956,
+      "RAFT": true,
+      "VideoScore": [
+        3.031,
+        2.969,
+        2.922,
+        2.891,
+        2.969
+      ],
+      "VIIDEO": 0.49419569969177246,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.20814171433448792,
+      "MUSIQ": 73.81816901923708
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_23_03",
+    "video_path": "./Video/CogvideoX-3/L2_23_03.mp4",
+    "score": {
+      "BRISQUE": 37.17418410022807,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.594,
+        2.656,
+        2.609,
+        2.531
+      ],
+      "VIIDEO": 0.41321268677711487,
+      "Qalign": 4.53125,
+      "ViCLIP": 0.23375193774700165,
+      "MUSIQ": 56.06877318672512
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_23_04",
+    "video_path": "./Video/CogvideoX-3/L2_23_04.mp4",
+    "score": {
+      "BRISQUE": 20.46061412740198,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.5,
+        2.625,
+        2.469,
+        2.125
+      ],
+      "VIIDEO": 0.5593346953392029,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.22089239954948425,
+      "MUSIQ": 63.70786413346759
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_24_01",
+    "video_path": "./Video/CogvideoX-3/L2_24_01.mp4",
+    "score": {
+      "BRISQUE": 41.870591442037075,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.625,
+        2.578,
+        2.344,
+        2.266
+      ],
+      "VIIDEO": 0.48102670907974243,
+      "Qalign": 4.70703125,
+      "ViCLIP": 0.20261763036251068,
+      "MUSIQ": 72.2474255769149
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_24_02",
+    "video_path": "./Video/CogvideoX-3/L2_24_02.mp4",
+    "score": {
+      "BRISQUE": 43.16718135857434,
+      "RAFT": true,
+      "VideoScore": [
+        3.641,
+        3.594,
+        3.703,
+        3.141,
+        3.484
+      ],
+      "VIIDEO": 0.5987139940261841,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.28417637944221497,
+      "MUSIQ": 77.6499494469684
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_24_03",
+    "video_path": "./Video/CogvideoX-3/L2_24_03.mp4",
+    "score": {
+      "BRISQUE": 24.975541582759124,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.703,
+        2.609,
+        2.484,
+        2.531
+      ],
+      "VIIDEO": 0.4563198387622833,
+      "Qalign": 4.80859375,
+      "ViCLIP": 0.21723054349422455,
+      "MUSIQ": 77.11857036329944
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_24_04",
+    "video_path": "./Video/CogvideoX-3/L2_24_04.mp4",
+    "score": {
+      "BRISQUE": 29.09489147115198,
+      "RAFT": true,
+      "VideoScore": [
+        2.891,
+        2.766,
+        2.672,
+        2.312,
+        2.609
+      ],
+      "VIIDEO": 0.4967982769012451,
+      "Qalign": 4.34375,
+      "ViCLIP": 0.20084241032600403,
+      "MUSIQ": 74.56513680878633
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_25_01",
+    "video_path": "./Video/CogvideoX-3/L2_25_01.mp4",
+    "score": {
+      "BRISQUE": 44.763375797627134,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.719,
+        2.578,
+        2.453,
+        2.469
+      ],
+      "VIIDEO": 0.5237555503845215,
+      "Qalign": 4.77734375,
+      "ViCLIP": 0.2337731271982193,
+      "MUSIQ": 56.1540770441849
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_25_02",
+    "video_path": "./Video/CogvideoX-3/L2_25_02.mp4",
+    "score": {
+      "BRISQUE": 14.713895620026204,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.766,
+        2.828,
+        2.625,
+        2.5
+      ],
+      "VIIDEO": 0.528466522693634,
+      "Qalign": 4.8984375,
+      "ViCLIP": 0.20572490990161896,
+      "MUSIQ": 68.1779584943878
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_25_03",
+    "video_path": "./Video/CogvideoX-3/L2_25_03.mp4",
+    "score": {
+      "BRISQUE": 25.45251957674204,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.75,
+        2.594,
+        2.531,
+        2.469
+      ],
+      "VIIDEO": 0.41401195526123047,
+      "Qalign": 4.9140625,
+      "ViCLIP": 0.19265741109848022,
+      "MUSIQ": 57.686044373127245
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L2_25_04",
+    "video_path": "./Video/CogvideoX-3/L2_25_04.mp4",
+    "score": {
+      "BRISQUE": 50.158116311019995,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.641,
+        2.625,
+        2.344,
+        2.422
+      ],
+      "VIIDEO": 0.5150221586227417,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.21849341690540314,
+      "MUSIQ": 45.3317018828777
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_01_01",
+    "video_path": "./Video/CogvideoX-3/L3_01_01.mp4",
+    "score": {
+      "BRISQUE": 26.060620799568127,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.969,
+        2.641,
+        2.719,
+        2.969
+      ],
+      "VIIDEO": 0.5590002536773682,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.28892752528190613,
+      "MUSIQ": 67.48547522029521
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_01_02",
+    "video_path": "./Video/CogvideoX-3/L3_01_02.mp4",
+    "score": {
+      "BRISQUE": 34.15238734654018,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.672,
+        2.688,
+        2.5,
+        2.562
+      ],
+      "VIIDEO": 0.37054792046546936,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.2621319890022278,
+      "MUSIQ": 67.24402075820828
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_01_03",
+    "video_path": "./Video/CogvideoX-3/L3_01_03.mp4",
+    "score": {
+      "BRISQUE": 33.067147391183035,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.562,
+        3.141,
+        2.703,
+        2.594
+      ],
+      "VIIDEO": 0.5602579116821289,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.20465600490570068,
+      "MUSIQ": 71.86221043367564
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_01_04",
+    "video_path": "./Video/CogvideoX-3/L3_01_04.mp4",
+    "score": {
+      "BRISQUE": 26.036679854304154,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.516,
+        2.656,
+        2.281,
+        2.172
+      ],
+      "VIIDEO": 0.46930405497550964,
+      "Qalign": 4.85546875,
+      "ViCLIP": 0.2173449993133545,
+      "MUSIQ": 73.812313909116
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_02_01",
+    "video_path": "./Video/CogvideoX-3/L3_02_01.mp4",
+    "score": {
+      "BRISQUE": 29.09541614603552,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.5,
+        2.875,
+        2.438,
+        2.375
+      ],
+      "VIIDEO": 0.5098970532417297,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.22216027975082397,
+      "MUSIQ": 71.09619768509954
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_02_02",
+    "video_path": "./Video/CogvideoX-3/L3_02_02.mp4",
+    "score": {
+      "BRISQUE": 45.53871486497962,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.453,
+        2.828,
+        2.562,
+        2.125
+      ],
+      "VIIDEO": 0.47760048508644104,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.2607647776603699,
+      "MUSIQ": 76.86267554241678
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_02_03",
+    "video_path": "./Video/CogvideoX-3/L3_02_03.mp4",
+    "score": {
+      "BRISQUE": 30.25300967767372,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.719,
+        2.672,
+        2.391,
+        2.609
+      ],
+      "VIIDEO": 0.5573866963386536,
+      "Qalign": 4.43359375,
+      "ViCLIP": 0.21773666143417358,
+      "MUSIQ": 40.47203517700574
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_02_04",
+    "video_path": "./Video/CogvideoX-3/L3_02_04.mp4",
+    "score": {
+      "BRISQUE": 27.15616925162558,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.609,
+        2.641,
+        2.484,
+        2.406
+      ],
+      "VIIDEO": 0.5174417495727539,
+      "Qalign": 4.484375,
+      "ViCLIP": 0.23243939876556396,
+      "MUSIQ": 63.743253696038856
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_03_01",
+    "video_path": "./Video/CogvideoX-3/L3_03_01.mp4",
+    "score": {
+      "BRISQUE": 38.948194799956326,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.734,
+        2.625,
+        2.422,
+        2.5
+      ],
+      "VIIDEO": 0.48129841685295105,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.2131473422050476,
+      "MUSIQ": 58.27177016927589
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_03_02",
+    "video_path": "./Video/CogvideoX-3/L3_03_02.mp4",
+    "score": {
+      "BRISQUE": 29.724489200189247,
+      "RAFT": false,
+      "VideoScore": [
+        2.781,
+        2.797,
+        2.5,
+        2.469,
+        2.594
+      ],
+      "VIIDEO": 0.5534969568252563,
+      "Qalign": 4.87109375,
+      "ViCLIP": 0.22838157415390015,
+      "MUSIQ": 66.84455390598463
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_03_03",
+    "video_path": "./Video/CogvideoX-3/L3_03_03.mp4",
+    "score": {
+      "BRISQUE": 42.739365097898876,
+      "RAFT": true,
+      "VideoScore": [
+        3.094,
+        3.0,
+        3.078,
+        2.781,
+        2.844
+      ],
+      "VIIDEO": 0.5497147440910339,
+      "Qalign": 4.8515625,
+      "ViCLIP": 0.19328626990318298,
+      "MUSIQ": 62.0805089488533
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_03_04",
+    "video_path": "./Video/CogvideoX-3/L3_03_04.mp4",
+    "score": {
+      "BRISQUE": 47.95820911478552,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.531,
+        2.672,
+        2.312,
+        2.344
+      ],
+      "VIIDEO": 0.5691661238670349,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.23117299377918243,
+      "MUSIQ": 71.29032108946616
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_04_01",
+    "video_path": "./Video/CogvideoX-3/L3_04_01.mp4",
+    "score": {
+      "BRISQUE": 26.897774453488935,
+      "RAFT": true,
+      "VideoScore": [
+        3.031,
+        2.797,
+        3.219,
+        2.766,
+        2.672
+      ],
+      "VIIDEO": 0.6014513373374939,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.20491614937782288,
+      "MUSIQ": 71.2528902373699
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_04_02",
+    "video_path": "./Video/CogvideoX-3/L3_04_02.mp4",
+    "score": {
+      "BRISQUE": 42.06135777064732,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.547,
+        2.859,
+        2.375,
+        2.375
+      ],
+      "VIIDEO": 0.5780465602874756,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.21875746548175812,
+      "MUSIQ": 74.0057608562967
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_04_03",
+    "video_path": "./Video/CogvideoX-3/L3_04_03.mp4",
+    "score": {
+      "BRISQUE": 38.975056334311915,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.578,
+        2.828,
+        2.438,
+        2.531
+      ],
+      "VIIDEO": 0.4696519374847412,
+      "Qalign": 4.58203125,
+      "ViCLIP": 0.21641385555267334,
+      "MUSIQ": 58.815907045921186
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_04_04",
+    "video_path": "./Video/CogvideoX-3/L3_04_04.mp4",
+    "score": {
+      "BRISQUE": 35.68325218058521,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.422,
+        2.625,
+        2.406,
+        1.984
+      ],
+      "VIIDEO": 0.5282664895057678,
+      "Qalign": 4.62109375,
+      "ViCLIP": 0.21403959393501282,
+      "MUSIQ": 63.01679307925775
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_05_01",
+    "video_path": "./Video/CogvideoX-3/L3_05_01.mp4",
+    "score": {
+      "BRISQUE": 11.808792019482725,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.688,
+        2.672,
+        2.641,
+        2.641
+      ],
+      "VIIDEO": 0.6857032775878906,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.20365679264068604,
+      "MUSIQ": 64.30982167972542
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_05_02",
+    "video_path": "./Video/CogvideoX-3/L3_05_02.mp4",
+    "score": {
+      "BRISQUE": 26.51119521241751,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.766,
+        2.594,
+        2.625,
+        2.766
+      ],
+      "VIIDEO": 0.5444355010986328,
+      "Qalign": 4.15625,
+      "ViCLIP": 0.17956511676311493,
+      "MUSIQ": 67.07954236143124
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_05_03",
+    "video_path": "./Video/CogvideoX-3/L3_05_03.mp4",
+    "score": {
+      "BRISQUE": 35.97406157499515,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.656,
+        2.609,
+        2.547,
+        2.375
+      ],
+      "VIIDEO": 0.5510731339454651,
+      "Qalign": 4.90234375,
+      "ViCLIP": 0.26220205426216125,
+      "MUSIQ": 78.23917303618437
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_05_04",
+    "video_path": "./Video/CogvideoX-3/L3_05_04.mp4",
+    "score": {
+      "BRISQUE": 25.44823725919546,
+      "RAFT": false,
+      "VideoScore": [
+        2.859,
+        2.969,
+        2.719,
+        2.734,
+        2.859
+      ],
+      "VIIDEO": 0.6824918985366821,
+      "Qalign": 4.8984375,
+      "ViCLIP": 0.16830092668533325,
+      "MUSIQ": 76.00180011062149
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_06_01",
+    "video_path": "./Video/CogvideoX-3/L3_06_01.mp4",
+    "score": {
+      "BRISQUE": 47.420602360127134,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.688,
+        2.688,
+        2.672,
+        2.672
+      ],
+      "VIIDEO": 0.5468798875808716,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.17341315746307373,
+      "MUSIQ": 44.988693687486354
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_06_02",
+    "video_path": "./Video/CogvideoX-3/L3_06_02.mp4",
+    "score": {
+      "BRISQUE": 25.89005597037558,
+      "RAFT": false,
+      "VideoScore": [
+        2.906,
+        2.953,
+        2.688,
+        2.562,
+        2.562
+      ],
+      "VIIDEO": 0.6731339693069458,
+      "Qalign": 4.9140625,
+      "ViCLIP": 0.24945977330207825,
+      "MUSIQ": 75.7246823992048
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_06_03",
+    "video_path": "./Video/CogvideoX-3/L3_06_03.mp4",
+    "score": {
+      "BRISQUE": 34.466946619638,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.672,
+        2.719,
+        2.641,
+        2.422
+      ],
+      "VIIDEO": 0.4618934392929077,
+      "Qalign": 4.87890625,
+      "ViCLIP": 0.1783681958913803,
+      "MUSIQ": 62.32932949658506
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_06_04",
+    "video_path": "./Video/CogvideoX-3/L3_06_04.mp4",
+    "score": {
+      "BRISQUE": 42.44165607713024,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.562,
+        2.984,
+        2.688,
+        2.281
+      ],
+      "VIIDEO": 0.6065607070922852,
+      "Qalign": 4.34375,
+      "ViCLIP": 0.2143097072839737,
+      "MUSIQ": 72.31324952877827
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_07_01",
+    "video_path": "./Video/CogvideoX-3/L3_07_01.mp4",
+    "score": {
+      "BRISQUE": 24.723579359350737,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.812,
+        2.875,
+        2.75,
+        2.672
+      ],
+      "VIIDEO": 0.5365960597991943,
+      "Qalign": 4.55078125,
+      "ViCLIP": 0.18888309597969055,
+      "MUSIQ": 68.15303487363069
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_07_02",
+    "video_path": "./Video/CogvideoX-3/L3_07_02.mp4",
+    "score": {
+      "BRISQUE": 32.03559411090353,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.531,
+        2.875,
+        2.719,
+        2.531
+      ],
+      "VIIDEO": 0.6079766750335693,
+      "Qalign": 4.44921875,
+      "ViCLIP": 0.2171749770641327,
+      "MUSIQ": 66.64204710018561
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_07_03",
+    "video_path": "./Video/CogvideoX-3/L3_07_03.mp4",
+    "score": {
+      "BRISQUE": 44.5035707461908,
+      "RAFT": true,
+      "VideoScore": [
+        3.344,
+        3.125,
+        3.391,
+        2.922,
+        3.125
+      ],
+      "VIIDEO": 0.5799148678779602,
+      "Qalign": 4.58984375,
+      "ViCLIP": 0.20671740174293518,
+      "MUSIQ": 77.87358093261719
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_07_04",
+    "video_path": "./Video/CogvideoX-3/L3_07_04.mp4",
+    "score": {
+      "BRISQUE": 35.26821008528241,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.391,
+        2.75,
+        2.516,
+        2.438
+      ],
+      "VIIDEO": 0.6135154366493225,
+      "Qalign": 4.4765625,
+      "ViCLIP": 0.18779197335243225,
+      "MUSIQ": 76.57524426383262
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_08_01",
+    "video_path": "./Video/CogvideoX-3/L3_08_01.mp4",
+    "score": {
+      "BRISQUE": 34.17773247949825,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.578,
+        2.875,
+        2.766,
+        2.578
+      ],
+      "VIIDEO": 0.551274299621582,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.18400226533412933,
+      "MUSIQ": 68.01526613413176
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_08_02",
+    "video_path": "./Video/CogvideoX-3/L3_08_02.mp4",
+    "score": {
+      "BRISQUE": 34.1455969010821,
+      "RAFT": true,
+      "VideoScore": [
+        3.5,
+        3.438,
+        3.469,
+        3.031,
+        3.266
+      ],
+      "VIIDEO": 0.6009954214096069,
+      "Qalign": 4.68359375,
+      "ViCLIP": 0.24812385439872742,
+      "MUSIQ": 78.6287579269883
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_08_03",
+    "video_path": "./Video/CogvideoX-3/L3_08_03.mp4",
+    "score": {
+      "BRISQUE": 46.258153311214095,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.469,
+        2.594,
+        2.328,
+        2.453
+      ],
+      "VIIDEO": 0.49295204877853394,
+      "Qalign": 4.19921875,
+      "ViCLIP": 0.24960412085056305,
+      "MUSIQ": 51.09307861328125
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_08_04",
+    "video_path": "./Video/CogvideoX-3/L3_08_04.mp4",
+    "score": {
+      "BRISQUE": 34.93354939525912,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.5,
+        2.766,
+        2.547,
+        2.25
+      ],
+      "VIIDEO": 0.5760047435760498,
+      "Qalign": 4.6484375,
+      "ViCLIP": 0.19240547716617584,
+      "MUSIQ": 69.6483707783385
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_09_01",
+    "video_path": "./Video/CogvideoX-3/L3_09_01.mp4",
+    "score": {
+      "BRISQUE": 33.492240194948565,
+      "RAFT": false,
+      "VideoScore": [
+        2.766,
+        2.594,
+        2.656,
+        2.453,
+        2.297
+      ],
+      "VIIDEO": 0.42054155468940735,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.19390669465065002,
+      "MUSIQ": 72.39039535996336
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_09_02",
+    "video_path": "./Video/CogvideoX-3/L3_09_02.mp4",
+    "score": {
+      "BRISQUE": 25.138075550150425,
+      "RAFT": true,
+      "VideoScore": [
+        3.172,
+        3.0,
+        3.078,
+        2.625,
+        2.734
+      ],
+      "VIIDEO": 0.525253415107727,
+      "Qalign": 4.67578125,
+      "ViCLIP": 0.29178863763809204,
+      "MUSIQ": 74.44337596064028
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_09_03",
+    "video_path": "./Video/CogvideoX-3/L3_09_03.mp4",
+    "score": {
+      "BRISQUE": 35.52849735236316,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.703,
+        2.562,
+        2.562,
+        2.531
+      ],
+      "VIIDEO": 0.44714415073394775,
+      "Qalign": 4.86328125,
+      "ViCLIP": 0.2604917585849762,
+      "MUSIQ": 71.8047661633225
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_09_04",
+    "video_path": "./Video/CogvideoX-3/L3_09_04.mp4",
+    "score": {
+      "BRISQUE": 38.5818140254998,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.766,
+        2.656,
+        2.375,
+        2.266
+      ],
+      "VIIDEO": 0.543158233165741,
+      "Qalign": 4.74609375,
+      "ViCLIP": 0.19446726143360138,
+      "MUSIQ": 74.47592601420716
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_10_01",
+    "video_path": "./Video/CogvideoX-3/L3_10_01.mp4",
+    "score": {
+      "BRISQUE": 42.16715406334919,
+      "RAFT": true,
+      "VideoScore": [
+        3.219,
+        2.938,
+        3.266,
+        2.875,
+        2.75
+      ],
+      "VIIDEO": 0.4323102831840515,
+      "Qalign": 4.609375,
+      "ViCLIP": 0.17991049587726593,
+      "MUSIQ": 75.94473873162121
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_10_02",
+    "video_path": "./Video/CogvideoX-3/L3_10_02.mp4",
+    "score": {
+      "BRISQUE": 36.241169615561915,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.594,
+        2.547,
+        2.453,
+        2.391
+      ],
+      "VIIDEO": 0.4449324607849121,
+      "Qalign": 4.57421875,
+      "ViCLIP": 0.24552783370018005,
+      "MUSIQ": 50.662909347818506
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_10_03",
+    "video_path": "./Video/CogvideoX-3/L3_10_03.mp4",
+    "score": {
+      "BRISQUE": 33.83790086070943,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.344,
+        2.766,
+        2.422,
+        2.188
+      ],
+      "VIIDEO": 0.5530391931533813,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.18325482308864594,
+      "MUSIQ": 66.87451716831752
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_10_04",
+    "video_path": "./Video/CogvideoX-3/L3_10_04.mp4",
+    "score": {
+      "BRISQUE": 8.391860488038626,
+      "RAFT": true,
+      "VideoScore": [
+        3.5,
+        3.375,
+        3.547,
+        3.062,
+        3.312
+      ],
+      "VIIDEO": 0.5614157319068909,
+      "Qalign": 4.734375,
+      "ViCLIP": 0.2215813398361206,
+      "MUSIQ": 72.00512354122185
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_11_01",
+    "video_path": "./Video/CogvideoX-3/L3_11_01.mp4",
+    "score": {
+      "BRISQUE": 36.350016907875585,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.625,
+        2.812,
+        2.547,
+        2.328
+      ],
+      "VIIDEO": 0.5080019235610962,
+      "Qalign": 4.59375,
+      "ViCLIP": 0.23498928546905518,
+      "MUSIQ": 59.225752694266184
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_11_02",
+    "video_path": "./Video/CogvideoX-3/L3_11_02.mp4",
+    "score": {
+      "BRISQUE": 31.94430068116751,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.875,
+        2.625,
+        2.578,
+        2.625
+      ],
+      "VIIDEO": 0.5197214484214783,
+      "Qalign": 4.8359375,
+      "ViCLIP": 0.14797735214233398,
+      "MUSIQ": 71.1205451444069
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_11_03",
+    "video_path": "./Video/CogvideoX-3/L3_11_03.mp4",
+    "score": {
+      "BRISQUE": 36.1496851192498,
+      "RAFT": true,
+      "VideoScore": [
+        3.281,
+        3.25,
+        3.328,
+        2.906,
+        3.125
+      ],
+      "VIIDEO": 0.5573632717132568,
+      "Qalign": 4.4375,
+      "ViCLIP": 0.2230660319328308,
+      "MUSIQ": 70.13959823039748
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_11_04",
+    "video_path": "./Video/CogvideoX-3/L3_11_04.mp4",
+    "score": {
+      "BRISQUE": 47.314478524723405,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.703,
+        2.609,
+        2.438,
+        2.344
+      ],
+      "VIIDEO": 0.5114718675613403,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.18414655327796936,
+      "MUSIQ": 53.73992585839692
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_12_01",
+    "video_path": "./Video/CogvideoX-3/L3_12_01.mp4",
+    "score": {
+      "BRISQUE": 40.13013870523583,
+      "RAFT": false,
+      "VideoScore": [
+        3.109,
+        2.953,
+        3.062,
+        2.844,
+        2.844
+      ],
+      "VIIDEO": 0.49173709750175476,
+      "Qalign": 4.87109375,
+      "ViCLIP": 0.25245681405067444,
+      "MUSIQ": 72.77931393451573
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_12_02",
+    "video_path": "./Video/CogvideoX-3/L3_12_02.mp4",
+    "score": {
+      "BRISQUE": 42.604745047433035,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.75,
+        2.562,
+        2.703,
+        2.672
+      ],
+      "VIIDEO": 0.4208495318889618,
+      "Qalign": 4.35546875,
+      "ViCLIP": 0.24031779170036316,
+      "MUSIQ": 47.46663488068196
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_12_03",
+    "video_path": "./Video/CogvideoX-3/L3_12_03.mp4",
+    "score": {
+      "BRISQUE": 42.87378498338024,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.641,
+        2.625,
+        2.5,
+        2.281
+      ],
+      "VIIDEO": 0.5311112999916077,
+      "Qalign": 4.4140625,
+      "ViCLIP": 0.20989517867565155,
+      "MUSIQ": 72.43923376806035
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_12_04",
+    "video_path": "./Video/CogvideoX-3/L3_12_04.mp4",
+    "score": {
+      "BRISQUE": 30.928554369055707,
+      "RAFT": true,
+      "VideoScore": [
+        3.594,
+        3.531,
+        3.672,
+        3.172,
+        3.438
+      ],
+      "VIIDEO": 0.5486905574798584,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.23198872804641724,
+      "MUSIQ": 67.32820181520829
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_13_01",
+    "video_path": "./Video/CogvideoX-3/L3_13_01.mp4",
+    "score": {
+      "BRISQUE": 24.96007732130726,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.859,
+        2.828,
+        2.797,
+        2.828
+      ],
+      "VIIDEO": 0.6013708710670471,
+      "Qalign": 4.34375,
+      "ViCLIP": 0.21760112047195435,
+      "MUSIQ": 57.23967541522861
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_13_02",
+    "video_path": "./Video/CogvideoX-3/L3_13_02.mp4",
+    "score": {
+      "BRISQUE": 36.562331300344525,
+      "RAFT": true,
+      "VideoScore": [
+        3.031,
+        2.844,
+        3.062,
+        2.656,
+        2.641
+      ],
+      "VIIDEO": 0.56038498878479,
+      "Qalign": 4.82421875,
+      "ViCLIP": 0.21165257692337036,
+      "MUSIQ": 75.02534887657403
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_13_03",
+    "video_path": "./Video/CogvideoX-3/L3_13_03.mp4",
+    "score": {
+      "BRISQUE": 40.3849760256939,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.641,
+        2.438,
+        2.391,
+        2.344
+      ],
+      "VIIDEO": 0.5582609176635742,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.24427583813667297,
+      "MUSIQ": 52.943471067440434
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_13_04",
+    "video_path": "./Video/CogvideoX-3/L3_13_04.mp4",
+    "score": {
+      "BRISQUE": 38.95823337720788,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.562,
+        2.562,
+        2.234,
+        2.25
+      ],
+      "VIIDEO": 0.6821186542510986,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.16567936539649963,
+      "MUSIQ": 77.14569328734594
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_14_01",
+    "video_path": "./Video/CogvideoX-3/L3_14_01.mp4",
+    "score": {
+      "BRISQUE": 43.38033280461471,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.547,
+        2.891,
+        2.766,
+        2.469
+      ],
+      "VIIDEO": 0.49580812454223633,
+      "Qalign": 4.6953125,
+      "ViCLIP": 0.1574748158454895,
+      "MUSIQ": 70.14665643917107
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_14_02",
+    "video_path": "./Video/CogvideoX-3/L3_14_02.mp4",
+    "score": {
+      "BRISQUE": 29.568302889047942,
+      "RAFT": false,
+      "VideoScore": [
+        3.375,
+        3.219,
+        3.406,
+        3.094,
+        3.188
+      ],
+      "VIIDEO": 0.4969024956226349,
+      "Qalign": 4.73046875,
+      "ViCLIP": 0.2646266222000122,
+      "MUSIQ": 73.01836305227339
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_14_03",
+    "video_path": "./Video/CogvideoX-3/L3_14_03.mp4",
+    "score": {
+      "BRISQUE": 52.58657249308521,
+      "RAFT": true,
+      "VideoScore": [
+        3.219,
+        3.125,
+        3.234,
+        3.172,
+        3.125
+      ],
+      "VIIDEO": 0.5294497013092041,
+      "Qalign": 4.80859375,
+      "ViCLIP": 0.1800600290298462,
+      "MUSIQ": 76.35578198166367
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_14_04",
+    "video_path": "./Video/CogvideoX-3/L3_14_04.mp4",
+    "score": {
+      "BRISQUE": 40.83200812487869,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.469,
+        2.766,
+        2.656,
+        2.391
+      ],
+      "VIIDEO": 0.5830219388008118,
+      "Qalign": 4.51953125,
+      "ViCLIP": 0.22614461183547974,
+      "MUSIQ": 70.47446863399529
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_15_01",
+    "video_path": "./Video/CogvideoX-3/L3_15_01.mp4",
+    "score": {
+      "BRISQUE": 16.324653578100737,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.516,
+        2.609,
+        2.422,
+        2.25
+      ],
+      "VIIDEO": 0.47103023529052734,
+      "Qalign": 4.71484375,
+      "ViCLIP": 0.21171920001506805,
+      "MUSIQ": 66.96962851767215
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_15_02",
+    "video_path": "./Video/CogvideoX-3/L3_15_02.mp4",
+    "score": {
+      "BRISQUE": 23.801980344405084,
+      "RAFT": true,
+      "VideoScore": [
+        3.078,
+        2.984,
+        3.172,
+        2.672,
+        2.812
+      ],
+      "VIIDEO": 0.5490840673446655,
+      "Qalign": 4.8203125,
+      "ViCLIP": 0.1813746839761734,
+      "MUSIQ": 73.01213272758152
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_15_03",
+    "video_path": "./Video/CogvideoX-3/L3_15_03.mp4",
+    "score": {
+      "BRISQUE": 25.77547668077931,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.469,
+        2.766,
+        2.469,
+        2.203
+      ],
+      "VIIDEO": 0.5238215327262878,
+      "Qalign": 4.5703125,
+      "ViCLIP": 0.21476861834526062,
+      "MUSIQ": 69.91061583809231
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L3_15_04",
+    "video_path": "./Video/CogvideoX-3/L3_15_04.mp4",
+    "score": {
+      "BRISQUE": 46.64679485818614,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.562,
+        2.688,
+        2.469,
+        2.359
+      ],
+      "VIIDEO": 0.576867401599884,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.25096720457077026,
+      "MUSIQ": 61.0873658316476
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_01_01",
+    "video_path": "./Video/CogvideoX-3/L4_01_01.mp4",
+    "score": {
+      "BRISQUE": 33.23743320251844,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.688,
+        2.75,
+        2.562,
+        2.438
+      ],
+      "VIIDEO": 0.5419197678565979,
+      "Qalign": 4.90234375,
+      "ViCLIP": 0.2405465543270111,
+      "MUSIQ": 75.6199552405695
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_01_02",
+    "video_path": "./Video/CogvideoX-3/L4_01_02.mp4",
+    "score": {
+      "BRISQUE": 35.3619722164936,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.516,
+        2.562,
+        2.188,
+        2.156
+      ],
+      "VIIDEO": 0.5623890161514282,
+      "Qalign": 4.5703125,
+      "ViCLIP": 0.22941571474075317,
+      "MUSIQ": 70.85964653062524
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_01_03",
+    "video_path": "./Video/CogvideoX-3/L4_01_03.mp4",
+    "score": {
+      "BRISQUE": 40.4990579356318,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.5,
+        2.688,
+        2.328,
+        2.25
+      ],
+      "VIIDEO": 0.5726552605628967,
+      "Qalign": 4.7421875,
+      "ViCLIP": 0.2707875370979309,
+      "MUSIQ": 74.99937538478686
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_01_04",
+    "video_path": "./Video/CogvideoX-3/L4_01_04.mp4",
+    "score": {
+      "BRISQUE": 19.85190937681968,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.938,
+        2.766,
+        2.766,
+        2.828
+      ],
+      "VIIDEO": 0.5830367803573608,
+      "Qalign": 4.8515625,
+      "ViCLIP": 0.1917155236005783,
+      "MUSIQ": 77.49644005816916
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_02_01",
+    "video_path": "./Video/CogvideoX-3/L4_02_01.mp4",
+    "score": {
+      "BRISQUE": 30.269620338582104,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.672,
+        2.688,
+        2.484,
+        2.484
+      ],
+      "VIIDEO": 0.45952051877975464,
+      "Qalign": 4.87890625,
+      "ViCLIP": 0.2421928197145462,
+      "MUSIQ": 65.27727541716203
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_02_02",
+    "video_path": "./Video/CogvideoX-3/L4_02_02.mp4",
+    "score": {
+      "BRISQUE": 16.18512038710695,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.312,
+        2.688,
+        2.297,
+        1.969
+      ],
+      "VIIDEO": 0.5871658325195312,
+      "Qalign": 4.921875,
+      "ViCLIP": 0.2424185574054718,
+      "MUSIQ": 75.39780809864494
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_02_03",
+    "video_path": "./Video/CogvideoX-3/L4_02_03.mp4",
+    "score": {
+      "BRISQUE": 44.41085189914111,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.5,
+        2.797,
+        2.484,
+        2.375
+      ],
+      "VIIDEO": 0.4603429436683655,
+      "Qalign": 4.71484375,
+      "ViCLIP": 0.2277221381664276,
+      "MUSIQ": 77.59278239374575
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_02_04",
+    "video_path": "./Video/CogvideoX-3/L4_02_04.mp4",
+    "score": {
+      "BRISQUE": 34.11264853151689,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.406,
+        2.953,
+        2.484,
+        2.25
+      ],
+      "VIIDEO": 0.5452619791030884,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.23496957123279572,
+      "MUSIQ": 46.75963002554378
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_03_01",
+    "video_path": "./Video/CogvideoX-3/L4_03_01.mp4",
+    "score": {
+      "BRISQUE": 41.34697197386937,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.797,
+        2.594,
+        2.609,
+        2.719
+      ],
+      "VIIDEO": 0.48915335536003113,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.2358638346195221,
+      "MUSIQ": 63.15682516631132
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_03_02",
+    "video_path": "./Video/CogvideoX-3/L4_03_02.mp4",
+    "score": {
+      "BRISQUE": 19.011850297821233,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.703,
+        2.625,
+        2.531,
+        2.641
+      ],
+      "VIIDEO": 0.6225265264511108,
+      "Qalign": 4.55859375,
+      "ViCLIP": 0.2618959844112396,
+      "MUSIQ": 76.99448897083353
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_03_03",
+    "video_path": "./Video/CogvideoX-3/L4_03_03.mp4",
+    "score": {
+      "BRISQUE": 36.27260158372962,
+      "RAFT": true,
+      "VideoScore": [
+        2.906,
+        2.828,
+        2.984,
+        2.672,
+        2.609
+      ],
+      "VIIDEO": 0.7080161571502686,
+      "Qalign": 4.8984375,
+      "ViCLIP": 0.22548244893550873,
+      "MUSIQ": 76.20746631503846
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_03_04",
+    "video_path": "./Video/CogvideoX-3/L4_03_04.mp4",
+    "score": {
+      "BRISQUE": 31.86513239700602,
+      "RAFT": false,
+      "VideoScore": [
+        2.766,
+        2.906,
+        2.594,
+        2.562,
+        2.688
+      ],
+      "VIIDEO": 0.48207810521125793,
+      "Qalign": 4.75390625,
+      "ViCLIP": 0.24706552922725677,
+      "MUSIQ": 68.47295758739021
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_04_01",
+    "video_path": "./Video/CogvideoX-3/L4_04_01.mp4",
+    "score": {
+      "BRISQUE": 38.213003976004465,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.797,
+        2.594,
+        2.75,
+        2.734
+      ],
+      "VIIDEO": 0.4315745532512665,
+      "Qalign": 4.85546875,
+      "ViCLIP": 0.26622968912124634,
+      "MUSIQ": 53.86784519171863
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_04_02",
+    "video_path": "./Video/CogvideoX-3/L4_04_02.mp4",
+    "score": {
+      "BRISQUE": 19.924545003760674,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.562,
+        2.703,
+        2.516,
+        2.391
+      ],
+      "VIIDEO": 0.5269538164138794,
+      "Qalign": 4.84765625,
+      "ViCLIP": 0.2275402545928955,
+      "MUSIQ": 71.06681875856766
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_04_03",
+    "video_path": "./Video/CogvideoX-3/L4_04_03.mp4",
+    "score": {
+      "BRISQUE": 35.882349618473405,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.688,
+        2.781,
+        2.484,
+        2.531
+      ],
+      "VIIDEO": 0.6261146664619446,
+      "Qalign": 4.4609375,
+      "ViCLIP": 0.23577478528022766,
+      "MUSIQ": 72.01289706496719
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_04_04",
+    "video_path": "./Video/CogvideoX-3/L4_04_04.mp4",
+    "score": {
+      "BRISQUE": 31.709376743861608,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.594,
+        2.875,
+        2.641,
+        2.469
+      ],
+      "VIIDEO": 0.5125113129615784,
+      "Qalign": 4.68359375,
+      "ViCLIP": 0.18509729206562042,
+      "MUSIQ": 78.11719778309698
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_05_01",
+    "video_path": "./Video/CogvideoX-3/L4_05_01.mp4",
+    "score": {
+      "BRISQUE": 26.906797041804154,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.281,
+        2.641,
+        2.297,
+        1.984
+      ],
+      "VIIDEO": 0.5257672667503357,
+      "Qalign": 4.65234375,
+      "ViCLIP": 0.24198871850967407,
+      "MUSIQ": 73.93340254126129
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_05_02",
+    "video_path": "./Video/CogvideoX-3/L4_05_02.mp4",
+    "score": {
+      "BRISQUE": 44.17268589564732,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.422,
+        2.578,
+        2.375,
+        2.188
+      ],
+      "VIIDEO": 0.5032749176025391,
+      "Qalign": 4.484375,
+      "ViCLIP": 0.22487786412239075,
+      "MUSIQ": 75.11731990079701
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_05_03",
+    "video_path": "./Video/CogvideoX-3/L4_05_03.mp4",
+    "score": {
+      "BRISQUE": 38.65409481451378,
+      "RAFT": true,
+      "VideoScore": [
+        3.25,
+        3.188,
+        3.344,
+        3.031,
+        3.094
+      ],
+      "VIIDEO": 0.5253636837005615,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.23099568486213684,
+      "MUSIQ": 70.20955075092198
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_05_04",
+    "video_path": "./Video/CogvideoX-3/L4_05_04.mp4",
+    "score": {
+      "BRISQUE": 38.4266649329144,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.781,
+        2.562,
+        2.656,
+        2.766
+      ],
+      "VIIDEO": 0.644768476486206,
+      "Qalign": 4.44140625,
+      "ViCLIP": 0.2664451003074646,
+      "MUSIQ": 72.91334727980335
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_06_01",
+    "video_path": "./Video/CogvideoX-3/L4_06_01.mp4",
+    "score": {
+      "BRISQUE": 47.8848577463849,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.766,
+        2.562,
+        2.406,
+        2.438
+      ],
+      "VIIDEO": 0.4533495008945465,
+      "Qalign": 4.84375,
+      "ViCLIP": 0.22058188915252686,
+      "MUSIQ": 55.62498196903963
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_06_02",
+    "video_path": "./Video/CogvideoX-3/L4_06_02.mp4",
+    "score": {
+      "BRISQUE": 35.79279701754173,
+      "RAFT": false,
+      "VideoScore": [
+        2.938,
+        2.969,
+        2.828,
+        2.781,
+        2.875
+      ],
+      "VIIDEO": 0.6887849569320679,
+      "Qalign": 4.80078125,
+      "ViCLIP": 0.22740882635116577,
+      "MUSIQ": 80.15995878610552
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_06_03",
+    "video_path": "./Video/CogvideoX-3/L4_06_03.mp4",
+    "score": {
+      "BRISQUE": 36.954563685825896,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.75,
+        2.562,
+        2.375,
+        2.438
+      ],
+      "VIIDEO": 0.5146979093551636,
+      "Qalign": 4.765625,
+      "ViCLIP": 0.24698497354984283,
+      "MUSIQ": 56.19902396350174
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_06_04",
+    "video_path": "./Video/CogvideoX-3/L4_06_04.mp4",
+    "score": {
+      "BRISQUE": 33.45970731936627,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.75,
+        2.734,
+        2.344,
+        2.562
+      ],
+      "VIIDEO": 0.5632752180099487,
+      "Qalign": 4.4609375,
+      "ViCLIP": 0.14657096564769745,
+      "MUSIQ": 69.55938692270598
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_07_01",
+    "video_path": "./Video/CogvideoX-3/L4_07_01.mp4",
+    "score": {
+      "BRISQUE": 39.19496486497962,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.922,
+        2.578,
+        2.672,
+        2.656
+      ],
+      "VIIDEO": 0.5406249165534973,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.22136174142360687,
+      "MUSIQ": 69.01573801929166
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_07_02",
+    "video_path": "./Video/CogvideoX-3/L4_07_02.mp4",
+    "score": {
+      "BRISQUE": 39.09800009401689,
+      "RAFT": true,
+      "VideoScore": [
+        2.969,
+        2.969,
+        2.906,
+        2.625,
+        2.781
+      ],
+      "VIIDEO": 0.5216235518455505,
+      "Qalign": 4.65234375,
+      "ViCLIP": 0.2323991060256958,
+      "MUSIQ": 60.52554423172281
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_07_03",
+    "video_path": "./Video/CogvideoX-3/L4_07_03.mp4",
+    "score": {
+      "BRISQUE": 19.784541728333657,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.891,
+        2.703,
+        2.469,
+        2.719
+      ],
+      "VIIDEO": 0.6234414577484131,
+      "Qalign": 4.87109375,
+      "ViCLIP": 0.23996250331401825,
+      "MUSIQ": 76.3407158229662
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_07_04",
+    "video_path": "./Video/CogvideoX-3/L4_07_04.mp4",
+    "score": {
+      "BRISQUE": 34.83748233392372,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.844,
+        2.516,
+        2.484,
+        2.453
+      ],
+      "VIIDEO": 0.4662555456161499,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.24447372555732727,
+      "MUSIQ": 54.99932292677601
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_08_01",
+    "video_path": "./Video/CogvideoX-3/L4_08_01.mp4",
+    "score": {
+      "BRISQUE": 26.765383513077445,
+      "RAFT": false,
+      "VideoScore": [
+        2.734,
+        2.688,
+        2.781,
+        2.688,
+        2.484
+      ],
+      "VIIDEO": 0.7243661284446716,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.18647393584251404,
+      "MUSIQ": 76.73972166547124
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_08_02",
+    "video_path": "./Video/CogvideoX-3/L4_08_02.mp4",
+    "score": {
+      "BRISQUE": 31.803963797433035,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.469,
+        2.531,
+        2.203,
+        2.25
+      ],
+      "VIIDEO": 0.6821986436843872,
+      "Qalign": 4.44921875,
+      "ViCLIP": 0.2595435380935669,
+      "MUSIQ": 77.10534606364943
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_08_03",
+    "video_path": "./Video/CogvideoX-3/L4_08_03.mp4",
+    "score": {
+      "BRISQUE": 29.117673885748253,
+      "RAFT": true,
+      "VideoScore": [
+        3.406,
+        3.281,
+        3.422,
+        2.953,
+        3.172
+      ],
+      "VIIDEO": 0.5693419575691223,
+      "Qalign": 4.40625,
+      "ViCLIP": 0.2772280275821686,
+      "MUSIQ": 65.22948361035459
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_08_04",
+    "video_path": "./Video/CogvideoX-3/L4_08_04.mp4",
+    "score": {
+      "BRISQUE": 17.62767910216906,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.656,
+        2.641,
+        2.547,
+        2.609
+      ],
+      "VIIDEO": 0.5355154275894165,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.2025335729122162,
+      "MUSIQ": 69.28423569957663
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_09_01",
+    "video_path": "./Video/CogvideoX-3/L4_09_01.mp4",
+    "score": {
+      "BRISQUE": 24.378470663698565,
+      "RAFT": true,
+      "VideoScore": [
+        2.922,
+        2.969,
+        2.969,
+        2.688,
+        2.828
+      ],
+      "VIIDEO": 0.6577560901641846,
+      "Qalign": 4.91015625,
+      "ViCLIP": 0.2456943839788437,
+      "MUSIQ": 79.83762018428826
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_09_02",
+    "video_path": "./Video/CogvideoX-3/L4_09_02.mp4",
+    "score": {
+      "BRISQUE": 25.31880633431192,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.594,
+        2.703,
+        2.562,
+        2.484
+      ],
+      "VIIDEO": 0.5100099444389343,
+      "Qalign": 4.77734375,
+      "ViCLIP": 0.216110959649086,
+      "MUSIQ": 68.27885159794589
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_09_03",
+    "video_path": "./Video/CogvideoX-3/L4_09_03.mp4",
+    "score": {
+      "BRISQUE": 28.135079140988935,
+      "RAFT": true,
+      "VideoScore": [
+        3.688,
+        3.562,
+        3.797,
+        3.203,
+        3.516
+      ],
+      "VIIDEO": 0.47338244318962097,
+      "Qalign": 4.76953125,
+      "ViCLIP": 0.27326273918151855,
+      "MUSIQ": 76.3409300146636
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_09_04",
+    "video_path": "./Video/CogvideoX-3/L4_09_04.mp4",
+    "score": {
+      "BRISQUE": 33.57909056858987,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.844,
+        2.672,
+        2.703,
+        2.781
+      ],
+      "VIIDEO": 0.6268192529678345,
+      "Qalign": 4.62890625,
+      "ViCLIP": 0.22684286534786224,
+      "MUSIQ": 58.16758408161424
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_10_01",
+    "video_path": "./Video/CogvideoX-3/L4_10_01.mp4",
+    "score": {
+      "BRISQUE": 28.007986507060366,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.484,
+        2.656,
+        2.266,
+        2.25
+      ],
+      "VIIDEO": 0.5062469840049744,
+      "Qalign": 4.45703125,
+      "ViCLIP": 0.17940133810043335,
+      "MUSIQ": 74.72604374855942
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_10_02",
+    "video_path": "./Video/CogvideoX-3/L4_10_02.mp4",
+    "score": {
+      "BRISQUE": 32.80894972522807,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.672,
+        2.812,
+        2.641,
+        2.625
+      ],
+      "VIIDEO": 0.6813830137252808,
+      "Qalign": 4.90234375,
+      "ViCLIP": 0.25340205430984497,
+      "MUSIQ": 78.87080866653727
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_10_03",
+    "video_path": "./Video/CogvideoX-3/L4_10_03.mp4",
+    "score": {
+      "BRISQUE": 34.85960663031347,
+      "RAFT": true,
+      "VideoScore": [
+        2.969,
+        2.906,
+        2.953,
+        2.672,
+        2.734
+      ],
+      "VIIDEO": 0.6509939432144165,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.22988688945770264,
+      "MUSIQ": 75.73419004641704
+    }
+  },
+  {
+    "model": "CogvideoX-3",
+    "config_id": "L4_10_04",
+    "video_path": "./Video/CogvideoX-3/L4_10_04.mp4",
+    "score": {
+      "BRISQUE": 46.890811138271545,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.453,
+        2.688,
+        2.531,
+        2.359
+      ],
+      "VIIDEO": 0.44103866815567017,
+      "Qalign": 4.69921875,
+      "ViCLIP": 0.22644177079200745,
+      "MUSIQ": 58.4170099341351
+    }
+  }
+]

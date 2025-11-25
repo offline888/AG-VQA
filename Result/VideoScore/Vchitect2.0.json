@@ -1,0 +1,4402 @@
+[
+  {
+    "score": [
+      2.219,
+      1.453,
+      3.188,
+      2.938,
+      1.492
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_01.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      1.836,
+      3.219,
+      3.031,
+      1.766
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_02.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.758,
+      2.984,
+      2.766,
+      1.219
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_03.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.367,
+      3.156,
+      2.844,
+      1.25
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_04.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.828,
+      3.234,
+      2.984,
+      1.625
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_05.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.461,
+      3.094,
+      2.406,
+      1.383
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_06.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.562,
+      3.094,
+      2.812,
+      1.414
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_07.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.578,
+      3.172,
+      2.922,
+      1.633
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_08.mp4"
+  },
+  {
+    "score": [
+      2.047,
+      1.25,
+      3.141,
+      2.734,
+      1.242
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_09.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.523,
+      3.172,
+      2.844,
+      1.461
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_10.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.391,
+      3.141,
+      2.672,
+      1.352
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_11.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.484,
+      3.188,
+      2.953,
+      1.383
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_12.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.867,
+      3.234,
+      3.016,
+      1.711
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_13.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.406,
+      3.219,
+      2.922,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_14.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.57,
+      3.188,
+      3.0,
+      1.43
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_15.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.281,
+      3.266,
+      3.047,
+      2.172
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_16.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.109,
+      3.188,
+      2.922,
+      1.773
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_17.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.891,
+      2.969,
+      2.781,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B11_18.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.688,
+      3.188,
+      2.922,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_01.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.578,
+      3.188,
+      2.812,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_02.mp4"
+  },
+  {
+    "score": [
+      3.391,
+      3.328,
+      3.688,
+      3.359,
+      3.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_03.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.523,
+      3.141,
+      2.844,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.742,
+      3.203,
+      3.016,
+      1.617
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_05.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.875,
+      3.141,
+      2.875,
+      1.812
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_06.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.789,
+      3.25,
+      3.047,
+      1.711
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_07.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.109,
+      3.203,
+      3.094,
+      1.969
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_08.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.75,
+      3.031,
+      2.75,
+      1.398
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_09.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.773,
+      3.203,
+      3.0,
+      1.609
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_10.mp4"
+  },
+  {
+    "score": [
+      2.078,
+      1.477,
+      3.188,
+      2.906,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_11.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.555,
+      3.172,
+      2.812,
+      1.523
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B12_12.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.359,
+      3.094,
+      2.812,
+      1.289
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.797,
+      3.203,
+      2.953,
+      1.773
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_02.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.344,
+      3.188,
+      2.625,
+      1.445
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_03.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.281,
+      3.109,
+      2.891,
+      2.219
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_04.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.75,
+      3.062,
+      2.875,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_05.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.695,
+      3.109,
+      2.859,
+      1.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_06.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.742,
+      3.203,
+      2.969,
+      1.859
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_07.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.531,
+      3.172,
+      2.938,
+      1.492
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_08.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.414,
+      3.172,
+      2.812,
+      1.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_09.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.836,
+      3.172,
+      2.969,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_10.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.344,
+      3.078,
+      2.484,
+      1.266
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_11.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.375,
+      3.125,
+      2.484,
+      1.352
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B13_12.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.078,
+      3.266,
+      3.141,
+      1.891
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.484,
+      3.203,
+      3.031,
+      1.453
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_02.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.641,
+      3.219,
+      2.891,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_03.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      1.805,
+      3.188,
+      3.094,
+      1.703
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_04.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.578,
+      3.094,
+      2.734,
+      1.461
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_05.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.609,
+      3.172,
+      2.812,
+      1.516
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_06.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.391,
+      3.078,
+      2.75,
+      1.141
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_07.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.742,
+      3.203,
+      3.016,
+      1.609
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_08.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.203,
+      3.141,
+      3.0,
+      2.094
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_09.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.57,
+      3.109,
+      2.719,
+      1.445
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_10.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.648,
+      3.219,
+      2.922,
+      1.578
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_11.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.672,
+      3.203,
+      2.719,
+      1.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_12.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.656,
+      3.203,
+      2.906,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_13.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.57,
+      3.172,
+      2.984,
+      1.453
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_14.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.539,
+      3.203,
+      2.938,
+      1.383
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B14_15.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.219,
+      3.094,
+      2.844,
+      2.047
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_01.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.711,
+      3.156,
+      3.031,
+      1.656
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.945,
+      3.156,
+      3.094,
+      1.844
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.602,
+      3.141,
+      2.891,
+      1.438
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_04.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.062,
+      3.156,
+      3.016,
+      1.828
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_05.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.695,
+      3.094,
+      2.609,
+      1.57
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_06.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.859,
+      3.219,
+      2.875,
+      1.859
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_07.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.992,
+      3.203,
+      2.641,
+      2.141
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_08.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.703,
+      3.266,
+      3.0,
+      1.648
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_09.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.016,
+      3.094,
+      2.969,
+      1.719
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_10.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.625,
+      3.094,
+      2.875,
+      1.516
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_11.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.297,
+      3.422,
+      3.109,
+      2.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B15_12.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.594,
+      3.172,
+      2.766,
+      1.602
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_01.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.312,
+      3.141,
+      2.844,
+      1.234
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_02.mp4"
+  },
+  {
+    "score": [
+      2.062,
+      1.297,
+      3.156,
+      2.703,
+      1.453
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_03.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.617,
+      3.094,
+      2.938,
+      1.523
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_04.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.219,
+      3.438,
+      2.844,
+      2.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_05.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.289,
+      3.109,
+      2.672,
+      1.297
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_06.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.297,
+      3.172,
+      2.906,
+      1.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_07.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.695,
+      3.203,
+      3.047,
+      1.703
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_08.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.625,
+      3.188,
+      3.0,
+      1.492
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_09.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.852,
+      3.203,
+      3.0,
+      1.82
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_10.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.641,
+      3.219,
+      2.859,
+      1.508
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_11.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.805,
+      3.109,
+      2.938,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_12.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.602,
+      3.047,
+      2.438,
+      1.359
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_13.mp4"
+  },
+  {
+    "score": [
+      2.047,
+      1.297,
+      3.078,
+      2.516,
+      1.211
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B21_14.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.656,
+      3.219,
+      3.0,
+      1.648
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_01.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.367,
+      3.188,
+      2.688,
+      1.391
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_02.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.344,
+      3.094,
+      2.797,
+      1.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_03.mp4"
+  },
+  {
+    "score": [
+      2.0,
+      1.18,
+      3.094,
+      2.781,
+      1.156
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.555,
+      3.281,
+      2.953,
+      1.516
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_05.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.555,
+      3.109,
+      2.844,
+      1.523
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_06.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.539,
+      3.219,
+      3.0,
+      1.547
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_07.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.125,
+      3.391,
+      3.094,
+      1.938
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_08.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.664,
+      3.125,
+      2.672,
+      1.438
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_09.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.625,
+      3.172,
+      2.906,
+      1.539
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_10.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.703,
+      3.188,
+      2.828,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_11.mp4"
+  },
+  {
+    "score": [
+      2.031,
+      1.461,
+      3.047,
+      2.531,
+      1.32
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B22_12.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.742,
+      3.172,
+      2.844,
+      1.742
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.812,
+      3.188,
+      2.969,
+      1.586
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_02.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.617,
+      3.156,
+      2.75,
+      1.664
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_03.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      1.906,
+      3.203,
+      2.719,
+      1.773
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_04.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.531,
+      3.172,
+      2.906,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_05.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.773,
+      3.109,
+      3.062,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_06.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.453,
+      3.125,
+      2.734,
+      1.547
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_07.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.688,
+      3.203,
+      3.062,
+      1.617
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_08.mp4"
+  },
+  {
+    "score": [
+      2.719,
+      2.328,
+      3.422,
+      3.094,
+      2.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_09.mp4"
+  },
+  {
+    "score": [
+      3.625,
+      3.375,
+      3.875,
+      3.484,
+      3.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_10.mp4"
+  },
+  {
+    "score": [
+      2.062,
+      1.18,
+      3.094,
+      2.641,
+      1.125
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_11.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.672,
+      3.219,
+      2.906,
+      1.516
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_12.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      1.961,
+      3.328,
+      2.688,
+      2.125
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_13.mp4"
+  },
+  {
+    "score": [
+      2.812,
+      2.453,
+      3.266,
+      3.031,
+      2.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B31_14.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.945,
+      3.219,
+      2.891,
+      1.906
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_01.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.875,
+      3.188,
+      3.0,
+      1.742
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_02.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.711,
+      3.062,
+      2.766,
+      1.445
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_03.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      1.969,
+      3.172,
+      3.062,
+      1.789
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_04.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.727,
+      3.172,
+      2.953,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_05.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.258,
+      3.125,
+      2.609,
+      1.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_06.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.062,
+      3.141,
+      2.828,
+      1.695
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_07.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.578,
+      3.172,
+      2.844,
+      1.492
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_08.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.547,
+      3.078,
+      2.75,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_09.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.016,
+      3.25,
+      2.859,
+      2.016
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_10.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.5,
+      3.156,
+      2.906,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B32_11.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.906,
+      2.984,
+      2.562,
+      1.555
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_01.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.25,
+      3.234,
+      2.844,
+      2.094
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.914,
+      3.188,
+      3.141,
+      1.812
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_03.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.922,
+      3.219,
+      2.859,
+      1.844
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_04.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.344,
+      3.094,
+      2.938,
+      2.078
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_05.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.891,
+      3.203,
+      2.891,
+      1.828
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_06.mp4"
+  },
+  {
+    "score": [
+      2.719,
+      2.344,
+      3.188,
+      3.0,
+      2.141
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_07.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.406,
+      3.156,
+      2.688,
+      1.258
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_08.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.031,
+      3.031,
+      2.828,
+      1.664
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_09.mp4"
+  },
+  {
+    "score": [
+      2.094,
+      1.266,
+      3.109,
+      2.812,
+      1.227
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B33_10.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.852,
+      3.219,
+      2.859,
+      1.695
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_01.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.883,
+      3.188,
+      3.0,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_02.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.484,
+      3.125,
+      2.672,
+      1.625
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_03.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.516,
+      3.125,
+      3.047,
+      1.539
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_04.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.398,
+      3.156,
+      2.938,
+      1.32
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_05.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.281,
+      3.203,
+      3.031,
+      2.219
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_06.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.805,
+      3.016,
+      2.625,
+      1.328
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_07.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.789,
+      3.016,
+      2.688,
+      1.328
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_08.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.047,
+      3.25,
+      2.812,
+      2.062
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_09.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.711,
+      3.172,
+      2.891,
+      1.617
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B34_10.mp4"
+  },
+  {
+    "score": [
+      2.719,
+      2.094,
+      3.219,
+      3.125,
+      1.867
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_01.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.68,
+      3.172,
+      2.875,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.828,
+      3.219,
+      3.0,
+      1.734
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_03.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.641,
+      3.047,
+      2.781,
+      1.305
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.5,
+      3.156,
+      2.906,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_05.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.734,
+      3.234,
+      2.828,
+      1.578
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_06.mp4"
+  },
+  {
+    "score": [
+      3.672,
+      3.438,
+      3.859,
+      3.594,
+      3.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_07.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.812,
+      3.219,
+      2.906,
+      1.742
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_08.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.797,
+      3.031,
+      2.812,
+      1.383
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_09.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.508,
+      3.156,
+      2.922,
+      1.492
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_10.mp4"
+  },
+  {
+    "score": [
+      2.672,
+      2.203,
+      3.328,
+      3.141,
+      1.984
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_11.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.859,
+      3.125,
+      2.859,
+      1.625
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_12.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.156,
+      3.219,
+      3.031,
+      1.891
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B41_13.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.758,
+      3.078,
+      2.781,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_01.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      1.969,
+      3.203,
+      2.797,
+      1.688
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_02.mp4"
+  },
+  {
+    "score": [
+      2.719,
+      2.281,
+      3.312,
+      3.219,
+      2.156
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_03.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.852,
+      3.203,
+      3.047,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.82,
+      3.078,
+      2.703,
+      1.836
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_05.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.555,
+      3.156,
+      2.812,
+      1.336
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_06.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.789,
+      3.188,
+      2.922,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_07.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.406,
+      3.453,
+      3.109,
+      2.438
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_08.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.438,
+      3.031,
+      2.812,
+      2.328
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_09.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.633,
+      3.172,
+      2.906,
+      1.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_10.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.734,
+      3.219,
+      3.062,
+      1.727
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_11.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.859,
+      3.234,
+      2.969,
+      1.719
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B42_12.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.828,
+      3.125,
+      2.891,
+      1.688
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_01.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      1.992,
+      3.188,
+      2.812,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_02.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.016,
+      3.078,
+      2.766,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_03.mp4"
+  },
+  {
+    "score": [
+      2.922,
+      2.578,
+      3.453,
+      3.047,
+      2.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_04.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.094,
+      3.328,
+      2.984,
+      2.125
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_05.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.797,
+      3.25,
+      2.875,
+      1.836
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_06.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.547,
+      3.062,
+      3.031,
+      2.391
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_07.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.945,
+      3.156,
+      2.812,
+      1.516
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_08.mp4"
+  },
+  {
+    "score": [
+      2.688,
+      2.266,
+      3.203,
+      3.125,
+      2.031
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_09.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      1.961,
+      3.125,
+      2.922,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_10.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.172,
+      3.469,
+      3.047,
+      1.977
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B43_11.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.641,
+      3.109,
+      2.812,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.75,
+      3.125,
+      2.906,
+      1.328
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_02.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.695,
+      3.094,
+      2.797,
+      1.273
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_03.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.641,
+      3.188,
+      2.781,
+      1.633
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_04.mp4"
+  },
+  {
+    "score": [
+      2.094,
+      1.359,
+      3.109,
+      2.562,
+      1.227
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_05.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      1.906,
+      3.188,
+      3.141,
+      1.602
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_06.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.0,
+      3.297,
+      2.812,
+      1.836
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_07.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.664,
+      3.203,
+      2.875,
+      1.508
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_08.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.688,
+      3.141,
+      2.938,
+      1.398
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_09.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.727,
+      3.266,
+      2.906,
+      1.57
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_10.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.672,
+      3.109,
+      2.688,
+      1.336
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_11.mp4"
+  },
+  {
+    "score": [
+      3.75,
+      3.578,
+      3.953,
+      3.578,
+      3.547
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B51_12.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.156,
+      3.281,
+      2.875,
+      2.062
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_01.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.914,
+      3.125,
+      2.969,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_02.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.531,
+      3.125,
+      2.859,
+      1.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.836,
+      3.188,
+      2.859,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_04.mp4"
+  },
+  {
+    "score": [
+      2.859,
+      2.516,
+      3.375,
+      2.875,
+      2.266
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_05.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.516,
+      3.078,
+      2.734,
+      1.359
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_06.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      1.93,
+      3.203,
+      3.094,
+      1.812
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_07.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.031,
+      3.109,
+      2.719,
+      1.461
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_08.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.578,
+      3.156,
+      2.859,
+      1.359
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_09.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.617,
+      3.078,
+      2.938,
+      1.445
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_10.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      1.875,
+      3.125,
+      2.859,
+      1.688
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_11.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.75,
+      3.125,
+      2.859,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/B52_12.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.141,
+      3.25,
+      2.906,
+      1.977
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_01_01.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.555,
+      3.203,
+      2.719,
+      1.602
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_01_02.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.469,
+      3.047,
+      2.703,
+      1.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_01_03.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.445,
+      3.125,
+      2.797,
+      1.398
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_01_04.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.453,
+      3.156,
+      2.781,
+      1.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_02_01.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      1.961,
+      3.203,
+      3.125,
+      1.844
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_02_02.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.617,
+      3.062,
+      2.828,
+      1.289
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_02_03.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.477,
+      3.094,
+      2.672,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_02_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.938,
+      3.156,
+      2.734,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_03_01.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.578,
+      3.172,
+      2.844,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_03_02.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.789,
+      3.219,
+      2.953,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_03_03.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.602,
+      3.109,
+      2.891,
+      1.281
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_03_04.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.711,
+      3.156,
+      2.828,
+      1.625
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_04_01.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.031,
+      3.344,
+      3.0,
+      1.953
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_04_02.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.961,
+      2.984,
+      2.844,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_04_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.031,
+      3.234,
+      3.016,
+      1.961
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_04_04.mp4"
+  },
+  {
+    "score": [
+      2.828,
+      2.562,
+      3.516,
+      3.188,
+      2.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_05_01.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.328,
+      3.219,
+      3.031,
+      2.172
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_05_02.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.156,
+      3.281,
+      3.141,
+      1.938
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_05_03.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.016,
+      3.156,
+      2.938,
+      2.016
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_05_04.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.656,
+      3.141,
+      2.797,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_06_01.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.547,
+      3.047,
+      2.812,
+      1.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_06_02.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.5,
+      3.125,
+      2.688,
+      1.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_06_03.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.5,
+      3.078,
+      2.797,
+      1.297
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_06_04.mp4"
+  },
+  {
+    "score": [
+      2.094,
+      1.578,
+      3.031,
+      2.75,
+      1.297
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_07_01.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      1.922,
+      3.297,
+      3.0,
+      1.734
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_07_02.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.812,
+      3.266,
+      3.031,
+      1.719
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_07_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.312,
+      3.188,
+      2.625,
+      1.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_07_04.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.547,
+      3.094,
+      2.797,
+      1.398
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_08_01.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      1.938,
+      3.141,
+      3.078,
+      1.734
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_08_02.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.43,
+      3.109,
+      2.797,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_08_03.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.734,
+      3.234,
+      2.938,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_08_04.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.648,
+      3.188,
+      3.047,
+      1.547
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_09_01.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.711,
+      3.125,
+      2.812,
+      1.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_09_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.867,
+      3.109,
+      2.766,
+      1.594
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_09_03.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      1.531,
+      3.047,
+      2.641,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_09_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.047,
+      3.234,
+      3.094,
+      2.0
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_10_01.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.031,
+      3.359,
+      3.078,
+      2.031
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_10_02.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.727,
+      3.125,
+      2.922,
+      1.453
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_10_03.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.891,
+      3.219,
+      3.062,
+      1.805
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_10_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.797,
+      3.328,
+      2.859,
+      1.68
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_11_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.93,
+      3.156,
+      2.812,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_11_02.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.438,
+      3.188,
+      2.797,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_11_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.766,
+      3.141,
+      2.922,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_11_04.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.641,
+      3.188,
+      2.891,
+      1.516
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_12_01.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.75,
+      3.125,
+      2.828,
+      1.586
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_12_02.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.891,
+      3.141,
+      2.797,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_12_03.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      1.984,
+      3.234,
+      3.094,
+      1.906
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_12_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.742,
+      3.062,
+      2.766,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_13_01.mp4"
+  },
+  {
+    "score": [
+      2.859,
+      2.422,
+      3.344,
+      2.922,
+      2.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_13_02.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.68,
+      3.078,
+      2.781,
+      1.273
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_13_03.mp4"
+  },
+  {
+    "score": [
+      2.734,
+      2.375,
+      3.391,
+      3.062,
+      2.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_13_04.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      1.984,
+      3.281,
+      2.844,
+      1.703
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_14_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.531,
+      3.156,
+      2.875,
+      1.43
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_14_02.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.211,
+      3.141,
+      2.734,
+      1.172
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_14_03.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.484,
+      3.156,
+      2.875,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_14_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.078,
+      3.312,
+      3.125,
+      1.969
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_15_01.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.781,
+      3.156,
+      2.938,
+      1.633
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_15_02.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.828,
+      3.234,
+      3.031,
+      1.703
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_15_03.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.633,
+      3.062,
+      2.75,
+      1.32
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_15_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.797,
+      3.188,
+      2.906,
+      1.602
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_16_01.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.602,
+      3.109,
+      2.812,
+      1.414
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_16_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.68,
+      3.188,
+      2.891,
+      1.75
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_16_03.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      1.773,
+      3.125,
+      2.75,
+      1.742
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_16_04.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.812,
+      3.062,
+      2.797,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_17_01.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.656,
+      3.016,
+      2.766,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_17_02.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.031,
+      3.188,
+      2.906,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_17_03.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.68,
+      3.188,
+      2.844,
+      1.547
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_17_04.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.711,
+      3.172,
+      2.656,
+      1.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_18_01.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.641,
+      3.094,
+      2.828,
+      2.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_18_02.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.094,
+      3.266,
+      2.969,
+      2.0
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_18_03.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.75,
+      3.156,
+      2.766,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_18_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.766,
+      3.266,
+      2.984,
+      1.633
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_19_01.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.938,
+      3.031,
+      2.938,
+      1.461
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_19_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.82,
+      3.109,
+      2.906,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_19_03.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.188,
+      3.172,
+      2.891,
+      1.953
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_19_04.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.914,
+      3.094,
+      2.734,
+      1.523
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_20_01.mp4"
+  },
+  {
+    "score": [
+      2.797,
+      2.469,
+      3.328,
+      2.938,
+      2.281
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_20_02.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      1.852,
+      3.219,
+      3.156,
+      1.781
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_20_03.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.484,
+      3.078,
+      2.859,
+      1.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_20_04.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.672,
+      3.062,
+      2.75,
+      1.234
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_21_01.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.781,
+      3.188,
+      2.891,
+      1.602
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_21_02.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.68,
+      3.047,
+      2.656,
+      1.391
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_21_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.047,
+      3.078,
+      2.891,
+      1.805
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_21_04.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.281,
+      3.109,
+      2.688,
+      1.297
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_22_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.742,
+      3.109,
+      2.766,
+      1.43
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_22_02.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.391,
+      3.109,
+      2.719,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_22_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.766,
+      3.109,
+      2.953,
+      1.539
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_22_04.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.562,
+      3.016,
+      2.656,
+      1.195
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_23_01.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.758,
+      3.25,
+      2.875,
+      1.711
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_23_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.539,
+      3.156,
+      2.859,
+      1.375
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_23_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.625,
+      3.172,
+      2.859,
+      1.594
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_23_04.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.703,
+      3.062,
+      2.828,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_24_01.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      1.914,
+      3.172,
+      2.688,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_24_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.805,
+      3.0,
+      2.734,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_24_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.562,
+      3.062,
+      2.781,
+      1.258
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_24_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.938,
+      3.172,
+      3.078,
+      1.766
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_25_01.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.602,
+      3.094,
+      2.875,
+      1.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_25_02.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      1.953,
+      3.188,
+      3.125,
+      1.609
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_25_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.492,
+      3.109,
+      2.75,
+      1.391
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L2_25_04.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      1.789,
+      3.188,
+      3.188,
+      1.609
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_01_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.0,
+      3.094,
+      2.891,
+      1.75
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_01_02.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.641,
+      3.188,
+      3.078,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_01_03.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.992,
+      2.922,
+      2.641,
+      1.625
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_01_04.mp4"
+  },
+  {
+    "score": [
+      2.016,
+      1.398,
+      3.094,
+      2.656,
+      1.367
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_02_01.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.742,
+      3.109,
+      2.875,
+      1.508
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_02_02.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      1.977,
+      3.281,
+      2.984,
+      1.719
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_02_03.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      1.969,
+      3.062,
+      2.75,
+      1.766
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_02_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.562,
+      3.172,
+      2.703,
+      1.578
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_03_01.mp4"
+  },
+  {
+    "score": [
+      2.75,
+      2.391,
+      3.344,
+      2.828,
+      2.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_03_02.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      1.961,
+      3.141,
+      2.844,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_03_03.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.359,
+      3.344,
+      2.922,
+      2.25
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_03_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.703,
+      3.156,
+      2.875,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_04_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.672,
+      3.062,
+      2.812,
+      1.531
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_04_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.328,
+      3.141,
+      2.875,
+      2.094
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_04_03.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.555,
+      3.203,
+      2.797,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_04_04.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.969,
+      3.062,
+      2.875,
+      1.695
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_05_01.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.797,
+      3.078,
+      2.922,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_05_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.883,
+      3.172,
+      3.031,
+      1.766
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_05_03.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.883,
+      3.203,
+      2.984,
+      1.766
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_05_04.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.508,
+      3.172,
+      2.891,
+      1.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_06_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.945,
+      3.047,
+      2.797,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_06_02.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.508,
+      3.094,
+      2.875,
+      1.32
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_06_03.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.578,
+      3.078,
+      2.859,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_06_04.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.727,
+      3.016,
+      2.812,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_07_01.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.703,
+      3.188,
+      2.922,
+      1.617
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_07_02.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.555,
+      3.094,
+      2.875,
+      1.328
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_07_03.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.312,
+      3.141,
+      2.781,
+      1.328
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_07_04.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.836,
+      3.094,
+      2.812,
+      1.414
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_08_01.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.664,
+      3.031,
+      2.797,
+      1.336
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_08_02.mp4"
+  },
+  {
+    "score": [
+      3.578,
+      3.391,
+      3.734,
+      3.453,
+      3.453
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_08_03.mp4"
+  },
+  {
+    "score": [
+      2.125,
+      1.508,
+      3.156,
+      2.688,
+      1.484
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_08_04.mp4"
+  },
+  {
+    "score": [
+      2.875,
+      2.391,
+      3.406,
+      2.938,
+      2.344
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_09_01.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.031,
+      3.281,
+      2.828,
+      1.773
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_09_02.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.297,
+      3.219,
+      3.094,
+      2.094
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_09_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.758,
+      3.172,
+      2.781,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_09_04.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.078,
+      3.359,
+      2.844,
+      2.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_10_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.625,
+      3.156,
+      2.875,
+      1.719
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_10_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.531,
+      3.0,
+      2.781,
+      1.18
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_10_03.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.711,
+      3.062,
+      2.812,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_10_04.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.609,
+      3.094,
+      2.766,
+      1.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_11_01.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.68,
+      3.109,
+      2.891,
+      1.383
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_11_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.789,
+      3.266,
+      2.812,
+      1.453
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_11_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.695,
+      3.172,
+      3.0,
+      1.508
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_11_04.mp4"
+  },
+  {
+    "score": [
+      3.328,
+      2.922,
+      3.672,
+      3.172,
+      2.891
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_12_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.805,
+      3.219,
+      2.938,
+      1.828
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_12_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.594,
+      3.156,
+      2.938,
+      1.477
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_12_03.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.562,
+      3.062,
+      2.781,
+      1.281
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_12_04.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.758,
+      3.203,
+      2.938,
+      1.578
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_13_01.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      1.969,
+      3.219,
+      2.875,
+      1.844
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_13_02.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.617,
+      3.219,
+      2.844,
+      1.57
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_13_03.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.711,
+      3.031,
+      2.672,
+      1.711
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_13_04.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.484,
+      3.172,
+      2.75,
+      1.32
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_14_01.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.141,
+      3.234,
+      3.016,
+      2.0
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_14_02.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.438,
+      3.156,
+      2.906,
+      1.367
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_14_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.75,
+      3.219,
+      3.094,
+      1.672
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_14_04.mp4"
+  },
+  {
+    "score": [
+      2.672,
+      2.109,
+      3.234,
+      2.953,
+      1.852
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_15_01.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.539,
+      3.047,
+      2.719,
+      1.133
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_15_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      1.82,
+      3.156,
+      3.031,
+      1.711
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_15_03.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.281,
+      3.219,
+      2.984,
+      2.125
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L3_15_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.758,
+      3.141,
+      2.984,
+      1.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_01_01.mp4"
+  },
+  {
+    "score": [
+      2.125,
+      1.523,
+      3.078,
+      2.688,
+      1.492
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_01_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.016,
+      3.062,
+      2.844,
+      1.805
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_01_03.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.594,
+      3.156,
+      3.0,
+      2.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_01_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.641,
+      3.141,
+      2.875,
+      1.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_02_01.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.203,
+      3.453,
+      3.109,
+      2.062
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_02_02.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.758,
+      3.172,
+      2.922,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_02_03.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.547,
+      3.031,
+      2.766,
+      1.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_02_04.mp4"
+  },
+  {
+    "score": [
+      3.859,
+      3.688,
+      4.0,
+      3.344,
+      3.75
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_03_01.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.727,
+      3.266,
+      2.922,
+      1.727
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_03_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.781,
+      3.125,
+      2.906,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_03_03.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.438,
+      3.234,
+      3.062,
+      2.188
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_03_04.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.438,
+      3.094,
+      2.844,
+      1.438
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_04_01.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.438,
+      3.141,
+      2.875,
+      1.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_04_02.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.648,
+      3.219,
+      2.766,
+      1.445
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_04_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.633,
+      3.156,
+      2.828,
+      1.5
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_04_04.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.453,
+      2.984,
+      2.969,
+      2.234
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_05_01.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.734,
+      3.203,
+      2.938,
+      1.641
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_05_02.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.5,
+      3.047,
+      2.688,
+      1.25
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_05_03.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.641,
+      3.141,
+      2.859,
+      1.469
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_05_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.625,
+      3.078,
+      2.875,
+      1.422
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_06_01.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.016,
+      3.156,
+      2.781,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_06_02.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.805,
+      3.203,
+      2.75,
+      1.578
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_06_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.805,
+      3.156,
+      2.469,
+      1.578
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_06_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.828,
+      3.109,
+      2.875,
+      1.711
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_07_01.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      1.953,
+      3.172,
+      2.922,
+      1.812
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_07_02.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.234,
+      3.219,
+      2.969,
+      1.898
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_07_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.68,
+      3.203,
+      2.875,
+      1.406
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_07_04.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.719,
+      3.156,
+      2.922,
+      1.461
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_08_01.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.734,
+      3.219,
+      2.797,
+      1.812
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_08_02.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.781,
+      3.141,
+      2.859,
+      1.266
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_08_03.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      1.977,
+      3.141,
+      3.0,
+      1.797
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_08_04.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.758,
+      3.094,
+      2.812,
+      1.594
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_09_01.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.109,
+      3.219,
+      3.0,
+      1.984
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_09_02.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.609,
+      3.109,
+      2.844,
+      1.312
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_09_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.078,
+      3.172,
+      2.906,
+      2.094
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_09_04.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.078,
+      3.156,
+      2.953,
+      1.859
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_10_01.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.742,
+      3.109,
+      2.969,
+      1.617
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_10_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.047,
+      3.203,
+      2.828,
+      1.664
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_10_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.664,
+      3.156,
+      2.812,
+      1.562
+    ],
+    "model_name": "Vchitect2.0",
+    "video_path": "./Video/Vchitect2.0/L4_10_04.mp4"
+  }
+]

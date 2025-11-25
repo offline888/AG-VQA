@@ -1,0 +1,16 @@
+一些模型的原始提示词没法正常生成，因此在尽量不改变语义的情况下进行修改prompt
+
+# Seedance
+ B14_03
+original prompt:Trailing car's dashcam at an elevated road merge point on a rainy day. A taxi accelerates too hard while merging, its wheels slipping on the wet road markings, causing it to slightly lose control and sideswipe an adjacent car.
+changed_prompt: On a rainy day, a taxi accelerating too hard while merging on an elevated road had its wheels slip on the wet markings, causing it to sideswipe an adjacent car—all captured by a trailing vehicle's dashcam.
+# Kling 1.6
+B31_03
+original prompt:Trailing car's dashcam on a highway. A sedan's left front tire suddenly blows out, causing the vehicle to veer sharply to the left, and the driver cannot control it, hitting the central median barrier.
+changed_prompt:The left front tire of a sedan suddenly burst on the highway, causing the vehicle to swerve uncontrollably into the central median barrier, as captured by a trailing car's dashcam.
+B31_05
+original prompt:At-fault vehicle's dashcam in a roundabout. A public bus's steering fails while entering the roundabout, making the turn impossible. It veers off tangentially and hits the central island's guardrail.
+changed_prompt:The at-fault vehicle's dashcam shows a public bus experiencing a steering failure upon entering the roundabout. Unable to turn, it continues straight, departing the curved path and striking the guardrail of the central island.
+B51_11
+original prompt:Thermal camera view from a fire department drone on an expressway shoulder at night. An older luxury sedan's catalytic converter malfunctions and overheats to an extreme temperature, igniting the car's underbody heat shielding and carpets, starting a fire that spreads rapidly.
+changed_prompt:A thermal camera view from a drone on an expressway shoulder at night shows an older luxury sedan's catalytic converter malfunctioning. It overheats to an extreme temperature, igniting the car's underbody heat shielding and carpets and starting a rapidly spreading fire.

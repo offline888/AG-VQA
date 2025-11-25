@@ -1,0 +1,8002 @@
+[
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_01",
+    "video_path": "./Video/Kling1.6/B11_01.mp4",
+    "score": {
+      "BRISQUE": 33.61153140737991,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.922,
+        3.453,
+        3.906
+      ],
+      "VIIDEO": 0.5798560380935669,
+      "Qalign": 4.0625,
+      "ViCLIP": 0.25713416934013367,
+      "MUSIQ": 54.60473680102135
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_02",
+    "video_path": "./Video/Kling1.6/B11_02.mp4",
+    "score": {
+      "BRISQUE": 37.65109833015883,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.844,
+        3.422,
+        3.844
+      ],
+      "VIIDEO": 0.3875720798969269,
+      "Qalign": 4.453125,
+      "ViCLIP": 0.24053537845611572,
+      "MUSIQ": 59.41410007949703
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_03",
+    "video_path": "./Video/Kling1.6/B11_03.mp4",
+    "score": {
+      "BRISQUE": 32.51247891512784,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.953,
+        3.312,
+        3.844
+      ],
+      "VIIDEO": 0.5276427268981934,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.2076433300971985,
+      "MUSIQ": 58.15284710088052
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_04",
+    "video_path": "./Video/Kling1.6/B11_04.mp4",
+    "score": {
+      "BRISQUE": 40.58918346058238,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.656,
+        3.688,
+        3.141,
+        3.656
+      ],
+      "VIIDEO": 0.3912857472896576,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.09412521868944168,
+      "MUSIQ": 70.9476532739056
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_05",
+    "video_path": "./Video/Kling1.6/B11_05.mp4",
+    "score": {
+      "BRISQUE": 25.404435591264203,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.844,
+        3.891,
+        3.391,
+        3.906
+      ],
+      "VIIDEO": 0.5545356869697571,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.16524729132652283,
+      "MUSIQ": 67.9195390181108
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_06",
+    "video_path": "./Video/Kling1.6/B11_06.mp4",
+    "score": {
+      "BRISQUE": 29.029274175974948,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.812,
+        4.031,
+        3.344,
+        3.781
+      ],
+      "VIIDEO": 0.4169690012931824,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.15272051095962524,
+      "MUSIQ": 64.19215096718024
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_07",
+    "video_path": "./Video/Kling1.6/B11_07.mp4",
+    "score": {
+      "BRISQUE": 36.29149734875387,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.734,
+        3.812,
+        3.312,
+        3.766
+      ],
+      "VIIDEO": 0.4901147484779358,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.16571970283985138,
+      "MUSIQ": 55.43725762485472
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_08",
+    "video_path": "./Video/Kling1.6/B11_08.mp4",
+    "score": {
+      "BRISQUE": 46.280416189146436,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.938,
+        3.406,
+        3.922
+      ],
+      "VIIDEO": 0.5264961123466492,
+      "Qalign": 3.8515625,
+      "ViCLIP": 0.1874735951423645,
+      "MUSIQ": 27.21006409195829
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_09",
+    "video_path": "./Video/Kling1.6/B11_09.mp4",
+    "score": {
+      "BRISQUE": 28.486406310530732,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.781,
+        3.953,
+        3.375,
+        3.812
+      ],
+      "VIIDEO": 0.5366382598876953,
+      "Qalign": 4.65234375,
+      "ViCLIP": 0.2176196575164795,
+      "MUSIQ": 66.82249561026077
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_10",
+    "video_path": "./Video/Kling1.6/B11_10.mp4",
+    "score": {
+      "BRISQUE": 28.470950796584454,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.969,
+        4.0,
+        3.547,
+        3.984
+      ],
+      "VIIDEO": 0.5233199596405029,
+      "Qalign": 4.3046875,
+      "ViCLIP": 0.22130727767944336,
+      "MUSIQ": 77.18549611745787
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_11",
+    "video_path": "./Video/Kling1.6/B11_11.mp4",
+    "score": {
+      "BRISQUE": 44.25660339859891,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.703,
+        4.0,
+        3.141,
+        3.75
+      ],
+      "VIIDEO": 0.47986847162246704,
+      "Qalign": 4.10546875,
+      "ViCLIP": 0.24131052196025848,
+      "MUSIQ": 77.32649993896484
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_12",
+    "video_path": "./Video/Kling1.6/B11_12.mp4",
+    "score": {
+      "BRISQUE": 34.13315298537577,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.844,
+        3.906,
+        3.359,
+        3.875
+      ],
+      "VIIDEO": 0.49559763073921204,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.1875714361667633,
+      "MUSIQ": 42.93606797525705
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_13",
+    "video_path": "./Video/Kling1.6/B11_13.mp4",
+    "score": {
+      "BRISQUE": 27.96066864265883,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.938,
+        3.984,
+        3.438,
+        3.922
+      ],
+      "VIIDEO": 0.5271486043930054,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.22482892870903015,
+      "MUSIQ": 67.22761803619133
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_14",
+    "video_path": "./Video/Kling1.6/B11_14.mp4",
+    "score": {
+      "BRISQUE": 37.34539391383652,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.984,
+        3.547,
+        3.953
+      ],
+      "VIIDEO": 0.6285227537155151,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.22719193994998932,
+      "MUSIQ": 68.93341527891553
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_15",
+    "video_path": "./Video/Kling1.6/B11_15.mp4",
+    "score": {
+      "BRISQUE": 34.7723292831547,
+      "RAFT": true,
+      "VideoScore": [
+        3.797,
+        3.688,
+        3.734,
+        3.359,
+        3.719
+      ],
+      "VIIDEO": 0.5439996123313904,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.11655842512845993,
+      "MUSIQ": 64.67113598910245
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_16",
+    "video_path": "./Video/Kling1.6/B11_16.mp4",
+    "score": {
+      "BRISQUE": 24.42834523098528,
+      "RAFT": true,
+      "VideoScore": [
+        3.422,
+        3.281,
+        3.453,
+        3.062,
+        3.312
+      ],
+      "VIIDEO": 0.5029299855232239,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.22677567601203918,
+      "MUSIQ": 46.4515547318892
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_17",
+    "video_path": "./Video/Kling1.6/B11_17.mp4",
+    "score": {
+      "BRISQUE": 35.884024627937755,
+      "RAFT": false,
+      "VideoScore": [
+        3.969,
+        3.906,
+        3.969,
+        3.422,
+        3.938
+      ],
+      "VIIDEO": 0.31100136041641235,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.21950224041938782,
+      "MUSIQ": 60.89346121165378
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B11_18",
+    "video_path": "./Video/Kling1.6/B11_18.mp4",
+    "score": {
+      "BRISQUE": 38.1554121537642,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.781,
+        3.969,
+        3.469,
+        3.812
+      ],
+      "VIIDEO": 0.5937183499336243,
+      "Qalign": 4.23828125,
+      "ViCLIP": 0.23318696022033691,
+      "MUSIQ": 69.87970645368591
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_01",
+    "video_path": "./Video/Kling1.6/B12_01.mp4",
+    "score": {
+      "BRISQUE": 19.589461901956355,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.781,
+        3.969,
+        3.234,
+        3.719
+      ],
+      "VIIDEO": 0.3935384750366211,
+      "Qalign": 4.12109375,
+      "ViCLIP": 0.24556240439414978,
+      "MUSIQ": 62.662850372062245
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_02",
+    "video_path": "./Video/Kling1.6/B12_02.mp4",
+    "score": {
+      "BRISQUE": 31.831169191470817,
+      "RAFT": true,
+      "VideoScore": [
+        3.812,
+        3.672,
+        3.75,
+        3.266,
+        3.719
+      ],
+      "VIIDEO": 0.5614098906517029,
+      "Qalign": 4.25,
+      "ViCLIP": 0.20761826634407043,
+      "MUSIQ": 61.932364282529214
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_03",
+    "video_path": "./Video/Kling1.6/B12_03.mp4",
+    "score": {
+      "BRISQUE": 27.124602010427427,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.781,
+        3.797,
+        3.344,
+        3.812
+      ],
+      "VIIDEO": 0.4904576241970062,
+      "Qalign": 3.982421875,
+      "ViCLIP": 0.2737244665622711,
+      "MUSIQ": 52.70315838648268
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_04",
+    "video_path": "./Video/Kling1.6/B12_04.mp4",
+    "score": {
+      "BRISQUE": 32.97522426636751,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.719,
+        3.766,
+        3.453,
+        3.719
+      ],
+      "VIIDEO": 0.5617344975471497,
+      "Qalign": 4.296875,
+      "ViCLIP": 0.18226107954978943,
+      "MUSIQ": 69.72598241380423
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_05",
+    "video_path": "./Video/Kling1.6/B12_05.mp4",
+    "score": {
+      "BRISQUE": 33.839034151439826,
+      "RAFT": true,
+      "VideoScore": [
+        3.766,
+        3.594,
+        3.781,
+        3.266,
+        3.656
+      ],
+      "VIIDEO": 0.5116021037101746,
+      "Qalign": 3.98046875,
+      "ViCLIP": 0.2771874964237213,
+      "MUSIQ": 53.22203202681108
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_06",
+    "video_path": "./Video/Kling1.6/B12_06.mp4",
+    "score": {
+      "BRISQUE": 19.553914219879907,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.828,
+        3.891,
+        3.453,
+        3.906
+      ],
+      "VIIDEO": 0.7359645366668701,
+      "Qalign": 4.171875,
+      "ViCLIP": 0.2879669666290283,
+      "MUSIQ": 60.85467756287125
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_07",
+    "video_path": "./Video/Kling1.6/B12_07.mp4",
+    "score": {
+      "BRISQUE": 35.52281352902247,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.875,
+        3.391,
+        3.859
+      ],
+      "VIIDEO": 0.5903319716453552,
+      "Qalign": 3.955078125,
+      "ViCLIP": 0.19708251953125,
+      "MUSIQ": 45.590957515495866
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_08",
+    "video_path": "./Video/Kling1.6/B12_08.mp4",
+    "score": {
+      "BRISQUE": 13.042599008103048,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.719,
+        3.844,
+        3.328,
+        3.797
+      ],
+      "VIIDEO": 0.4217415153980255,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.19348353147506714,
+      "MUSIQ": 56.079552075094426
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_09",
+    "video_path": "./Video/Kling1.6/B12_09.mp4",
+    "score": {
+      "BRISQUE": 15.640085772049328,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.812,
+        3.984,
+        3.125,
+        3.781
+      ],
+      "VIIDEO": 0.36544618010520935,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.2444016933441162,
+      "MUSIQ": 68.07873128465384
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_10",
+    "video_path": "./Video/Kling1.6/B12_10.mp4",
+    "score": {
+      "BRISQUE": 40.62202743656379,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.828,
+        3.906,
+        3.375,
+        3.875
+      ],
+      "VIIDEO": 0.5258064866065979,
+      "Qalign": 3.9765625,
+      "ViCLIP": 0.19744737446308136,
+      "MUSIQ": 55.47193397963343
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_11",
+    "video_path": "./Video/Kling1.6/B12_11.mp4",
+    "score": {
+      "BRISQUE": 43.28935052540677,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.859,
+        3.906,
+        3.453,
+        3.875
+      ],
+      "VIIDEO": 0.6190577745437622,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.20280522108078003,
+      "MUSIQ": 58.13796316099561
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B12_12",
+    "video_path": "./Video/Kling1.6/B12_12.mp4",
+    "score": {
+      "BRISQUE": 28.653116021274535,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        4.0,
+        3.594,
+        3.938
+      ],
+      "VIIDEO": 0.5480257272720337,
+      "Qalign": 4.22265625,
+      "ViCLIP": 0.25581464171409607,
+      "MUSIQ": 58.20697519601869
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_01",
+    "video_path": "./Video/Kling1.6/B13_01.mp4",
+    "score": {
+      "BRISQUE": 31.23450564549974,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        4.0,
+        3.547,
+        3.922
+      ],
+      "VIIDEO": 0.6744487285614014,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.2515481114387512,
+      "MUSIQ": 61.07843402200494
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_02",
+    "video_path": "./Video/Kling1.6/B13_02.mp4",
+    "score": {
+      "BRISQUE": 38.47401768708032,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.875,
+        3.953,
+        3.422,
+        3.875
+      ],
+      "VIIDEO": 0.47297751903533936,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.15162762999534607,
+      "MUSIQ": 63.37746691112676
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_03",
+    "video_path": "./Video/Kling1.6/B13_03.mp4",
+    "score": {
+      "BRISQUE": 23.541783860892302,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.875,
+        4.0,
+        3.422,
+        3.875
+      ],
+      "VIIDEO": 0.34795045852661133,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.17524513602256775,
+      "MUSIQ": 51.79423100495141
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_04",
+    "video_path": "./Video/Kling1.6/B13_04.mp4",
+    "score": {
+      "BRISQUE": 52.56486221187371,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.844,
+        3.422,
+        3.859
+      ],
+      "VIIDEO": 0.6229299902915955,
+      "Qalign": 3.99609375,
+      "ViCLIP": 0.3104332387447357,
+      "MUSIQ": 61.56211726921649
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_05",
+    "video_path": "./Video/Kling1.6/B13_05.mp4",
+    "score": {
+      "BRISQUE": 40.95388112974561,
+      "RAFT": false,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.969,
+        3.422,
+        3.906
+      ],
+      "VIIDEO": 0.31408387422561646,
+      "Qalign": 4.609375,
+      "ViCLIP": 0.21541446447372437,
+      "MUSIQ": 75.81854229131021
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_06",
+    "video_path": "./Video/Kling1.6/B13_06.mp4",
+    "score": {
+      "BRISQUE": 42.185939820344785,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.781,
+        3.969,
+        3.375,
+        3.812
+      ],
+      "VIIDEO": 0.5155667066574097,
+      "Qalign": 4.125,
+      "ViCLIP": 0.21317462623119354,
+      "MUSIQ": 48.72949663272574
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_07",
+    "video_path": "./Video/Kling1.6/B13_07.mp4",
+    "score": {
+      "BRISQUE": 38.59177417597495,
+      "RAFT": false,
+      "VideoScore": [
+        3.062,
+        2.938,
+        2.891,
+        2.828,
+        2.875
+      ],
+      "VIIDEO": 0.5596281290054321,
+      "Qalign": 3.95703125,
+      "ViCLIP": 0.17930550873279572,
+      "MUSIQ": 55.31889746799942
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_08",
+    "video_path": "./Video/Kling1.6/B13_08.mp4",
+    "score": {
+      "BRISQUE": 48.83469208015883,
+      "RAFT": false,
+      "VideoScore": [
+        4.062,
+        3.906,
+        3.953,
+        3.5,
+        3.906
+      ],
+      "VIIDEO": 0.4842013418674469,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.22246453166007996,
+      "MUSIQ": 66.91868203533582
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_09",
+    "video_path": "./Video/Kling1.6/B13_09.mp4",
+    "score": {
+      "BRISQUE": 20.167857272565858,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.938,
+        3.531,
+        3.906
+      ],
+      "VIIDEO": 0.5289406776428223,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.2132638692855835,
+      "MUSIQ": 71.79116972615896
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_10",
+    "video_path": "./Video/Kling1.6/B13_10.mp4",
+    "score": {
+      "BRISQUE": 42.42148911657412,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.938,
+        3.5,
+        3.922
+      ],
+      "VIIDEO": 0.6412915587425232,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.2464742660522461,
+      "MUSIQ": 71.19110536181238
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_11",
+    "video_path": "./Video/Kling1.6/B13_11.mp4",
+    "score": {
+      "BRISQUE": 3.3630123926588325,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        4.094,
+        3.391,
+        3.891
+      ],
+      "VIIDEO": 0.3745177984237671,
+      "Qalign": 4.5,
+      "ViCLIP": 0.24984999001026154,
+      "MUSIQ": 74.57593807504196
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B13_12",
+    "video_path": "./Video/Kling1.6/B13_12.mp4",
+    "score": {
+      "BRISQUE": 20.607225654538997,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.969,
+        3.578,
+        3.922
+      ],
+      "VIIDEO": 0.4151281416416168,
+      "Qalign": 3.91796875,
+      "ViCLIP": 0.20551609992980957,
+      "MUSIQ": 65.97606362587165
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_01",
+    "video_path": "./Video/Kling1.6/B14_01.mp4",
+    "score": {
+      "BRISQUE": 33.41554499854726,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.922,
+        3.484,
+        3.938
+      ],
+      "VIIDEO": 0.5517274141311646,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.26278918981552124,
+      "MUSIQ": 65.90124640977088
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_02",
+    "video_path": "./Video/Kling1.6/B14_02.mp4",
+    "score": {
+      "BRISQUE": 34.63235397969396,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.766,
+        3.859,
+        3.391,
+        3.844
+      ],
+      "VIIDEO": 0.45003852248191833,
+      "Qalign": 4.06640625,
+      "ViCLIP": 0.22986969351768494,
+      "MUSIQ": 50.95542765845937
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_03",
+    "video_path": "./Video/Kling1.6/B14_03.mp4",
+    "score": {
+      "BRISQUE": 36.23184229322701,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.766,
+        3.875,
+        3.297,
+        3.781
+      ],
+      "VIIDEO": 0.6145057678222656,
+      "Qalign": 4.19921875,
+      "ViCLIP": 0.2295575737953186,
+      "MUSIQ": 52.78319105037973
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_04",
+    "video_path": "./Video/Kling1.6/B14_04.mp4",
+    "score": {
+      "BRISQUE": 23.15706666047908,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.781,
+        3.844,
+        3.375,
+        3.828
+      ],
+      "VIIDEO": 0.5624781250953674,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.2224491834640503,
+      "MUSIQ": 68.37837647997644
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_05",
+    "video_path": "./Video/Kling1.6/B14_05.mp4",
+    "score": {
+      "BRISQUE": 27.33709716796875,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        4.062,
+        3.609,
+        3.969
+      ],
+      "VIIDEO": 0.5772852897644043,
+      "Qalign": 4.0546875,
+      "ViCLIP": 0.1743972897529602,
+      "MUSIQ": 67.65977373990145
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_06",
+    "video_path": "./Video/Kling1.6/B14_06.mp4",
+    "score": {
+      "BRISQUE": 43.182162702576186,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.953,
+        3.516,
+        3.953
+      ],
+      "VIIDEO": 0.6487319469451904,
+      "Qalign": 4.46875,
+      "ViCLIP": 0.19757260382175446,
+      "MUSIQ": 61.83236035433683
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_07",
+    "video_path": "./Video/Kling1.6/B14_07.mp4",
+    "score": {
+      "BRISQUE": 6.310076248547262,
+      "RAFT": false,
+      "VideoScore": [
+        3.969,
+        3.875,
+        3.875,
+        3.375,
+        3.906
+      ],
+      "VIIDEO": 0.23144038021564484,
+      "Qalign": 4.78515625,
+      "ViCLIP": 0.16757580637931824,
+      "MUSIQ": 75.02522820086519
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_08",
+    "video_path": "./Video/Kling1.6/B14_08.mp4",
+    "score": {
+      "BRISQUE": 30.80826032654313,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.922,
+        3.969,
+        3.578,
+        3.969
+      ],
+      "VIIDEO": 0.4594258964061737,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.2269708514213562,
+      "MUSIQ": 64.93152810719387
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_09",
+    "video_path": "./Video/Kling1.6/B14_09.mp4",
+    "score": {
+      "BRISQUE": 51.9642883805204,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.828,
+        3.875,
+        3.359,
+        3.891
+      ],
+      "VIIDEO": 0.6167142987251282,
+      "Qalign": 3.263671875,
+      "ViCLIP": 0.24218367040157318,
+      "MUSIQ": 57.311254926949495
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_10",
+    "video_path": "./Video/Kling1.6/B14_10.mp4",
+    "score": {
+      "BRISQUE": 28.506111081966683,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.938,
+        3.516,
+        3.891
+      ],
+      "VIIDEO": 0.5257219076156616,
+      "Qalign": 4.71484375,
+      "ViCLIP": 0.17811696231365204,
+      "MUSIQ": 74.47888524079126
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_11",
+    "video_path": "./Video/Kling1.6/B14_11.mp4",
+    "score": {
+      "BRISQUE": 43.859767945344785,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.922,
+        3.484,
+        3.891
+      ],
+      "VIIDEO": 0.5856742262840271,
+      "Qalign": 4.375,
+      "ViCLIP": 0.2036626785993576,
+      "MUSIQ": 60.245245247833
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_12",
+    "video_path": "./Video/Kling1.6/B14_12.mp4",
+    "score": {
+      "BRISQUE": 25.685399079125776,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.828,
+        3.891,
+        3.359,
+        3.844
+      ],
+      "VIIDEO": 0.5526617765426636,
+      "Qalign": 4.67578125,
+      "ViCLIP": 0.16353529691696167,
+      "MUSIQ": 60.00143287595638
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_13",
+    "video_path": "./Video/Kling1.6/B14_13.mp4",
+    "score": {
+      "BRISQUE": 32.163462741315854,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.906,
+        3.969,
+        3.516,
+        3.953
+      ],
+      "VIIDEO": 0.5853167176246643,
+      "Qalign": 4.0,
+      "ViCLIP": 0.22811856865882874,
+      "MUSIQ": 62.171757942388865
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_14",
+    "video_path": "./Video/Kling1.6/B14_14.mp4",
+    "score": {
+      "BRISQUE": 24.56352246497288,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.672,
+        4.031,
+        3.25,
+        3.766
+      ],
+      "VIIDEO": 0.440236896276474,
+      "Qalign": 4.5703125,
+      "ViCLIP": 0.2368973344564438,
+      "MUSIQ": 65.080618046532
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B14_15",
+    "video_path": "./Video/Kling1.6/B14_15.mp4",
+    "score": {
+      "BRISQUE": 34.96714543114024,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.938,
+        3.5,
+        3.922
+      ],
+      "VIIDEO": 0.4255678653717041,
+      "Qalign": 4.484375,
+      "ViCLIP": 0.17930015921592712,
+      "MUSIQ": 72.41548229249055
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_01",
+    "video_path": "./Video/Kling1.6/B15_01.mp4",
+    "score": {
+      "BRISQUE": 32.35287954787577,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.844,
+        3.859,
+        3.328,
+        3.859
+      ],
+      "VIIDEO": 0.2451992630958557,
+      "Qalign": 4.7890625,
+      "ViCLIP": 0.25654345750808716,
+      "MUSIQ": 62.5290761585078
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_02",
+    "video_path": "./Video/Kling1.6/B15_02.mp4",
+    "score": {
+      "BRISQUE": 27.246095263268337,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.875,
+        3.922,
+        3.422,
+        3.906
+      ],
+      "VIIDEO": 0.43602362275123596,
+      "Qalign": 4.62890625,
+      "ViCLIP": 0.16919225454330444,
+      "MUSIQ": 71.48546023408244
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_03",
+    "video_path": "./Video/Kling1.6/B15_03.mp4",
+    "score": {
+      "BRISQUE": 46.18951516900181,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.922,
+        3.469,
+        3.938
+      ],
+      "VIIDEO": 0.5453411340713501,
+      "Qalign": 3.953125,
+      "ViCLIP": 0.2817286252975464,
+      "MUSIQ": 51.777217218698546
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_04",
+    "video_path": "./Video/Kling1.6/B15_04.mp4",
+    "score": {
+      "BRISQUE": 12.220365666160898,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.672,
+        3.984,
+        3.219,
+        3.734
+      ],
+      "VIIDEO": 0.40494391322135925,
+      "Qalign": 4.73828125,
+      "ViCLIP": 0.22441592812538147,
+      "MUSIQ": 69.3035807333702
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_05",
+    "video_path": "./Video/Kling1.6/B15_05.mp4",
+    "score": {
+      "BRISQUE": 27.3099269394047,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.875,
+        3.922,
+        3.422,
+        3.906
+      ],
+      "VIIDEO": 0.36275985836982727,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.2329345941543579,
+      "MUSIQ": 77.60180985632022
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_06",
+    "video_path": "./Video/Kling1.6/B15_06.mp4",
+    "score": {
+      "BRISQUE": 43.567989633103046,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.797,
+        3.969,
+        3.25,
+        3.688
+      ],
+      "VIIDEO": 0.47620463371276855,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.2823590934276581,
+      "MUSIQ": 57.5482453275318
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_07",
+    "video_path": "./Video/Kling1.6/B15_07.mp4",
+    "score": {
+      "BRISQUE": 32.1695198500452,
+      "RAFT": true,
+      "VideoScore": [
+        3.594,
+        3.344,
+        3.656,
+        3.031,
+        3.375
+      ],
+      "VIIDEO": 0.46663421392440796,
+      "Qalign": 4.10546875,
+      "ViCLIP": 0.2264435589313507,
+      "MUSIQ": 43.52897877338504
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_08",
+    "video_path": "./Video/Kling1.6/B15_08.mp4",
+    "score": {
+      "BRISQUE": 40.45310230097495,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.969,
+        3.312,
+        3.953
+      ],
+      "VIIDEO": 0.5323889255523682,
+      "Qalign": 3.94140625,
+      "ViCLIP": 0.2446621060371399,
+      "MUSIQ": 34.99326811546136
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_09",
+    "video_path": "./Video/Kling1.6/B15_09.mp4",
+    "score": {
+      "BRISQUE": 24.13449676765883,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.844,
+        3.859,
+        3.391,
+        3.875
+      ],
+      "VIIDEO": 0.40203776955604553,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.17923220992088318,
+      "MUSIQ": 61.1070580600707
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_10",
+    "video_path": "./Video/Kling1.6/B15_10.mp4",
+    "score": {
+      "BRISQUE": 35.23541764188404,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.938,
+        3.438,
+        3.922
+      ],
+      "VIIDEO": 0.49489957094192505,
+      "Qalign": 4.35546875,
+      "ViCLIP": 0.20573575794696808,
+      "MUSIQ": 69.12428888998741
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_11",
+    "video_path": "./Video/Kling1.6/B15_11.mp4",
+    "score": {
+      "BRISQUE": 17.969974234084454,
+      "RAFT": true,
+      "VideoScore": [
+        3.75,
+        3.625,
+        3.844,
+        3.203,
+        3.688
+      ],
+      "VIIDEO": 0.5628300905227661,
+      "Qalign": 4.19140625,
+      "ViCLIP": 0.12274224311113358,
+      "MUSIQ": 64.80101832870609
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B15_12",
+    "video_path": "./Video/Kling1.6/B15_12.mp4",
+    "score": {
+      "BRISQUE": 39.64551336115057,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.984,
+        3.438,
+        3.906
+      ],
+      "VIIDEO": 0.6943434476852417,
+      "Qalign": 4.203125,
+      "ViCLIP": 0.15009817481040955,
+      "MUSIQ": 60.51732216196612
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_01",
+    "video_path": "./Video/Kling1.6/B21_01.mp4",
+    "score": {
+      "BRISQUE": 42.68033870980759,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.719,
+        4.062,
+        3.297,
+        3.781
+      ],
+      "VIIDEO": 0.49076923727989197,
+      "Qalign": 3.958984375,
+      "ViCLIP": 0.15424717962741852,
+      "MUSIQ": 71.38525283435159
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_02",
+    "video_path": "./Video/Kling1.6/B21_02.mp4",
+    "score": {
+      "BRISQUE": 41.1852739822766,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.844,
+        4.062,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.46054500341415405,
+      "Qalign": 4.4609375,
+      "ViCLIP": 0.340919554233551,
+      "MUSIQ": 73.92407794038127
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_03",
+    "video_path": "./Video/Kling1.6/B21_03.mp4",
+    "score": {
+      "BRISQUE": 20.688183492865445,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.812,
+        3.875,
+        3.375,
+        3.875
+      ],
+      "VIIDEO": 0.44743698835372925,
+      "Qalign": 3.943359375,
+      "ViCLIP": 0.25486576557159424,
+      "MUSIQ": 45.09419064482382
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_04",
+    "video_path": "./Video/Kling1.6/B21_04.mp4",
+    "score": {
+      "BRISQUE": 38.18058890350594,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.969,
+        3.5,
+        3.938
+      ],
+      "VIIDEO": 0.46199485659599304,
+      "Qalign": 3.822265625,
+      "ViCLIP": 0.23813703656196594,
+      "MUSIQ": 61.351317602740835
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_05",
+    "video_path": "./Video/Kling1.6/B21_05.mp4",
+    "score": {
+      "BRISQUE": 39.08327162561338,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.859,
+        3.906,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.6908285021781921,
+      "Qalign": 3.958984375,
+      "ViCLIP": 0.2802634537220001,
+      "MUSIQ": 58.176769067433256
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_06",
+    "video_path": "./Video/Kling1.6/B21_06.mp4",
+    "score": {
+      "BRISQUE": 36.76107056672908,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        3.969,
+        3.625,
+        3.969
+      ],
+      "VIIDEO": 0.5958889126777649,
+      "Qalign": 4.08203125,
+      "ViCLIP": 0.23593461513519287,
+      "MUSIQ": 71.85789767178622
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_07",
+    "video_path": "./Video/Kling1.6/B21_07.mp4",
+    "score": {
+      "BRISQUE": 28.887499092038997,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.75,
+        4.062,
+        3.391,
+        3.875
+      ],
+      "VIIDEO": 0.4327642619609833,
+      "Qalign": 3.97265625,
+      "ViCLIP": 0.23136049509048462,
+      "MUSIQ": 63.100218465505556
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_08",
+    "video_path": "./Video/Kling1.6/B21_08.mp4",
+    "score": {
+      "BRISQUE": 40.41163874854726,
+      "RAFT": true,
+      "VideoScore": [
+        3.859,
+        3.656,
+        3.859,
+        3.297,
+        3.75
+      ],
+      "VIIDEO": 0.5230117440223694,
+      "Qalign": 3.65625,
+      "ViCLIP": 0.2264544814825058,
+      "MUSIQ": 50.85715314376453
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_09",
+    "video_path": "./Video/Kling1.6/B21_09.mp4",
+    "score": {
+      "BRISQUE": 27.574579412286933,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.844,
+        4.094,
+        3.469,
+        3.891
+      ],
+      "VIIDEO": 0.721450686454773,
+      "Qalign": 4.453125,
+      "ViCLIP": 0.2219623476266861,
+      "MUSIQ": 57.41597668986675
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_10",
+    "video_path": "./Video/Kling1.6/B21_10.mp4",
+    "score": {
+      "BRISQUE": 31.2215480331547,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.391,
+        2.969,
+        2.516,
+        2.531
+      ],
+      "VIIDEO": 0.5494816899299622,
+      "Qalign": 3.896484375,
+      "ViCLIP": 0.2297714650630951,
+      "MUSIQ": 52.836495013276405
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_11",
+    "video_path": "./Video/Kling1.6/B21_11.mp4",
+    "score": {
+      "BRISQUE": 38.5858825179171,
+      "RAFT": true,
+      "VideoScore": [
+        3.859,
+        3.766,
+        3.844,
+        3.375,
+        3.844
+      ],
+      "VIIDEO": 0.5272136330604553,
+      "Qalign": 3.18359375,
+      "ViCLIP": 0.22975289821624756,
+      "MUSIQ": 56.443282198314826
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_12",
+    "video_path": "./Video/Kling1.6/B21_12.mp4",
+    "score": {
+      "BRISQUE": 29.35332343992123,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.984,
+        3.297,
+        3.906
+      ],
+      "VIIDEO": 0.41018810868263245,
+      "Qalign": 4.46875,
+      "ViCLIP": 0.251216858625412,
+      "MUSIQ": 75.50336683289079
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_13",
+    "video_path": "./Video/Kling1.6/B21_13.mp4",
+    "score": {
+      "BRISQUE": 20.633374931398503,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.75,
+        4.156,
+        3.016,
+        3.844
+      ],
+      "VIIDEO": 0.34994980692863464,
+      "Qalign": 4.30078125,
+      "ViCLIP": 0.21878421306610107,
+      "MUSIQ": 71.61944989921633
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B21_14",
+    "video_path": "./Video/Kling1.6/B21_14.mp4",
+    "score": {
+      "BRISQUE": 36.382987534704284,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.906,
+        4.062,
+        3.359,
+        3.969
+      ],
+      "VIIDEO": 0.5860038995742798,
+      "Qalign": 4.171875,
+      "ViCLIP": 0.16002769768238068,
+      "MUSIQ": 70.65650965162546
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_01",
+    "video_path": "./Video/Kling1.6/B22_01.mp4",
+    "score": {
+      "BRISQUE": 42.95279561192536,
+      "RAFT": true,
+      "VideoScore": [
+        3.578,
+        3.453,
+        3.547,
+        3.188,
+        3.5
+      ],
+      "VIIDEO": 0.6258017420768738,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.22269290685653687,
+      "MUSIQ": 58.26769344865783
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_02",
+    "video_path": "./Video/Kling1.6/B22_02.mp4",
+    "score": {
+      "BRISQUE": 31.13011837793776,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.969,
+        4.062,
+        3.484,
+        4.0
+      ],
+      "VIIDEO": 0.5101107954978943,
+      "Qalign": 4.1875,
+      "ViCLIP": 0.24221661686897278,
+      "MUSIQ": 64.76436025446111
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_03",
+    "video_path": "./Video/Kling1.6/B22_03.mp4",
+    "score": {
+      "BRISQUE": 26.229082091780732,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        3.969,
+        3.391,
+        3.938
+      ],
+      "VIIDEO": 0.4754105508327484,
+      "Qalign": 3.888671875,
+      "ViCLIP": 0.25581151247024536,
+      "MUSIQ": 67.2259640023728
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_04",
+    "video_path": "./Video/Kling1.6/B22_04.mp4",
+    "score": {
+      "BRISQUE": 30.39692978031379,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.953,
+        3.312,
+        3.844
+      ],
+      "VIIDEO": 0.676653265953064,
+      "Qalign": 4.52734375,
+      "ViCLIP": 0.24037310481071472,
+      "MUSIQ": 71.85207051679123
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_05",
+    "video_path": "./Video/Kling1.6/B22_05.mp4",
+    "score": {
+      "BRISQUE": 18.53450403134685,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.906,
+        4.031,
+        3.484,
+        3.938
+      ],
+      "VIIDEO": 0.6105300188064575,
+      "Qalign": 4.0546875,
+      "ViCLIP": 0.2119438350200653,
+      "MUSIQ": 64.9727226761747
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_06",
+    "video_path": "./Video/Kling1.6/B22_06.mp4",
+    "score": {
+      "BRISQUE": 45.34786356776214,
+      "RAFT": true,
+      "VideoScore": [
+        3.5,
+        3.344,
+        3.469,
+        3.094,
+        3.422
+      ],
+      "VIIDEO": 0.4869753122329712,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.21784400939941406,
+      "MUSIQ": 48.371287227662144
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_07",
+    "video_path": "./Video/Kling1.6/B22_07.mp4",
+    "score": {
+      "BRISQUE": 38.52533967829933,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.953,
+        4.0,
+        3.578,
+        3.969
+      ],
+      "VIIDEO": 0.4767129719257355,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.26629093289375305,
+      "MUSIQ": 47.5620765528403
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_08",
+    "video_path": "./Video/Kling1.6/B22_08.mp4",
+    "score": {
+      "BRISQUE": 41.13710765996255,
+      "RAFT": true,
+      "VideoScore": [
+        3.453,
+        3.094,
+        3.531,
+        2.922,
+        3.266
+      ],
+      "VIIDEO": 0.5478357672691345,
+      "Qalign": 4.43359375,
+      "ViCLIP": 0.2279462367296219,
+      "MUSIQ": 50.483582268076496
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_09",
+    "video_path": "./Video/Kling1.6/B22_09.mp4",
+    "score": {
+      "BRISQUE": 19.127374318020404,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.922,
+        3.969,
+        3.453,
+        3.922
+      ],
+      "VIIDEO": 0.5900854468345642,
+      "Qalign": 4.11328125,
+      "ViCLIP": 0.24286939203739166,
+      "MUSIQ": 64.14329289207774
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_10",
+    "video_path": "./Video/Kling1.6/B22_10.mp4",
+    "score": {
+      "BRISQUE": 37.331613083516274,
+      "RAFT": false,
+      "VideoScore": [
+        3.312,
+        3.078,
+        3.422,
+        2.922,
+        3.094
+      ],
+      "VIIDEO": 0.5320340991020203,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.17900872230529785,
+      "MUSIQ": 46.83095922548909
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_11",
+    "video_path": "./Video/Kling1.6/B22_11.mp4",
+    "score": {
+      "BRISQUE": 29.86262903134685,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.844,
+        4.062,
+        3.422,
+        3.859
+      ],
+      "VIIDEO": 0.6118171215057373,
+      "Qalign": 4.73046875,
+      "ViCLIP": 0.2383887618780136,
+      "MUSIQ": 79.3110089262655
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B22_12",
+    "video_path": "./Video/Kling1.6/B22_12.mp4",
+    "score": {
+      "BRISQUE": 43.94529383635718,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.953,
+        3.562,
+        3.906
+      ],
+      "VIIDEO": 0.5581943392753601,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.20626598596572876,
+      "MUSIQ": 65.02847230138858
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_01",
+    "video_path": "./Video/Kling1.6/B31_01.mp4",
+    "score": {
+      "BRISQUE": 12.088691143950156,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.734,
+        3.828,
+        3.359,
+        3.797
+      ],
+      "VIIDEO": 0.3417319357395172,
+      "Qalign": 4.171875,
+      "ViCLIP": 0.2389734387397766,
+      "MUSIQ": 53.501788809279766
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_02",
+    "video_path": "./Video/Kling1.6/B31_02.mp4",
+    "score": {
+      "BRISQUE": 36.12762854710098,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.859,
+        3.906,
+        3.375,
+        3.859
+      ],
+      "VIIDEO": 0.40715736150741577,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.22631390392780304,
+      "MUSIQ": 53.92539210358927
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_03",
+    "video_path": "./Video/Kling1.6/B31_03.mp4",
+    "score": {
+      "BRISQUE": 39.3991532759233,
+      "RAFT": true,
+      "VideoScore": [
+        3.422,
+        3.25,
+        3.469,
+        3.203,
+        3.25
+      ],
+      "VIIDEO": 0.6011953949928284,
+      "Qalign": 4.359375,
+      "ViCLIP": 0.1983669400215149,
+      "MUSIQ": 57.607964886121515
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_04",
+    "video_path": "./Video/Kling1.6/B31_04.mp4",
+    "score": {
+      "BRISQUE": 40.49193881956999,
+      "RAFT": true,
+      "VideoScore": [
+        3.531,
+        3.266,
+        3.484,
+        3.031,
+        3.266
+      ],
+      "VIIDEO": 0.3952765464782715,
+      "Qalign": 4.45703125,
+      "ViCLIP": 0.2057732790708542,
+      "MUSIQ": 65.96324387857737
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_05",
+    "video_path": "./Video/Kling1.6/B31_05.mp4",
+    "score": {
+      "BRISQUE": 34.06834474673941,
+      "RAFT": true,
+      "VideoScore": [
+        3.75,
+        3.641,
+        3.766,
+        3.422,
+        3.688
+      ],
+      "VIIDEO": 0.5566588044166565,
+      "Qalign": 4.34375,
+      "ViCLIP": 0.2004932314157486,
+      "MUSIQ": 74.73818351808659
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_06",
+    "video_path": "./Video/Kling1.6/B31_06.mp4",
+    "score": {
+      "BRISQUE": 35.41683228547908,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.75,
+        3.953,
+        3.141,
+        3.812
+      ],
+      "VIIDEO": 0.46698063611984253,
+      "Qalign": 4.1015625,
+      "ViCLIP": 0.21953561902046204,
+      "MUSIQ": 47.73820237088795
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_07",
+    "video_path": "./Video/Kling1.6/B31_07.mp4",
+    "score": {
+      "BRISQUE": 40.809616214972884,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.641,
+        3.922,
+        3.203,
+        3.688
+      ],
+      "VIIDEO": 0.4925861954689026,
+      "Qalign": 4.2890625,
+      "ViCLIP": 0.18243026733398438,
+      "MUSIQ": 55.46553329593879
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_08",
+    "video_path": "./Video/Kling1.6/B31_08.mp4",
+    "score": {
+      "BRISQUE": 21.696189691212552,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.75,
+        3.828,
+        3.344,
+        3.812
+      ],
+      "VIIDEO": 0.4293593466281891,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.20253220200538635,
+      "MUSIQ": 38.66359838375375
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_09",
+    "video_path": "./Video/Kling1.6/B31_09.mp4",
+    "score": {
+      "BRISQUE": 30.386768687855113,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.844,
+        3.328,
+        3.844
+      ],
+      "VIIDEO": 0.554659903049469,
+      "Qalign": 4.09375,
+      "ViCLIP": 0.2499561905860901,
+      "MUSIQ": 57.66756275271581
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_10",
+    "video_path": "./Video/Kling1.6/B31_10.mp4",
+    "score": {
+      "BRISQUE": 45.5419372054171,
+      "RAFT": true,
+      "VideoScore": [
+        3.859,
+        3.641,
+        3.812,
+        3.219,
+        3.672
+      ],
+      "VIIDEO": 0.49300187826156616,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.1929892897605896,
+      "MUSIQ": 53.89307069384362
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_11",
+    "video_path": "./Video/Kling1.6/B31_11.mp4",
+    "score": {
+      "BRISQUE": 36.34386450397081,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.938,
+        3.531,
+        3.938
+      ],
+      "VIIDEO": 0.5581777691841125,
+      "Qalign": 3.8984375,
+      "ViCLIP": 0.20492886006832123,
+      "MUSIQ": 61.804403699134006
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_12",
+    "video_path": "./Video/Kling1.6/B31_12.mp4",
+    "score": {
+      "BRISQUE": 33.160286895499745,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.969,
+        3.422,
+        3.906
+      ],
+      "VIIDEO": 0.4791429936885834,
+      "Qalign": 3.90234375,
+      "ViCLIP": 0.3312637507915497,
+      "MUSIQ": 51.03123489884305
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_13",
+    "video_path": "./Video/Kling1.6/B31_13.mp4",
+    "score": {
+      "BRISQUE": 37.331387102111314,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.719,
+        3.797,
+        3.328,
+        3.734
+      ],
+      "VIIDEO": 0.5989456176757812,
+      "Qalign": 4.328125,
+      "ViCLIP": 0.16480796039104462,
+      "MUSIQ": 48.00744516987446
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B31_14",
+    "video_path": "./Video/Kling1.6/B31_14.mp4",
+    "score": {
+      "BRISQUE": 37.93796961760718,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.906,
+        3.406,
+        3.922
+      ],
+      "VIIDEO": 0.5352559685707092,
+      "Qalign": 4.33984375,
+      "ViCLIP": 0.24487990140914917,
+      "MUSIQ": 63.880637712715085
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_01",
+    "video_path": "./Video/Kling1.6/B32_01.mp4",
+    "score": {
+      "BRISQUE": 39.34277495076834,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.781,
+        3.891,
+        3.344,
+        3.844
+      ],
+      "VIIDEO": 0.5523253679275513,
+      "Qalign": 3.890625,
+      "ViCLIP": 0.24192428588867188,
+      "MUSIQ": 57.46576463683578
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_02",
+    "video_path": "./Video/Kling1.6/B32_02.mp4",
+    "score": {
+      "BRISQUE": 42.6616306777828,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.906,
+        3.469,
+        3.875
+      ],
+      "VIIDEO": 0.4830623269081116,
+      "Qalign": 4.03515625,
+      "ViCLIP": 0.19490572810173035,
+      "MUSIQ": 56.1343336499427
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_03",
+    "video_path": "./Video/Kling1.6/B32_03.mp4",
+    "score": {
+      "BRISQUE": 22.74239885314437,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.969,
+        3.375,
+        3.906
+      ],
+      "VIIDEO": 0.4758252203464508,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.12271684408187866,
+      "MUSIQ": 71.10638828119956
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_04",
+    "video_path": "./Video/Kling1.6/B32_04.mp4",
+    "score": {
+      "BRISQUE": 37.3866637679171,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.859,
+        3.906,
+        3.422,
+        3.844
+      ],
+      "VIIDEO": 0.585028886795044,
+      "Qalign": 4.078125,
+      "ViCLIP": 0.23329412937164307,
+      "MUSIQ": 56.16164871089715
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_05",
+    "video_path": "./Video/Kling1.6/B32_05.mp4",
+    "score": {
+      "BRISQUE": 41.48328292468363,
+      "RAFT": true,
+      "VideoScore": [
+        3.141,
+        2.969,
+        3.125,
+        2.875,
+        3.031
+      ],
+      "VIIDEO": 0.5126057863235474,
+      "Qalign": 4.3046875,
+      "ViCLIP": 0.23022115230560303,
+      "MUSIQ": 59.76745397394354
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_06",
+    "video_path": "./Video/Kling1.6/B32_06.mp4",
+    "score": {
+      "BRISQUE": 27.17358347995222,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        4.031,
+        3.312,
+        3.812
+      ],
+      "VIIDEO": 0.45894983410835266,
+      "Qalign": 4.19921875,
+      "ViCLIP": 0.19650547206401825,
+      "MUSIQ": 63.8370194868608
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_07",
+    "video_path": "./Video/Kling1.6/B32_07.mp4",
+    "score": {
+      "BRISQUE": 37.130275757844785,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.828,
+        3.922,
+        3.391,
+        3.844
+      ],
+      "VIIDEO": 0.4688248634338379,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.1723332703113556,
+      "MUSIQ": 54.002672305777054
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_08",
+    "video_path": "./Video/Kling1.6/B32_08.mp4",
+    "score": {
+      "BRISQUE": 42.30027834048941,
+      "RAFT": true,
+      "VideoScore": [
+        3.656,
+        3.484,
+        3.719,
+        3.203,
+        3.641
+      ],
+      "VIIDEO": 0.5219613313674927,
+      "Qalign": 3.84765625,
+      "ViCLIP": 0.25760406255722046,
+      "MUSIQ": 46.126848394220524
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_09",
+    "video_path": "./Video/Kling1.6/B32_09.mp4",
+    "score": {
+      "BRISQUE": 38.83772668759685,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.969,
+        4.031,
+        3.609,
+        4.0
+      ],
+      "VIIDEO": 0.5259512066841125,
+      "Qalign": 4.03125,
+      "ViCLIP": 0.17813777923583984,
+      "MUSIQ": 70.91253233350012
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_10",
+    "video_path": "./Video/Kling1.6/B32_10.mp4",
+    "score": {
+      "BRISQUE": 28.725607627679494,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.859,
+        3.891,
+        3.422,
+        3.891
+      ],
+      "VIIDEO": 0.5907085537910461,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.2603317201137543,
+      "MUSIQ": 50.61693147391327
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B32_11",
+    "video_path": "./Video/Kling1.6/B32_11.mp4",
+    "score": {
+      "BRISQUE": 41.032857595396436,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.797,
+        4.031,
+        3.344,
+        3.844
+      ],
+      "VIIDEO": 0.6080466508865356,
+      "Qalign": 4.23828125,
+      "ViCLIP": 0.19090977311134338,
+      "MUSIQ": 62.16577239864129
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_01",
+    "video_path": "./Video/Kling1.6/B33_01.mp4",
+    "score": {
+      "BRISQUE": 42.23776219896049,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.719,
+        4.062,
+        3.266,
+        3.766
+      ],
+      "VIIDEO": 0.48673301935195923,
+      "Qalign": 3.7421875,
+      "ViCLIP": 0.11913874000310898,
+      "MUSIQ": 47.37578578034708
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_02",
+    "video_path": "./Video/Kling1.6/B33_02.mp4",
+    "score": {
+      "BRISQUE": 13.993900015334452,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        4.031,
+        3.359,
+        3.906
+      ],
+      "VIIDEO": 0.28811895847320557,
+      "Qalign": 3.8515625,
+      "ViCLIP": 0.27890896797180176,
+      "MUSIQ": 60.90430904419954
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_03",
+    "video_path": "./Video/Kling1.6/B33_03.mp4",
+    "score": {
+      "BRISQUE": 32.59201629890883,
+      "RAFT": true,
+      "VideoScore": [
+        3.516,
+        3.391,
+        3.406,
+        3.156,
+        3.5
+      ],
+      "VIIDEO": 0.6358052492141724,
+      "Qalign": 4.0546875,
+      "ViCLIP": 0.2135460376739502,
+      "MUSIQ": 63.17403954119722
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_04",
+    "video_path": "./Video/Kling1.6/B33_04.mp4",
+    "score": {
+      "BRISQUE": 34.638039833258006,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        4.0,
+        3.453,
+        3.938
+      ],
+      "VIIDEO": 0.6001012325286865,
+      "Qalign": 3.9609375,
+      "ViCLIP": 0.19396257400512695,
+      "MUSIQ": 77.07009408493673
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_05",
+    "video_path": "./Video/Kling1.6/B33_05.mp4",
+    "score": {
+      "BRISQUE": 36.03410856388817,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.891,
+        3.5,
+        3.938
+      ],
+      "VIIDEO": 0.31761205196380615,
+      "Qalign": 4.25390625,
+      "ViCLIP": 0.22946275770664215,
+      "MUSIQ": 77.60781765772292
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_06",
+    "video_path": "./Video/Kling1.6/B33_06.mp4",
+    "score": {
+      "BRISQUE": 47.443239826801396,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.578,
+        3.984,
+        2.875,
+        3.688
+      ],
+      "VIIDEO": 0.44031310081481934,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.2153550684452057,
+      "MUSIQ": 72.5886375490299
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_07",
+    "video_path": "./Video/Kling1.6/B33_07.mp4",
+    "score": {
+      "BRISQUE": 35.84426400681173,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.828,
+        3.844,
+        3.422,
+        3.859
+      ],
+      "VIIDEO": 0.410805344581604,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.23271900415420532,
+      "MUSIQ": 63.21120727160746
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_08",
+    "video_path": "./Video/Kling1.6/B33_08.mp4",
+    "score": {
+      "BRISQUE": 36.864065627421226,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.875,
+        3.484,
+        3.844
+      ],
+      "VIIDEO": 0.6065363883972168,
+      "Qalign": 4.71875,
+      "ViCLIP": 0.17243333160877228,
+      "MUSIQ": 68.19048823206877
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_09",
+    "video_path": "./Video/Kling1.6/B33_09.mp4",
+    "score": {
+      "BRISQUE": 37.47235107421875,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        3.891,
+        3.422,
+        3.844
+      ],
+      "VIIDEO": 0.4175602197647095,
+      "Qalign": 4.30859375,
+      "ViCLIP": 0.24039356410503387,
+      "MUSIQ": 59.79870747337657
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B33_10",
+    "video_path": "./Video/Kling1.6/B33_10.mp4",
+    "score": {
+      "BRISQUE": 47.08192784333032,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.781,
+        4.062,
+        3.375,
+        3.797
+      ],
+      "VIIDEO": 0.6549145579338074,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.24911898374557495,
+      "MUSIQ": 73.13566469555059
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_01",
+    "video_path": "./Video/Kling1.6/B34_01.mp4",
+    "score": {
+      "BRISQUE": 38.71807760443569,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.75,
+        3.875,
+        3.297,
+        3.844
+      ],
+      "VIIDEO": 0.49627619981765747,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.22420024871826172,
+      "MUSIQ": 42.34820786783518
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_02",
+    "video_path": "./Video/Kling1.6/B34_02.mp4",
+    "score": {
+      "BRISQUE": 42.07263839343363,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.906,
+        3.906,
+        3.438,
+        3.938
+      ],
+      "VIIDEO": 0.6799743175506592,
+      "Qalign": 3.9921875,
+      "ViCLIP": 0.2599155604839325,
+      "MUSIQ": 58.57484565293493
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_03",
+    "video_path": "./Video/Kling1.6/B34_03.mp4",
+    "score": {
+      "BRISQUE": 42.28826904296875,
+      "RAFT": true,
+      "VideoScore": [
+        3.688,
+        3.406,
+        3.75,
+        3.109,
+        3.531
+      ],
+      "VIIDEO": 0.43389183282852173,
+      "Qalign": 4.1796875,
+      "ViCLIP": 0.1956099569797516,
+      "MUSIQ": 52.997342417062804
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_04",
+    "video_path": "./Video/Kling1.6/B34_04.mp4",
+    "score": {
+      "BRISQUE": 27.2645167831547,
+      "RAFT": true,
+      "VideoScore": [
+        3.188,
+        2.766,
+        3.391,
+        2.734,
+        3.0
+      ],
+      "VIIDEO": 0.4923804998397827,
+      "Qalign": 3.8515625,
+      "ViCLIP": 0.247983917593956,
+      "MUSIQ": 41.51558161964101
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_05",
+    "video_path": "./Video/Kling1.6/B34_05.mp4",
+    "score": {
+      "BRISQUE": 43.13943607551007,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.703,
+        3.781,
+        3.328,
+        3.766
+      ],
+      "VIIDEO": 0.43553176522254944,
+      "Qalign": 3.966796875,
+      "ViCLIP": 0.2170867621898651,
+      "MUSIQ": 35.34089797784474
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_06",
+    "video_path": "./Video/Kling1.6/B34_06.mp4",
+    "score": {
+      "BRISQUE": 38.30903915531379,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.797,
+        3.875,
+        3.344,
+        3.859
+      ],
+      "VIIDEO": 0.472743958234787,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.2484077513217926,
+      "MUSIQ": 52.45339067317238
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_07",
+    "video_path": "./Video/Kling1.6/B34_07.mp4",
+    "score": {
+      "BRISQUE": 36.82866321910512,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.734,
+        4.031,
+        3.062,
+        3.75
+      ],
+      "VIIDEO": 0.6019798517227173,
+      "Qalign": 4.30859375,
+      "ViCLIP": 0.22297611832618713,
+      "MUSIQ": 67.56467853892933
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_08",
+    "video_path": "./Video/Kling1.6/B34_08.mp4",
+    "score": {
+      "BRISQUE": 18.6243800644047,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        4.0,
+        3.203,
+        3.719
+      ],
+      "VIIDEO": 0.6527784466743469,
+      "Qalign": 4.4609375,
+      "ViCLIP": 0.23141537606716156,
+      "MUSIQ": 68.45039317233504
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_09",
+    "video_path": "./Video/Kling1.6/B34_09.mp4",
+    "score": {
+      "BRISQUE": 35.706742215747674,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.953,
+        3.344,
+        3.875
+      ],
+      "VIIDEO": 0.6269169449806213,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.2638547122478485,
+      "MUSIQ": 60.31701909214997
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B34_10",
+    "video_path": "./Video/Kling1.6/B34_10.mp4",
+    "score": {
+      "BRISQUE": 38.261478140334454,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.703,
+        3.812,
+        3.344,
+        3.75
+      ],
+      "VIIDEO": 0.5414005517959595,
+      "Qalign": 4.53125,
+      "ViCLIP": 0.20733457803726196,
+      "MUSIQ": 56.134909480071265
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_01",
+    "video_path": "./Video/Kling1.6/B41_01.mp4",
+    "score": {
+      "BRISQUE": 18.299422839456355,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.812,
+        3.844,
+        3.328,
+        3.844
+      ],
+      "VIIDEO": 0.4840613007545471,
+      "Qalign": 4.40625,
+      "ViCLIP": 0.18336352705955505,
+      "MUSIQ": 73.25102353687129
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_02",
+    "video_path": "./Video/Kling1.6/B41_02.mp4",
+    "score": {
+      "BRISQUE": 34.339554715747674,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.953,
+        3.984,
+        3.578,
+        3.953
+      ],
+      "VIIDEO": 0.30670279264450073,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.20092234015464783,
+      "MUSIQ": 75.33047844752792
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_03",
+    "video_path": "./Video/Kling1.6/B41_03.mp4",
+    "score": {
+      "BRISQUE": 46.83675416047908,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.672,
+        3.719,
+        3.266,
+        3.734
+      ],
+      "VIIDEO": 0.5446304082870483,
+      "Qalign": 4.21484375,
+      "ViCLIP": 0.20784705877304077,
+      "MUSIQ": 53.71362446556407
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_04",
+    "video_path": "./Video/Kling1.6/B41_04.mp4",
+    "score": {
+      "BRISQUE": 42.18878072943569,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.672,
+        4.0,
+        3.172,
+        3.75
+      ],
+      "VIIDEO": 0.4562016725540161,
+      "Qalign": 4.1875,
+      "ViCLIP": 0.24370890855789185,
+      "MUSIQ": 45.8873718356298
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_05",
+    "video_path": "./Video/Kling1.6/B41_05.mp4",
+    "score": {
+      "BRISQUE": 26.263386876129907,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.906,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.48738256096839905,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.2665029764175415,
+      "MUSIQ": 56.10449029591458
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_06",
+    "video_path": "./Video/Kling1.6/B41_06.mp4",
+    "score": {
+      "BRISQUE": 30.32580616848528,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.844,
+        3.875,
+        3.344,
+        3.844
+      ],
+      "VIIDEO": 0.5511270761489868,
+      "Qalign": 4.40625,
+      "ViCLIP": 0.20056337118148804,
+      "MUSIQ": 73.23068729116898
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_07",
+    "video_path": "./Video/Kling1.6/B41_07.mp4",
+    "score": {
+      "BRISQUE": 38.7351432358923,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.812,
+        3.844,
+        3.359,
+        3.844
+      ],
+      "VIIDEO": 0.5734530091285706,
+      "Qalign": 4.6328125,
+      "ViCLIP": 0.1906793713569641,
+      "MUSIQ": 66.29864618600892
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_08",
+    "video_path": "./Video/Kling1.6/B41_08.mp4",
+    "score": {
+      "BRISQUE": 30.47025671084065,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        3.891,
+        3.438,
+        3.859
+      ],
+      "VIIDEO": 0.5295746326446533,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.19558706879615784,
+      "MUSIQ": 71.03280450489895
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_09",
+    "video_path": "./Video/Kling1.6/B41_09.mp4",
+    "score": {
+      "BRISQUE": 32.8131269975142,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.922,
+        3.984,
+        3.469,
+        3.891
+      ],
+      "VIIDEO": 0.4628024697303772,
+      "Qalign": 4.703125,
+      "ViCLIP": 0.21334616839885712,
+      "MUSIQ": 75.20748825703771
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_10",
+    "video_path": "./Video/Kling1.6/B41_10.mp4",
+    "score": {
+      "BRISQUE": 35.36635772452867,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.969,
+        3.469,
+        3.891
+      ],
+      "VIIDEO": 0.5296046733856201,
+      "Qalign": 3.91796875,
+      "ViCLIP": 0.19450941681861877,
+      "MUSIQ": 53.153049405941296
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_11",
+    "video_path": "./Video/Kling1.6/B41_11.mp4",
+    "score": {
+      "BRISQUE": 31.8237400527828,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        3.969,
+        3.344,
+        3.922
+      ],
+      "VIIDEO": 0.6029155850410461,
+      "Qalign": 4.3984375,
+      "ViCLIP": 0.260527640581131,
+      "MUSIQ": 74.3405870800176
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_12",
+    "video_path": "./Video/Kling1.6/B41_12.mp4",
+    "score": {
+      "BRISQUE": 33.17091609229726,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.859,
+        3.375,
+        3.859
+      ],
+      "VIIDEO": 0.5527620911598206,
+      "Qalign": 3.580078125,
+      "ViCLIP": 0.26737502217292786,
+      "MUSIQ": 36.78046177635508
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B41_13",
+    "video_path": "./Video/Kling1.6/B41_13.mp4",
+    "score": {
+      "BRISQUE": 29.02090075784478,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.859,
+        3.906,
+        3.391,
+        3.844
+      ],
+      "VIIDEO": 0.5061886310577393,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.20613625645637512,
+      "MUSIQ": 63.853161078839264
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_01",
+    "video_path": "./Video/Kling1.6/B42_01.mp4",
+    "score": {
+      "BRISQUE": 22.061311075510073,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.984,
+        3.562,
+        3.906
+      ],
+      "VIIDEO": 0.5204558968544006,
+      "Qalign": 4.41015625,
+      "ViCLIP": 0.19598275423049927,
+      "MUSIQ": 66.94198888983608
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_02",
+    "video_path": "./Video/Kling1.6/B42_02.mp4",
+    "score": {
+      "BRISQUE": 15.056674421326187,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.875,
+        3.922,
+        3.438,
+        3.891
+      ],
+      "VIIDEO": 0.2961055636405945,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.27873554825782776,
+      "MUSIQ": 61.72063058269911
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_03",
+    "video_path": "./Video/Kling1.6/B42_03.mp4",
+    "score": {
+      "BRISQUE": 38.46758528780346,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.891,
+        3.422,
+        3.891
+      ],
+      "VIIDEO": 0.568277895450592,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.22526586055755615,
+      "MUSIQ": 47.85588398452633
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_04",
+    "video_path": "./Video/Kling1.6/B42_04.mp4",
+    "score": {
+      "BRISQUE": 30.70016857809272,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.859,
+        3.438,
+        3.875
+      ],
+      "VIIDEO": 0.4379046857357025,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.2203390896320343,
+      "MUSIQ": 69.34621870813291
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_05",
+    "video_path": "./Video/Kling1.6/B42_05.mp4",
+    "score": {
+      "BRISQUE": 24.465438464456355,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.703,
+        4.0,
+        3.156,
+        3.734
+      ],
+      "VIIDEO": 0.41253161430358887,
+      "Qalign": 4.0859375,
+      "ViCLIP": 0.15828698873519897,
+      "MUSIQ": 67.97704911034954
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_06",
+    "video_path": "./Video/Kling1.6/B42_06.mp4",
+    "score": {
+      "BRISQUE": 48.59963913594396,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.656,
+        3.953,
+        3.203,
+        3.656
+      ],
+      "VIIDEO": 0.5333050489425659,
+      "Qalign": 3.9375,
+      "ViCLIP": 0.20683400332927704,
+      "MUSIQ": 46.9612287726284
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_07",
+    "video_path": "./Video/Kling1.6/B42_07.mp4",
+    "score": {
+      "BRISQUE": 30.235530632586517,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.625,
+        3.828,
+        2.938,
+        3.625
+      ],
+      "VIIDEO": 0.4303973615169525,
+      "Qalign": 4.6171875,
+      "ViCLIP": 0.20851179957389832,
+      "MUSIQ": 51.40437707822185
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_08",
+    "video_path": "./Video/Kling1.6/B42_08.mp4",
+    "score": {
+      "BRISQUE": 36.42294185417743,
+      "RAFT": true,
+      "VideoScore": [
+        3.766,
+        3.578,
+        3.75,
+        3.219,
+        3.688
+      ],
+      "VIIDEO": 0.5297155380249023,
+      "Qalign": 3.958984375,
+      "ViCLIP": 0.28261083364486694,
+      "MUSIQ": 51.94780810017231
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_09",
+    "video_path": "./Video/Kling1.6/B42_09.mp4",
+    "score": {
+      "BRISQUE": 27.785464452317925,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        3.875,
+        3.438,
+        3.906
+      ],
+      "VIIDEO": 0.5256214737892151,
+      "Qalign": 3.728515625,
+      "ViCLIP": 0.2579365372657776,
+      "MUSIQ": 54.71697663866784
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_10",
+    "video_path": "./Video/Kling1.6/B42_10.mp4",
+    "score": {
+      "BRISQUE": 44.85751620205966,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.812,
+        3.906,
+        3.359,
+        3.812
+      ],
+      "VIIDEO": 0.47201576828956604,
+      "Qalign": 4.71484375,
+      "ViCLIP": 0.18314872682094574,
+      "MUSIQ": 53.47874961411657
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_11",
+    "video_path": "./Video/Kling1.6/B42_11.mp4",
+    "score": {
+      "BRISQUE": 43.35942493785512,
+      "RAFT": true,
+      "VideoScore": [
+        3.781,
+        3.656,
+        3.703,
+        3.281,
+        3.719
+      ],
+      "VIIDEO": 0.5103446245193481,
+      "Qalign": 4.125,
+      "ViCLIP": 0.2186507284641266,
+      "MUSIQ": 51.456666079434484
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B42_12",
+    "video_path": "./Video/Kling1.6/B42_12.mp4",
+    "score": {
+      "BRISQUE": 40.527199989508006,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.906,
+        3.953,
+        3.453,
+        3.938
+      ],
+      "VIIDEO": 0.6356400847434998,
+      "Qalign": 3.484375,
+      "ViCLIP": 0.27588143944740295,
+      "MUSIQ": 61.44944810473229
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_01",
+    "video_path": "./Video/Kling1.6/B43_01.mp4",
+    "score": {
+      "BRISQUE": 42.30691654426007,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.922,
+        3.484,
+        3.906
+      ],
+      "VIIDEO": 0.6095840930938721,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.24277906119823456,
+      "MUSIQ": 73.32757971897598
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_02",
+    "video_path": "./Video/Kling1.6/B43_02.mp4",
+    "score": {
+      "BRISQUE": 34.57024137638817,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.781,
+        4.0,
+        3.188,
+        3.781
+      ],
+      "VIIDEO": 0.39056798815727234,
+      "Qalign": 4.4453125,
+      "ViCLIP": 0.28107351064682007,
+      "MUSIQ": 67.96903083738216
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_03",
+    "video_path": "./Video/Kling1.6/B43_03.mp4",
+    "score": {
+      "BRISQUE": 15.147575441470815,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.922,
+        3.406,
+        3.906
+      ],
+      "VIIDEO": 0.2817641496658325,
+      "Qalign": 4.6328125,
+      "ViCLIP": 0.21313223242759705,
+      "MUSIQ": 77.72280354145144
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_04",
+    "video_path": "./Video/Kling1.6/B43_04.mp4",
+    "score": {
+      "BRISQUE": 37.63981943682206,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.891,
+        4.062,
+        3.125,
+        3.859
+      ],
+      "VIIDEO": 0.5239339470863342,
+      "Qalign": 4.1015625,
+      "ViCLIP": 0.1831206977367401,
+      "MUSIQ": 60.93340708204537
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_05",
+    "video_path": "./Video/Kling1.6/B43_05.mp4",
+    "score": {
+      "BRISQUE": 58.3892988725142,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.906,
+        3.344,
+        3.875
+      ],
+      "VIIDEO": 0.6678076982498169,
+      "Qalign": 3.607421875,
+      "ViCLIP": 0.18754318356513977,
+      "MUSIQ": 42.26827479591054
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_06",
+    "video_path": "./Video/Kling1.6/B43_06.mp4",
+    "score": {
+      "BRISQUE": 41.882212741315854,
+      "RAFT": true,
+      "VideoScore": [
+        3.719,
+        3.547,
+        3.672,
+        3.188,
+        3.656
+      ],
+      "VIIDEO": 0.5432940721511841,
+      "Qalign": 3.861328125,
+      "ViCLIP": 0.2389022707939148,
+      "MUSIQ": 45.74181621330829
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_07",
+    "video_path": "./Video/Kling1.6/B43_07.mp4",
+    "score": {
+      "BRISQUE": 31.322836127162965,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.781,
+        3.875,
+        3.25,
+        3.797
+      ],
+      "VIIDEO": 0.44200271368026733,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.22898554801940918,
+      "MUSIQ": 67.84470963281048
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_08",
+    "video_path": "./Video/Kling1.6/B43_08.mp4",
+    "score": {
+      "BRISQUE": 23.255304005520404,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.75,
+        3.906,
+        3.219,
+        3.766
+      ],
+      "VIIDEO": 0.49245038628578186,
+      "Qalign": 4.515625,
+      "ViCLIP": 0.173211932182312,
+      "MUSIQ": 68.01577815536625
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_09",
+    "video_path": "./Video/Kling1.6/B43_09.mp4",
+    "score": {
+      "BRISQUE": 26.894008163578253,
+      "RAFT": true,
+      "VideoScore": [
+        3.219,
+        3.078,
+        3.109,
+        2.812,
+        3.031
+      ],
+      "VIIDEO": 0.4304872155189514,
+      "Qalign": 4.6328125,
+      "ViCLIP": 0.23784512281417847,
+      "MUSIQ": 72.88802356562339
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_10",
+    "video_path": "./Video/Kling1.6/B43_10.mp4",
+    "score": {
+      "BRISQUE": 43.84666102385718,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.719,
+        4.094,
+        2.875,
+        3.75
+      ],
+      "VIIDEO": 0.6533393263816833,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.20305868983268738,
+      "MUSIQ": 77.97466498761138
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B43_11",
+    "video_path": "./Video/Kling1.6/B43_11.mp4",
+    "score": {
+      "BRISQUE": 23.286961579125776,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.969,
+        3.375,
+        3.875
+      ],
+      "VIIDEO": 0.5290378332138062,
+      "Qalign": 4.625,
+      "ViCLIP": 0.20915916562080383,
+      "MUSIQ": 73.29918919713045
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_01",
+    "video_path": "./Video/Kling1.6/B51_01.mp4",
+    "score": {
+      "BRISQUE": 36.00381494947701,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.859,
+        3.953,
+        3.266,
+        3.781
+      ],
+      "VIIDEO": 0.46765464544296265,
+      "Qalign": 4.73828125,
+      "ViCLIP": 0.20627641677856445,
+      "MUSIQ": 66.48825309690365
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_02",
+    "video_path": "./Video/Kling1.6/B51_02.mp4",
+    "score": {
+      "BRISQUE": 35.63972662303073,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        4.125,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.5087908506393433,
+      "Qalign": 4.0625,
+      "ViCLIP": 0.1803251951932907,
+      "MUSIQ": 52.309575829624144
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_03",
+    "video_path": "./Video/Kling1.6/B51_03.mp4",
+    "score": {
+      "BRISQUE": 21.63727714601627,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.953,
+        3.25,
+        3.781
+      ],
+      "VIIDEO": 0.29189246892929077,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.24144141376018524,
+      "MUSIQ": 73.75232337131973
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_04",
+    "video_path": "./Video/Kling1.6/B51_04.mp4",
+    "score": {
+      "BRISQUE": 21.63727714601627,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.953,
+        3.156,
+        3.797
+      ],
+      "VIIDEO": 0.29189246892929077,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.14287066459655762,
+      "MUSIQ": 73.75232337131973
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_05",
+    "video_path": "./Video/Kling1.6/B51_05.mp4",
+    "score": {
+      "BRISQUE": 30.336641169776602,
+      "RAFT": false,
+      "VideoScore": [
+        3.688,
+        3.531,
+        3.438,
+        3.234,
+        3.578
+      ],
+      "VIIDEO": 0.48538899421691895,
+      "Qalign": 4.90625,
+      "ViCLIP": 0.13446392118930817,
+      "MUSIQ": 73.19033649539159
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_06",
+    "video_path": "./Video/Kling1.6/B51_06.mp4",
+    "score": {
+      "BRISQUE": 37.618674033929494,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.766,
+        3.906,
+        3.281,
+        3.812
+      ],
+      "VIIDEO": 0.434407114982605,
+      "Qalign": 4.3359375,
+      "ViCLIP": 0.2116650640964508,
+      "MUSIQ": 60.46561665180301
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_07",
+    "video_path": "./Video/Kling1.6/B51_07.mp4",
+    "score": {
+      "BRISQUE": 20.45190379245222,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        3.938,
+        3.266,
+        3.938
+      ],
+      "VIIDEO": 0.39903149008750916,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.23477666079998016,
+      "MUSIQ": 65.0570763201753
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_08",
+    "video_path": "./Video/Kling1.6/B51_08.mp4",
+    "score": {
+      "BRISQUE": 28.08138710211131,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.781,
+        3.766,
+        3.156,
+        3.672
+      ],
+      "VIIDEO": 0.34769290685653687,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.22117558121681213,
+      "MUSIQ": 63.911795025029456
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_09",
+    "video_path": "./Video/Kling1.6/B51_09.mp4",
+    "score": {
+      "BRISQUE": 24.90266405846462,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.844,
+        3.828,
+        3.391,
+        3.844
+      ],
+      "VIIDEO": 0.6324366331100464,
+      "Qalign": 4.5,
+      "ViCLIP": 0.19417575001716614,
+      "MUSIQ": 73.86222530396516
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_10",
+    "video_path": "./Video/Kling1.6/B51_10.mp4",
+    "score": {
+      "BRISQUE": 27.452997381036933,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.969,
+        3.547,
+        3.953
+      ],
+      "VIIDEO": 0.4827084243297577,
+      "Qalign": 4.45703125,
+      "ViCLIP": 0.23349685966968536,
+      "MUSIQ": 68.39858661998402
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_11",
+    "video_path": "./Video/Kling1.6/B51_11.mp4",
+    "score": {
+      "BRISQUE": 4.02413713439437,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.641,
+        2.531,
+        2.375,
+        2.172
+      ],
+      "VIIDEO": 0.2799638509750366,
+      "Qalign": 4.5703125,
+      "ViCLIP": 0.15795859694480896,
+      "MUSIQ": 50.65304016869916
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B51_12",
+    "video_path": "./Video/Kling1.6/B51_12.mp4",
+    "score": {
+      "BRISQUE": 12.992927488216685,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.984,
+        3.109,
+        3.781
+      ],
+      "VIIDEO": 0.5103884935379028,
+      "Qalign": 4.54296875,
+      "ViCLIP": 0.22864310443401337,
+      "MUSIQ": 63.743051260956065
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_01",
+    "video_path": "./Video/Kling1.6/B52_01.mp4",
+    "score": {
+      "BRISQUE": 32.40028318294809,
+      "RAFT": true,
+      "VideoScore": [
+        3.359,
+        3.188,
+        3.344,
+        2.797,
+        3.141
+      ],
+      "VIIDEO": 0.574851393699646,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.16917136311531067,
+      "MUSIQ": 65.97241538812307
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_02",
+    "video_path": "./Video/Kling1.6/B52_02.mp4",
+    "score": {
+      "BRISQUE": 26.55642019224561,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.766,
+        4.0,
+        3.25,
+        3.75
+      ],
+      "VIIDEO": 0.6368681192398071,
+      "Qalign": 4.51953125,
+      "ViCLIP": 0.20578883588314056,
+      "MUSIQ": 74.12883522096745
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_03",
+    "video_path": "./Video/Kling1.6/B52_03.mp4",
+    "score": {
+      "BRISQUE": 36.09022458919809,
+      "RAFT": true,
+      "VideoScore": [
+        3.859,
+        3.656,
+        3.875,
+        3.062,
+        3.594
+      ],
+      "VIIDEO": 0.47250425815582275,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.2526370584964752,
+      "MUSIQ": 64.73916304407041
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_04",
+    "video_path": "./Video/Kling1.6/B52_04.mp4",
+    "score": {
+      "BRISQUE": 36.49800803444602,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.734,
+        3.922,
+        3.281,
+        3.75
+      ],
+      "VIIDEO": 0.45672574639320374,
+      "Qalign": 4.34765625,
+      "ViCLIP": 0.25378483533859253,
+      "MUSIQ": 50.286944397224865
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_05",
+    "video_path": "./Video/Kling1.6/B52_05.mp4",
+    "score": {
+      "BRISQUE": 25.57919992494189,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.906,
+        3.906,
+        3.062,
+        3.812
+      ],
+      "VIIDEO": 0.26747894287109375,
+      "Qalign": 4.26953125,
+      "ViCLIP": 0.25419560074806213,
+      "MUSIQ": 63.7520002570034
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_06",
+    "video_path": "./Video/Kling1.6/B52_06.mp4",
+    "score": {
+      "BRISQUE": 37.77544056285512,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.625,
+        3.969,
+        3.125,
+        3.703
+      ],
+      "VIIDEO": 0.47869762778282166,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.1891627311706543,
+      "MUSIQ": 55.53701498488749
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_07",
+    "video_path": "./Video/Kling1.6/B52_07.mp4",
+    "score": {
+      "BRISQUE": 24.931178069311724,
+      "RAFT": false,
+      "VideoScore": [
+        3.781,
+        3.641,
+        3.797,
+        3.219,
+        3.625
+      ],
+      "VIIDEO": 0.5225265026092529,
+      "Qalign": 4.39453125,
+      "ViCLIP": 0.27103739976882935,
+      "MUSIQ": 71.08929632517918
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_08",
+    "video_path": "./Video/Kling1.6/B52_08.mp4",
+    "score": {
+      "BRISQUE": 36.57299754245222,
+      "RAFT": false,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.953,
+        3.25,
+        3.844
+      ],
+      "VIIDEO": 0.38274455070495605,
+      "Qalign": 4.25390625,
+      "ViCLIP": 0.2257215976715088,
+      "MUSIQ": 63.53451582222931
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_09",
+    "video_path": "./Video/Kling1.6/B52_09.mp4",
+    "score": {
+      "BRISQUE": 10.215696728919163,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.828,
+        3.938,
+        3.203,
+        3.844
+      ],
+      "VIIDEO": 0.5006595849990845,
+      "Qalign": 4.08203125,
+      "ViCLIP": 0.1720006912946701,
+      "MUSIQ": 67.42091101654304
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_10",
+    "video_path": "./Video/Kling1.6/B52_10.mp4",
+    "score": {
+      "BRISQUE": 29.842274563371642,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.703,
+        3.844,
+        3.234,
+        3.656
+      ],
+      "VIIDEO": 0.454235315322876,
+      "Qalign": 4.3984375,
+      "ViCLIP": 0.24144546687602997,
+      "MUSIQ": 54.93960918079723
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_11",
+    "video_path": "./Video/Kling1.6/B52_11.mp4",
+    "score": {
+      "BRISQUE": 33.246470553815854,
+      "RAFT": false,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.922,
+        3.391,
+        3.812
+      ],
+      "VIIDEO": 0.5306718349456787,
+      "Qalign": 4.796875,
+      "ViCLIP": 0.20160242915153503,
+      "MUSIQ": 72.42231488818965
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "B52_12",
+    "video_path": "./Video/Kling1.6/B52_12.mp4",
+    "score": {
+      "BRISQUE": 45.6773323500452,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.812,
+        3.953,
+        3.234,
+        3.766
+      ],
+      "VIIDEO": 0.4976234436035156,
+      "Qalign": 4.2265625,
+      "ViCLIP": 0.27535197138786316,
+      "MUSIQ": 58.44675890079215
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_01_01",
+    "video_path": "./Video/Kling1.6/L2_01_01.mp4",
+    "score": {
+      "BRISQUE": 26.827977204125776,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.703,
+        3.844,
+        3.297,
+        3.734
+      ],
+      "VIIDEO": 0.38111379742622375,
+      "Qalign": 4.734375,
+      "ViCLIP": 0.22613351047039032,
+      "MUSIQ": 64.37743333548553
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_01_02",
+    "video_path": "./Video/Kling1.6/L2_01_02.mp4",
+    "score": {
+      "BRISQUE": 20.236523336615445,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.906,
+        3.375,
+        3.906
+      ],
+      "VIIDEO": 0.40610095858573914,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.23213815689086914,
+      "MUSIQ": 76.97198725928945
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_01_03",
+    "video_path": "./Video/Kling1.6/L2_01_03.mp4",
+    "score": {
+      "BRISQUE": 41.02638080691503,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.766,
+        3.906,
+        3.391,
+        3.781
+      ],
+      "VIIDEO": 0.4348386824131012,
+      "Qalign": 3.990234375,
+      "ViCLIP": 0.26532983779907227,
+      "MUSIQ": 58.25022862962455
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_01_04",
+    "video_path": "./Video/Kling1.6/L2_01_04.mp4",
+    "score": {
+      "BRISQUE": 38.59898540402247,
+      "RAFT": true,
+      "VideoScore": [
+        3.734,
+        3.422,
+        3.906,
+        2.766,
+        3.609
+      ],
+      "VIIDEO": 0.5300706028938293,
+      "Qalign": 3.853515625,
+      "ViCLIP": 0.2558467388153076,
+      "MUSIQ": 56.88067113072419
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_02_01",
+    "video_path": "./Video/Kling1.6/L2_02_01.mp4",
+    "score": {
+      "BRISQUE": 38.83765808609891,
+      "RAFT": true,
+      "VideoScore": [
+        3.859,
+        3.562,
+        4.0,
+        3.219,
+        3.625
+      ],
+      "VIIDEO": 0.7087098360061646,
+      "Qalign": 4.30078125,
+      "ViCLIP": 0.24310682713985443,
+      "MUSIQ": 59.36671154558166
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_02_02",
+    "video_path": "./Video/Kling1.6/L2_02_02.mp4",
+    "score": {
+      "BRISQUE": 34.247317984084454,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.656,
+        3.891,
+        3.266,
+        3.75
+      ],
+      "VIIDEO": 0.48521140217781067,
+      "Qalign": 4.0234375,
+      "ViCLIP": 0.22783216834068298,
+      "MUSIQ": 53.841435172341086
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_02_03",
+    "video_path": "./Video/Kling1.6/L2_02_03.mp4",
+    "score": {
+      "BRISQUE": -2.349761206256457,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.641,
+        3.859,
+        3.172,
+        3.688
+      ],
+      "VIIDEO": 0.30211248993873596,
+      "Qalign": 4.39453125,
+      "ViCLIP": 0.2186439335346222,
+      "MUSIQ": 62.734115411427396
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_02_04",
+    "video_path": "./Video/Kling1.6/L2_02_04.mp4",
+    "score": {
+      "BRISQUE": 46.7435852555204,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.969,
+        3.406,
+        3.922
+      ],
+      "VIIDEO": 0.600515604019165,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.20831403136253357,
+      "MUSIQ": 56.105344062994334
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_03_01",
+    "video_path": "./Video/Kling1.6/L2_03_01.mp4",
+    "score": {
+      "BRISQUE": 28.47094676120222,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.797,
+        3.938,
+        3.297,
+        3.781
+      ],
+      "VIIDEO": 0.5738958120346069,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.2949514389038086,
+      "MUSIQ": 58.48982390096365
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_03_02",
+    "video_path": "./Video/Kling1.6/L2_03_02.mp4",
+    "score": {
+      "BRISQUE": -1.7915831006262912,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.828,
+        3.906,
+        3.328,
+        3.859
+      ],
+      "VIIDEO": 0.2972770631313324,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.21212677657604218,
+      "MUSIQ": 66.70550593856937
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_03_03",
+    "video_path": "./Video/Kling1.6/L2_03_03.mp4",
+    "score": {
+      "BRISQUE": 39.678970715231145,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.953,
+        3.484,
+        3.891
+      ],
+      "VIIDEO": 0.5877981185913086,
+      "Qalign": 3.689453125,
+      "ViCLIP": 0.2473505437374115,
+      "MUSIQ": 56.51971000482228
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_03_04",
+    "video_path": "./Video/Kling1.6/L2_03_04.mp4",
+    "score": {
+      "BRISQUE": 40.65838623046875,
+      "RAFT": false,
+      "VideoScore": [
+        3.984,
+        3.828,
+        3.922,
+        3.438,
+        3.766
+      ],
+      "VIIDEO": 0.6061614155769348,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.23657557368278503,
+      "MUSIQ": 57.60982737265343
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_04_01",
+    "video_path": "./Video/Kling1.6/L2_04_01.mp4",
+    "score": {
+      "BRISQUE": 20.676751255003875,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.984,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.4709179401397705,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.2010127454996109,
+      "MUSIQ": 62.389228001113764
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_04_02",
+    "video_path": "./Video/Kling1.6/L2_04_02.mp4",
+    "score": {
+      "BRISQUE": 3.341051842555527,
+      "RAFT": true,
+      "VideoScore": [
+        3.141,
+        3.0,
+        3.141,
+        2.875,
+        3.078
+      ],
+      "VIIDEO": 0.3862321376800537,
+      "Qalign": 4.1484375,
+      "ViCLIP": 0.21320411562919617,
+      "MUSIQ": 54.15858279772041
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_04_03",
+    "video_path": "./Video/Kling1.6/L2_04_03.mp4",
+    "score": {
+      "BRISQUE": 46.95214995076834,
+      "RAFT": false,
+      "VideoScore": [
+        3.875,
+        3.766,
+        3.875,
+        3.281,
+        3.734
+      ],
+      "VIIDEO": 0.3473140001296997,
+      "Qalign": 4.859375,
+      "ViCLIP": 0.21371838450431824,
+      "MUSIQ": 78.69555973021453
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_04_04",
+    "video_path": "./Video/Kling1.6/L2_04_04.mp4",
+    "score": {
+      "BRISQUE": 40.429220908929494,
+      "RAFT": true,
+      "VideoScore": [
+        3.531,
+        3.344,
+        3.562,
+        3.078,
+        3.469
+      ],
+      "VIIDEO": 0.5803080201148987,
+      "Qalign": 3.896484375,
+      "ViCLIP": 0.25419095158576965,
+      "MUSIQ": 43.164046957473126
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_05_01",
+    "video_path": "./Video/Kling1.6/L2_05_01.mp4",
+    "score": {
+      "BRISQUE": 48.29884174441503,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.844,
+        3.375,
+        3.844
+      ],
+      "VIIDEO": 0.4993688464164734,
+      "Qalign": 3.72265625,
+      "ViCLIP": 0.2723938226699829,
+      "MUSIQ": 35.423966904317055
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_05_02",
+    "video_path": "./Video/Kling1.6/L2_05_02.mp4",
+    "score": {
+      "BRISQUE": 25.557352365541064,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.922,
+        3.984,
+        3.391,
+        3.953
+      ],
+      "VIIDEO": 0.5544043183326721,
+      "Qalign": 3.759765625,
+      "ViCLIP": 0.2397788017988205,
+      "MUSIQ": 76.06925825639205
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_05_03",
+    "video_path": "./Video/Kling1.6/L2_05_03.mp4",
+    "score": {
+      "BRISQUE": 2.285020560272469,
+      "RAFT": false,
+      "VideoScore": [
+        4.0,
+        3.859,
+        3.953,
+        3.438,
+        3.828
+      ],
+      "VIIDEO": 0.4336666464805603,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.2342260777950287,
+      "MUSIQ": 72.51447277226724
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_05_04",
+    "video_path": "./Video/Kling1.6/L2_05_04.mp4",
+    "score": {
+      "BRISQUE": 53.374484984342715,
+      "RAFT": false,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.906,
+        3.375,
+        3.938
+      ],
+      "VIIDEO": 0.6618032455444336,
+      "Qalign": 3.650390625,
+      "ViCLIP": 0.23014885187149048,
+      "MUSIQ": 51.168629070944036
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_06_01",
+    "video_path": "./Video/Kling1.6/L2_06_01.mp4",
+    "score": {
+      "BRISQUE": 47.073727946636104,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.719,
+        3.859,
+        3.281,
+        3.75
+      ],
+      "VIIDEO": 0.4874432682991028,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.19084042310714722,
+      "MUSIQ": 40.52883816553541
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_06_02",
+    "video_path": "./Video/Kling1.6/L2_06_02.mp4",
+    "score": {
+      "BRISQUE": 30.990195534446023,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.797,
+        4.0,
+        3.312,
+        3.797
+      ],
+      "VIIDEO": 0.5354357361793518,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.15588617324829102,
+      "MUSIQ": 66.27488109494044
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_06_03",
+    "video_path": "./Video/Kling1.6/L2_06_03.mp4",
+    "score": {
+      "BRISQUE": 37.180294320603046,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.766,
+        3.844,
+        3.359,
+        3.828
+      ],
+      "VIIDEO": 0.5026719570159912,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.26949557662010193,
+      "MUSIQ": 58.57397955902352
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_06_04",
+    "video_path": "./Video/Kling1.6/L2_06_04.mp4",
+    "score": {
+      "BRISQUE": 35.88946028780346,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.859,
+        3.984,
+        3.5,
+        3.922
+      ],
+      "VIIDEO": 0.3949044346809387,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.2540687322616577,
+      "MUSIQ": 59.263175113142026
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_07_01",
+    "video_path": "./Video/Kling1.6/L2_07_01.mp4",
+    "score": {
+      "BRISQUE": 7.300472038836519,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.797,
+        3.875,
+        3.328,
+        3.828
+      ],
+      "VIIDEO": 0.36085742712020874,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.1888815313577652,
+      "MUSIQ": 64.17898231695506
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_07_02",
+    "video_path": "./Video/Kling1.6/L2_07_02.mp4",
+    "score": {
+      "BRISQUE": 38.27832182576834,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.906,
+        3.922,
+        3.453,
+        3.906
+      ],
+      "VIIDEO": 0.6389599442481995,
+      "Qalign": 4.703125,
+      "ViCLIP": 0.22272680699825287,
+      "MUSIQ": 65.67526790524317
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_07_03",
+    "video_path": "./Video/Kling1.6/L2_07_03.mp4",
+    "score": {
+      "BRISQUE": 41.81366370335098,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.781,
+        3.953,
+        3.391,
+        3.781
+      ],
+      "VIIDEO": 0.6024199724197388,
+      "Qalign": 3.837890625,
+      "ViCLIP": 0.1936013400554657,
+      "MUSIQ": 46.25534417018417
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_07_04",
+    "video_path": "./Video/Kling1.6/L2_07_04.mp4",
+    "score": {
+      "BRISQUE": 42.721971748289,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.703,
+        4.031,
+        3.125,
+        3.672
+      ],
+      "VIIDEO": 0.6257539987564087,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.22164978086948395,
+      "MUSIQ": 54.033664640316296
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_08_01",
+    "video_path": "./Video/Kling1.6/L2_08_01.mp4",
+    "score": {
+      "BRISQUE": 37.433938270758006,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.797,
+        4.094,
+        3.484,
+        3.828
+      ],
+      "VIIDEO": 0.6616812944412231,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.2355174720287323,
+      "MUSIQ": 60.4540835924385
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_08_02",
+    "video_path": "./Video/Kling1.6/L2_08_02.mp4",
+    "score": {
+      "BRISQUE": 45.3871520491671,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.875,
+        3.422,
+        3.891
+      ],
+      "VIIDEO": 0.5686248540878296,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.24502694606781006,
+      "MUSIQ": 59.85549652477926
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_08_03",
+    "video_path": "./Video/Kling1.6/L2_08_03.mp4",
+    "score": {
+      "BRISQUE": 28.936803392142302,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.984,
+        3.406,
+        3.828
+      ],
+      "VIIDEO": 0.44220492243766785,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.24891923367977142,
+      "MUSIQ": 64.83839271482357
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_08_04",
+    "video_path": "./Video/Kling1.6/L2_08_04.mp4",
+    "score": {
+      "BRISQUE": 6.85464704529313,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.906,
+        3.953,
+        3.438,
+        3.891
+      ],
+      "VIIDEO": 0.44966432452201843,
+      "Qalign": 4.34765625,
+      "ViCLIP": 0.23457923531532288,
+      "MUSIQ": 61.54526951687395
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_09_01",
+    "video_path": "./Video/Kling1.6/L2_09_01.mp4",
+    "score": {
+      "BRISQUE": 45.4955504866671,
+      "RAFT": true,
+      "VideoScore": [
+        3.781,
+        3.531,
+        3.844,
+        3.172,
+        3.641
+      ],
+      "VIIDEO": 0.6023738980293274,
+      "Qalign": 4.12890625,
+      "ViCLIP": 0.19553981721401215,
+      "MUSIQ": 38.335698041048914
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_09_02",
+    "video_path": "./Video/Kling1.6/L2_09_02.mp4",
+    "score": {
+      "BRISQUE": 39.078469520758006,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.953,
+        3.5,
+        3.938
+      ],
+      "VIIDEO": 0.5849685668945312,
+      "Qalign": 3.939453125,
+      "ViCLIP": 0.18996593356132507,
+      "MUSIQ": 58.53211423385242
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_09_03",
+    "video_path": "./Video/Kling1.6/L2_09_03.mp4",
+    "score": {
+      "BRISQUE": 28.023701313113378,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.953,
+        3.5,
+        3.906
+      ],
+      "VIIDEO": 0.5304521918296814,
+      "Qalign": 4.20703125,
+      "ViCLIP": 0.26519501209259033,
+      "MUSIQ": 55.723966708853226
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_09_04",
+    "video_path": "./Video/Kling1.6/L2_09_04.mp4",
+    "score": {
+      "BRISQUE": 29.02094918243156,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.828,
+        3.938,
+        3.328,
+        3.844
+      ],
+      "VIIDEO": 0.468744158744812,
+      "Qalign": 4.31640625,
+      "ViCLIP": 0.2666536569595337,
+      "MUSIQ": 68.00887484589884
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_10_01",
+    "video_path": "./Video/Kling1.6/L2_10_01.mp4",
+    "score": {
+      "BRISQUE": 42.00153092313404,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.906,
+        3.438,
+        3.906
+      ],
+      "VIIDEO": 0.7033988237380981,
+      "Qalign": 4.36328125,
+      "ViCLIP": 0.25287526845932007,
+      "MUSIQ": 61.937812552964395
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_10_02",
+    "video_path": "./Video/Kling1.6/L2_10_02.mp4",
+    "score": {
+      "BRISQUE": 20.90071496884685,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.688,
+        3.984,
+        3.359,
+        3.781
+      ],
+      "VIIDEO": 0.5099340677261353,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.2102164775133133,
+      "MUSIQ": 48.097008634204705
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_10_03",
+    "video_path": "./Video/Kling1.6/L2_10_03.mp4",
+    "score": {
+      "BRISQUE": 23.03424576688404,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        4.031,
+        3.281,
+        3.875
+      ],
+      "VIIDEO": 0.4169100224971771,
+      "Qalign": 4.44921875,
+      "ViCLIP": 0.30450108647346497,
+      "MUSIQ": 64.42451697735747
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_10_04",
+    "video_path": "./Video/Kling1.6/L2_10_04.mp4",
+    "score": {
+      "BRISQUE": 39.05765501920842,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.844,
+        3.922,
+        3.438,
+        3.906
+      ],
+      "VIIDEO": 0.5323471426963806,
+      "Qalign": 4.3125,
+      "ViCLIP": 0.21301651000976562,
+      "MUSIQ": 52.47557780368269
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_11_01",
+    "video_path": "./Video/Kling1.6/L2_11_01.mp4",
+    "score": {
+      "BRISQUE": 55.93200128728693,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.75,
+        4.031,
+        3.234,
+        3.828
+      ],
+      "VIIDEO": 0.5640134215354919,
+      "Qalign": 3.634765625,
+      "ViCLIP": 0.19553497433662415,
+      "MUSIQ": 41.05887324750916
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_11_02",
+    "video_path": "./Video/Kling1.6/L2_11_02.mp4",
+    "score": {
+      "BRISQUE": 33.82058034849561,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.719,
+        3.891,
+        3.266,
+        3.75
+      ],
+      "VIIDEO": 0.4891428053379059,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.2447356879711151,
+      "MUSIQ": 55.42597885762365
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_11_03",
+    "video_path": "./Video/Kling1.6/L2_11_03.mp4",
+    "score": {
+      "BRISQUE": 37.7138000992704,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.625,
+        4.031,
+        3.172,
+        3.672
+      ],
+      "VIIDEO": 0.5413416028022766,
+      "Qalign": 3.830078125,
+      "ViCLIP": 0.1745489239692688,
+      "MUSIQ": 51.22108524101825
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_11_04",
+    "video_path": "./Video/Kling1.6/L2_11_04.mp4",
+    "score": {
+      "BRISQUE": 44.41589204141916,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.75,
+        4.0,
+        3.375,
+        3.781
+      ],
+      "VIIDEO": 0.5000959634780884,
+      "Qalign": 3.86328125,
+      "ViCLIP": 0.1895405352115631,
+      "MUSIQ": 45.54855836915576
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_12_01",
+    "video_path": "./Video/Kling1.6/L2_12_01.mp4",
+    "score": {
+      "BRISQUE": 31.397974944311724,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.906,
+        3.406,
+        3.906
+      ],
+      "VIIDEO": 0.5675713419914246,
+      "Qalign": 4.1015625,
+      "ViCLIP": 0.26035094261169434,
+      "MUSIQ": 51.579796625562935
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_12_02",
+    "video_path": "./Video/Kling1.6/L2_12_02.mp4",
+    "score": {
+      "BRISQUE": 33.048135552524535,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.906,
+        3.422,
+        3.906
+      ],
+      "VIIDEO": 0.4456765055656433,
+      "Qalign": 4.70703125,
+      "ViCLIP": 0.182356595993042,
+      "MUSIQ": 56.3053445737224
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_12_03",
+    "video_path": "./Video/Kling1.6/L2_12_03.mp4",
+    "score": {
+      "BRISQUE": 34.7659816269047,
+      "RAFT": false,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.859,
+        3.406,
+        3.812
+      ],
+      "VIIDEO": 0.5120761394500732,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.24379542469978333,
+      "MUSIQ": 75.85406699062379
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_12_04",
+    "video_path": "./Video/Kling1.6/L2_12_04.mp4",
+    "score": {
+      "BRISQUE": 43.65690928057206,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.891,
+        3.391,
+        3.891
+      ],
+      "VIIDEO": 0.47922366857528687,
+      "Qalign": 4.078125,
+      "ViCLIP": 0.2388930320739746,
+      "MUSIQ": 42.85155039385331
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_13_01",
+    "video_path": "./Video/Kling1.6/L2_13_01.mp4",
+    "score": {
+      "BRISQUE": 52.61851261864024,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.812,
+        3.938,
+        3.25,
+        3.781
+      ],
+      "VIIDEO": 0.32640525698661804,
+      "Qalign": 4.19140625,
+      "ViCLIP": 0.20024555921554565,
+      "MUSIQ": 60.45630112955393
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_13_02",
+    "video_path": "./Video/Kling1.6/L2_13_02.mp4",
+    "score": {
+      "BRISQUE": 41.248476138784866,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.875,
+        3.375,
+        3.891
+      ],
+      "VIIDEO": 0.48825499415397644,
+      "Qalign": 4.0625,
+      "ViCLIP": 0.25625213980674744,
+      "MUSIQ": 55.82647131297214
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_13_03",
+    "video_path": "./Video/Kling1.6/L2_13_03.mp4",
+    "score": {
+      "BRISQUE": 37.7091230912642,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.672,
+        3.984,
+        3.281,
+        3.688
+      ],
+      "VIIDEO": 0.401203453540802,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.24139679968357086,
+      "MUSIQ": 70.86199178774494
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_13_04",
+    "video_path": "./Video/Kling1.6/L2_13_04.mp4",
+    "score": {
+      "BRISQUE": 44.60241144353693,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.938,
+        3.969,
+        3.469,
+        3.938
+      ],
+      "VIIDEO": 0.5548986792564392,
+      "Qalign": 4.38671875,
+      "ViCLIP": 0.1811954230070114,
+      "MUSIQ": 59.20677468796407
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_14_01",
+    "video_path": "./Video/Kling1.6/L2_14_01.mp4",
+    "score": {
+      "BRISQUE": 20.33689943423941,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        3.906,
+        3.422,
+        3.906
+      ],
+      "VIIDEO": 0.440915048122406,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.23752765357494354,
+      "MUSIQ": 52.17604276168445
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_14_02",
+    "video_path": "./Video/Kling1.6/L2_14_02.mp4",
+    "score": {
+      "BRISQUE": 40.761861501646436,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.75,
+        3.969,
+        3.328,
+        3.781
+      ],
+      "VIIDEO": 0.5975891947746277,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.18358801305294037,
+      "MUSIQ": 57.66769194800006
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_14_03",
+    "video_path": "./Video/Kling1.6/L2_14_03.mp4",
+    "score": {
+      "BRISQUE": 36.18368404167743,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.797,
+        3.891,
+        3.406,
+        3.812
+      ],
+      "VIIDEO": 0.5516470670700073,
+      "Qalign": 4.26953125,
+      "ViCLIP": 0.20717407763004303,
+      "MUSIQ": 63.1100942438299
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_14_04",
+    "video_path": "./Video/Kling1.6/L2_14_04.mp4",
+    "score": {
+      "BRISQUE": 37.37461008119189,
+      "RAFT": true,
+      "VideoScore": [
+        3.297,
+        2.938,
+        3.406,
+        2.891,
+        2.969
+      ],
+      "VIIDEO": 0.4367218613624573,
+      "Qalign": 4.625,
+      "ViCLIP": 0.2430000901222229,
+      "MUSIQ": 45.840742347654235
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_15_01",
+    "video_path": "./Video/Kling1.6/L2_15_01.mp4",
+    "score": {
+      "BRISQUE": 45.515969520758006,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.938,
+        3.953,
+        3.547,
+        3.969
+      ],
+      "VIIDEO": 0.49063876271247864,
+      "Qalign": 4.2578125,
+      "ViCLIP": 0.24370992183685303,
+      "MUSIQ": 58.01472942888244
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_15_02",
+    "video_path": "./Video/Kling1.6/L2_15_02.mp4",
+    "score": {
+      "BRISQUE": 38.33726665402247,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.75,
+        4.0,
+        3.234,
+        3.797
+      ],
+      "VIIDEO": 0.44442275166511536,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.17935076355934143,
+      "MUSIQ": 55.93683428803751
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_15_03",
+    "video_path": "./Video/Kling1.6/L2_15_03.mp4",
+    "score": {
+      "BRISQUE": 42.38658306027247,
+      "RAFT": true,
+      "VideoScore": [
+        3.594,
+        3.375,
+        3.719,
+        3.125,
+        3.5
+      ],
+      "VIIDEO": 0.5046014785766602,
+      "Qalign": 4.06640625,
+      "ViCLIP": 0.2128192037343979,
+      "MUSIQ": 50.30380163902093
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_15_04",
+    "video_path": "./Video/Kling1.6/L2_15_04.mp4",
+    "score": {
+      "BRISQUE": 36.41312780459065,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        4.0,
+        3.422,
+        3.875
+      ],
+      "VIIDEO": 0.44209057092666626,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.2304787039756775,
+      "MUSIQ": 67.57090094069804
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_16_01",
+    "video_path": "./Video/Kling1.6/L2_16_01.mp4",
+    "score": {
+      "BRISQUE": 32.49752782396049,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.859,
+        3.953,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.45324841141700745,
+      "Qalign": 4.03125,
+      "ViCLIP": 0.26258569955825806,
+      "MUSIQ": 61.291803470327835
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_16_02",
+    "video_path": "./Video/Kling1.6/L2_16_02.mp4",
+    "score": {
+      "BRISQUE": 15.076923969363378,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.969,
+        3.984,
+        3.609,
+        3.953
+      ],
+      "VIIDEO": 0.536140501499176,
+      "Qalign": 3.890625,
+      "ViCLIP": 0.23452571034431458,
+      "MUSIQ": 67.93857501952117
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_16_03",
+    "video_path": "./Video/Kling1.6/L2_16_03.mp4",
+    "score": {
+      "BRISQUE": 34.0689863725142,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.969,
+        3.484,
+        3.922
+      ],
+      "VIIDEO": 0.3952421545982361,
+      "Qalign": 4.8046875,
+      "ViCLIP": 0.2552432417869568,
+      "MUSIQ": 61.09165119139616
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_16_04",
+    "video_path": "./Video/Kling1.6/L2_16_04.mp4",
+    "score": {
+      "BRISQUE": 35.13479135056173,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.844,
+        4.031,
+        3.359,
+        3.844
+      ],
+      "VIIDEO": 0.42643511295318604,
+      "Qalign": 3.982421875,
+      "ViCLIP": 0.16970297694206238,
+      "MUSIQ": 55.496545965021305
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_17_01",
+    "video_path": "./Video/Kling1.6/L2_17_01.mp4",
+    "score": {
+      "BRISQUE": 51.47909823330966,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.688,
+        4.0,
+        3.078,
+        3.797
+      ],
+      "VIIDEO": 0.5364173054695129,
+      "Qalign": 3.28125,
+      "ViCLIP": 0.23805919289588928,
+      "MUSIQ": 46.07670432476958
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_17_02",
+    "video_path": "./Video/Kling1.6/L2_17_02.mp4",
+    "score": {
+      "BRISQUE": 21.80481007473528,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.734,
+        3.859,
+        3.312,
+        3.75
+      ],
+      "VIIDEO": 0.362347811460495,
+      "Qalign": 4.88671875,
+      "ViCLIP": 0.1868385672569275,
+      "MUSIQ": 76.4858779276698
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_17_03",
+    "video_path": "./Video/Kling1.6/L2_17_03.mp4",
+    "score": {
+      "BRISQUE": 53.45706101094396,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.938,
+        3.453,
+        3.922
+      ],
+      "VIIDEO": 0.5077599287033081,
+      "Qalign": 4.40625,
+      "ViCLIP": 0.17674323916435242,
+      "MUSIQ": 72.9665466182488
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_17_04",
+    "video_path": "./Video/Kling1.6/L2_17_04.mp4",
+    "score": {
+      "BRISQUE": 33.548196083258006,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.906,
+        3.406,
+        3.938
+      ],
+      "VIIDEO": 0.5197528600692749,
+      "Qalign": 3.958984375,
+      "ViCLIP": 0.23674295842647552,
+      "MUSIQ": 56.44116258227135
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_18_01",
+    "video_path": "./Video/Kling1.6/L2_18_01.mp4",
+    "score": {
+      "BRISQUE": 37.746268784704284,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.641,
+        3.984,
+        2.953,
+        3.562
+      ],
+      "VIIDEO": 0.503375232219696,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.1703096330165863,
+      "MUSIQ": 51.62175996638527
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_18_02",
+    "video_path": "./Video/Kling1.6/L2_18_02.mp4",
+    "score": {
+      "BRISQUE": 36.44087912819602,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.969,
+        3.359,
+        3.922
+      ],
+      "VIIDEO": 0.38281959295272827,
+      "Qalign": 4.296875,
+      "ViCLIP": 0.23777486383914948,
+      "MUSIQ": 60.85438014259023
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_18_03",
+    "video_path": "./Video/Kling1.6/L2_18_03.mp4",
+    "score": {
+      "BRISQUE": 29.652078928041064,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.875,
+        3.953,
+        3.453,
+        3.906
+      ],
+      "VIIDEO": 0.5507273077964783,
+      "Qalign": 3.662109375,
+      "ViCLIP": 0.26564261317253113,
+      "MUSIQ": 49.722404038610534
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_18_04",
+    "video_path": "./Video/Kling1.6/L2_18_04.mp4",
+    "score": {
+      "BRISQUE": 27.710390201284866,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        3.984,
+        3.297,
+        3.859
+      ],
+      "VIIDEO": 0.32055193185806274,
+      "Qalign": 3.96875,
+      "ViCLIP": 0.20794354379177094,
+      "MUSIQ": 61.04035048051314
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_19_01",
+    "video_path": "./Video/Kling1.6/L2_19_01.mp4",
+    "score": {
+      "BRISQUE": 39.9436393296423,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.75,
+        3.875,
+        3.359,
+        3.812
+      ],
+      "VIIDEO": 0.6634488105773926,
+      "Qalign": 4.09375,
+      "ViCLIP": 0.2581200897693634,
+      "MUSIQ": 55.926541194442876
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_19_02",
+    "video_path": "./Video/Kling1.6/L2_19_02.mp4",
+    "score": {
+      "BRISQUE": 29.503641428041064,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.891,
+        3.922,
+        3.438,
+        3.875
+      ],
+      "VIIDEO": 0.31560054421424866,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.2408812940120697,
+      "MUSIQ": 75.05868744653118
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_19_03",
+    "video_path": "./Video/Kling1.6/L2_19_03.mp4",
+    "score": {
+      "BRISQUE": 30.116414219879907,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.984,
+        3.375,
+        3.828
+      ],
+      "VIIDEO": 0.4768389165401459,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.2589932978153229,
+      "MUSIQ": 71.34515585781129
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_19_04",
+    "video_path": "./Video/Kling1.6/L2_19_04.mp4",
+    "score": {
+      "BRISQUE": 19.787102817503875,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        4.062,
+        3.438,
+        3.859
+      ],
+      "VIIDEO": 0.48807448148727417,
+      "Qalign": 4.39453125,
+      "ViCLIP": 0.22086746990680695,
+      "MUSIQ": 66.87688042506699
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_20_01",
+    "video_path": "./Video/Kling1.6/L2_20_01.mp4",
+    "score": {
+      "BRISQUE": 30.423599621481145,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.781,
+        4.031,
+        3.141,
+        3.781
+      ],
+      "VIIDEO": 0.4980940818786621,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.27232596278190613,
+      "MUSIQ": 66.35903227624814
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_20_02",
+    "video_path": "./Video/Kling1.6/L2_20_02.mp4",
+    "score": {
+      "BRISQUE": 19.205136133619575,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.875,
+        3.938,
+        3.406,
+        3.875
+      ],
+      "VIIDEO": 0.47067469358444214,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.22031278908252716,
+      "MUSIQ": 61.62394701744899
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_20_03",
+    "video_path": "./Video/Kling1.6/L2_20_03.mp4",
+    "score": {
+      "BRISQUE": 43.99374667080966,
+      "RAFT": true,
+      "VideoScore": [
+        3.375,
+        3.141,
+        3.469,
+        3.0,
+        3.25
+      ],
+      "VIIDEO": 0.5594354867935181,
+      "Qalign": 3.9375,
+      "ViCLIP": 0.21853485703468323,
+      "MUSIQ": 39.121771079449616
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_20_04",
+    "video_path": "./Video/Kling1.6/L2_20_04.mp4",
+    "score": {
+      "BRISQUE": 26.47560359229726,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.719,
+        3.938,
+        3.203,
+        3.703
+      ],
+      "VIIDEO": 0.42303380370140076,
+      "Qalign": 4.2265625,
+      "ViCLIP": 0.20934176445007324,
+      "MUSIQ": 68.68310691896549
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_21_01",
+    "video_path": "./Video/Kling1.6/L2_21_01.mp4",
+    "score": {
+      "BRISQUE": 28.22500232034478,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.922,
+        3.438,
+        3.906
+      ],
+      "VIIDEO": 0.6050652861595154,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.20423343777656555,
+      "MUSIQ": 59.75000923724214
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_21_02",
+    "video_path": "./Video/Kling1.6/L2_21_02.mp4",
+    "score": {
+      "BRISQUE": 36.223142009136104,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.688,
+        3.844,
+        3.188,
+        3.719
+      ],
+      "VIIDEO": 0.4076092839241028,
+      "Qalign": 4.7265625,
+      "ViCLIP": 0.21846581995487213,
+      "MUSIQ": 57.68577720705143
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_21_03",
+    "video_path": "./Video/Kling1.6/L2_21_03.mp4",
+    "score": {
+      "BRISQUE": 30.519867699993544,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.719,
+        4.0,
+        3.203,
+        3.625
+      ],
+      "VIIDEO": 0.4959935247898102,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.3152405917644501,
+      "MUSIQ": 60.170101354930026
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_21_04",
+    "video_path": "./Video/Kling1.6/L2_21_04.mp4",
+    "score": {
+      "BRISQUE": 15.071238115799328,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.859,
+        3.844,
+        3.359,
+        3.859
+      ],
+      "VIIDEO": 0.3187684416770935,
+      "Qalign": 4.62109375,
+      "ViCLIP": 0.24683141708374023,
+      "MUSIQ": 63.53986935576132
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_22_01",
+    "video_path": "./Video/Kling1.6/L2_22_01.mp4",
+    "score": {
+      "BRISQUE": 40.89236172762784,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.672,
+        3.859,
+        3.297,
+        3.75
+      ],
+      "VIIDEO": 0.5390869379043579,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.18777823448181152,
+      "MUSIQ": 58.53425431054486
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_22_02",
+    "video_path": "./Video/Kling1.6/L2_22_02.mp4",
+    "score": {
+      "BRISQUE": 39.544943565179494,
+      "RAFT": true,
+      "VideoScore": [
+        4.094,
+        3.734,
+        4.125,
+        2.609,
+        3.797
+      ],
+      "VIIDEO": 0.5794597864151001,
+      "Qalign": 3.732421875,
+      "ViCLIP": 0.29299068450927734,
+      "MUSIQ": 47.94804065483661
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_22_03",
+    "video_path": "./Video/Kling1.6/L2_22_03.mp4",
+    "score": {
+      "BRISQUE": 42.945608596171226,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.719,
+        3.875,
+        3.344,
+        3.781
+      ],
+      "VIIDEO": 0.5027710199356079,
+      "Qalign": 4.1875,
+      "ViCLIP": 0.18352672457695007,
+      "MUSIQ": 67.82604422451051
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_22_04",
+    "video_path": "./Video/Kling1.6/L2_22_04.mp4",
+    "score": {
+      "BRISQUE": 38.56836088826834,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.781,
+        4.062,
+        3.312,
+        3.844
+      ],
+      "VIIDEO": 0.6193353533744812,
+      "Qalign": 4.25,
+      "ViCLIP": 0.23101070523262024,
+      "MUSIQ": 55.60577676315938
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_23_01",
+    "video_path": "./Video/Kling1.6/L2_23_01.mp4",
+    "score": {
+      "BRISQUE": 16.15680436063404,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.672,
+        3.875,
+        3.203,
+        3.703
+      ],
+      "VIIDEO": 0.378705233335495,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.25922614336013794,
+      "MUSIQ": 57.02654452363321
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_23_02",
+    "video_path": "./Video/Kling1.6/L2_23_02.mp4",
+    "score": {
+      "BRISQUE": 41.71108428702867,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.906,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.5794467329978943,
+      "Qalign": 4.55078125,
+      "ViCLIP": 0.1835879385471344,
+      "MUSIQ": 70.3229706188864
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_23_03",
+    "video_path": "./Video/Kling1.6/L2_23_03.mp4",
+    "score": {
+      "BRISQUE": 30.152159635685692,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.812,
+        3.906,
+        3.375,
+        3.812
+      ],
+      "VIIDEO": 0.44050341844558716,
+      "Qalign": 3.966796875,
+      "ViCLIP": 0.2608092129230499,
+      "MUSIQ": 55.45309612179591
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_23_04",
+    "video_path": "./Video/Kling1.6/L2_23_04.mp4",
+    "score": {
+      "BRISQUE": 30.043285023082387,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.969,
+        4.0,
+        3.656,
+        4.0
+      ],
+      "VIIDEO": 0.5738472938537598,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.23343117535114288,
+      "MUSIQ": 64.09824453306592
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_24_01",
+    "video_path": "./Video/Kling1.6/L2_24_01.mp4",
+    "score": {
+      "BRISQUE": 45.789439303815854,
+      "RAFT": true,
+      "VideoScore": [
+        3.812,
+        3.609,
+        3.906,
+        3.156,
+        3.625
+      ],
+      "VIIDEO": 0.3041827082633972,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.21305128931999207,
+      "MUSIQ": 56.526308012402744
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_24_02",
+    "video_path": "./Video/Kling1.6/L2_24_02.mp4",
+    "score": {
+      "BRISQUE": 28.678526823185692,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.938,
+        3.438,
+        3.938
+      ],
+      "VIIDEO": 0.29028835892677307,
+      "Qalign": 4.44921875,
+      "ViCLIP": 0.22592127323150635,
+      "MUSIQ": 75.72189709371771
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_24_03",
+    "video_path": "./Video/Kling1.6/L2_24_03.mp4",
+    "score": {
+      "BRISQUE": 23.83011999209065,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.875,
+        3.938,
+        3.422,
+        3.875
+      ],
+      "VIIDEO": 0.2887284457683563,
+      "Qalign": 4.2265625,
+      "ViCLIP": 0.1950225979089737,
+      "MUSIQ": 76.8457100608132
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_24_04",
+    "video_path": "./Video/Kling1.6/L2_24_04.mp4",
+    "score": {
+      "BRISQUE": 43.27428644353693,
+      "RAFT": true,
+      "VideoScore": [
+        3.562,
+        3.203,
+        3.688,
+        2.875,
+        3.188
+      ],
+      "VIIDEO": 0.41563695669174194,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.22834637761116028,
+      "MUSIQ": 50.759439957043355
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_25_01",
+    "video_path": "./Video/Kling1.6/L2_25_01.mp4",
+    "score": {
+      "BRISQUE": 41.34194366202867,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.656,
+        3.781,
+        3.172,
+        3.672
+      ],
+      "VIIDEO": 0.591113269329071,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.23194755613803864,
+      "MUSIQ": 66.3510294827548
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_25_02",
+    "video_path": "./Video/Kling1.6/L2_25_02.mp4",
+    "score": {
+      "BRISQUE": 9.045863632328254,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.656,
+        3.953,
+        3.125,
+        3.672
+      ],
+      "VIIDEO": 0.30092141032218933,
+      "Qalign": 4.41796875,
+      "ViCLIP": 0.24657616019248962,
+      "MUSIQ": 66.23746102703504
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_25_03",
+    "video_path": "./Video/Kling1.6/L2_25_03.mp4",
+    "score": {
+      "BRISQUE": 45.138290026956355,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.719,
+        3.938,
+        3.344,
+        3.766
+      ],
+      "VIIDEO": 0.49217742681503296,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.18883740901947021,
+      "MUSIQ": 46.584615486712494
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L2_25_04",
+    "video_path": "./Video/Kling1.6/L2_25_04.mp4",
+    "score": {
+      "BRISQUE": 44.39835427024148,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.672,
+        3.859,
+        3.219,
+        3.75
+      ],
+      "VIIDEO": 0.5259006023406982,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.22907161712646484,
+      "MUSIQ": 49.807759150985845
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_01_01",
+    "video_path": "./Video/Kling1.6/L3_01_01.mp4",
+    "score": {
+      "BRISQUE": 9.991591776698089,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.75,
+        3.859,
+        3.328,
+        3.781
+      ],
+      "VIIDEO": 0.34028416872024536,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.2265579253435135,
+      "MUSIQ": 62.010658768582935
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_01_02",
+    "video_path": "./Video/Kling1.6/L3_01_02.mp4",
+    "score": {
+      "BRISQUE": 28.625457511460485,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.844,
+        3.938,
+        3.406,
+        3.891
+      ],
+      "VIIDEO": 0.571495771408081,
+      "Qalign": 3.880859375,
+      "ViCLIP": 0.18572993576526642,
+      "MUSIQ": 58.71115128067899
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_01_03",
+    "video_path": "./Video/Kling1.6/L3_01_03.mp4",
+    "score": {
+      "BRISQUE": 31.298115375613378,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        4.0,
+        3.578,
+        3.938
+      ],
+      "VIIDEO": 0.4506881535053253,
+      "Qalign": 3.9921875,
+      "ViCLIP": 0.22704170644283295,
+      "MUSIQ": 59.695453297008164
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_01_04",
+    "video_path": "./Video/Kling1.6/L3_01_04.mp4",
+    "score": {
+      "BRISQUE": -0.7736740742833161,
+      "RAFT": true,
+      "VideoScore": [
+        3.312,
+        3.0,
+        3.5,
+        2.562,
+        3.0
+      ],
+      "VIIDEO": 0.5021263360977173,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.25985559821128845,
+      "MUSIQ": 61.17557263965449
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_02_01",
+    "video_path": "./Video/Kling1.6/L3_02_01.mp4",
+    "score": {
+      "BRISQUE": 44.434341808981145,
+      "RAFT": true,
+      "VideoScore": [
+        3.719,
+        3.531,
+        3.812,
+        3.078,
+        3.594
+      ],
+      "VIIDEO": 0.5539586544036865,
+      "Qalign": 3.8984375,
+      "ViCLIP": 0.20350559055805206,
+      "MUSIQ": 50.020552516968785
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_02_02",
+    "video_path": "./Video/Kling1.6/L3_02_02.mp4",
+    "score": {
+      "BRISQUE": 29.91120292726627,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.766,
+        3.906,
+        3.328,
+        3.828
+      ],
+      "VIIDEO": 0.4520876407623291,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.23578929901123047,
+      "MUSIQ": 41.50343817718758
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_02_03",
+    "video_path": "./Video/Kling1.6/L3_02_03.mp4",
+    "score": {
+      "BRISQUE": 22.71459103418776,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.797,
+        3.969,
+        3.188,
+        3.828
+      ],
+      "VIIDEO": 0.4630758464336395,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.20356664061546326,
+      "MUSIQ": 59.06229602403877
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_02_04",
+    "video_path": "./Video/Kling1.6/L3_02_04.mp4",
+    "score": {
+      "BRISQUE": 33.39284193811338,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.75,
+        3.844,
+        3.312,
+        3.781
+      ],
+      "VIIDEO": 0.5435658097267151,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.23951859772205353,
+      "MUSIQ": 66.8427039532622
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_03_01",
+    "video_path": "./Video/Kling1.6/L3_03_01.mp4",
+    "score": {
+      "BRISQUE": 33.885550002421226,
+      "RAFT": true,
+      "VideoScore": [
+        3.188,
+        3.0,
+        3.25,
+        2.656,
+        2.859
+      ],
+      "VIIDEO": 0.4290983974933624,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.2185893952846527,
+      "MUSIQ": 54.81355020822572
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_03_02",
+    "video_path": "./Video/Kling1.6/L3_03_02.mp4",
+    "score": {
+      "BRISQUE": 46.41154189937371,
+      "RAFT": true,
+      "VideoScore": [
+        3.781,
+        3.641,
+        3.688,
+        3.203,
+        3.719
+      ],
+      "VIIDEO": 0.6273136138916016,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.20321223139762878,
+      "MUSIQ": 59.04366308795519
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_03_03",
+    "video_path": "./Video/Kling1.6/L3_03_03.mp4",
+    "score": {
+      "BRISQUE": 41.4401689009233,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.875,
+        3.953,
+        3.266,
+        3.797
+      ],
+      "VIIDEO": 0.27168184518814087,
+      "Qalign": 4.52734375,
+      "ViCLIP": 0.24960613250732422,
+      "MUSIQ": 63.39197392109012
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_03_04",
+    "video_path": "./Video/Kling1.6/L3_03_04.mp4",
+    "score": {
+      "BRISQUE": 35.18955552282412,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.828,
+        3.969,
+        3.281,
+        3.797
+      ],
+      "VIIDEO": 0.5245221257209778,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.24813930690288544,
+      "MUSIQ": 70.41353137434021
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_04_01",
+    "video_path": "./Video/Kling1.6/L3_04_01.mp4",
+    "score": {
+      "BRISQUE": 40.31153705691503,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.781,
+        3.953,
+        3.359,
+        3.844
+      ],
+      "VIIDEO": 0.6019512414932251,
+      "Qalign": 4.41015625,
+      "ViCLIP": 0.20489615201950073,
+      "MUSIQ": 57.26825704653401
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_04_02",
+    "video_path": "./Video/Kling1.6/L3_04_02.mp4",
+    "score": {
+      "BRISQUE": 24.071431814146436,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.797,
+        4.0,
+        3.422,
+        3.844
+      ],
+      "VIIDEO": 0.6152143478393555,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.20925728976726532,
+      "MUSIQ": 67.96841295100441
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_04_03",
+    "video_path": "./Video/Kling1.6/L3_04_03.mp4",
+    "score": {
+      "BRISQUE": 17.940245573185692,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.859,
+        3.828,
+        3.359,
+        3.891
+      ],
+      "VIIDEO": 0.37432268261909485,
+      "Qalign": 4.203125,
+      "ViCLIP": 0.24347138404846191,
+      "MUSIQ": 52.62420761486715
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_04_04",
+    "video_path": "./Video/Kling1.6/L3_04_04.mp4",
+    "score": {
+      "BRISQUE": 43.19309051765883,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.844,
+        3.359,
+        3.828
+      ],
+      "VIIDEO": 0.4729573428630829,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.2070392668247223,
+      "MUSIQ": 40.72714567578529
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_05_01",
+    "video_path": "./Video/Kling1.6/L3_05_01.mp4",
+    "score": {
+      "BRISQUE": 48.17232444069602,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.859,
+        3.906,
+        3.422,
+        3.891
+      ],
+      "VIIDEO": 0.33783429861068726,
+      "Qalign": 4.0859375,
+      "ViCLIP": 0.22897741198539734,
+      "MUSIQ": 58.342487051467266
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_05_02",
+    "video_path": "./Video/Kling1.6/L3_05_02.mp4",
+    "score": {
+      "BRISQUE": 30.250514006811724,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.891,
+        4.031,
+        3.234,
+        3.859
+      ],
+      "VIIDEO": 0.5001002550125122,
+      "Qalign": 4.20703125,
+      "ViCLIP": 0.13549047708511353,
+      "MUSIQ": 75.03514944029249
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_05_03",
+    "video_path": "./Video/Kling1.6/L3_05_03.mp4",
+    "score": {
+      "BRISQUE": 41.16083974286544,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.703,
+        3.969,
+        3.047,
+        3.703
+      ],
+      "VIIDEO": 0.41030406951904297,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.2227620780467987,
+      "MUSIQ": 66.88190791232527
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_05_04",
+    "video_path": "./Video/Kling1.6/L3_05_04.mp4",
+    "score": {
+      "BRISQUE": 30.820015394983212,
+      "RAFT": true,
+      "VideoScore": [
+        3.797,
+        3.531,
+        3.969,
+        3.109,
+        3.625
+      ],
+      "VIIDEO": 0.4573310613632202,
+      "Qalign": 4.0859375,
+      "ViCLIP": 0.2010662853717804,
+      "MUSIQ": 57.711434577122205
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_06_01",
+    "video_path": "./Video/Kling1.6/L3_06_01.mp4",
+    "score": {
+      "BRISQUE": 39.37948885830966,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.859,
+        3.906,
+        3.438,
+        3.891
+      ],
+      "VIIDEO": 0.48327571153640747,
+      "Qalign": 4.0703125,
+      "ViCLIP": 0.1761518269777298,
+      "MUSIQ": 49.25618765964981
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_06_02",
+    "video_path": "./Video/Kling1.6/L3_06_02.mp4",
+    "score": {
+      "BRISQUE": 9.280000544776602,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.812,
+        3.953,
+        3.219,
+        3.719
+      ],
+      "VIIDEO": 0.5773420333862305,
+      "Qalign": 4.55859375,
+      "ViCLIP": 0.22715447843074799,
+      "MUSIQ": 74.46925322477483
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_06_03",
+    "video_path": "./Video/Kling1.6/L3_06_03.mp4",
+    "score": {
+      "BRISQUE": 43.65770828625387,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.906,
+        3.969,
+        3.469,
+        3.891
+      ],
+      "VIIDEO": 0.5380725264549255,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.24182909727096558,
+      "MUSIQ": 50.55856518706015
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_06_04",
+    "video_path": "./Video/Kling1.6/L3_06_04.mp4",
+    "score": {
+      "BRISQUE": 39.463900983826186,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.938,
+        3.953,
+        3.547,
+        3.969
+      ],
+      "VIIDEO": 0.5293703675270081,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.20745444297790527,
+      "MUSIQ": 70.6239970814098
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_07_01",
+    "video_path": "./Video/Kling1.6/L3_07_01.mp4",
+    "score": {
+      "BRISQUE": 0.3972122570699897,
+      "RAFT": true,
+      "VideoScore": [
+        3.859,
+        3.688,
+        3.891,
+        3.25,
+        3.734
+      ],
+      "VIIDEO": 0.4755193591117859,
+      "Qalign": 4.34375,
+      "ViCLIP": 0.19762974977493286,
+      "MUSIQ": 68.74069611100126
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_07_02",
+    "video_path": "./Video/Kling1.6/L3_07_02.mp4",
+    "score": {
+      "BRISQUE": 41.04436247013817,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.875,
+        3.938,
+        3.406,
+        3.891
+      ],
+      "VIIDEO": 0.6400715708732605,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.19205880165100098,
+      "MUSIQ": 63.12898724138244
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_07_03",
+    "video_path": "./Video/Kling1.6/L3_07_03.mp4",
+    "score": {
+      "BRISQUE": 36.7939548965328,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        3.969,
+        3.484,
+        3.891
+      ],
+      "VIIDEO": 0.3986220955848694,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.242126002907753,
+      "MUSIQ": 69.60201042742769
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_07_04",
+    "video_path": "./Video/Kling1.6/L3_07_04.mp4",
+    "score": {
+      "BRISQUE": 31.217952507586517,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.984,
+        3.344,
+        3.844
+      ],
+      "VIIDEO": 0.6203540563583374,
+      "Qalign": 4.25390625,
+      "ViCLIP": 0.2030407041311264,
+      "MUSIQ": 73.73570907214456
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_08_01",
+    "video_path": "./Video/Kling1.6/L3_08_01.mp4",
+    "score": {
+      "BRISQUE": 49.68201339343363,
+      "RAFT": true,
+      "VideoScore": [
+        3.781,
+        3.547,
+        3.844,
+        3.203,
+        3.594
+      ],
+      "VIIDEO": 0.5094014406204224,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.20323805510997772,
+      "MUSIQ": 41.70257347674409
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_08_02",
+    "video_path": "./Video/Kling1.6/L3_08_02.mp4",
+    "score": {
+      "BRISQUE": 43.7309666152828,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.812,
+        3.984,
+        3.344,
+        3.797
+      ],
+      "VIIDEO": 0.4336976408958435,
+      "Qalign": 4.09765625,
+      "ViCLIP": 0.22211900353431702,
+      "MUSIQ": 69.19942546876008
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_08_03",
+    "video_path": "./Video/Kling1.6/L3_08_03.mp4",
+    "score": {
+      "BRISQUE": 52.51738997530346,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.844,
+        3.906,
+        3.406,
+        3.891
+      ],
+      "VIIDEO": 0.6090832352638245,
+      "Qalign": 3.755859375,
+      "ViCLIP": 0.26866111159324646,
+      "MUSIQ": 48.1333295333484
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_08_04",
+    "video_path": "./Video/Kling1.6/L3_08_04.mp4",
+    "score": {
+      "BRISQUE": 42.412667771016274,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.922,
+        3.969,
+        3.5,
+        3.953
+      ],
+      "VIIDEO": 0.5603546500205994,
+      "Qalign": 4.0,
+      "ViCLIP": 0.21264466643333435,
+      "MUSIQ": 49.13795672960518
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_09_01",
+    "video_path": "./Video/Kling1.6/L3_09_01.mp4",
+    "score": {
+      "BRISQUE": 41.97102746884685,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.844,
+        3.969,
+        3.391,
+        3.844
+      ],
+      "VIIDEO": 0.361392080783844,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.2045636773109436,
+      "MUSIQ": 61.83695495227152
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_09_02",
+    "video_path": "./Video/Kling1.6/L3_09_02.mp4",
+    "score": {
+      "BRISQUE": 18.789689497514203,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.828,
+        3.953,
+        3.266,
+        3.797
+      ],
+      "VIIDEO": 0.46776166558265686,
+      "Qalign": 4.4453125,
+      "ViCLIP": 0.24467232823371887,
+      "MUSIQ": 78.41089806674925
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_09_03",
+    "video_path": "./Video/Kling1.6/L3_09_03.mp4",
+    "score": {
+      "BRISQUE": 19.03347500887784,
+      "RAFT": true,
+      "VideoScore": [
+        3.75,
+        3.641,
+        3.75,
+        3.266,
+        3.656
+      ],
+      "VIIDEO": 0.5265239477157593,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.2446383684873581,
+      "MUSIQ": 70.69344235254714
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_09_04",
+    "video_path": "./Video/Kling1.6/L3_09_04.mp4",
+    "score": {
+      "BRISQUE": 42.62400073847495,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.891,
+        3.938,
+        3.438,
+        3.906
+      ],
+      "VIIDEO": 0.5069461464881897,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.18654541671276093,
+      "MUSIQ": 60.670107218844834
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_10_01",
+    "video_path": "./Video/Kling1.6/L3_10_01.mp4",
+    "score": {
+      "BRISQUE": 31.559103721429494,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.953,
+        3.453,
+        3.891
+      ],
+      "VIIDEO": 0.5661788582801819,
+      "Qalign": 4.109375,
+      "ViCLIP": 0.21054142713546753,
+      "MUSIQ": 62.25712664265278
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_10_02",
+    "video_path": "./Video/Kling1.6/L3_10_02.mp4",
+    "score": {
+      "BRISQUE": 49.78120712406379,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.844,
+        3.922,
+        3.375,
+        3.891
+      ],
+      "VIIDEO": 0.6001529097557068,
+      "Qalign": 3.78515625,
+      "ViCLIP": 0.24738536775112152,
+      "MUSIQ": 38.906430346906674
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_10_03",
+    "video_path": "./Video/Kling1.6/L3_10_03.mp4",
+    "score": {
+      "BRISQUE": 37.59650767933238,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.844,
+        4.0,
+        3.391,
+        3.781
+      ],
+      "VIIDEO": 0.39977607131004333,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.18959932029247284,
+      "MUSIQ": 57.21823671829602
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_10_04",
+    "video_path": "./Video/Kling1.6/L3_10_04.mp4",
+    "score": {
+      "BRISQUE": 35.4608058456547,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.719,
+        4.0,
+        3.219,
+        3.766
+      ],
+      "VIIDEO": 0.35402241349220276,
+      "Qalign": 4.53125,
+      "ViCLIP": 0.19976750016212463,
+      "MUSIQ": 71.7150781804865
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_11_01",
+    "video_path": "./Video/Kling1.6/L3_11_01.mp4",
+    "score": {
+      "BRISQUE": 41.1637250411609,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.781,
+        4.031,
+        3.109,
+        3.797
+      ],
+      "VIIDEO": 0.5755702257156372,
+      "Qalign": 3.984375,
+      "ViCLIP": 0.23339100182056427,
+      "MUSIQ": 48.5869637166173
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_11_02",
+    "video_path": "./Video/Kling1.6/L3_11_02.mp4",
+    "score": {
+      "BRISQUE": 33.392769301233216,
+      "RAFT": true,
+      "VideoScore": [
+        3.797,
+        3.656,
+        3.734,
+        3.266,
+        3.719
+      ],
+      "VIIDEO": 0.4652450382709503,
+      "Qalign": 3.888671875,
+      "ViCLIP": 0.2644827663898468,
+      "MUSIQ": 37.72881779000779
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_11_03",
+    "video_path": "./Video/Kling1.6/L3_11_03.mp4",
+    "score": {
+      "BRISQUE": 24.722823213939826,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.859,
+        3.938,
+        3.359,
+        3.844
+      ],
+      "VIIDEO": 0.3834646940231323,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.190346822142601,
+      "MUSIQ": 59.12919613546576
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_11_04",
+    "video_path": "./Video/Kling1.6/L3_11_04.mp4",
+    "score": {
+      "BRISQUE": 33.75964204141916,
+      "RAFT": true,
+      "VideoScore": [
+        3.734,
+        3.391,
+        3.812,
+        3.078,
+        3.453
+      ],
+      "VIIDEO": 0.5298179388046265,
+      "Qalign": 3.888671875,
+      "ViCLIP": 0.18143799901008606,
+      "MUSIQ": 39.567265660309594
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_12_01",
+    "video_path": "./Video/Kling1.6/L3_12_01.mp4",
+    "score": {
+      "BRISQUE": 46.21755704012784,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.766,
+        3.969,
+        3.219,
+        3.75
+      ],
+      "VIIDEO": 0.29318466782569885,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.2016371637582779,
+      "MUSIQ": 70.98356874324074
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_12_02",
+    "video_path": "./Video/Kling1.6/L3_12_02.mp4",
+    "score": {
+      "BRISQUE": 42.199930490541064,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.828,
+        3.859,
+        3.406,
+        3.875
+      ],
+      "VIIDEO": 0.4975385069847107,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.22454297542572021,
+      "MUSIQ": 44.26072472186128
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_12_03",
+    "video_path": "./Video/Kling1.6/L3_12_03.mp4",
+    "score": {
+      "BRISQUE": 32.675100783671226,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.828,
+        4.0,
+        3.422,
+        3.844
+      ],
+      "VIIDEO": 0.5186970233917236,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.21584942936897278,
+      "MUSIQ": 57.89091964595574
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_12_04",
+    "video_path": "./Video/Kling1.6/L3_12_04.mp4",
+    "score": {
+      "BRISQUE": 3.1976424288158576,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.734,
+        3.922,
+        3.281,
+        3.781
+      ],
+      "VIIDEO": 0.3515753448009491,
+      "Qalign": 4.23828125,
+      "ViCLIP": 0.18895424902439117,
+      "MUSIQ": 67.93149052769685
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_13_01",
+    "video_path": "./Video/Kling1.6/L3_13_01.mp4",
+    "score": {
+      "BRISQUE": 52.28790182318569,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.938,
+        3.938,
+        3.484,
+        3.938
+      ],
+      "VIIDEO": 0.45408010482788086,
+      "Qalign": 4.75,
+      "ViCLIP": 0.1911482810974121,
+      "MUSIQ": 54.42894713346623
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_13_02",
+    "video_path": "./Video/Kling1.6/L3_13_02.mp4",
+    "score": {
+      "BRISQUE": 12.754299195344784,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.781,
+        4.0,
+        3.203,
+        3.828
+      ],
+      "VIIDEO": 0.3504832088947296,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.21406494081020355,
+      "MUSIQ": 59.0197406485061
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_13_03",
+    "video_path": "./Video/Kling1.6/L3_13_03.mp4",
+    "score": {
+      "BRISQUE": 42.76023927798941,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.75,
+        3.859,
+        3.328,
+        3.797
+      ],
+      "VIIDEO": 0.4931056797504425,
+      "Qalign": 4.125,
+      "ViCLIP": 0.18210501968860626,
+      "MUSIQ": 40.376810373353564
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_13_04",
+    "video_path": "./Video/Kling1.6/L3_13_04.mp4",
+    "score": {
+      "BRISQUE": 36.04972952850594,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.859,
+        4.0,
+        3.391,
+        3.859
+      ],
+      "VIIDEO": 0.5093116760253906,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.23654380440711975,
+      "MUSIQ": 70.05196673810974
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_14_01",
+    "video_path": "./Video/Kling1.6/L3_14_01.mp4",
+    "score": {
+      "BRISQUE": 44.10347678444602,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.953,
+        3.469,
+        3.922
+      ],
+      "VIIDEO": 0.5033552646636963,
+      "Qalign": 4.1484375,
+      "ViCLIP": 0.17632460594177246,
+      "MUSIQ": 54.73514919438638
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_14_02",
+    "video_path": "./Video/Kling1.6/L3_14_02.mp4",
+    "score": {
+      "BRISQUE": 14.324074989508006,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.812,
+        4.062,
+        3.188,
+        3.812
+      ],
+      "VIIDEO": 0.680464506149292,
+      "Qalign": 3.87109375,
+      "ViCLIP": 0.23222716152668,
+      "MUSIQ": 54.907681930163676
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_14_03",
+    "video_path": "./Video/Kling1.6/L3_14_03.mp4",
+    "score": {
+      "BRISQUE": 40.54138839343363,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.828,
+        4.031,
+        3.562,
+        3.875
+      ],
+      "VIIDEO": 0.5089491605758667,
+      "Qalign": 3.970703125,
+      "ViCLIP": 0.19873802363872528,
+      "MUSIQ": 56.88765820589933
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_14_04",
+    "video_path": "./Video/Kling1.6/L3_14_04.mp4",
+    "score": {
+      "BRISQUE": 41.85349696135718,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.938,
+        3.969,
+        3.625,
+        3.922
+      ],
+      "VIIDEO": 0.5456827282905579,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.21659570932388306,
+      "MUSIQ": 64.60120618835954
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_15_01",
+    "video_path": "./Video/Kling1.6/L3_15_01.mp4",
+    "score": {
+      "BRISQUE": 30.15083199493156,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.906,
+        3.953,
+        3.516,
+        3.922
+      ],
+      "VIIDEO": 0.6230067610740662,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.2286825180053711,
+      "MUSIQ": 68.14425365983948
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_15_02",
+    "video_path": "./Video/Kling1.6/L3_15_02.mp4",
+    "score": {
+      "BRISQUE": 9.91019408170842,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.812,
+        3.859,
+        3.281,
+        3.812
+      ],
+      "VIIDEO": 0.2906767725944519,
+      "Qalign": 4.3125,
+      "ViCLIP": 0.21575790643692017,
+      "MUSIQ": 63.554314479354986
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_15_03",
+    "video_path": "./Video/Kling1.6/L3_15_03.mp4",
+    "score": {
+      "BRISQUE": 36.43490676249354,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.922,
+        3.953,
+        3.562,
+        3.938
+      ],
+      "VIIDEO": 0.5990636944770813,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.22456586360931396,
+      "MUSIQ": 76.0155700179171
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L3_15_04",
+    "video_path": "./Video/Kling1.6/L3_15_04.mp4",
+    "score": {
+      "BRISQUE": 37.413333609084454,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        3.953,
+        3.453,
+        3.906
+      ],
+      "VIIDEO": 0.7196032404899597,
+      "Qalign": 4.18359375,
+      "ViCLIP": 0.2320007085800171,
+      "MUSIQ": 54.26293579605985
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_01_01",
+    "video_path": "./Video/Kling1.6/L4_01_01.mp4",
+    "score": {
+      "BRISQUE": 39.10181420696669,
+      "RAFT": true,
+      "VideoScore": [
+        3.625,
+        3.391,
+        3.844,
+        3.125,
+        3.422
+      ],
+      "VIIDEO": 0.4756300151348114,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.19433149695396423,
+      "MUSIQ": 64.95898380752438
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_01_02",
+    "video_path": "./Video/Kling1.6/L4_01_02.mp4",
+    "score": {
+      "BRISQUE": 43.67958005794809,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.75,
+        4.125,
+        3.219,
+        3.781
+      ],
+      "VIIDEO": 0.29134735465049744,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.2317068874835968,
+      "MUSIQ": 66.96780600429567
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_01_03",
+    "video_path": "./Video/Kling1.6/L4_01_03.mp4",
+    "score": {
+      "BRISQUE": 47.28536356776214,
+      "RAFT": true,
+      "VideoScore": [
+        3.781,
+        3.406,
+        3.828,
+        2.75,
+        3.344
+      ],
+      "VIIDEO": 0.44348594546318054,
+      "Qalign": 4.2109375,
+      "ViCLIP": 0.2230473905801773,
+      "MUSIQ": 67.83121168908994
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_01_04",
+    "video_path": "./Video/Kling1.6/L4_01_04.mp4",
+    "score": {
+      "BRISQUE": 42.448788477369575,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.781,
+        4.062,
+        3.125,
+        3.812
+      ],
+      "VIIDEO": 0.5141043663024902,
+      "Qalign": 3.892578125,
+      "ViCLIP": 0.19357533752918243,
+      "MUSIQ": 59.66179048522445
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_02_01",
+    "video_path": "./Video/Kling1.6/L4_02_01.mp4",
+    "score": {
+      "BRISQUE": 9.536215033412965,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.969,
+        3.203,
+        3.781
+      ],
+      "VIIDEO": 0.34355804324150085,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.24871350824832916,
+      "MUSIQ": 58.367850595269324
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_02_02",
+    "video_path": "./Video/Kling1.6/L4_02_02.mp4",
+    "score": {
+      "BRISQUE": 31.023301810272468,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.766,
+        4.031,
+        3.281,
+        3.75
+      ],
+      "VIIDEO": 0.6531640887260437,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.23983463644981384,
+      "MUSIQ": 63.53612329152005
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_02_03",
+    "video_path": "./Video/Kling1.6/L4_02_03.mp4",
+    "score": {
+      "BRISQUE": 19.502152371997674,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        3.859,
+        3.359,
+        3.859
+      ],
+      "VIIDEO": 0.44267961382865906,
+      "Qalign": 4.4375,
+      "ViCLIP": 0.19562967121601105,
+      "MUSIQ": 76.41738425010492
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_02_04",
+    "video_path": "./Video/Kling1.6/L4_02_04.mp4",
+    "score": {
+      "BRISQUE": 33.18933761218363,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.656,
+        3.953,
+        3.109,
+        3.594
+      ],
+      "VIIDEO": 0.5071443319320679,
+      "Qalign": 4.4765625,
+      "ViCLIP": 0.20750588178634644,
+      "MUSIQ": 67.34190835243415
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_03_01",
+    "video_path": "./Video/Kling1.6/L4_03_01.mp4",
+    "score": {
+      "BRISQUE": 27.98613593992123,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.812,
+        3.938,
+        3.141,
+        3.812
+      ],
+      "VIIDEO": 0.5431073904037476,
+      "Qalign": 4.59375,
+      "ViCLIP": 0.228601336479187,
+      "MUSIQ": 63.17969188217289
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_03_02",
+    "video_path": "./Video/Kling1.6/L4_03_02.mp4",
+    "score": {
+      "BRISQUE": 19.856834222462552,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.844,
+        3.891,
+        3.375,
+        3.875
+      ],
+      "VIIDEO": 0.5523694157600403,
+      "Qalign": 4.34375,
+      "ViCLIP": 0.2641194462776184,
+      "MUSIQ": 67.97425356778231
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_03_03",
+    "video_path": "./Video/Kling1.6/L4_03_03.mp4",
+    "score": {
+      "BRISQUE": 10.020295450510073,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.641,
+        3.938,
+        3.125,
+        3.672
+      ],
+      "VIIDEO": 0.462922602891922,
+      "Qalign": 3.7890625,
+      "ViCLIP": 0.2703486680984497,
+      "MUSIQ": 60.35172445123846
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_03_04",
+    "video_path": "./Video/Kling1.6/L4_03_04.mp4",
+    "score": {
+      "BRISQUE": 37.92316783558238,
+      "RAFT": false,
+      "VideoScore": [
+        3.859,
+        3.719,
+        3.922,
+        3.0,
+        3.703
+      ],
+      "VIIDEO": 0.41434523463249207,
+      "Qalign": 4.4765625,
+      "ViCLIP": 0.26130491495132446,
+      "MUSIQ": 62.496603217006715
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_04_01",
+    "video_path": "./Video/Kling1.6/L4_04_01.mp4",
+    "score": {
+      "BRISQUE": 46.60270199105759,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.828,
+        3.938,
+        3.406,
+        3.875
+      ],
+      "VIIDEO": 0.5855770707130432,
+      "Qalign": 3.67578125,
+      "ViCLIP": 0.15465384721755981,
+      "MUSIQ": 28.62518567487228
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_04_02",
+    "video_path": "./Video/Kling1.6/L4_04_02.mp4",
+    "score": {
+      "BRISQUE": 22.31458377049974,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.641,
+        3.859,
+        3.172,
+        3.656
+      ],
+      "VIIDEO": 0.45661163330078125,
+      "Qalign": 4.2734375,
+      "ViCLIP": 0.17000682651996613,
+      "MUSIQ": 54.280694882731794
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_04_03",
+    "video_path": "./Video/Kling1.6/L4_04_03.mp4",
+    "score": {
+      "BRISQUE": 48.570253482534866,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.609,
+        4.062,
+        3.078,
+        3.703
+      ],
+      "VIIDEO": 0.4659940302371979,
+      "Qalign": 4.03125,
+      "ViCLIP": 0.1346716433763504,
+      "MUSIQ": 52.01095242145633
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_04_04",
+    "video_path": "./Video/Kling1.6/L4_04_04.mp4",
+    "score": {
+      "BRISQUE": 42.770444759652634,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.891,
+        4.0,
+        3.453,
+        3.891
+      ],
+      "VIIDEO": 0.47528883814811707,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.22169232368469238,
+      "MUSIQ": 57.329788491745624
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_05_01",
+    "video_path": "./Video/Kling1.6/L4_05_01.mp4",
+    "score": {
+      "BRISQUE": 18.012410313629907,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.891,
+        3.422,
+        3.844
+      ],
+      "VIIDEO": 0.3904883861541748,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.23411327600479126,
+      "MUSIQ": 70.98580008892974
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_05_02",
+    "video_path": "./Video/Kling1.6/L4_05_02.mp4",
+    "score": {
+      "BRISQUE": 41.37501361941503,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.672,
+        4.0,
+        3.312,
+        3.719
+      ],
+      "VIIDEO": 0.508719801902771,
+      "Qalign": 3.970703125,
+      "ViCLIP": 0.24673806130886078,
+      "MUSIQ": 50.580032695423476
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_05_03",
+    "video_path": "./Video/Kling1.6/L4_05_03.mp4",
+    "score": {
+      "BRISQUE": 17.63150654942536,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.781,
+        4.062,
+        3.266,
+        3.797
+      ],
+      "VIIDEO": 0.33588770031929016,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.24211350083351135,
+      "MUSIQ": 69.77422099468137
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_05_04",
+    "video_path": "./Video/Kling1.6/L4_05_04.mp4",
+    "score": {
+      "BRISQUE": 40.13609477902247,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.875,
+        3.938,
+        3.469,
+        3.906
+      ],
+      "VIIDEO": 0.7014635801315308,
+      "Qalign": 3.994140625,
+      "ViCLIP": 0.2908576726913452,
+      "MUSIQ": 66.62301194372256
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_06_01",
+    "video_path": "./Video/Kling1.6/L4_06_01.mp4",
+    "score": {
+      "BRISQUE": 40.37304838826834,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.875,
+        3.969,
+        3.344,
+        3.875
+      ],
+      "VIIDEO": 0.4626372754573822,
+      "Qalign": 4.32421875,
+      "ViCLIP": 0.22049328684806824,
+      "MUSIQ": 61.19887107659962
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_06_02",
+    "video_path": "./Video/Kling1.6/L4_06_02.mp4",
+    "score": {
+      "BRISQUE": 19.913256936822055,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.812,
+        4.0,
+        3.312,
+        3.828
+      ],
+      "VIIDEO": 0.44215285778045654,
+      "Qalign": 4.41796875,
+      "ViCLIP": 0.26150941848754883,
+      "MUSIQ": 66.150222904426
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_06_03",
+    "video_path": "./Video/Kling1.6/L4_06_03.mp4",
+    "score": {
+      "BRISQUE": 40.712972845912965,
+      "RAFT": true,
+      "VideoScore": [
+        3.656,
+        3.484,
+        3.688,
+        3.0,
+        3.516
+      ],
+      "VIIDEO": 0.5786329507827759,
+      "Qalign": 4.18359375,
+      "ViCLIP": 0.21596761047840118,
+      "MUSIQ": 50.73495120844565
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_06_04",
+    "video_path": "./Video/Kling1.6/L4_06_04.mp4",
+    "score": {
+      "BRISQUE": 57.28307550603693,
+      "RAFT": true,
+      "VideoScore": [
+        3.688,
+        3.375,
+        3.75,
+        3.062,
+        3.375
+      ],
+      "VIIDEO": 0.4607660174369812,
+      "Qalign": 3.876953125,
+      "ViCLIP": 0.20111556351184845,
+      "MUSIQ": 57.165201171370576
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_07_01",
+    "video_path": "./Video/Kling1.6/L4_07_01.mp4",
+    "score": {
+      "BRISQUE": 33.80159387509685,
+      "RAFT": true,
+      "VideoScore": [
+        3.453,
+        3.266,
+        3.469,
+        3.0,
+        3.234
+      ],
+      "VIIDEO": 0.4657628536224365,
+      "Qalign": 4.09765625,
+      "ViCLIP": 0.2437102496623993,
+      "MUSIQ": 50.84634128286819
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_07_02",
+    "video_path": "./Video/Kling1.6/L4_07_02.mp4",
+    "score": {
+      "BRISQUE": 37.33557582886751,
+      "RAFT": false,
+      "VideoScore": [
+        4.031,
+        3.938,
+        3.984,
+        3.375,
+        3.859
+      ],
+      "VIIDEO": 0.28009307384490967,
+      "Qalign": 4.19140625,
+      "ViCLIP": 0.19582214951515198,
+      "MUSIQ": 71.8613450231631
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_07_03",
+    "video_path": "./Video/Kling1.6/L4_07_03.mp4",
+    "score": {
+      "BRISQUE": 19.909899498805526,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.875,
+        4.0,
+        3.172,
+        3.859
+      ],
+      "VIIDEO": 0.4398367404937744,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.2429937869310379,
+      "MUSIQ": 68.59057412265746
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_07_04",
+    "video_path": "./Video/Kling1.6/L4_07_04.mp4",
+    "score": {
+      "BRISQUE": 34.31788874854726,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.828,
+        3.906,
+        3.375,
+        3.875
+      ],
+      "VIIDEO": 0.49123209714889526,
+      "Qalign": 3.849609375,
+      "ViCLIP": 0.310083270072937,
+      "MUSIQ": 36.508418343283914
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_08_01",
+    "video_path": "./Video/Kling1.6/L4_08_01.mp4",
+    "score": {
+      "BRISQUE": 18.30300625887784,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.766,
+        4.062,
+        3.344,
+        3.766
+      ],
+      "VIIDEO": 0.7393656969070435,
+      "Qalign": 4.31640625,
+      "ViCLIP": 0.2165812849998474,
+      "MUSIQ": 60.97860465562048
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_08_02",
+    "video_path": "./Video/Kling1.6/L4_08_02.mp4",
+    "score": {
+      "BRISQUE": 34.03338623046875,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.75,
+        4.062,
+        3.375,
+        3.859
+      ],
+      "VIIDEO": 0.6682900786399841,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.2418239712715149,
+      "MUSIQ": 66.17119998774253
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_08_03",
+    "video_path": "./Video/Kling1.6/L4_08_03.mp4",
+    "score": {
+      "BRISQUE": 30.55501587922908,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.844,
+        3.984,
+        3.312,
+        3.812
+      ],
+      "VIIDEO": 0.4060194790363312,
+      "Qalign": 4.2265625,
+      "ViCLIP": 0.29358410835266113,
+      "MUSIQ": 69.06766519467693
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_08_04",
+    "video_path": "./Video/Kling1.6/L4_08_04.mp4",
+    "score": {
+      "BRISQUE": 18.453174937855113,
+      "RAFT": false,
+      "VideoScore": [
+        3.969,
+        3.875,
+        3.906,
+        3.453,
+        3.859
+      ],
+      "VIIDEO": 0.3645313084125519,
+      "Qalign": 3.876953125,
+      "ViCLIP": 0.19099853932857513,
+      "MUSIQ": 65.48884090707321
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_09_01",
+    "video_path": "./Video/Kling1.6/L4_09_01.mp4",
+    "score": {
+      "BRISQUE": 42.39157886347495,
+      "RAFT": false,
+      "VideoScore": [
+        3.953,
+        3.828,
+        3.922,
+        3.328,
+        3.828
+      ],
+      "VIIDEO": 0.20039279758930206,
+      "Qalign": 4.37890625,
+      "ViCLIP": 0.23321163654327393,
+      "MUSIQ": 74.58166592180237
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_09_02",
+    "video_path": "./Video/Kling1.6/L4_09_02.mp4",
+    "score": {
+      "BRISQUE": 33.657357207999745,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.719,
+        3.969,
+        3.219,
+        3.734
+      ],
+      "VIIDEO": 0.6172000169754028,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.2407742589712143,
+      "MUSIQ": 65.23774167525866
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_09_03",
+    "video_path": "./Video/Kling1.6/L4_09_03.mp4",
+    "score": {
+      "BRISQUE": 27.35398524260718,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.891,
+        3.938,
+        3.453,
+        3.859
+      ],
+      "VIIDEO": 0.29817521572113037,
+      "Qalign": 4.51171875,
+      "ViCLIP": 0.1951170563697815,
+      "MUSIQ": 72.37967480115654
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_09_04",
+    "video_path": "./Video/Kling1.6/L4_09_04.mp4",
+    "score": {
+      "BRISQUE": 19.335785668743544,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.906,
+        4.0,
+        3.453,
+        3.938
+      ],
+      "VIIDEO": 0.600837230682373,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.16824394464492798,
+      "MUSIQ": 66.28081714220284
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_10_01",
+    "video_path": "./Video/Kling1.6/L4_10_01.mp4",
+    "score": {
+      "BRISQUE": 53.52346726094396,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.672,
+        3.875,
+        3.281,
+        3.766
+      ],
+      "VIIDEO": 0.4604586660861969,
+      "Qalign": 3.87890625,
+      "ViCLIP": 0.19257095456123352,
+      "MUSIQ": 40.43909780644188
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_10_02",
+    "video_path": "./Video/Kling1.6/L4_10_02.mp4",
+    "score": {
+      "BRISQUE": 35.45496261218363,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.828,
+        3.875,
+        3.312,
+        3.828
+      ],
+      "VIIDEO": 0.4651411771774292,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.2679857015609741,
+      "MUSIQ": 76.50800663971704
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_10_03",
+    "video_path": "./Video/Kling1.6/L4_10_03.mp4",
+    "score": {
+      "BRISQUE": 34.69591528522081,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.797,
+        4.0,
+        3.172,
+        3.766
+      ],
+      "VIIDEO": 0.3218490481376648,
+      "Qalign": 4.44140625,
+      "ViCLIP": 0.20866139233112335,
+      "MUSIQ": 74.83198963512073
+    }
+  },
+  {
+    "model": "Kling1.6",
+    "config_id": "L4_10_04",
+    "video_path": "./Video/Kling1.6/L4_10_04.mp4",
+    "score": {
+      "BRISQUE": 49.0230354750452,
+      "RAFT": true,
+      "VideoScore": [
+        3.562,
+        3.266,
+        3.672,
+        3.094,
+        3.422
+      ],
+      "VIIDEO": 0.5673098564147949,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.21281743049621582,
+      "MUSIQ": 43.88685916869108
+    }
+  }
+]

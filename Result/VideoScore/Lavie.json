@@ -1,0 +1,4402 @@
+[
+  {
+    "score": [
+      2.438,
+      2.578,
+      2.906,
+      2.625,
+      2.453
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_01.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.547,
+      2.891,
+      2.656,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.203,
+      3.031,
+      2.734,
+      1.984
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_03.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.75,
+      3.047,
+      2.656,
+      1.734
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_04.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.266,
+      3.016,
+      2.688,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_05.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.172,
+      2.984,
+      2.297,
+      2.188
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_06.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.219,
+      2.969,
+      2.609,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_07.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.672,
+      2.938,
+      2.688,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_08.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.812,
+      3.094,
+      2.688,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_09.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.156,
+      2.953,
+      2.5,
+      1.961
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_10.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      1.867,
+      2.984,
+      2.016,
+      1.898
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_11.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      2.078,
+      3.016,
+      2.484,
+      2.094
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_12.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.297,
+      3.078,
+      2.75,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_13.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.5,
+      2.859,
+      2.688,
+      2.312
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_14.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.078,
+      3.078,
+      2.766,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_15.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.578,
+      2.828,
+      2.578,
+      2.609
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_16.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.797,
+      2.625,
+      2.562,
+      2.703
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_17.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      1.922,
+      3.062,
+      2.703,
+      1.852
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B11_18.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.609,
+      2.891,
+      2.484,
+      2.438
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_01.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.188,
+      3.016,
+      2.5,
+      2.078
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_02.mp4"
+  },
+  {
+    "score": [
+      2.125,
+      1.875,
+      3.094,
+      2.641,
+      1.961
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_03.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.945,
+      2.969,
+      2.484,
+      1.828
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.297,
+      2.984,
+      2.562,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_05.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.812,
+      2.641,
+      2.469,
+      2.734
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_06.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.266,
+      3.016,
+      2.781,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_07.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.219,
+      3.031,
+      2.609,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_08.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.484,
+      2.969,
+      2.578,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_09.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.547,
+      3.0,
+      2.828,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_10.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      2.172,
+      3.031,
+      2.688,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_11.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.266,
+      2.938,
+      2.438,
+      2.0
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B12_12.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.078,
+      3.047,
+      2.609,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_01.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.805,
+      3.031,
+      2.562,
+      1.742
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_02.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.297,
+      3.094,
+      2.031,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_03.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.469,
+      2.797,
+      2.391,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.234,
+      2.922,
+      2.625,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_05.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.078,
+      3.094,
+      2.812,
+      1.922
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_06.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.328,
+      3.062,
+      2.766,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_07.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.219,
+      3.047,
+      2.719,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_08.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.984,
+      3.047,
+      2.562,
+      1.883
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_09.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.859,
+      2.906,
+      2.438,
+      1.898
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_10.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.438,
+      2.891,
+      2.172,
+      2.25
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_11.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      1.93,
+      3.016,
+      2.5,
+      1.797
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B13_12.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.594,
+      2.969,
+      2.578,
+      2.562
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_01.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.297,
+      3.062,
+      2.875,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_02.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.125,
+      3.062,
+      2.719,
+      2.094
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_03.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.406,
+      3.047,
+      2.75,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_04.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.977,
+      3.016,
+      2.531,
+      1.922
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_05.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.312,
+      3.016,
+      2.672,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_06.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.531,
+      2.906,
+      2.203,
+      2.359
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_07.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.25,
+      3.016,
+      2.672,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_08.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.797,
+      2.688,
+      2.672,
+      2.734
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_09.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.438,
+      2.875,
+      2.547,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_10.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.438,
+      2.969,
+      2.641,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_11.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      2.016,
+      3.062,
+      2.594,
+      2.078
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_12.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.234,
+      3.047,
+      2.672,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_13.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.867,
+      3.016,
+      2.578,
+      1.812
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_14.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.047,
+      2.844,
+      2.484,
+      1.883
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B14_15.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.859,
+      2.719,
+      2.375,
+      2.812
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_01.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.453,
+      2.953,
+      2.656,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_02.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.359,
+      3.078,
+      2.891,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.266,
+      3.031,
+      2.641,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_04.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.422,
+      2.969,
+      2.531,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_05.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.141,
+      2.812,
+      2.656,
+      1.875
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_06.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.562,
+      2.891,
+      2.547,
+      2.562
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_07.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.406,
+      2.984,
+      2.641,
+      2.391
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_08.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.188,
+      2.984,
+      2.547,
+      2.078
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_09.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.578,
+      2.938,
+      2.453,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_10.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.109,
+      2.922,
+      2.516,
+      1.828
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_11.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.203,
+      3.031,
+      2.672,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B15_12.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.062,
+      2.984,
+      2.453,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_01.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.359,
+      3.031,
+      2.703,
+      2.25
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.172,
+      3.047,
+      2.578,
+      2.188
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_03.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.078,
+      2.953,
+      2.594,
+      1.922
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_04.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.344,
+      2.844,
+      2.328,
+      2.188
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_05.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.531,
+      2.766,
+      2.312,
+      2.438
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_06.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.297,
+      2.922,
+      2.281,
+      2.188
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_07.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.406,
+      2.969,
+      2.625,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_08.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.438,
+      2.703,
+      2.5,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_09.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.344,
+      3.047,
+      2.578,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_10.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.453,
+      2.969,
+      2.688,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_11.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.867,
+      3.062,
+      2.562,
+      1.688
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_12.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      1.812,
+      3.016,
+      2.5,
+      1.742
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_13.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.797,
+      3.0,
+      2.219,
+      1.828
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B21_14.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.297,
+      3.094,
+      2.766,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_01.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.203,
+      3.0,
+      2.531,
+      2.078
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_02.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.484,
+      2.875,
+      1.984,
+      2.562
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_03.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.773,
+      2.844,
+      2.297,
+      1.867
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_04.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      1.961,
+      3.125,
+      2.5,
+      1.969
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_05.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.297,
+      3.0,
+      2.625,
+      2.359
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_06.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.391,
+      3.062,
+      2.812,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_07.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.328,
+      3.0,
+      2.547,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_08.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.172,
+      3.031,
+      2.625,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_09.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.562,
+      2.953,
+      2.594,
+      2.625
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_10.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.516,
+      2.953,
+      2.109,
+      2.531
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_11.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.945,
+      3.078,
+      2.641,
+      1.961
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B22_12.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.688,
+      2.812,
+      2.578,
+      2.609
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_01.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.375,
+      3.047,
+      2.75,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_02.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      2.0,
+      3.0,
+      2.453,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_03.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.469,
+      2.969,
+      2.422,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      1.992,
+      3.0,
+      2.406,
+      1.984
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_05.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.188,
+      2.891,
+      2.703,
+      1.898
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_06.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.297,
+      3.0,
+      2.656,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_07.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.531,
+      2.953,
+      2.703,
+      2.484
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_08.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.844,
+      2.578,
+      2.422,
+      2.781
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_09.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.656,
+      2.922,
+      2.812,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_10.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.094,
+      3.0,
+      2.391,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_11.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.281,
+      3.062,
+      2.672,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_12.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.203,
+      3.031,
+      2.422,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_13.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.266,
+      3.0,
+      2.5,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B31_14.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.359,
+      2.938,
+      2.594,
+      2.391
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_01.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.219,
+      2.938,
+      2.672,
+      2.016
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.297,
+      3.0,
+      2.625,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_03.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.234,
+      3.078,
+      2.781,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_04.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.93,
+      3.047,
+      2.594,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_05.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.852,
+      3.062,
+      2.422,
+      1.891
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_06.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.578,
+      2.891,
+      2.422,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_07.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.156,
+      2.984,
+      2.5,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_08.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.125,
+      2.75,
+      2.391,
+      2.047
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_09.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.828,
+      2.672,
+      2.406,
+      2.766
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_10.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      2.172,
+      3.016,
+      2.672,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B32_11.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.234,
+      2.75,
+      2.562,
+      1.984
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_01.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.688,
+      2.75,
+      2.594,
+      2.562
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.578,
+      2.531,
+      2.641,
+      2.625
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_03.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.281,
+      2.781,
+      2.516,
+      1.922
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_04.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.422,
+      2.844,
+      2.688,
+      2.219
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_05.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.078,
+      2.922,
+      2.469,
+      1.75
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_06.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.547,
+      2.938,
+      2.766,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_07.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.062,
+      3.0,
+      2.531,
+      2.047
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_08.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.547,
+      2.906,
+      2.625,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_09.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.047,
+      2.906,
+      2.688,
+      1.648
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B33_10.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.422,
+      2.938,
+      2.609,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_01.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.781,
+      2.781,
+      2.578,
+      2.703
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_02.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.406,
+      2.984,
+      2.734,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_03.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.516,
+      3.016,
+      2.844,
+      2.453
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.406,
+      2.953,
+      2.766,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_05.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.156,
+      3.031,
+      2.594,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_06.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.156,
+      3.016,
+      2.578,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_07.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.094,
+      2.906,
+      2.516,
+      1.633
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_08.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.734,
+      2.938,
+      2.625,
+      2.656
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_09.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.266,
+      3.016,
+      2.672,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B34_10.mp4"
+  },
+  {
+    "score": [
+      2.719,
+      2.719,
+      2.922,
+      2.703,
+      2.609
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_01.mp4"
+  },
+  {
+    "score": [
+      2.781,
+      2.453,
+      2.766,
+      2.422,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.406,
+      3.016,
+      2.672,
+      2.391
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_03.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.484,
+      2.953,
+      2.469,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_04.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.641,
+      2.938,
+      2.75,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_05.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.562,
+      2.875,
+      2.031,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_06.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.234,
+      3.016,
+      2.406,
+      2.312
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_07.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.625,
+      2.953,
+      2.719,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_08.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.312,
+      2.766,
+      2.562,
+      1.812
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_09.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.078,
+      3.094,
+      2.719,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_10.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.609,
+      3.109,
+      2.672,
+      2.453
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_11.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.547,
+      2.969,
+      2.703,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_12.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.719,
+      2.781,
+      2.578,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B41_13.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.312,
+      2.891,
+      2.734,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_01.mp4"
+  },
+  {
+    "score": [
+      2.672,
+      2.75,
+      2.906,
+      2.484,
+      2.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_02.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.609,
+      2.812,
+      2.453,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_03.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.484,
+      3.031,
+      2.766,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.094,
+      2.906,
+      2.469,
+      1.914
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_05.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.141,
+      3.016,
+      2.641,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_06.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      2.297,
+      3.062,
+      2.766,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_07.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      2.141,
+      3.0,
+      2.281,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_08.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.906,
+      2.625,
+      2.562,
+      2.828
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_09.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.391,
+      2.984,
+      2.594,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_10.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.266,
+      3.031,
+      2.719,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_11.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.828,
+      2.969,
+      2.703,
+      2.781
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B42_12.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.172,
+      3.062,
+      2.594,
+      2.219
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_01.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.844,
+      2.844,
+      2.625,
+      2.672
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_02.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.625,
+      2.812,
+      2.578,
+      2.453
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_03.mp4"
+  },
+  {
+    "score": [
+      2.688,
+      2.719,
+      2.984,
+      2.438,
+      2.594
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_04.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.484,
+      2.891,
+      2.547,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_05.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.469,
+      2.906,
+      2.5,
+      2.484
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_06.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.844,
+      2.547,
+      2.484,
+      2.75
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_07.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.656,
+      2.719,
+      2.531,
+      2.531
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_08.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.797,
+      2.812,
+      2.781,
+      2.688
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_09.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.5,
+      2.734,
+      2.547,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_10.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.484,
+      2.938,
+      2.594,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B43_11.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.328,
+      2.984,
+      2.406,
+      1.922
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_01.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.5,
+      2.844,
+      2.484,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_02.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.125,
+      3.0,
+      2.547,
+      1.844
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_03.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.391,
+      2.969,
+      2.406,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_04.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.703,
+      2.719,
+      2.5,
+      2.578
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_05.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.578,
+      2.969,
+      2.812,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_06.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.312,
+      2.922,
+      2.438,
+      1.977
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_07.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.188,
+      2.984,
+      2.344,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_08.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      2.109,
+      3.094,
+      2.797,
+      2.016
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_09.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.141,
+      3.094,
+      2.578,
+      2.047
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_10.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.438,
+      2.984,
+      2.719,
+      2.453
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_11.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.344,
+      3.062,
+      2.531,
+      1.969
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B51_12.mp4"
+  },
+  {
+    "score": [
+      2.125,
+      2.016,
+      2.953,
+      2.125,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_01.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.609,
+      2.547,
+      2.312,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.188,
+      2.984,
+      2.609,
+      1.859
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_03.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.062,
+      3.062,
+      2.609,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_04.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.719,
+      2.891,
+      2.516,
+      2.453
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_05.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.406,
+      2.938,
+      2.703,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_06.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.688,
+      2.781,
+      2.531,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_07.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.625,
+      3.047,
+      2.344,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_08.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.312,
+      2.828,
+      2.391,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_09.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.562,
+      2.656,
+      2.391,
+      2.594
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_10.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.578,
+      2.656,
+      2.5,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_11.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.219,
+      3.031,
+      2.531,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/B52_12.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.328,
+      3.047,
+      2.594,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_01_01.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.016,
+      2.984,
+      2.469,
+      1.883
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_01_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.094,
+      3.047,
+      2.703,
+      1.977
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_01_03.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.562,
+      2.922,
+      2.656,
+      2.5
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_01_04.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      1.945,
+      3.047,
+      2.719,
+      1.789
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_02_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.141,
+      3.078,
+      2.672,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_02_02.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.703,
+      2.891,
+      2.422,
+      2.531
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_02_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      1.953,
+      3.031,
+      2.188,
+      1.984
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_02_04.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.5,
+      2.984,
+      2.484,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_03_01.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.406,
+      2.891,
+      2.516,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_03_02.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.406,
+      2.938,
+      2.25,
+      2.391
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_03_03.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.141,
+      3.016,
+      2.625,
+      2.188
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_03_04.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.914,
+      3.016,
+      2.656,
+      1.742
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_04_01.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.5,
+      2.922,
+      2.547,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_04_02.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.359,
+      2.984,
+      2.703,
+      2.25
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_04_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.297,
+      2.984,
+      2.797,
+      2.312
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_04_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.578,
+      2.953,
+      2.688,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_05_01.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.531,
+      2.891,
+      2.375,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_05_02.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.75,
+      2.844,
+      2.438,
+      2.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_05_03.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.766,
+      2.734,
+      2.5,
+      2.656
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_05_04.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.344,
+      3.016,
+      2.609,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_06_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.961,
+      2.938,
+      2.609,
+      1.625
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_06_02.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.141,
+      3.031,
+      2.484,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_06_03.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.719,
+      3.047,
+      2.641,
+      1.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_06_04.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      2.047,
+      2.953,
+      2.531,
+      1.695
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_07_01.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      2.062,
+      2.969,
+      2.562,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_07_02.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.297,
+      2.891,
+      2.5,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_07_03.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      1.859,
+      3.016,
+      2.594,
+      1.758
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_07_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.922,
+      2.938,
+      2.547,
+      1.656
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_08_01.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.094,
+      3.094,
+      2.844,
+      1.984
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_08_02.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.156,
+      3.0,
+      2.562,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_08_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.188,
+      3.031,
+      2.531,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_08_04.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.234,
+      2.984,
+      2.656,
+      2.219
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_09_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      2.172,
+      3.016,
+      2.688,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_09_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.625,
+      2.719,
+      2.688,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_09_03.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.734,
+      2.609,
+      2.516,
+      2.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_09_04.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.328,
+      2.984,
+      2.594,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_10_01.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.469,
+      2.781,
+      2.75,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_10_02.mp4"
+  },
+  {
+    "score": [
+      2.688,
+      2.859,
+      3.0,
+      2.75,
+      2.797
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_10_03.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.625,
+      2.906,
+      2.75,
+      2.562
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_10_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.391,
+      2.953,
+      2.609,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_11_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.438,
+      2.922,
+      2.594,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_11_02.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      1.992,
+      3.047,
+      2.672,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_11_03.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.0,
+      3.062,
+      2.641,
+      1.953
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_11_04.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.375,
+      3.0,
+      2.75,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_12_01.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.391,
+      2.969,
+      2.594,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_12_02.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.344,
+      3.016,
+      2.859,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_12_03.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.609,
+      2.75,
+      2.656,
+      2.5
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_12_04.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      1.93,
+      3.0,
+      2.641,
+      1.844
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_13_01.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.438,
+      3.016,
+      2.703,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_13_02.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.219,
+      2.922,
+      2.609,
+      1.883
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_13_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.359,
+      2.984,
+      2.688,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_13_04.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.797,
+      2.766,
+      2.531,
+      2.688
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_14_01.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.188,
+      3.062,
+      2.672,
+      2.219
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_14_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.344,
+      2.984,
+      2.625,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_14_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.297,
+      2.984,
+      2.719,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_14_04.mp4"
+  },
+  {
+    "score": [
+      2.219,
+      1.891,
+      3.125,
+      2.656,
+      1.977
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_15_01.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      1.953,
+      3.016,
+      2.562,
+      1.844
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_15_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.328,
+      2.969,
+      2.703,
+      2.281
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_15_03.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.078,
+      2.938,
+      2.469,
+      1.906
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_15_04.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.156,
+      2.875,
+      2.656,
+      1.984
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_16_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.125,
+      3.141,
+      2.688,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_16_02.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.156,
+      3.016,
+      2.578,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_16_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.25,
+      2.984,
+      2.375,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_16_04.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.625,
+      2.562,
+      2.469,
+      2.531
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_17_01.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.25,
+      2.938,
+      2.5,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_17_02.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.859,
+      2.781,
+      2.531,
+      2.594
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_17_03.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.344,
+      2.953,
+      2.562,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_17_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.203,
+      2.797,
+      2.219,
+      1.719
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_18_01.mp4"
+  },
+  {
+    "score": [
+      2.734,
+      2.938,
+      2.953,
+      2.766,
+      2.844
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_18_02.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.422,
+      2.984,
+      2.625,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_18_03.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.188,
+      3.016,
+      2.594,
+      1.953
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_18_04.mp4"
+  },
+  {
+    "score": [
+      2.266,
+      2.062,
+      3.047,
+      2.625,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_19_01.mp4"
+  },
+  {
+    "score": [
+      2.703,
+      2.859,
+      2.906,
+      2.75,
+      2.703
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_19_02.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.125,
+      2.906,
+      2.656,
+      1.844
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_19_03.mp4"
+  },
+  {
+    "score": [
+      2.141,
+      2.047,
+      3.047,
+      2.516,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_19_04.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.688,
+      2.625,
+      2.625,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_20_01.mp4"
+  },
+  {
+    "score": [
+      2.672,
+      2.766,
+      2.953,
+      2.375,
+      2.609
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_20_02.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.531,
+      2.953,
+      2.844,
+      2.391
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_20_03.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.219,
+      2.938,
+      2.562,
+      2.078
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_20_04.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.0,
+      2.938,
+      2.469,
+      1.891
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_21_01.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.5,
+      2.672,
+      2.031,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_21_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.328,
+      2.734,
+      2.609,
+      1.883
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_21_03.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.797,
+      2.75,
+      2.516,
+      2.734
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_21_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.062,
+      3.047,
+      2.609,
+      2.0
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_22_01.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.375,
+      2.891,
+      2.344,
+      2.25
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_22_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.078,
+      3.016,
+      2.703,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_22_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.484,
+      2.969,
+      2.812,
+      2.422
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_22_04.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.797,
+      2.891,
+      2.703,
+      2.656
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_23_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      2.266,
+      3.0,
+      2.547,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_23_02.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.484,
+      2.625,
+      2.422,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_23_03.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      2.141,
+      2.953,
+      2.484,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_23_04.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.641,
+      2.641,
+      2.344,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_24_01.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.531,
+      2.875,
+      2.562,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_24_02.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.5,
+      2.984,
+      2.547,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_24_03.mp4"
+  },
+  {
+    "score": [
+      2.328,
+      2.016,
+      2.891,
+      2.328,
+      1.961
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_24_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.469,
+      3.016,
+      2.734,
+      2.344
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_25_01.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.578,
+      3.0,
+      2.672,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_25_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.578,
+      2.844,
+      2.766,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_25_03.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.516,
+      2.953,
+      2.703,
+      2.484
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L2_25_04.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.594,
+      2.875,
+      2.703,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_01_01.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.875,
+      2.766,
+      2.406,
+      2.75
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_01_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.281,
+      2.938,
+      2.688,
+      2.188
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_01_03.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.125,
+      2.969,
+      2.641,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_01_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.109,
+      2.984,
+      2.516,
+      2.047
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_02_01.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.688,
+      2.828,
+      2.25,
+      2.484
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_02_02.mp4"
+  },
+  {
+    "score": [
+      2.188,
+      2.25,
+      3.078,
+      2.688,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_02_03.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.484,
+      2.953,
+      2.531,
+      2.406
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_02_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.453,
+      2.891,
+      2.594,
+      2.5
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_03_01.mp4"
+  },
+  {
+    "score": [
+      2.156,
+      2.016,
+      2.922,
+      2.047,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_03_02.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.141,
+      3.016,
+      2.531,
+      1.797
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_03_03.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.984,
+      2.906,
+      2.422,
+      2.078
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_03_04.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.375,
+      2.906,
+      2.625,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_04_01.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.719,
+      3.047,
+      2.609,
+      1.68
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_04_02.mp4"
+  },
+  {
+    "score": [
+      2.672,
+      2.844,
+      2.828,
+      2.469,
+      2.781
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_04_03.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      1.906,
+      3.031,
+      2.5,
+      1.906
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_04_04.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.672,
+      2.891,
+      2.547,
+      2.531
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_05_01.mp4"
+  },
+  {
+    "score": [
+      2.594,
+      2.766,
+      2.828,
+      2.516,
+      2.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_05_02.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.609,
+      2.922,
+      2.797,
+      2.422
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_05_03.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.531,
+      2.656,
+      2.516,
+      2.328
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_05_04.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.281,
+      2.984,
+      2.609,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_06_01.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.25,
+      3.0,
+      2.422,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_06_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.297,
+      2.781,
+      2.594,
+      1.891
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_06_03.mp4"
+  },
+  {
+    "score": [
+      2.172,
+      1.836,
+      2.969,
+      2.5,
+      1.75
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_06_04.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.172,
+      3.062,
+      2.562,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_07_01.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.234,
+      3.062,
+      2.734,
+      2.141
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_07_02.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.25,
+      2.859,
+      2.578,
+      1.961
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_07_03.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.609,
+      2.781,
+      2.578,
+      2.531
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_07_04.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.172,
+      2.938,
+      2.656,
+      1.922
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_08_01.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.219,
+      2.875,
+      2.547,
+      1.977
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_08_02.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.547,
+      2.859,
+      2.5,
+      2.438
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_08_03.mp4"
+  },
+  {
+    "score": [
+      2.359,
+      2.359,
+      2.875,
+      2.406,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_08_04.mp4"
+  },
+  {
+    "score": [
+      2.578,
+      2.688,
+      2.594,
+      2.484,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_09_01.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.531,
+      2.703,
+      1.547,
+      2.469
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_09_02.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.766,
+      2.812,
+      2.688,
+      2.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_09_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.281,
+      2.969,
+      2.5,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_09_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.125,
+      2.922,
+      2.547,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_10_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.281,
+      3.031,
+      2.688,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_10_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      1.961,
+      2.938,
+      2.656,
+      1.609
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_10_03.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.562,
+      3.0,
+      2.5,
+      2.422
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_10_04.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.938,
+      2.953,
+      2.266,
+      1.938
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_11_01.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.453,
+      2.969,
+      2.625,
+      2.312
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_11_02.mp4"
+  },
+  {
+    "score": [
+      2.453,
+      2.453,
+      3.0,
+      2.453,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_11_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.266,
+      3.031,
+      2.688,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_11_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.281,
+      2.766,
+      2.391,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_12_01.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      2.234,
+      3.0,
+      2.656,
+      2.156
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_12_02.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.125,
+      2.875,
+      2.625,
+      1.852
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_12_03.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.703,
+      2.875,
+      2.453,
+      2.547
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_12_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.484,
+      2.766,
+      2.609,
+      2.422
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_13_01.mp4"
+  },
+  {
+    "score": [
+      2.547,
+      2.672,
+      2.891,
+      2.375,
+      2.578
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_13_02.mp4"
+  },
+  {
+    "score": [
+      2.297,
+      2.297,
+      2.969,
+      2.609,
+      2.359
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_13_03.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.047,
+      2.906,
+      2.312,
+      1.953
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_13_04.mp4"
+  },
+  {
+    "score": [
+      2.234,
+      2.078,
+      3.078,
+      2.656,
+      2.062
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_14_01.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.734,
+      2.797,
+      2.609,
+      2.625
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_14_02.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.062,
+      3.0,
+      2.734,
+      1.875
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_14_03.mp4"
+  },
+  {
+    "score": [
+      2.25,
+      2.219,
+      3.016,
+      2.688,
+      2.25
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_14_04.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.406,
+      2.938,
+      2.797,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_15_01.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.391,
+      2.906,
+      2.438,
+      2.172
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_15_02.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.219,
+      2.859,
+      2.547,
+      1.953
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_15_03.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.531,
+      2.906,
+      2.703,
+      2.438
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L3_15_04.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.422,
+      2.844,
+      2.516,
+      2.094
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_01_01.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.344,
+      3.031,
+      2.641,
+      2.266
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_01_02.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.203,
+      2.938,
+      2.5,
+      1.977
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_01_03.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.688,
+      2.688,
+      2.547,
+      2.641
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_01_04.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      2.172,
+      3.047,
+      2.641,
+      1.93
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_02_01.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.156,
+      2.922,
+      2.297,
+      1.969
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_02_02.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.594,
+      2.75,
+      2.5,
+      2.484
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_02_03.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.016,
+      2.984,
+      2.531,
+      1.758
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_02_04.mp4"
+  },
+  {
+    "score": [
+      2.531,
+      2.703,
+      2.969,
+      2.469,
+      2.438
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_03_01.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.484,
+      3.0,
+      2.719,
+      2.219
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_03_02.mp4"
+  },
+  {
+    "score": [
+      2.609,
+      2.797,
+      2.844,
+      2.516,
+      2.594
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_03_03.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.719,
+      3.031,
+      2.328,
+      2.516
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_03_04.mp4"
+  },
+  {
+    "score": [
+      2.203,
+      1.977,
+      3.0,
+      2.516,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_04_01.mp4"
+  },
+  {
+    "score": [
+      2.109,
+      1.758,
+      2.953,
+      2.516,
+      1.672
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_04_02.mp4"
+  },
+  {
+    "score": [
+      2.391,
+      2.281,
+      2.875,
+      2.375,
+      2.109
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_04_03.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.344,
+      2.906,
+      2.438,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_04_04.mp4"
+  },
+  {
+    "score": [
+      2.344,
+      2.109,
+      2.953,
+      2.609,
+      1.844
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_05_01.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.297,
+      2.859,
+      2.484,
+      1.945
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_05_02.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.109,
+      2.906,
+      2.516,
+      1.836
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_05_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.391,
+      2.984,
+      2.688,
+      2.297
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_05_04.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.438,
+      3.062,
+      2.781,
+      2.359
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_06_01.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.406,
+      2.844,
+      2.375,
+      2.125
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_06_02.mp4"
+  },
+  {
+    "score": [
+      2.438,
+      2.469,
+      2.938,
+      2.672,
+      2.359
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_06_03.mp4"
+  },
+  {
+    "score": [
+      2.625,
+      2.672,
+      2.953,
+      2.562,
+      2.5
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_06_04.mp4"
+  },
+  {
+    "score": [
+      2.562,
+      2.75,
+      2.625,
+      2.828,
+      2.562
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_07_01.mp4"
+  },
+  {
+    "score": [
+      2.469,
+      2.656,
+      2.891,
+      2.594,
+      2.422
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_07_02.mp4"
+  },
+  {
+    "score": [
+      2.641,
+      2.828,
+      3.047,
+      2.641,
+      2.609
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_07_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.344,
+      3.016,
+      2.688,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_07_04.mp4"
+  },
+  {
+    "score": [
+      2.5,
+      2.234,
+      2.922,
+      2.547,
+      2.203
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_08_01.mp4"
+  },
+  {
+    "score": [
+      2.281,
+      1.992,
+      3.031,
+      2.484,
+      1.977
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_08_02.mp4"
+  },
+  {
+    "score": [
+      2.656,
+      2.781,
+      2.984,
+      2.609,
+      2.656
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_08_03.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.266,
+      2.906,
+      2.688,
+      1.938
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_08_04.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.172,
+      2.938,
+      2.641,
+      1.914
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_09_01.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.594,
+      2.875,
+      2.562,
+      2.359
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_09_02.mp4"
+  },
+  {
+    "score": [
+      2.422,
+      2.391,
+      2.875,
+      2.578,
+      2.031
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_09_03.mp4"
+  },
+  {
+    "score": [
+      2.375,
+      2.391,
+      2.906,
+      2.422,
+      2.422
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_09_04.mp4"
+  },
+  {
+    "score": [
+      2.312,
+      2.016,
+      2.984,
+      2.422,
+      1.891
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_10_01.mp4"
+  },
+  {
+    "score": [
+      2.406,
+      2.484,
+      2.828,
+      2.516,
+      2.234
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_10_02.mp4"
+  },
+  {
+    "score": [
+      2.516,
+      2.516,
+      2.875,
+      2.422,
+      2.25
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_10_03.mp4"
+  },
+  {
+    "score": [
+      2.484,
+      2.469,
+      3.016,
+      2.625,
+      2.375
+    ],
+    "model_name": "Lavie",
+    "video_path": "./Video/Lavie/L4_10_04.mp4"
+  }
+]

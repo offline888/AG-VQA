@@ -1,0 +1,8002 @@
+[
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_01",
+    "video_path": "./Video/Hunyuan/B11_01.mp4",
+    "score": {
+      "BRISQUE": 56.73932389188404,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.594,
+        2.594,
+        2.391,
+        2.375
+      ],
+      "VIIDEO": 0.5706198215484619,
+      "Qalign": 4.18359375,
+      "ViCLIP": 0.19532427191734314,
+      "MUSIQ": 62.696916911227646
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_02",
+    "video_path": "./Video/Hunyuan/B11_02.mp4",
+    "score": {
+      "BRISQUE": 35.63316509152247,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.188,
+        2.688,
+        2.344,
+        2.156
+      ],
+      "VIIDEO": 0.48931342363357544,
+      "Qalign": 4.18359375,
+      "ViCLIP": 0.2103516012430191,
+      "MUSIQ": 59.323880566053155
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_03",
+    "video_path": "./Video/Hunyuan/B11_03.mp4",
+    "score": {
+      "BRISQUE": 17.339986501646436,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.906,
+        2.875,
+        2.562,
+        2.531
+      ],
+      "VIIDEO": 0.36307811737060547,
+      "Qalign": 4.625,
+      "ViCLIP": 0.18039894104003906,
+      "MUSIQ": 56.64988122104613
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_04",
+    "video_path": "./Video/Hunyuan/B11_04.mp4",
+    "score": {
+      "BRISQUE": 31.83020069973528,
+      "RAFT": true,
+      "VideoScore": [
+        3.797,
+        3.516,
+        4.0,
+        3.359,
+        3.547
+      ],
+      "VIIDEO": 0.555265486240387,
+      "Qalign": 3.92578125,
+      "ViCLIP": 0.13900712132453918,
+      "MUSIQ": 60.43586721499104
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_05",
+    "video_path": "./Video/Hunyuan/B11_05.mp4",
+    "score": {
+      "BRISQUE": 36.01072352385718,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.719,
+        3.281,
+        2.922,
+        2.906
+      ],
+      "VIIDEO": 0.5820013284683228,
+      "Qalign": 3.73046875,
+      "ViCLIP": 0.1548495590686798,
+      "MUSIQ": 50.537813675305074
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_06",
+    "video_path": "./Video/Hunyuan/B11_06.mp4",
+    "score": {
+      "BRISQUE": 18.045512554074122,
+      "RAFT": true,
+      "VideoScore": [
+        3.906,
+        3.656,
+        4.062,
+        3.344,
+        3.719
+      ],
+      "VIIDEO": 0.6509700417518616,
+      "Qalign": 3.947265625,
+      "ViCLIP": 0.25960540771484375,
+      "MUSIQ": 74.33333779957668
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_07",
+    "video_path": "./Video/Hunyuan/B11_07.mp4",
+    "score": {
+      "BRISQUE": 30.37492887638817,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.656,
+        2.766,
+        2.547,
+        2.359
+      ],
+      "VIIDEO": 0.7565721273422241,
+      "Qalign": 3.974609375,
+      "ViCLIP": 0.2025391012430191,
+      "MUSIQ": 64.95186766317067
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_08",
+    "video_path": "./Video/Hunyuan/B11_08.mp4",
+    "score": {
+      "BRISQUE": 40.253358951284866,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.797,
+        2.406,
+        2.328,
+        2.453
+      ],
+      "VIIDEO": 0.5694149732589722,
+      "Qalign": 4.25390625,
+      "ViCLIP": 0.22333139181137085,
+      "MUSIQ": 42.45732417776565
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_09",
+    "video_path": "./Video/Hunyuan/B11_09.mp4",
+    "score": {
+      "BRISQUE": 36.8110447402828,
+      "RAFT": true,
+      "VideoScore": [
+        3.094,
+        2.797,
+        3.406,
+        2.781,
+        2.953
+      ],
+      "VIIDEO": 0.5317003130912781,
+      "Qalign": 4.109375,
+      "ViCLIP": 0.22796426713466644,
+      "MUSIQ": 65.9186504458593
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_10",
+    "video_path": "./Video/Hunyuan/B11_10.mp4",
+    "score": {
+      "BRISQUE": 37.40864045954933,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.656,
+        2.641,
+        2.469,
+        2.453
+      ],
+      "VIIDEO": 0.506035566329956,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.21072839200496674,
+      "MUSIQ": 64.88262308924651
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_11",
+    "video_path": "./Video/Hunyuan/B11_11.mp4",
+    "score": {
+      "BRISQUE": 34.65193365428073,
+      "RAFT": true,
+      "VideoScore": [
+        3.438,
+        3.188,
+        3.531,
+        2.938,
+        3.266
+      ],
+      "VIIDEO": 0.4364407956600189,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.16410115361213684,
+      "MUSIQ": 74.86338916494827
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_12",
+    "video_path": "./Video/Hunyuan/B11_12.mp4",
+    "score": {
+      "BRISQUE": 29.36397684901214,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.734,
+        2.562,
+        2.359,
+        2.578
+      ],
+      "VIIDEO": 0.5399069786071777,
+      "Qalign": 4.46875,
+      "ViCLIP": 0.146952822804451,
+      "MUSIQ": 62.167663006743126
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_13",
+    "video_path": "./Video/Hunyuan/B11_13.mp4",
+    "score": {
+      "BRISQUE": 43.78994776197701,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.406,
+        2.844,
+        2.5,
+        2.469
+      ],
+      "VIIDEO": 0.5379294157028198,
+      "Qalign": 4.6328125,
+      "ViCLIP": 0.21633949875831604,
+      "MUSIQ": 69.08668814414789
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_14",
+    "video_path": "./Video/Hunyuan/B11_14.mp4",
+    "score": {
+      "BRISQUE": 29.267398046067925,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.688,
+        2.641,
+        2.422,
+        2.5
+      ],
+      "VIIDEO": 0.42632055282592773,
+      "Qalign": 3.759765625,
+      "ViCLIP": 0.20967772603034973,
+      "MUSIQ": 55.547079385804736
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_15",
+    "video_path": "./Video/Hunyuan/B11_15.mp4",
+    "score": {
+      "BRISQUE": 29.967363341780732,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.828,
+        2.594,
+        2.625,
+        2.75
+      ],
+      "VIIDEO": 0.539989709854126,
+      "Qalign": 3.9765625,
+      "ViCLIP": 0.17275480926036835,
+      "MUSIQ": 45.21371005980436
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_16",
+    "video_path": "./Video/Hunyuan/B11_16.mp4",
+    "score": {
+      "BRISQUE": 50.072610145758006,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.516,
+        2.859,
+        2.625,
+        2.516
+      ],
+      "VIIDEO": 0.49448221921920776,
+      "Qalign": 4.74609375,
+      "ViCLIP": 0.25516948103904724,
+      "MUSIQ": 53.4563749644382
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_17",
+    "video_path": "./Video/Hunyuan/B11_17.mp4",
+    "score": {
+      "BRISQUE": 31.72568429994189,
+      "RAFT": false,
+      "VideoScore": [
+        3.828,
+        3.719,
+        3.906,
+        3.453,
+        3.75
+      ],
+      "VIIDEO": 0.4870905578136444,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.1880856454372406,
+      "MUSIQ": 67.0190447027033
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B11_18",
+    "video_path": "./Video/Hunyuan/B11_18.mp4",
+    "score": {
+      "BRISQUE": 42.95684713568569,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.703,
+        2.594,
+        2.609,
+        2.625
+      ],
+      "VIIDEO": 0.6087270975112915,
+      "Qalign": 4.515625,
+      "ViCLIP": 0.14649465680122375,
+      "MUSIQ": 52.16383853628616
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_01",
+    "video_path": "./Video/Hunyuan/B12_01.mp4",
+    "score": {
+      "BRISQUE": 22.49398072297908,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.625,
+        2.875,
+        2.312,
+        2.375
+      ],
+      "VIIDEO": 0.40101611614227295,
+      "Qalign": 4.03515625,
+      "ViCLIP": 0.11409423500299454,
+      "MUSIQ": 54.454257334559415
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_02",
+    "video_path": "./Video/Hunyuan/B12_02.mp4",
+    "score": {
+      "BRISQUE": 19.56865950655346,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.391,
+        2.984,
+        2.375,
+        2.328
+      ],
+      "VIIDEO": 0.5015453696250916,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.2345154583454132,
+      "MUSIQ": 60.16065247590877
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_03",
+    "video_path": "./Video/Hunyuan/B12_03.mp4",
+    "score": {
+      "BRISQUE": 22.486951087131974,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.781,
+        2.906,
+        2.734,
+        2.812
+      ],
+      "VIIDEO": 0.4200723469257355,
+      "Qalign": 3.935546875,
+      "ViCLIP": 0.2654705047607422,
+      "MUSIQ": 47.48065639527376
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_04",
+    "video_path": "./Video/Hunyuan/B12_04.mp4",
+    "score": {
+      "BRISQUE": 39.8332232010266,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.344,
+        2.641,
+        2.328,
+        2.125
+      ],
+      "VIIDEO": 0.5201299786567688,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.1879691630601883,
+      "MUSIQ": 49.62596704152005
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_05",
+    "video_path": "./Video/Hunyuan/B12_05.mp4",
+    "score": {
+      "BRISQUE": 30.536703314662965,
+      "RAFT": true,
+      "VideoScore": [
+        3.359,
+        3.031,
+        3.578,
+        2.875,
+        3.109
+      ],
+      "VIIDEO": 0.5331910848617554,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.2432316541671753,
+      "MUSIQ": 34.413816436263154
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_06",
+    "video_path": "./Video/Hunyuan/B12_06.mp4",
+    "score": {
+      "BRISQUE": 48.34455051895016,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.516,
+        2.562,
+        2.359,
+        2.359
+      ],
+      "VIIDEO": 0.526639461517334,
+      "Qalign": 3.85546875,
+      "ViCLIP": 0.30148711800575256,
+      "MUSIQ": 58.36561010691745
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_07",
+    "video_path": "./Video/Hunyuan/B12_07.mp4",
+    "score": {
+      "BRISQUE": 37.69418410624354,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.375,
+        2.609,
+        2.328,
+        2.406
+      ],
+      "VIIDEO": 0.5079538226127625,
+      "Qalign": 3.568359375,
+      "ViCLIP": 0.13691911101341248,
+      "MUSIQ": 41.09267302584057
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_08",
+    "video_path": "./Video/Hunyuan/B12_08.mp4",
+    "score": {
+      "BRISQUE": 52.507002901439826,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.656,
+        2.703,
+        2.688,
+        2.719
+      ],
+      "VIIDEO": 0.6440203785896301,
+      "Qalign": 4.23046875,
+      "ViCLIP": 0.21973271667957306,
+      "MUSIQ": 47.241444516773065
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_09",
+    "video_path": "./Video/Hunyuan/B12_09.mp4",
+    "score": {
+      "BRISQUE": 35.75597387897081,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.609,
+        3.062,
+        2.562,
+        2.406
+      ],
+      "VIIDEO": 0.3370528519153595,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.2748230993747711,
+      "MUSIQ": 62.5894278849452
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_10",
+    "video_path": "./Video/Hunyuan/B12_10.mp4",
+    "score": {
+      "BRISQUE": 30.700999866832387,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.266,
+        2.719,
+        2.328,
+        2.062
+      ],
+      "VIIDEO": 0.4064071476459503,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.19241660833358765,
+      "MUSIQ": 57.23718636883192
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_11",
+    "video_path": "./Video/Hunyuan/B12_11.mp4",
+    "score": {
+      "BRISQUE": 23.5708103652828,
+      "RAFT": true,
+      "VideoScore": [
+        3.078,
+        2.875,
+        3.156,
+        2.812,
+        2.875
+      ],
+      "VIIDEO": 0.5064706206321716,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.208698570728302,
+      "MUSIQ": 58.85066516340272
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B12_12",
+    "video_path": "./Video/Hunyuan/B12_12.mp4",
+    "score": {
+      "BRISQUE": 22.518358467038997,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.312,
+        2.641,
+        2.141,
+        2.203
+      ],
+      "VIIDEO": 0.401820570230484,
+      "Qalign": 4.51953125,
+      "ViCLIP": 0.18737557530403137,
+      "MUSIQ": 65.61234314973689
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_01",
+    "video_path": "./Video/Hunyuan/B13_01.mp4",
+    "score": {
+      "BRISQUE": 26.22829922762784,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.25,
+        2.594,
+        2.188,
+        1.938
+      ],
+      "VIIDEO": 0.6544827818870544,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.24865642189979553,
+      "MUSIQ": 69.9716881996344
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_02",
+    "video_path": "./Video/Hunyuan/B13_02.mp4",
+    "score": {
+      "BRISQUE": 39.96386063000387,
+      "RAFT": true,
+      "VideoScore": [
+        3.0,
+        2.609,
+        3.203,
+        2.609,
+        2.641
+      ],
+      "VIIDEO": 0.5722557902336121,
+      "Qalign": 3.93359375,
+      "ViCLIP": 0.20916689932346344,
+      "MUSIQ": 54.280509570413386
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_03",
+    "video_path": "./Video/Hunyuan/B13_03.mp4",
+    "score": {
+      "BRISQUE": 35.7458329634233,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.531,
+        2.672,
+        2.469,
+        2.219
+      ],
+      "VIIDEO": 0.4033769965171814,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.21727003157138824,
+      "MUSIQ": 41.44636500965465
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_04",
+    "video_path": "./Video/Hunyuan/B13_04.mp4",
+    "score": {
+      "BRISQUE": 38.290787121481145,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.656,
+        2.688,
+        2.438,
+        2.453
+      ],
+      "VIIDEO": 0.5614479184150696,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.2428749054670334,
+      "MUSIQ": 66.02520474520597
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_05",
+    "video_path": "./Video/Hunyuan/B13_05.mp4",
+    "score": {
+      "BRISQUE": 28.77732912173941,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.625,
+        2.703,
+        2.438,
+        2.344
+      ],
+      "VIIDEO": 0.5516117811203003,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.25812506675720215,
+      "MUSIQ": 74.44191054667323
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_06",
+    "video_path": "./Video/Hunyuan/B13_06.mp4",
+    "score": {
+      "BRISQUE": 36.46177837277247,
+      "RAFT": true,
+      "VideoScore": [
+        3.172,
+        2.875,
+        3.266,
+        2.797,
+        2.938
+      ],
+      "VIIDEO": 0.5065807700157166,
+      "Qalign": 3.55078125,
+      "ViCLIP": 0.3040606379508972,
+      "MUSIQ": 43.58112814406718
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_07",
+    "video_path": "./Video/Hunyuan/B13_07.mp4",
+    "score": {
+      "BRISQUE": 39.151162896274535,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.391,
+        2.625,
+        2.406,
+        2.203
+      ],
+      "VIIDEO": 0.6738138794898987,
+      "Qalign": 3.810546875,
+      "ViCLIP": 0.25545185804367065,
+      "MUSIQ": 47.73551127536238
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_08",
+    "video_path": "./Video/Hunyuan/B13_08.mp4",
+    "score": {
+      "BRISQUE": 17.409681588165032,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.641,
+        3.109,
+        2.688,
+        2.531
+      ],
+      "VIIDEO": 0.38513094186782837,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.15840043127536774,
+      "MUSIQ": 59.909169693623696
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_09",
+    "video_path": "./Video/Hunyuan/B13_09.mp4",
+    "score": {
+      "BRISQUE": 30.773443048650567,
+      "RAFT": true,
+      "VideoScore": [
+        3.656,
+        3.453,
+        3.656,
+        3.219,
+        3.406
+      ],
+      "VIIDEO": 0.30732572078704834,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.10276686400175095,
+      "MUSIQ": 61.938190586310775
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_10",
+    "video_path": "./Video/Hunyuan/B13_10.mp4",
+    "score": {
+      "BRISQUE": 37.16820835081999,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.516,
+        2.625,
+        2.469,
+        2.281
+      ],
+      "VIIDEO": 0.46110376715660095,
+      "Qalign": 4.06640625,
+      "ViCLIP": 0.23192204535007477,
+      "MUSIQ": 65.09403304423182
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_11",
+    "video_path": "./Video/Hunyuan/B13_11.mp4",
+    "score": {
+      "BRISQUE": 17.12320576817536,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.703,
+        2.938,
+        2.422,
+        2.547
+      ],
+      "VIIDEO": 0.40702128410339355,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.28011608123779297,
+      "MUSIQ": 67.29313747941956
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B13_12",
+    "video_path": "./Video/Hunyuan/B13_12.mp4",
+    "score": {
+      "BRISQUE": 25.706943984859247,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        4.0,
+        4.062,
+        3.922,
+        3.969
+      ],
+      "VIIDEO": 0.44224074482917786,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.24627771973609924,
+      "MUSIQ": 63.17959947822508
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_01",
+    "video_path": "./Video/Hunyuan/B14_01.mp4",
+    "score": {
+      "BRISQUE": 46.911332059497674,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.312,
+        2.844,
+        2.172,
+        2.0
+      ],
+      "VIIDEO": 0.5297136902809143,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.21969467401504517,
+      "MUSIQ": 45.55519873248644
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_02",
+    "video_path": "./Video/Hunyuan/B14_02.mp4",
+    "score": {
+      "BRISQUE": 44.59281530459065,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.25,
+        2.719,
+        2.328,
+        2.141
+      ],
+      "VIIDEO": 0.4883192777633667,
+      "Qalign": 4.0,
+      "ViCLIP": 0.19156020879745483,
+      "MUSIQ": 52.44275217607987
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_03",
+    "video_path": "./Video/Hunyuan/B14_03.mp4",
+    "score": {
+      "BRISQUE": 35.0030684037642,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.562,
+        3.031,
+        2.734,
+        2.641
+      ],
+      "VIIDEO": 0.45963650941848755,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.22354619204998016,
+      "MUSIQ": 52.21809473904696
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_04",
+    "video_path": "./Video/Hunyuan/B14_04.mp4",
+    "score": {
+      "BRISQUE": 48.0336364241671,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.5,
+        2.812,
+        2.641,
+        2.469
+      ],
+      "VIIDEO": 0.4601367712020874,
+      "Qalign": 3.939453125,
+      "ViCLIP": 0.23422662913799286,
+      "MUSIQ": 58.003578186035156
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_05",
+    "video_path": "./Video/Hunyuan/B14_05.mp4",
+    "score": {
+      "BRISQUE": 33.181484758361314,
+      "RAFT": true,
+      "VideoScore": [
+        3.766,
+        3.609,
+        3.984,
+        3.734,
+        3.594
+      ],
+      "VIIDEO": 0.40652742981910706,
+      "Qalign": 3.92578125,
+      "ViCLIP": 0.17449475824832916,
+      "MUSIQ": 62.0075851314324
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_06",
+    "video_path": "./Video/Hunyuan/B14_06.mp4",
+    "score": {
+      "BRISQUE": 43.374448665902634,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.484,
+        2.625,
+        2.422,
+        2.25
+      ],
+      "VIIDEO": 0.4184635877609253,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.15688452124595642,
+      "MUSIQ": 63.75761927454925
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_07",
+    "video_path": "./Video/Hunyuan/B14_07.mp4",
+    "score": {
+      "BRISQUE": 12.545581155572055,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.734,
+        2.422,
+        2.234,
+        2.328
+      ],
+      "VIIDEO": 0.7351552248001099,
+      "Qalign": 4.55078125,
+      "ViCLIP": 0.20397309958934784,
+      "MUSIQ": 74.1194996479129
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_08",
+    "video_path": "./Video/Hunyuan/B14_08.mp4",
+    "score": {
+      "BRISQUE": 54.89387096058238,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.828,
+        2.547,
+        2.719,
+        2.875
+      ],
+      "VIIDEO": 0.47896385192871094,
+      "Qalign": 3.943359375,
+      "ViCLIP": 0.21898522973060608,
+      "MUSIQ": 36.48578163020867
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_09",
+    "video_path": "./Video/Hunyuan/B14_09.mp4",
+    "score": {
+      "BRISQUE": 33.62780610391916,
+      "RAFT": false,
+      "VideoScore": [
+        2.859,
+        2.969,
+        2.578,
+        2.75,
+        2.906
+      ],
+      "VIIDEO": 0.7199505567550659,
+      "Qalign": 4.2578125,
+      "ViCLIP": 0.26401031017303467,
+      "MUSIQ": 53.25794182138995
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_10",
+    "video_path": "./Video/Hunyuan/B14_10.mp4",
+    "score": {
+      "BRISQUE": 36.605373414094785,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.609,
+        2.5,
+        2.422,
+        2.531
+      ],
+      "VIIDEO": 0.330913245677948,
+      "Qalign": 4.43359375,
+      "ViCLIP": 0.1993679404258728,
+      "MUSIQ": 57.07681586525657
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_11",
+    "video_path": "./Video/Hunyuan/B14_11.mp4",
+    "score": {
+      "BRISQUE": 16.977899724786933,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.328,
+        2.734,
+        2.312,
+        2.078
+      ],
+      "VIIDEO": 0.5346307754516602,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.261041522026062,
+      "MUSIQ": 65.57209847190164
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_12",
+    "video_path": "./Video/Hunyuan/B14_12.mp4",
+    "score": {
+      "BRISQUE": 26.64057808868156,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.734,
+        2.688,
+        2.344,
+        2.547
+      ],
+      "VIIDEO": 0.4789535403251648,
+      "Qalign": 3.978515625,
+      "ViCLIP": 0.22860173881053925,
+      "MUSIQ": 51.41685668693101
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_13",
+    "video_path": "./Video/Hunyuan/B14_13.mp4",
+    "score": {
+      "BRISQUE": 17.180201506811724,
+      "RAFT": true,
+      "VideoScore": [
+        3.469,
+        3.219,
+        3.578,
+        3.141,
+        3.125
+      ],
+      "VIIDEO": 0.5786917805671692,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.14922958612442017,
+      "MUSIQ": 73.16916889789675
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_14",
+    "video_path": "./Video/Hunyuan/B14_14.mp4",
+    "score": {
+      "BRISQUE": 22.99210830562371,
+      "RAFT": true,
+      "VideoScore": [
+        3.453,
+        3.188,
+        3.531,
+        2.906,
+        3.094
+      ],
+      "VIIDEO": 0.49640434980392456,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.2551928758621216,
+      "MUSIQ": 72.29704653527126
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B14_15",
+    "video_path": "./Video/Hunyuan/B14_15.mp4",
+    "score": {
+      "BRISQUE": -0.38892862619447316,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.469,
+        2.531,
+        2.312,
+        2.062
+      ],
+      "VIIDEO": 0.6273031830787659,
+      "Qalign": 4.546875,
+      "ViCLIP": 0.2125503122806549,
+      "MUSIQ": 76.41985352571345
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_01",
+    "video_path": "./Video/Hunyuan/B15_01.mp4",
+    "score": {
+      "BRISQUE": 58.25425884152247,
+      "RAFT": false,
+      "VideoScore": [
+        3.141,
+        3.266,
+        3.031,
+        2.953,
+        3.328
+      ],
+      "VIIDEO": 0.477668821811676,
+      "Qalign": 3.697265625,
+      "ViCLIP": 0.24592703580856323,
+      "MUSIQ": 43.74040723438105
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_02",
+    "video_path": "./Video/Hunyuan/B15_02.mp4",
+    "score": {
+      "BRISQUE": 11.725284797100981,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.594,
+        2.531,
+        2.453,
+        2.281
+      ],
+      "VIIDEO": 0.6529905200004578,
+      "Qalign": 4.53515625,
+      "ViCLIP": 0.25827518105506897,
+      "MUSIQ": 75.35017186945134
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_03",
+    "video_path": "./Video/Hunyuan/B15_03.mp4",
+    "score": {
+      "BRISQUE": 41.074777146016274,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.656,
+        2.578,
+        2.469,
+        2.375
+      ],
+      "VIIDEO": 0.5666012763977051,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.25875356793403625,
+      "MUSIQ": 63.70386464142602
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_04",
+    "video_path": "./Video/Hunyuan/B15_04.mp4",
+    "score": {
+      "BRISQUE": 33.5914594161609,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.516,
+        2.766,
+        2.281,
+        2.453
+      ],
+      "VIIDEO": 0.5980104207992554,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.2558383643627167,
+      "MUSIQ": 49.47886162749992
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_05",
+    "video_path": "./Video/Hunyuan/B15_05.mp4",
+    "score": {
+      "BRISQUE": -5.940916455481664,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.641,
+        2.469,
+        2.391,
+        2.375
+      ],
+      "VIIDEO": 0.7711284756660461,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.26745373010635376,
+      "MUSIQ": 75.82516857809271
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_06",
+    "video_path": "./Video/Hunyuan/B15_06.mp4",
+    "score": {
+      "BRISQUE": 37.70441783558238,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.5,
+        2.547,
+        2.328,
+        2.094
+      ],
+      "VIIDEO": 0.6461644172668457,
+      "Qalign": 4.31640625,
+      "ViCLIP": 0.26822057366371155,
+      "MUSIQ": 76.99657818502631
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_07",
+    "video_path": "./Video/Hunyuan/B15_07.mp4",
+    "score": {
+      "BRISQUE": 30.798579444569988,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.797,
+        2.641,
+        2.703,
+        2.797
+      ],
+      "VIIDEO": 0.6231405735015869,
+      "Qalign": 4.25390625,
+      "ViCLIP": 0.2703666388988495,
+      "MUSIQ": 60.84620042280717
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_08",
+    "video_path": "./Video/Hunyuan/B15_08.mp4",
+    "score": {
+      "BRISQUE": 62.942549776439826,
+      "RAFT": false,
+      "VideoScore": [
+        3.781,
+        3.656,
+        3.875,
+        3.219,
+        3.703
+      ],
+      "VIIDEO": 0.5395687222480774,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.17617452144622803,
+      "MUSIQ": 37.84092144926718
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_09",
+    "video_path": "./Video/Hunyuan/B15_09.mp4",
+    "score": {
+      "BRISQUE": 37.12578841280346,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.469,
+        2.906,
+        2.594,
+        2.5
+      ],
+      "VIIDEO": 0.501897394657135,
+      "Qalign": 4.203125,
+      "ViCLIP": 0.1970984786748886,
+      "MUSIQ": 48.80032550401924
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_10",
+    "video_path": "./Video/Hunyuan/B15_10.mp4",
+    "score": {
+      "BRISQUE": -0.9898575711841425,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.516,
+        2.641,
+        2.375,
+        2.359
+      ],
+      "VIIDEO": 0.7650190591812134,
+      "Qalign": 4.8515625,
+      "ViCLIP": 0.2407640516757965,
+      "MUSIQ": 73.25995005457854
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_11",
+    "video_path": "./Video/Hunyuan/B15_11.mp4",
+    "score": {
+      "BRISQUE": 6.876801293743544,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.359,
+        2.547,
+        2.297,
+        2.25
+      ],
+      "VIIDEO": 0.5043961405754089,
+      "Qalign": 4.515625,
+      "ViCLIP": 0.23178710043430328,
+      "MUSIQ": 75.47459953875581
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B15_12",
+    "video_path": "./Video/Hunyuan/B15_12.mp4",
+    "score": {
+      "BRISQUE": 19.159052068536933,
+      "RAFT": true,
+      "VideoScore": [
+        3.312,
+        3.0,
+        3.312,
+        2.797,
+        2.891
+      ],
+      "VIIDEO": 0.5832938551902771,
+      "Qalign": 4.48828125,
+      "ViCLIP": 0.18233449757099152,
+      "MUSIQ": 69.93210412648098
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_01",
+    "video_path": "./Video/Hunyuan/B21_01.mp4",
+    "score": {
+      "BRISQUE": 24.696266363474948,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.203,
+        2.953,
+        2.5,
+        2.312
+      ],
+      "VIIDEO": 0.5184528827667236,
+      "Qalign": 3.861328125,
+      "ViCLIP": 0.21649374067783356,
+      "MUSIQ": 62.36853872251905
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_02",
+    "video_path": "./Video/Hunyuan/B21_02.mp4",
+    "score": {
+      "BRISQUE": 30.904544546584454,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.266,
+        2.625,
+        2.328,
+        2.281
+      ],
+      "VIIDEO": 0.5579069256782532,
+      "Qalign": 3.763671875,
+      "ViCLIP": 0.26503103971481323,
+      "MUSIQ": 71.32290094549006
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_03",
+    "video_path": "./Video/Hunyuan/B21_03.mp4",
+    "score": {
+      "BRISQUE": 38.078526016109244,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.281,
+        2.656,
+        2.562,
+        2.359
+      ],
+      "VIIDEO": 0.642084002494812,
+      "Qalign": 4.12890625,
+      "ViCLIP": 0.19449517130851746,
+      "MUSIQ": 44.20980778213375
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_04",
+    "video_path": "./Video/Hunyuan/B21_04.mp4",
+    "score": {
+      "BRISQUE": 31.301771431915032,
+      "RAFT": true,
+      "VideoScore": [
+        3.234,
+        3.016,
+        3.594,
+        3.094,
+        3.188
+      ],
+      "VIIDEO": 0.41284066438674927,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.26003867387771606,
+      "MUSIQ": 67.76532666545269
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_05",
+    "video_path": "./Video/Hunyuan/B21_05.mp4",
+    "score": {
+      "BRISQUE": 44.42154157654313,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.781,
+        2.609,
+        2.688,
+        2.812
+      ],
+      "VIIDEO": 0.4681994915008545,
+      "Qalign": 3.884765625,
+      "ViCLIP": 0.2640334367752075,
+      "MUSIQ": 49.75094103222051
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_06",
+    "video_path": "./Video/Hunyuan/B21_06.mp4",
+    "score": {
+      "BRISQUE": 26.685802617348916,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.328,
+        2.672,
+        2.422,
+        2.297
+      ],
+      "VIIDEO": 0.4963662922382355,
+      "Qalign": 3.990234375,
+      "ViCLIP": 0.2826159596443176,
+      "MUSIQ": 45.761453423618285
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_07",
+    "video_path": "./Video/Hunyuan/B21_07.mp4",
+    "score": {
+      "BRISQUE": 27.34272249079933,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.203,
+        2.781,
+        2.391,
+        2.25
+      ],
+      "VIIDEO": 0.45806416869163513,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.2402745485305786,
+      "MUSIQ": 61.49386202599391
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_08",
+    "video_path": "./Video/Hunyuan/B21_08.mp4",
+    "score": {
+      "BRISQUE": 55.08930855743156,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.266,
+        3.031,
+        2.375,
+        2.406
+      ],
+      "VIIDEO": 0.4573199450969696,
+      "Qalign": 3.79296875,
+      "ViCLIP": 0.2730068564414978,
+      "MUSIQ": 42.733960711266384
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_09",
+    "video_path": "./Video/Hunyuan/B21_09.mp4",
+    "score": {
+      "BRISQUE": 16.227241957483212,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.406,
+        2.594,
+        2.344,
+        2.438
+      ],
+      "VIIDEO": 0.3984372019767761,
+      "Qalign": 4.76171875,
+      "ViCLIP": 0.2754465639591217,
+      "MUSIQ": 56.500949418249206
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_10",
+    "video_path": "./Video/Hunyuan/B21_10.mp4",
+    "score": {
+      "BRISQUE": 50.34537373692536,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.359,
+        2.688,
+        2.391,
+        2.375
+      ],
+      "VIIDEO": 0.5121378302574158,
+      "Qalign": 3.9609375,
+      "ViCLIP": 0.21925009787082672,
+      "MUSIQ": 52.54923935567052
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_11",
+    "video_path": "./Video/Hunyuan/B21_11.mp4",
+    "score": {
+      "BRISQUE": 31.39681275422908,
+      "RAFT": true,
+      "VideoScore": [
+        3.109,
+        3.016,
+        3.25,
+        2.969,
+        3.016
+      ],
+      "VIIDEO": 0.44390109181404114,
+      "Qalign": 3.87890625,
+      "ViCLIP": 0.16901353001594543,
+      "MUSIQ": 52.58471581955587
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_12",
+    "video_path": "./Video/Hunyuan/B21_12.mp4",
+    "score": {
+      "BRISQUE": 46.88628040660512,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.188,
+        2.641,
+        2.234,
+        2.125
+      ],
+      "VIIDEO": 0.4613022804260254,
+      "Qalign": 4.03515625,
+      "ViCLIP": 0.28940925002098083,
+      "MUSIQ": 57.97958096590909
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_13",
+    "video_path": "./Video/Hunyuan/B21_13.mp4",
+    "score": {
+      "BRISQUE": 22.879936785737346,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.484,
+        2.5,
+        2.031,
+        2.172
+      ],
+      "VIIDEO": 0.4003885090351105,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.25401246547698975,
+      "MUSIQ": 74.93424174411238
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B21_14",
+    "video_path": "./Video/Hunyuan/B21_14.mp4",
+    "score": {
+      "BRISQUE": 41.64115111295842,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.141,
+        2.672,
+        2.156,
+        2.156
+      ],
+      "VIIDEO": 0.477737158536911,
+      "Qalign": 4.0859375,
+      "ViCLIP": 0.2197147011756897,
+      "MUSIQ": 51.12244147308602
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_01",
+    "video_path": "./Video/Hunyuan/B22_01.mp4",
+    "score": {
+      "BRISQUE": 29.64207521548941,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.594,
+        3.094,
+        2.828,
+        2.5
+      ],
+      "VIIDEO": 0.5730770230293274,
+      "Qalign": 3.857421875,
+      "ViCLIP": 0.22590583562850952,
+      "MUSIQ": 55.09030277472882
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_02",
+    "video_path": "./Video/Hunyuan/B22_02.mp4",
+    "score": {
+      "BRISQUE": 26.60334765221462,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.109,
+        2.734,
+        2.094,
+        1.922
+      ],
+      "VIIDEO": 0.4417991638183594,
+      "Qalign": 3.845703125,
+      "ViCLIP": 0.2349286824464798,
+      "MUSIQ": 58.227816873345496
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_03",
+    "video_path": "./Video/Hunyuan/B22_03.mp4",
+    "score": {
+      "BRISQUE": 40.84379186709065,
+      "RAFT": true,
+      "VideoScore": [
+        3.828,
+        3.594,
+        3.875,
+        3.25,
+        3.609
+      ],
+      "VIIDEO": 0.44785577058792114,
+      "Qalign": 4.4453125,
+      "ViCLIP": 0.23102383315563202,
+      "MUSIQ": 57.08797707045374
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_04",
+    "video_path": "./Video/Hunyuan/B22_04.mp4",
+    "score": {
+      "BRISQUE": 39.33706892029313,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.578,
+        2.562,
+        2.438,
+        2.469
+      ],
+      "VIIDEO": 0.6443073153495789,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.25552788376808167,
+      "MUSIQ": 76.70392375347043
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_05",
+    "video_path": "./Video/Hunyuan/B22_05.mp4",
+    "score": {
+      "BRISQUE": 37.2920017715328,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        1.938,
+        2.797,
+        2.234,
+        2.0
+      ],
+      "VIIDEO": 0.4885867238044739,
+      "Qalign": 3.939453125,
+      "ViCLIP": 0.20874053239822388,
+      "MUSIQ": 49.7427266333714
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_06",
+    "video_path": "./Video/Hunyuan/B22_06.mp4",
+    "score": {
+      "BRISQUE": 56.48940459952867,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.469,
+        2.562,
+        2.391,
+        2.203
+      ],
+      "VIIDEO": 0.5836763381958008,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.21590246260166168,
+      "MUSIQ": 49.29115683185167
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_07",
+    "video_path": "./Video/Hunyuan/B22_07.mp4",
+    "score": {
+      "BRISQUE": 45.04392664885718,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.438,
+        2.641,
+        2.266,
+        2.328
+      ],
+      "VIIDEO": 0.4085237681865692,
+      "Qalign": 4.37890625,
+      "ViCLIP": 0.0895971730351448,
+      "MUSIQ": 50.86479190164361
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_08",
+    "video_path": "./Video/Hunyuan/B22_08.mp4",
+    "score": {
+      "BRISQUE": 65.33268245980759,
+      "RAFT": true,
+      "VideoScore": [
+        3.609,
+        3.422,
+        3.703,
+        3.297,
+        3.5
+      ],
+      "VIIDEO": 0.5048825144767761,
+      "Qalign": 4.078125,
+      "ViCLIP": 0.21079784631729126,
+      "MUSIQ": 48.45409212033611
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_09",
+    "video_path": "./Video/Hunyuan/B22_09.mp4",
+    "score": {
+      "BRISQUE": 30.70172623563404,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.844,
+        4.094,
+        3.75,
+        3.875
+      ],
+      "VIIDEO": 0.49903419613838196,
+      "Qalign": 4.08203125,
+      "ViCLIP": 0.21261188387870789,
+      "MUSIQ": 73.03541214998103
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_10",
+    "video_path": "./Video/Hunyuan/B22_10.mp4",
+    "score": {
+      "BRISQUE": 43.51710749854726,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.312,
+        2.547,
+        2.25,
+        2.141
+      ],
+      "VIIDEO": 0.5080201029777527,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.18015392124652863,
+      "MUSIQ": 46.61982210017433
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_11",
+    "video_path": "./Video/Hunyuan/B22_11.mp4",
+    "score": {
+      "BRISQUE": 39.31934148615057,
+      "RAFT": true,
+      "VideoScore": [
+        3.328,
+        3.203,
+        3.438,
+        3.141,
+        3.234
+      ],
+      "VIIDEO": 0.393117755651474,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.24375808238983154,
+      "MUSIQ": 50.793945612001025
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B22_12",
+    "video_path": "./Video/Hunyuan/B22_12.mp4",
+    "score": {
+      "BRISQUE": 27.628677746481145,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.312,
+        2.688,
+        2.453,
+        2.047
+      ],
+      "VIIDEO": 0.39532947540283203,
+      "Qalign": 4.60546875,
+      "ViCLIP": 0.19365666806697845,
+      "MUSIQ": 66.99392104345905
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_01",
+    "video_path": "./Video/Hunyuan/B31_01.mp4",
+    "score": {
+      "BRISQUE": 48.30857508635718,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.734,
+        2.75,
+        2.641,
+        2.594
+      ],
+      "VIIDEO": 0.45283380150794983,
+      "Qalign": 4.21484375,
+      "ViCLIP": 0.22404223680496216,
+      "MUSIQ": 53.889375261038786
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_02",
+    "video_path": "./Video/Hunyuan/B31_02.mp4",
+    "score": {
+      "BRISQUE": 43.30729183480759,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.781,
+        2.594,
+        2.547,
+        2.469
+      ],
+      "VIIDEO": 0.33858349919319153,
+      "Qalign": 4.359375,
+      "ViCLIP": 0.16834591329097748,
+      "MUSIQ": 62.266721993438466
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_03",
+    "video_path": "./Video/Hunyuan/B31_03.mp4",
+    "score": {
+      "BRISQUE": 48.78010142933238,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.438,
+        2.656,
+        2.375,
+        2.109
+      ],
+      "VIIDEO": 0.3924427032470703,
+      "Qalign": 4.734375,
+      "ViCLIP": 0.1718289852142334,
+      "MUSIQ": 55.83717052995666
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_04",
+    "video_path": "./Video/Hunyuan/B31_04.mp4",
+    "score": {
+      "BRISQUE": 33.028749576284866,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.359,
+        2.969,
+        2.344,
+        2.438
+      ],
+      "VIIDEO": 0.5951302647590637,
+      "Qalign": 3.791015625,
+      "ViCLIP": 0.22823593020439148,
+      "MUSIQ": 38.49312126537985
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_05",
+    "video_path": "./Video/Hunyuan/B31_05.mp4",
+    "score": {
+      "BRISQUE": 13.404863341780734,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.438,
+        2.688,
+        2.438,
+        2.219
+      ],
+      "VIIDEO": 0.7390035390853882,
+      "Qalign": 4.8671875,
+      "ViCLIP": 0.21524617075920105,
+      "MUSIQ": 71.6730573669938
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_06",
+    "video_path": "./Video/Hunyuan/B31_06.mp4",
+    "score": {
+      "BRISQUE": 16.95049544405346,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.719,
+        2.938,
+        2.625,
+        2.547
+      ],
+      "VIIDEO": 0.4244980216026306,
+      "Qalign": 4.6875,
+      "ViCLIP": 0.2182195633649826,
+      "MUSIQ": 71.01445855385016
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_07",
+    "video_path": "./Video/Hunyuan/B31_07.mp4",
+    "score": {
+      "BRISQUE": 20.30822804348528,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.219,
+        2.938,
+        2.375,
+        2.188
+      ],
+      "VIIDEO": 0.48185843229293823,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.1840045005083084,
+      "MUSIQ": 65.98018731361579
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_08",
+    "video_path": "./Video/Hunyuan/B31_08.mp4",
+    "score": {
+      "BRISQUE": 20.66834958919809,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.719,
+        2.703,
+        2.484,
+        2.469
+      ],
+      "VIIDEO": 0.40656059980392456,
+      "Qalign": 4.7890625,
+      "ViCLIP": 0.17866578698158264,
+      "MUSIQ": 61.38565076087132
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_09",
+    "video_path": "./Video/Hunyuan/B31_09.mp4",
+    "score": {
+      "BRISQUE": 55.05276010056173,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.75,
+        2.625,
+        2.453,
+        2.531
+      ],
+      "VIIDEO": 0.7912204265594482,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.29508841037750244,
+      "MUSIQ": 51.09806045027804
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_10",
+    "video_path": "./Video/Hunyuan/B31_10.mp4",
+    "score": {
+      "BRISQUE": 45.5334185135266,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.328,
+        2.672,
+        2.188,
+        2.297
+      ],
+      "VIIDEO": 0.5552688837051392,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.21732181310653687,
+      "MUSIQ": 46.17547569590167
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_11",
+    "video_path": "./Video/Hunyuan/B31_11.mp4",
+    "score": {
+      "BRISQUE": 35.45323950397081,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.125,
+        2.859,
+        2.406,
+        1.984
+      ],
+      "VIIDEO": 0.44712960720062256,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.29284876585006714,
+      "MUSIQ": 54.49802029822484
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_12",
+    "video_path": "./Video/Hunyuan/B31_12.mp4",
+    "score": {
+      "BRISQUE": 27.618339097204288,
+      "RAFT": true,
+      "VideoScore": [
+        2.984,
+        2.797,
+        3.172,
+        2.781,
+        2.516
+      ],
+      "VIIDEO": 0.6108131408691406,
+      "Qalign": 4.58984375,
+      "ViCLIP": 0.2578812539577484,
+      "MUSIQ": 69.98942184448242
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_13",
+    "video_path": "./Video/Hunyuan/B31_13.mp4",
+    "score": {
+      "BRISQUE": 22.174479334807593,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.359,
+        2.578,
+        2.391,
+        2.031
+      ],
+      "VIIDEO": 0.56728595495224,
+      "Qalign": 4.04296875,
+      "ViCLIP": 0.13091175258159637,
+      "MUSIQ": 45.80543291076156
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B31_14",
+    "video_path": "./Video/Hunyuan/B31_14.mp4",
+    "score": {
+      "BRISQUE": 60.84357799183238,
+      "RAFT": false,
+      "VideoScore": [
+        2.844,
+        2.938,
+        2.469,
+        2.734,
+        3.0
+      ],
+      "VIIDEO": 0.5300041437149048,
+      "Qalign": 3.849609375,
+      "ViCLIP": 0.21831896901130676,
+      "MUSIQ": 38.16466887923312
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_01",
+    "video_path": "./Video/Hunyuan/B32_01.mp4",
+    "score": {
+      "BRISQUE": 2.8914618373902377,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.562,
+        2.516,
+        2.344,
+        2.25
+      ],
+      "VIIDEO": 0.6060875058174133,
+      "Qalign": 3.875,
+      "ViCLIP": 0.19235973060131073,
+      "MUSIQ": 41.30257481976974
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_02",
+    "video_path": "./Video/Hunyuan/B32_02.mp4",
+    "score": {
+      "BRISQUE": 27.716705574477015,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.328,
+        2.734,
+        2.188,
+        2.094
+      ],
+      "VIIDEO": 0.4184979796409607,
+      "Qalign": 3.771484375,
+      "ViCLIP": 0.17360539734363556,
+      "MUSIQ": 53.29819472762179
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_03",
+    "video_path": "./Video/Hunyuan/B32_03.mp4",
+    "score": {
+      "BRISQUE": 7.689490956708419,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.734,
+        2.828,
+        2.375,
+        2.469
+      ],
+      "VIIDEO": 0.4497509002685547,
+      "Qalign": 4.18359375,
+      "ViCLIP": 0.13647636771202087,
+      "MUSIQ": 51.01837637404765
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_04",
+    "video_path": "./Video/Hunyuan/B32_04.mp4",
+    "score": {
+      "BRISQUE": 51.512087483051396,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.375,
+        2.766,
+        2.438,
+        2.125
+      ],
+      "VIIDEO": 0.4832994341850281,
+      "Qalign": 3.923828125,
+      "ViCLIP": 0.22741690278053284,
+      "MUSIQ": 54.60582313852862
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_05",
+    "video_path": "./Video/Hunyuan/B32_05.mp4",
+    "score": {
+      "BRISQUE": 32.09618484875387,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.344,
+        2.812,
+        2.453,
+        2.297
+      ],
+      "VIIDEO": 0.4982224702835083,
+      "Qalign": 3.658203125,
+      "ViCLIP": 0.20634177327156067,
+      "MUSIQ": 36.83025002282513
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_06",
+    "video_path": "./Video/Hunyuan/B32_06.mp4",
+    "score": {
+      "BRISQUE": 25.535545159962552,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.969,
+        4.094,
+        3.797,
+        3.969
+      ],
+      "VIIDEO": 0.49471887946128845,
+      "Qalign": 4.109375,
+      "ViCLIP": 0.2602035403251648,
+      "MUSIQ": 79.08196611640867
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_07",
+    "video_path": "./Video/Hunyuan/B32_07.mp4",
+    "score": {
+      "BRISQUE": 16.37104683868156,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.234,
+        2.797,
+        2.406,
+        1.844
+      ],
+      "VIIDEO": 0.5255107879638672,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.20859797298908234,
+      "MUSIQ": 62.55777576541112
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_08",
+    "video_path": "./Video/Hunyuan/B32_08.mp4",
+    "score": {
+      "BRISQUE": 27.571141266625776,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.141,
+        2.734,
+        2.312,
+        2.266
+      ],
+      "VIIDEO": 0.5087189078330994,
+      "Qalign": 3.791015625,
+      "ViCLIP": 0.16178102791309357,
+      "MUSIQ": 38.5931013123063
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_09",
+    "video_path": "./Video/Hunyuan/B32_09.mp4",
+    "score": {
+      "BRISQUE": 29.330680910220817,
+      "RAFT": true,
+      "VideoScore": [
+        3.547,
+        3.328,
+        3.594,
+        3.375,
+        3.297
+      ],
+      "VIIDEO": 0.606281578540802,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.22400031983852386,
+      "MUSIQ": 67.95086959964974
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_10",
+    "video_path": "./Video/Hunyuan/B32_10.mp4",
+    "score": {
+      "BRISQUE": 35.64115111295842,
+      "RAFT": false,
+      "VideoScore": [
+        2.984,
+        3.062,
+        2.938,
+        2.828,
+        3.047
+      ],
+      "VIIDEO": 0.7025173902511597,
+      "Qalign": 4.09765625,
+      "ViCLIP": 0.2769787311553955,
+      "MUSIQ": 58.76506001496118
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B32_11",
+    "video_path": "./Video/Hunyuan/B32_11.mp4",
+    "score": {
+      "BRISQUE": 26.980898013784866,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.469,
+        2.875,
+        2.422,
+        2.266
+      ],
+      "VIIDEO": 0.6975123882293701,
+      "Qalign": 4.31640625,
+      "ViCLIP": 0.24279552698135376,
+      "MUSIQ": 64.31021499633789
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_01",
+    "video_path": "./Video/Hunyuan/B33_01.mp4",
+    "score": {
+      "BRISQUE": 33.353634164353046,
+      "RAFT": true,
+      "VideoScore": [
+        3.469,
+        3.156,
+        3.562,
+        2.906,
+        3.031
+      ],
+      "VIIDEO": 0.569240391254425,
+      "Qalign": 3.97265625,
+      "ViCLIP": 0.1562797725200653,
+      "MUSIQ": 66.96667256631142
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_02",
+    "video_path": "./Video/Hunyuan/B33_02.mp4",
+    "score": {
+      "BRISQUE": 22.510275596429494,
+      "RAFT": false,
+      "VideoScore": [
+        3.922,
+        3.812,
+        4.0,
+        3.328,
+        3.734
+      ],
+      "VIIDEO": 0.44366663694381714,
+      "Qalign": 4.71484375,
+      "ViCLIP": 0.28819429874420166,
+      "MUSIQ": 75.52215840993834
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_03",
+    "video_path": "./Video/Hunyuan/B33_03.mp4",
+    "score": {
+      "BRISQUE": 21.971798226853046,
+      "RAFT": false,
+      "VideoScore": [
+        3.516,
+        3.594,
+        3.531,
+        3.203,
+        3.625
+      ],
+      "VIIDEO": 0.7126426100730896,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.1708601862192154,
+      "MUSIQ": 51.94356640902433
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_04",
+    "video_path": "./Video/Hunyuan/B33_04.mp4",
+    "score": {
+      "BRISQUE": 19.344465775923297,
+      "RAFT": true,
+      "VideoScore": [
+        3.219,
+        3.031,
+        3.516,
+        2.938,
+        2.984
+      ],
+      "VIIDEO": 0.4947351813316345,
+      "Qalign": 3.875,
+      "ViCLIP": 0.22441762685775757,
+      "MUSIQ": 60.5511002028284
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_05",
+    "video_path": "./Video/Hunyuan/B33_05.mp4",
+    "score": {
+      "BRISQUE": 31.49378298924974,
+      "RAFT": true,
+      "VideoScore": [
+        4.062,
+        3.984,
+        4.062,
+        3.828,
+        4.0
+      ],
+      "VIIDEO": 0.6113954186439514,
+      "Qalign": 4.6796875,
+      "ViCLIP": 0.27708759903907776,
+      "MUSIQ": 75.95063441252906
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_06",
+    "video_path": "./Video/Hunyuan/B33_06.mp4",
+    "score": {
+      "BRISQUE": 35.4296204117704,
+      "RAFT": true,
+      "VideoScore": [
+        3.641,
+        3.406,
+        3.719,
+        3.016,
+        3.359
+      ],
+      "VIIDEO": 0.7926867008209229,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.24865329265594482,
+      "MUSIQ": 66.95816304861022
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_07",
+    "video_path": "./Video/Hunyuan/B33_07.mp4",
+    "score": {
+      "BRISQUE": 30.061839710582387,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.5,
+        2.75,
+        2.359,
+        2.438
+      ],
+      "VIIDEO": 0.6156893968582153,
+      "Qalign": 4.375,
+      "ViCLIP": 0.2701396346092224,
+      "MUSIQ": 58.358594689487425
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_08",
+    "video_path": "./Video/Hunyuan/B33_08.mp4",
+    "score": {
+      "BRISQUE": 40.188272271274535,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.547,
+        2.766,
+        2.531,
+        2.562
+      ],
+      "VIIDEO": 0.7031514644622803,
+      "Qalign": 4.109375,
+      "ViCLIP": 0.09780330210924149,
+      "MUSIQ": 56.71182493730025
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_09",
+    "video_path": "./Video/Hunyuan/B33_09.mp4",
+    "score": {
+      "BRISQUE": 11.314123736925362,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.531,
+        2.562,
+        2.109,
+        2.375
+      ],
+      "VIIDEO": 0.7811915278434753,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.20485921204090118,
+      "MUSIQ": 67.58664690758572
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B33_10",
+    "video_path": "./Video/Hunyuan/B33_10.mp4",
+    "score": {
+      "BRISQUE": 29.970018623288997,
+      "RAFT": true,
+      "VideoScore": [
+        3.172,
+        3.031,
+        3.375,
+        3.141,
+        3.141
+      ],
+      "VIIDEO": 0.48868268728256226,
+      "Qalign": 3.837890625,
+      "ViCLIP": 0.19926342368125916,
+      "MUSIQ": 57.453361731915436
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_01",
+    "video_path": "./Video/Hunyuan/B34_01.mp4",
+    "score": {
+      "BRISQUE": 43.700717390076186,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.469,
+        2.641,
+        2.422,
+        2.344
+      ],
+      "VIIDEO": 0.6096982955932617,
+      "Qalign": 3.857421875,
+      "ViCLIP": 0.16471871733665466,
+      "MUSIQ": 48.68097081460243
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_02",
+    "video_path": "./Video/Hunyuan/B34_02.mp4",
+    "score": {
+      "BRISQUE": 46.593295515076186,
+      "RAFT": false,
+      "VideoScore": [
+        3.297,
+        3.281,
+        3.297,
+        3.094,
+        3.375
+      ],
+      "VIIDEO": 0.5530614852905273,
+      "Qalign": 4.1015625,
+      "ViCLIP": 0.2570173740386963,
+      "MUSIQ": 57.068242727232374
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_03",
+    "video_path": "./Video/Hunyuan/B34_03.mp4",
+    "score": {
+      "BRISQUE": 41.12551400681173,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.391,
+        2.641,
+        2.312,
+        2.266
+      ],
+      "VIIDEO": 0.4886065423488617,
+      "Qalign": 4.50390625,
+      "ViCLIP": 0.1768133044242859,
+      "MUSIQ": 48.75940524645088
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_04",
+    "video_path": "./Video/Hunyuan/B34_04.mp4",
+    "score": {
+      "BRISQUE": 40.24949305510718,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.766,
+        2.484,
+        2.469,
+        2.625
+      ],
+      "VIIDEO": 0.4086521863937378,
+      "Qalign": 3.806640625,
+      "ViCLIP": 0.20896188914775848,
+      "MUSIQ": 45.36597890302169
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_05",
+    "video_path": "./Video/Hunyuan/B34_05.mp4",
+    "score": {
+      "BRISQUE": 21.739202830417096,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.828,
+        3.953,
+        3.281,
+        3.812
+      ],
+      "VIIDEO": 0.705821692943573,
+      "Qalign": 4.66796875,
+      "ViCLIP": 0.13542558252811432,
+      "MUSIQ": 52.88612860687508
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_06",
+    "video_path": "./Video/Hunyuan/B34_06.mp4",
+    "score": {
+      "BRISQUE": 42.799612502421226,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.453,
+        2.656,
+        2.438,
+        2.406
+      ],
+      "VIIDEO": 0.554872989654541,
+      "Qalign": 3.884765625,
+      "ViCLIP": 0.242971271276474,
+      "MUSIQ": 45.21298146838984
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_07",
+    "video_path": "./Video/Hunyuan/B34_07.mp4",
+    "score": {
+      "BRISQUE": 22.80487060546875,
+      "RAFT": true,
+      "VideoScore": [
+        3.359,
+        3.062,
+        3.5,
+        2.922,
+        2.922
+      ],
+      "VIIDEO": 0.6348742246627808,
+      "Qalign": 4.69921875,
+      "ViCLIP": 0.21124127507209778,
+      "MUSIQ": 66.14722685380416
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_08",
+    "video_path": "./Video/Hunyuan/B34_08.mp4",
+    "score": {
+      "BRISQUE": 17.14278544276214,
+      "RAFT": true,
+      "VideoScore": [
+        3.594,
+        3.359,
+        3.719,
+        3.094,
+        3.203
+      ],
+      "VIIDEO": 0.6449198126792908,
+      "Qalign": 4.75390625,
+      "ViCLIP": 0.21075618267059326,
+      "MUSIQ": 70.18838176254398
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_09",
+    "video_path": "./Video/Hunyuan/B34_09.mp4",
+    "score": {
+      "BRISQUE": 22.07106862974561,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.891,
+        4.062,
+        3.656,
+        3.859
+      ],
+      "VIIDEO": 0.5243755578994751,
+      "Qalign": 4.04296875,
+      "ViCLIP": 0.2656843960285187,
+      "MUSIQ": 58.644734390511
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B34_10",
+    "video_path": "./Video/Hunyuan/B34_10.mp4",
+    "score": {
+      "BRISQUE": 27.916045385943956,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.438,
+        2.75,
+        2.594,
+        2.203
+      ],
+      "VIIDEO": 0.530695378780365,
+      "Qalign": 3.9296875,
+      "ViCLIP": 0.2272038757801056,
+      "MUSIQ": 51.27917461552896
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_01",
+    "video_path": "./Video/Hunyuan/B41_01.mp4",
+    "score": {
+      "BRISQUE": 5.6386209282993285,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.719,
+        3.906,
+        3.344,
+        3.719
+      ],
+      "VIIDEO": 0.4848713278770447,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.1553850919008255,
+      "MUSIQ": 67.69019869339368
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_02",
+    "video_path": "./Video/Hunyuan/B41_02.mp4",
+    "score": {
+      "BRISQUE": 13.800984532379907,
+      "RAFT": false,
+      "VideoScore": [
+        3.625,
+        3.453,
+        3.5,
+        3.109,
+        3.234
+      ],
+      "VIIDEO": 0.6879770755767822,
+      "Qalign": 4.78125,
+      "ViCLIP": 0.2131892740726471,
+      "MUSIQ": 72.41743607954545
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_03",
+    "video_path": "./Video/Hunyuan/B41_03.mp4",
+    "score": {
+      "BRISQUE": 32.13712380149148,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.422,
+        2.734,
+        2.297,
+        2.344
+      ],
+      "VIIDEO": 0.5657113194465637,
+      "Qalign": 3.923828125,
+      "ViCLIP": 0.20757566392421722,
+      "MUSIQ": 33.37263956936923
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_04",
+    "video_path": "./Video/Hunyuan/B41_04.mp4",
+    "score": {
+      "BRISQUE": 21.247176745706355,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.562,
+        2.766,
+        2.391,
+        2.297
+      ],
+      "VIIDEO": 0.6474980115890503,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.2720485329627991,
+      "MUSIQ": 74.26401154068876
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_05",
+    "video_path": "./Video/Hunyuan/B41_05.mp4",
+    "score": {
+      "BRISQUE": 13.136215840489411,
+      "RAFT": true,
+      "VideoScore": [
+        3.25,
+        3.031,
+        3.391,
+        2.828,
+        2.953
+      ],
+      "VIIDEO": 0.4467698037624359,
+      "Qalign": 4.0546875,
+      "ViCLIP": 0.2531999945640564,
+      "MUSIQ": 52.71175535848318
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_06",
+    "video_path": "./Video/Hunyuan/B41_06.mp4",
+    "score": {
+      "BRISQUE": 20.767486824477015,
+      "RAFT": true,
+      "VideoScore": [
+        3.172,
+        2.969,
+        3.078,
+        2.578,
+        2.719
+      ],
+      "VIIDEO": 0.5289629101753235,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.22109848260879517,
+      "MUSIQ": 58.15523292604557
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_07",
+    "video_path": "./Video/Hunyuan/B41_07.mp4",
+    "score": {
+      "BRISQUE": 41.08637483454933,
+      "RAFT": true,
+      "VideoScore": [
+        3.031,
+        2.672,
+        3.203,
+        2.609,
+        2.609
+      ],
+      "VIIDEO": 0.5169731378555298,
+      "Qalign": 4.08984375,
+      "ViCLIP": 0.2138761579990387,
+      "MUSIQ": 41.672349866756726
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_08",
+    "video_path": "./Video/Hunyuan/B41_08.mp4",
+    "score": {
+      "BRISQUE": 16.312513619415032,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.516,
+        3.125,
+        2.766,
+        2.359
+      ],
+      "VIIDEO": 0.46380171179771423,
+      "Qalign": 4.05078125,
+      "ViCLIP": 0.2487509846687317,
+      "MUSIQ": 59.78525045095397
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_09",
+    "video_path": "./Video/Hunyuan/B41_09.mp4",
+    "score": {
+      "BRISQUE": 20.53928192390883,
+      "RAFT": false,
+      "VideoScore": [
+        2.953,
+        2.891,
+        2.703,
+        2.531,
+        2.438
+      ],
+      "VIIDEO": 0.8758423328399658,
+      "Qalign": 4.890625,
+      "ViCLIP": 0.23167003691196442,
+      "MUSIQ": 72.46513322562225
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_10",
+    "video_path": "./Video/Hunyuan/B41_10.mp4",
+    "score": {
+      "BRISQUE": 35.55051239265883,
+      "RAFT": true,
+      "VideoScore": [
+        3.578,
+        3.219,
+        3.812,
+        3.125,
+        3.328
+      ],
+      "VIIDEO": 0.5400658249855042,
+      "Qalign": 3.697265625,
+      "ViCLIP": 0.2150121033191681,
+      "MUSIQ": 43.607247801851635
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_11",
+    "video_path": "./Video/Hunyuan/B41_11.mp4",
+    "score": {
+      "BRISQUE": 35.1812910600142,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.578,
+        2.625,
+        2.453,
+        2.203
+      ],
+      "VIIDEO": 0.4183386266231537,
+      "Qalign": 4.82421875,
+      "ViCLIP": 0.30258893966674805,
+      "MUSIQ": 63.52505877786432
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_12",
+    "video_path": "./Video/Hunyuan/B41_12.mp4",
+    "score": {
+      "BRISQUE": 38.328231433206355,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.547,
+        2.641,
+        2.453,
+        2.422
+      ],
+      "VIIDEO": 0.5917211174964905,
+      "Qalign": 3.82421875,
+      "ViCLIP": 0.18851454555988312,
+      "MUSIQ": 28.514812926615566
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B41_13",
+    "video_path": "./Video/Hunyuan/B41_13.mp4",
+    "score": {
+      "BRISQUE": 21.01496874596462,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.891,
+        3.031,
+        2.797,
+        2.688
+      ],
+      "VIIDEO": 0.6764234304428101,
+      "Qalign": 4.71875,
+      "ViCLIP": 0.19796471297740936,
+      "MUSIQ": 64.32742505034139
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_01",
+    "video_path": "./Video/Hunyuan/B42_01.mp4",
+    "score": {
+      "BRISQUE": 18.055431523598916,
+      "RAFT": false,
+      "VideoScore": [
+        3.969,
+        3.922,
+        4.0,
+        3.516,
+        3.875
+      ],
+      "VIIDEO": 0.3933071494102478,
+      "Qalign": 4.20703125,
+      "ViCLIP": 0.1327214390039444,
+      "MUSIQ": 69.10471615121384
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_02",
+    "video_path": "./Video/Hunyuan/B42_02.mp4",
+    "score": {
+      "BRISQUE": 9.552380774631974,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.906,
+        2.875,
+        2.359,
+        2.547
+      ],
+      "VIIDEO": 0.3646460175514221,
+      "Qalign": 4.328125,
+      "ViCLIP": 0.21393999457359314,
+      "MUSIQ": 57.9699563270758
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_03",
+    "video_path": "./Video/Hunyuan/B42_03.mp4",
+    "score": {
+      "BRISQUE": 9.785254612441891,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.516,
+        2.984,
+        2.562,
+        2.438
+      ],
+      "VIIDEO": 0.47595587372779846,
+      "Qalign": 4.453125,
+      "ViCLIP": 0.20854322612285614,
+      "MUSIQ": 70.15132446919591
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_04",
+    "video_path": "./Video/Hunyuan/B42_04.mp4",
+    "score": {
+      "BRISQUE": 24.90306759668776,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.594,
+        2.781,
+        2.594,
+        2.359
+      ],
+      "VIIDEO": 0.4790447950363159,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.18475663661956787,
+      "MUSIQ": 58.74125228440466
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_05",
+    "video_path": "./Video/Hunyuan/B42_05.mp4",
+    "score": {
+      "BRISQUE": 8.801359822927427,
+      "RAFT": false,
+      "VideoScore": [
+        2.891,
+        2.828,
+        3.031,
+        2.734,
+        2.688
+      ],
+      "VIIDEO": 0.5379626154899597,
+      "Qalign": 4.4765625,
+      "ViCLIP": 0.2233940064907074,
+      "MUSIQ": 66.60428241067682
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_06",
+    "video_path": "./Video/Hunyuan/B42_06.mp4",
+    "score": {
+      "BRISQUE": 36.606515427266274,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.156,
+        2.719,
+        2.266,
+        1.82
+      ],
+      "VIIDEO": 0.5729126334190369,
+      "Qalign": 4.453125,
+      "ViCLIP": 0.2162531316280365,
+      "MUSIQ": 44.61585935482309
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_07",
+    "video_path": "./Video/Hunyuan/B42_07.mp4",
+    "score": {
+      "BRISQUE": 24.015340001129907,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.516,
+        2.797,
+        2.312,
+        2.5
+      ],
+      "VIIDEO": 0.5201755166053772,
+      "Qalign": 3.87109375,
+      "ViCLIP": 0.22188183665275574,
+      "MUSIQ": 37.33414016282263
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_08",
+    "video_path": "./Video/Hunyuan/B42_08.mp4",
+    "score": {
+      "BRISQUE": 44.16279286786544,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.891,
+        2.969,
+        2.781,
+        3.0
+      ],
+      "VIIDEO": 0.47663232684135437,
+      "Qalign": 3.81640625,
+      "ViCLIP": 0.2310352623462677,
+      "MUSIQ": 55.45316229575921
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_09",
+    "video_path": "./Video/Hunyuan/B42_09.mp4",
+    "score": {
+      "BRISQUE": 47.015590194828256,
+      "RAFT": true,
+      "VideoScore": [
+        3.797,
+        3.781,
+        3.781,
+        3.484,
+        3.859
+      ],
+      "VIIDEO": 0.5207791924476624,
+      "Qalign": 3.697265625,
+      "ViCLIP": 0.22014224529266357,
+      "MUSIQ": 36.88782693531888
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_10",
+    "video_path": "./Video/Hunyuan/B42_10.mp4",
+    "score": {
+      "BRISQUE": 17.12483606259685,
+      "RAFT": true,
+      "VideoScore": [
+        2.984,
+        2.781,
+        2.938,
+        2.656,
+        2.688
+      ],
+      "VIIDEO": 0.42790254950523376,
+      "Qalign": 4.59375,
+      "ViCLIP": 0.17784905433654785,
+      "MUSIQ": 57.33042627129673
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_11",
+    "video_path": "./Video/Hunyuan/B42_11.mp4",
+    "score": {
+      "BRISQUE": 55.680899627937755,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.875,
+        2.547,
+        2.75,
+        2.891
+      ],
+      "VIIDEO": 0.47047850489616394,
+      "Qalign": 3.892578125,
+      "ViCLIP": 0.24910558760166168,
+      "MUSIQ": 40.03538164816612
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B42_12",
+    "video_path": "./Video/Hunyuan/B42_12.mp4",
+    "score": {
+      "BRISQUE": 49.09117290402247,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.25,
+        2.781,
+        2.25,
+        1.906
+      ],
+      "VIIDEO": 0.595644474029541,
+      "Qalign": 4.6015625,
+      "ViCLIP": 0.18120144307613373,
+      "MUSIQ": 65.11112181608343
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_01",
+    "video_path": "./Video/Hunyuan/B43_01.mp4",
+    "score": {
+      "BRISQUE": 44.93250974544809,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.531,
+        2.938,
+        2.516,
+        2.422
+      ],
+      "VIIDEO": 0.40665367245674133,
+      "Qalign": 4.484375,
+      "ViCLIP": 0.2628463804721832,
+      "MUSIQ": 67.11230720961389
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_02",
+    "video_path": "./Video/Hunyuan/B43_02.mp4",
+    "score": {
+      "BRISQUE": 17.089720166419163,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.703,
+        2.641,
+        2.328,
+        2.438
+      ],
+      "VIIDEO": 0.45984581112861633,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.2706334888935089,
+      "MUSIQ": 64.0264699636412
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_03",
+    "video_path": "./Video/Hunyuan/B43_03.mp4",
+    "score": {
+      "BRISQUE": 13.344453669776602,
+      "RAFT": false,
+      "VideoScore": [
+        3.703,
+        3.531,
+        3.688,
+        3.156,
+        3.359
+      ],
+      "VIIDEO": 0.5044496059417725,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.23154106736183167,
+      "MUSIQ": 63.85296132741881
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_04",
+    "video_path": "./Video/Hunyuan/B43_04.mp4",
+    "score": {
+      "BRISQUE": 34.22143504245222,
+      "RAFT": true,
+      "VideoScore": [
+        3.656,
+        3.531,
+        3.734,
+        3.234,
+        3.484
+      ],
+      "VIIDEO": 0.4594130218029022,
+      "Qalign": 4.76953125,
+      "ViCLIP": 0.17901155352592468,
+      "MUSIQ": 73.3269354449816
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_05",
+    "video_path": "./Video/Hunyuan/B43_05.mp4",
+    "score": {
+      "BRISQUE": 36.207864052008006,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.344,
+        2.766,
+        2.156,
+        2.188
+      ],
+      "VIIDEO": 0.4985083341598511,
+      "Qalign": 4.390625,
+      "ViCLIP": 0.19820648431777954,
+      "MUSIQ": 47.38953183702201
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_06",
+    "video_path": "./Video/Hunyuan/B43_06.mp4",
+    "score": {
+      "BRISQUE": 53.9288496537642,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.281,
+        2.734,
+        2.391,
+        2.312
+      ],
+      "VIIDEO": 0.4757884740829468,
+      "Qalign": 3.783203125,
+      "ViCLIP": 0.1954367756843567,
+      "MUSIQ": 29.303627092976214
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_07",
+    "video_path": "./Video/Hunyuan/B43_07.mp4",
+    "score": {
+      "BRISQUE": 44.88965398615057,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.766,
+        2.625,
+        2.391,
+        2.672
+      ],
+      "VIIDEO": 0.7873512506484985,
+      "Qalign": 3.935546875,
+      "ViCLIP": 0.26043859124183655,
+      "MUSIQ": 52.344367854851335
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_08",
+    "video_path": "./Video/Hunyuan/B43_08.mp4",
+    "score": {
+      "BRISQUE": 29.664556329900567,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.594,
+        2.812,
+        2.359,
+        2.312
+      ],
+      "VIIDEO": 0.396772563457489,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.2093753069639206,
+      "MUSIQ": 56.27219813323218
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_09",
+    "video_path": "./Video/Hunyuan/B43_09.mp4",
+    "score": {
+      "BRISQUE": 43.179136165902634,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.594,
+        2.875,
+        2.719,
+        2.688
+      ],
+      "VIIDEO": 0.4711858034133911,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.2675039768218994,
+      "MUSIQ": 57.02493292438097
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_10",
+    "video_path": "./Video/Hunyuan/B43_10.mp4",
+    "score": {
+      "BRISQUE": 33.60855329529313,
+      "RAFT": true,
+      "VideoScore": [
+        3.094,
+        2.703,
+        3.25,
+        2.594,
+        2.688
+      ],
+      "VIIDEO": 0.6374979615211487,
+      "Qalign": 4.375,
+      "ViCLIP": 0.1747337281703949,
+      "MUSIQ": 66.88415975018967
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B43_11",
+    "video_path": "./Video/Hunyuan/B43_11.mp4",
+    "score": {
+      "BRISQUE": 23.828267751646436,
+      "RAFT": true,
+      "VideoScore": [
+        3.688,
+        3.391,
+        3.75,
+        2.375,
+        3.281
+      ],
+      "VIIDEO": 0.45993486046791077,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.1742401123046875,
+      "MUSIQ": 61.14368943143482
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_01",
+    "video_path": "./Video/Hunyuan/B51_01.mp4",
+    "score": {
+      "BRISQUE": 16.700257356501808,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.531,
+        2.672,
+        2.359,
+        2.234
+      ],
+      "VIIDEO": 0.6492601633071899,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.21695049107074738,
+      "MUSIQ": 59.38882364320361
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_02",
+    "video_path": "./Video/Hunyuan/B51_02.mp4",
+    "score": {
+      "BRISQUE": 32.03329341667743,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.922,
+        2.438,
+        2.516,
+        2.594
+      ],
+      "VIIDEO": 0.4550771117210388,
+      "Qalign": 4.87109375,
+      "ViCLIP": 0.23770880699157715,
+      "MUSIQ": 71.96227418883772
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_03",
+    "video_path": "./Video/Hunyuan/B51_03.mp4",
+    "score": {
+      "BRISQUE": 24.19252959952867,
+      "RAFT": false,
+      "VideoScore": [
+        2.766,
+        2.891,
+        2.219,
+        2.375,
+        2.5
+      ],
+      "VIIDEO": 0.7578328847885132,
+      "Qalign": 4.890625,
+      "ViCLIP": 0.17543208599090576,
+      "MUSIQ": 68.70382167091054
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_04",
+    "video_path": "./Video/Hunyuan/B51_04.mp4",
+    "score": {
+      "BRISQUE": 35.432913283671226,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.562,
+        2.734,
+        2.188,
+        2.656
+      ],
+      "VIIDEO": 0.35958728194236755,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.16288721561431885,
+      "MUSIQ": 61.33243649065002
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_05",
+    "video_path": "./Video/Hunyuan/B51_05.mp4",
+    "score": {
+      "BRISQUE": 37.77673995593363,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.828,
+        2.516,
+        2.375,
+        2.625
+      ],
+      "VIIDEO": 0.5879241824150085,
+      "Qalign": 4.80859375,
+      "ViCLIP": 0.2199552357196808,
+      "MUSIQ": 60.18973260674595
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_06",
+    "video_path": "./Video/Hunyuan/B51_06.mp4",
+    "score": {
+      "BRISQUE": 28.25722081208032,
+      "RAFT": true,
+      "VideoScore": [
+        2.812,
+        2.812,
+        2.812,
+        2.656,
+        2.703
+      ],
+      "VIIDEO": 0.5535106062889099,
+      "Qalign": 4.50390625,
+      "ViCLIP": 0.22509953379631042,
+      "MUSIQ": 46.85908669085542
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_07",
+    "video_path": "./Video/Hunyuan/B51_07.mp4",
+    "score": {
+      "BRISQUE": 19.74145457370222,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.969,
+        4.031,
+        3.781,
+        3.984
+      ],
+      "VIIDEO": 0.6227539777755737,
+      "Qalign": 4.80859375,
+      "ViCLIP": 0.2155839055776596,
+      "MUSIQ": 63.94514126422977
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_08",
+    "video_path": "./Video/Hunyuan/B51_08.mp4",
+    "score": {
+      "BRISQUE": 26.507818048650567,
+      "RAFT": true,
+      "VideoScore": [
+        2.859,
+        2.859,
+        2.641,
+        2.547,
+        2.547
+      ],
+      "VIIDEO": 0.5100992321968079,
+      "Qalign": 4.92578125,
+      "ViCLIP": 0.18730807304382324,
+      "MUSIQ": 65.17750432668639
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_09",
+    "video_path": "./Video/Hunyuan/B51_09.mp4",
+    "score": {
+      "BRISQUE": 28.147196115541064,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.422,
+        2.719,
+        2.516,
+        2.281
+      ],
+      "VIIDEO": 0.6622809171676636,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.1648530662059784,
+      "MUSIQ": 66.2974089315115
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_10",
+    "video_path": "./Video/Hunyuan/B51_10.mp4",
+    "score": {
+      "BRISQUE": 14.544858822152634,
+      "RAFT": true,
+      "VideoScore": [
+        2.875,
+        3.0,
+        2.844,
+        2.578,
+        2.891
+      ],
+      "VIIDEO": 0.4352342188358307,
+      "Qalign": 3.826171875,
+      "ViCLIP": 0.1653914600610733,
+      "MUSIQ": 41.84858668934215
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_11",
+    "video_path": "./Video/Hunyuan/B51_11.mp4",
+    "score": {
+      "BRISQUE": 31.79033919405346,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.859,
+        2.406,
+        2.438,
+        2.594
+      ],
+      "VIIDEO": 0.5500242114067078,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.14540410041809082,
+      "MUSIQ": 54.879613103945395
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B51_12",
+    "video_path": "./Video/Hunyuan/B51_12.mp4",
+    "score": {
+      "BRISQUE": 33.02066267029313,
+      "RAFT": true,
+      "VideoScore": [
+        3.734,
+        3.562,
+        3.844,
+        3.375,
+        3.516
+      ],
+      "VIIDEO": 0.6893795132637024,
+      "Qalign": 4.95703125,
+      "ViCLIP": 0.18688258528709412,
+      "MUSIQ": 62.57612493215514
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_01",
+    "video_path": "./Video/Hunyuan/B52_01.mp4",
+    "score": {
+      "BRISQUE": 44.692941208516274,
+      "RAFT": true,
+      "VideoScore": [
+        3.953,
+        3.781,
+        3.891,
+        2.969,
+        3.812
+      ],
+      "VIIDEO": 0.6275131106376648,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.21703706681728363,
+      "MUSIQ": 49.2913669239391
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_02",
+    "video_path": "./Video/Hunyuan/B52_02.mp4",
+    "score": {
+      "BRISQUE": 29.198393009910898,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.578,
+        2.562,
+        2.359,
+        2.25
+      ],
+      "VIIDEO": 0.5657598972320557,
+      "Qalign": 4.0390625,
+      "ViCLIP": 0.20843544602394104,
+      "MUSIQ": 60.46923780835365
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_03",
+    "video_path": "./Video/Hunyuan/B52_03.mp4",
+    "score": {
+      "BRISQUE": 32.566440046326186,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.703,
+        2.688,
+        2.469,
+        2.547
+      ],
+      "VIIDEO": 0.6663511395454407,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.24126726388931274,
+      "MUSIQ": 57.10198880030104
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_04",
+    "video_path": "./Video/Hunyuan/B52_04.mp4",
+    "score": {
+      "BRISQUE": 23.690366634652634,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        3.953,
+        3.219,
+        3.797
+      ],
+      "VIIDEO": 0.6814712285995483,
+      "Qalign": 4.74609375,
+      "ViCLIP": 0.19566285610198975,
+      "MUSIQ": 47.856483963895435
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_05",
+    "video_path": "./Video/Hunyuan/B52_05.mp4",
+    "score": {
+      "BRISQUE": 10.868843519983212,
+      "RAFT": false,
+      "VideoScore": [
+        3.703,
+        3.672,
+        3.672,
+        3.188,
+        3.594
+      ],
+      "VIIDEO": 0.4539639949798584,
+      "Qalign": 4.6796875,
+      "ViCLIP": 0.21292603015899658,
+      "MUSIQ": 56.60681502287053
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_06",
+    "video_path": "./Video/Hunyuan/B52_06.mp4",
+    "score": {
+      "BRISQUE": 30.041993700768337,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.484,
+        2.938,
+        2.375,
+        2.5
+      ],
+      "VIIDEO": 0.4915615916252136,
+      "Qalign": 4.44921875,
+      "ViCLIP": 0.18971866369247437,
+      "MUSIQ": 64.87657282175111
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_07",
+    "video_path": "./Video/Hunyuan/B52_07.mp4",
+    "score": {
+      "BRISQUE": 14.425512392658833,
+      "RAFT": false,
+      "VideoScore": [
+        2.75,
+        2.828,
+        2.5,
+        2.547,
+        2.625
+      ],
+      "VIIDEO": 0.5940237641334534,
+      "Qalign": 4.26171875,
+      "ViCLIP": 0.3020356297492981,
+      "MUSIQ": 61.9117479560789
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_08",
+    "video_path": "./Video/Hunyuan/B52_08.mp4",
+    "score": {
+      "BRISQUE": 24.224606852886104,
+      "RAFT": true,
+      "VideoScore": [
+        3.156,
+        3.094,
+        3.125,
+        2.734,
+        2.953
+      ],
+      "VIIDEO": 0.3937753438949585,
+      "Qalign": 4.04296875,
+      "ViCLIP": 0.20274882018566132,
+      "MUSIQ": 56.99894931887792
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_09",
+    "video_path": "./Video/Hunyuan/B52_09.mp4",
+    "score": {
+      "BRISQUE": 20.50599002049974,
+      "RAFT": false,
+      "VideoScore": [
+        3.75,
+        3.641,
+        3.844,
+        3.297,
+        3.656
+      ],
+      "VIIDEO": 0.467963308095932,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.2628922760486603,
+      "MUSIQ": 63.668404760439536
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_10",
+    "video_path": "./Video/Hunyuan/B52_10.mp4",
+    "score": {
+      "BRISQUE": 41.05611350319602,
+      "RAFT": false,
+      "VideoScore": [
+        2.75,
+        2.812,
+        2.578,
+        2.562,
+        2.562
+      ],
+      "VIIDEO": 0.6621550917625427,
+      "Qalign": 4.83203125,
+      "ViCLIP": 0.19478747248649597,
+      "MUSIQ": 60.58589708312484
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_11",
+    "video_path": "./Video/Hunyuan/B52_11.mp4",
+    "score": {
+      "BRISQUE": 35.9430985884233,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.781,
+        2.469,
+        2.438,
+        2.438
+      ],
+      "VIIDEO": 0.7030200362205505,
+      "Qalign": 4.80859375,
+      "ViCLIP": 0.25817716121673584,
+      "MUSIQ": 63.65828780497401
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "B52_12",
+    "video_path": "./Video/Hunyuan/B52_12.mp4",
+    "score": {
+      "BRISQUE": 24.564850105727015,
+      "RAFT": true,
+      "VideoScore": [
+        3.797,
+        3.625,
+        3.906,
+        3.281,
+        3.641
+      ],
+      "VIIDEO": 0.5361262559890747,
+      "Qalign": 4.6484375,
+      "ViCLIP": 0.2517227232456207,
+      "MUSIQ": 50.798992677168414
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_01_01",
+    "video_path": "./Video/Hunyuan/L2_01_01.mp4",
+    "score": {
+      "BRISQUE": 23.37104683868156,
+      "RAFT": true,
+      "VideoScore": [
+        3.562,
+        3.438,
+        3.594,
+        3.297,
+        3.516
+      ],
+      "VIIDEO": 0.47887468338012695,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.23508796095848083,
+      "MUSIQ": 59.805790357353274
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_01_02",
+    "video_path": "./Video/Hunyuan/L2_01_02.mp4",
+    "score": {
+      "BRISQUE": 44.3415360884233,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.297,
+        2.797,
+        2.359,
+        2.016
+      ],
+      "VIIDEO": 0.5203292369842529,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.22935613989830017,
+      "MUSIQ": 46.44528749954602
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_01_03",
+    "video_path": "./Video/Hunyuan/L2_01_03.mp4",
+    "score": {
+      "BRISQUE": 32.98306904942536,
+      "RAFT": true,
+      "VideoScore": [
+        3.891,
+        3.719,
+        4.062,
+        3.484,
+        3.734
+      ],
+      "VIIDEO": 0.5488401055335999,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.25431039929389954,
+      "MUSIQ": 65.2223978594315
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_01_04",
+    "video_path": "./Video/Hunyuan/L2_01_04.mp4",
+    "score": {
+      "BRISQUE": 33.659213483826186,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.812,
+        3.984,
+        3.609,
+        3.812
+      ],
+      "VIIDEO": 0.5971921682357788,
+      "Qalign": 3.921875,
+      "ViCLIP": 0.25332510471343994,
+      "MUSIQ": 46.05189723810874
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_02_01",
+    "video_path": "./Video/Hunyuan/L2_02_01.mp4",
+    "score": {
+      "BRISQUE": 24.010529825510073,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.312,
+        2.594,
+        2.281,
+        1.984
+      ],
+      "VIIDEO": 0.7156644463539124,
+      "Qalign": 4.2421875,
+      "ViCLIP": 0.21757256984710693,
+      "MUSIQ": 72.73530153006561
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_02_02",
+    "video_path": "./Video/Hunyuan/L2_02_02.mp4",
+    "score": {
+      "BRISQUE": 40.219461740541064,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.734,
+        2.359,
+        2.328,
+        2.219
+      ],
+      "VIIDEO": 0.49628451466560364,
+      "Qalign": 3.865234375,
+      "ViCLIP": 0.21971100568771362,
+      "MUSIQ": 41.59127862788429
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_02_03",
+    "video_path": "./Video/Hunyuan/L2_02_03.mp4",
+    "score": {
+      "BRISQUE": 8.723654502679494,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.594,
+        2.594,
+        2.328,
+        2.219
+      ],
+      "VIIDEO": 0.7047062516212463,
+      "Qalign": 4.6171875,
+      "ViCLIP": 0.20594678819179535,
+      "MUSIQ": 68.80311726341563
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_02_04",
+    "video_path": "./Video/Hunyuan/L2_02_04.mp4",
+    "score": {
+      "BRISQUE": 13.557602559239411,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.391,
+        2.594,
+        2.188,
+        2.094
+      ],
+      "VIIDEO": 0.6364227533340454,
+      "Qalign": 4.6015625,
+      "ViCLIP": 0.1893242746591568,
+      "MUSIQ": 71.1024456181802
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_03_01",
+    "video_path": "./Video/Hunyuan/L2_03_01.mp4",
+    "score": {
+      "BRISQUE": 27.300032182173297,
+      "RAFT": false,
+      "VideoScore": [
+        3.766,
+        3.719,
+        3.844,
+        3.391,
+        3.688
+      ],
+      "VIIDEO": 0.7055853009223938,
+      "Qalign": 4.08203125,
+      "ViCLIP": 0.20569497346878052,
+      "MUSIQ": 59.70839596582838
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_03_02",
+    "video_path": "./Video/Hunyuan/L2_03_02.mp4",
+    "score": {
+      "BRISQUE": 1.9295074210679235,
+      "RAFT": false,
+      "VideoScore": [
+        2.938,
+        2.844,
+        2.984,
+        2.375,
+        2.594
+      ],
+      "VIIDEO": 0.5914992094039917,
+      "Qalign": 4.3671875,
+      "ViCLIP": 0.22937434911727905,
+      "MUSIQ": 73.01946375192689
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_03_03",
+    "video_path": "./Video/Hunyuan/L2_03_03.mp4",
+    "score": {
+      "BRISQUE": 15.884650112183627,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.516,
+        2.781,
+        2.422,
+        2.328
+      ],
+      "VIIDEO": 0.5425893068313599,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.20788757503032684,
+      "MUSIQ": 65.89063133681115
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_03_04",
+    "video_path": "./Video/Hunyuan/L2_03_04.mp4",
+    "score": {
+      "BRISQUE": 41.05933373821669,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.703,
+        2.406,
+        2.484,
+        2.359
+      ],
+      "VIIDEO": 0.625336229801178,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.2333965003490448,
+      "MUSIQ": 56.32717986934441
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_04_01",
+    "video_path": "./Video/Hunyuan/L2_04_01.mp4",
+    "score": {
+      "BRISQUE": 21.121785313629907,
+      "RAFT": false,
+      "VideoScore": [
+        2.875,
+        2.672,
+        3.016,
+        2.688,
+        2.406
+      ],
+      "VIIDEO": 0.6113231778144836,
+      "Qalign": 4.5859375,
+      "ViCLIP": 0.18758174777030945,
+      "MUSIQ": 72.65501132681351
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_04_02",
+    "video_path": "./Video/Hunyuan/L2_04_02.mp4",
+    "score": {
+      "BRISQUE": 33.54888209823734,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.547,
+        2.641,
+        2.391,
+        2.547
+      ],
+      "VIIDEO": 0.6983861327171326,
+      "Qalign": 4.21484375,
+      "ViCLIP": 0.21672675013542175,
+      "MUSIQ": 45.323117090650825
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_04_03",
+    "video_path": "./Video/Hunyuan/L2_04_03.mp4",
+    "score": {
+      "BRISQUE": 35.15714736812371,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.688,
+        2.422,
+        2.281,
+        2.297
+      ],
+      "VIIDEO": 0.7234967947006226,
+      "Qalign": 4.609375,
+      "ViCLIP": 0.2078799456357956,
+      "MUSIQ": 78.44164036522227
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_04_04",
+    "video_path": "./Video/Hunyuan/L2_04_04.mp4",
+    "score": {
+      "BRISQUE": 49.94991434901214,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.844,
+        2.656,
+        2.828,
+        2.906
+      ],
+      "VIIDEO": 0.43814918398857117,
+      "Qalign": 3.810546875,
+      "ViCLIP": 0.22648990154266357,
+      "MUSIQ": 49.97934048234924
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_05_01",
+    "video_path": "./Video/Hunyuan/L2_05_01.mp4",
+    "score": {
+      "BRISQUE": 52.3681090804171,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.391,
+        2.734,
+        2.344,
+        2.078
+      ],
+      "VIIDEO": 0.46005210280418396,
+      "Qalign": 3.828125,
+      "ViCLIP": 0.2785038352012634,
+      "MUSIQ": 40.87271253727684
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_05_02",
+    "video_path": "./Video/Hunyuan/L2_05_02.mp4",
+    "score": {
+      "BRISQUE": 23.260449117865445,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.438,
+        2.906,
+        2.562,
+        2.234
+      ],
+      "VIIDEO": 0.6617964506149292,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.2683020234107971,
+      "MUSIQ": 59.114439877596766
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_05_03",
+    "video_path": "./Video/Hunyuan/L2_05_03.mp4",
+    "score": {
+      "BRISQUE": -3.0800685409672006,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.656,
+        2.594,
+        2.266,
+        2.234
+      ],
+      "VIIDEO": 0.7538292407989502,
+      "Qalign": 4.84765625,
+      "ViCLIP": 0.20895656943321228,
+      "MUSIQ": 63.91858449258095
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_05_04",
+    "video_path": "./Video/Hunyuan/L2_05_04.mp4",
+    "score": {
+      "BRISQUE": 26.086798549683625,
+      "RAFT": false,
+      "VideoScore": [
+        3.328,
+        3.297,
+        3.312,
+        2.953,
+        3.125
+      ],
+      "VIIDEO": 0.49807852506637573,
+      "Qalign": 4.28125,
+      "ViCLIP": 0.2364729791879654,
+      "MUSIQ": 46.23276901245117
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_06_01",
+    "video_path": "./Video/Hunyuan/L2_06_01.mp4",
+    "score": {
+      "BRISQUE": 39.00993662432206,
+      "RAFT": true,
+      "VideoScore": [
+        3.516,
+        3.203,
+        3.656,
+        2.891,
+        3.141
+      ],
+      "VIIDEO": 0.4961859881877899,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.20474930107593536,
+      "MUSIQ": 41.53715789416605
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_06_02",
+    "video_path": "./Video/Hunyuan/L2_06_02.mp4",
+    "score": {
+      "BRISQUE": 19.010013296584454,
+      "RAFT": true,
+      "VideoScore": [
+        3.109,
+        2.812,
+        3.109,
+        2.703,
+        2.75
+      ],
+      "VIIDEO": 0.6644838452339172,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.19637411832809448,
+      "MUSIQ": 67.74073555055729
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_06_03",
+    "video_path": "./Video/Hunyuan/L2_06_03.mp4",
+    "score": {
+      "BRISQUE": 1.0006148913675104,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.688,
+        3.031,
+        2.422,
+        2.516
+      ],
+      "VIIDEO": 0.4355573058128357,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.18663883209228516,
+      "MUSIQ": 63.40706130098705
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_06_04",
+    "video_path": "./Video/Hunyuan/L2_06_04.mp4",
+    "score": {
+      "BRISQUE": 19.276816628196023,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.234,
+        2.578,
+        2.141,
+        1.984
+      ],
+      "VIIDEO": 0.6426154375076294,
+      "Qalign": 4.0625,
+      "ViCLIP": 0.19673842191696167,
+      "MUSIQ": 67.16058589210195
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_07_01",
+    "video_path": "./Video/Hunyuan/L2_07_01.mp4",
+    "score": {
+      "BRISQUE": 4.226826313113378,
+      "RAFT": true,
+      "VideoScore": [
+        2.875,
+        2.656,
+        3.047,
+        2.453,
+        2.438
+      ],
+      "VIIDEO": 0.3278231918811798,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.22046110033988953,
+      "MUSIQ": 68.39838765672415
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_07_02",
+    "video_path": "./Video/Hunyuan/L2_07_02.mp4",
+    "score": {
+      "BRISQUE": 29.561613729177427,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.25,
+        2.75,
+        2.328,
+        1.984
+      ],
+      "VIIDEO": 0.5173496007919312,
+      "Qalign": 4.35546875,
+      "ViCLIP": 0.24687622487545013,
+      "MUSIQ": 63.19551912418082
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_07_03",
+    "video_path": "./Video/Hunyuan/L2_07_03.mp4",
+    "score": {
+      "BRISQUE": 15.372919256036932,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.25,
+        2.656,
+        2.266,
+        2.094
+      ],
+      "VIIDEO": 0.47972893714904785,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.212177112698555,
+      "MUSIQ": 51.78589314862716
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_07_04",
+    "video_path": "./Video/Hunyuan/L2_07_04.mp4",
+    "score": {
+      "BRISQUE": 20.66349502437371,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.469,
+        2.859,
+        2.453,
+        2.281
+      ],
+      "VIIDEO": 0.5407689809799194,
+      "Qalign": 4.44140625,
+      "ViCLIP": 0.17653919756412506,
+      "MUSIQ": 61.56035724356155
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_08_01",
+    "video_path": "./Video/Hunyuan/L2_08_01.mp4",
+    "score": {
+      "BRISQUE": 30.300342906605113,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.594,
+        2.625,
+        2.453,
+        2.406
+      ],
+      "VIIDEO": 0.6660480499267578,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.239877387881279,
+      "MUSIQ": 77.67679577031411
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_08_02",
+    "video_path": "./Video/Hunyuan/L2_08_02.mp4",
+    "score": {
+      "BRISQUE": 34.72666086244189,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.516,
+        2.844,
+        2.5,
+        2.453
+      ],
+      "VIIDEO": 0.4564371109008789,
+      "Qalign": 4.10546875,
+      "ViCLIP": 0.2516554594039917,
+      "MUSIQ": 48.08328174559538
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_08_03",
+    "video_path": "./Video/Hunyuan/L2_08_03.mp4",
+    "score": {
+      "BRISQUE": 24.9110011581547,
+      "RAFT": true,
+      "VideoScore": [
+        3.422,
+        3.125,
+        3.703,
+        3.078,
+        3.188
+      ],
+      "VIIDEO": 0.4166491627693176,
+      "Qalign": 3.91015625,
+      "ViCLIP": 0.26037558913230896,
+      "MUSIQ": 56.368802535632426
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_08_04",
+    "video_path": "./Video/Hunyuan/L2_08_04.mp4",
+    "score": {
+      "BRISQUE": 13.891562721946023,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.719,
+        2.531,
+        2.391,
+        2.453
+      ],
+      "VIIDEO": 0.7127644419670105,
+      "Qalign": 4.6875,
+      "ViCLIP": 0.22728735208511353,
+      "MUSIQ": 75.87555032525181
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_09_01",
+    "video_path": "./Video/Hunyuan/L2_09_01.mp4",
+    "score": {
+      "BRISQUE": 35.5239999313985,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.547,
+        2.625,
+        2.391,
+        2.359
+      ],
+      "VIIDEO": 0.45748335123062134,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.1939644068479538,
+      "MUSIQ": 46.645356848220196
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_09_02",
+    "video_path": "./Video/Hunyuan/L2_09_02.mp4",
+    "score": {
+      "BRISQUE": 23.228521173650567,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.656,
+        3.844,
+        3.344,
+        3.422
+      ],
+      "VIIDEO": 0.5044658184051514,
+      "Qalign": 4.6328125,
+      "ViCLIP": 0.17011843621730804,
+      "MUSIQ": 70.08559187581716
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_09_03",
+    "video_path": "./Video/Hunyuan/L2_09_03.mp4",
+    "score": {
+      "BRISQUE": 0.6395087123902377,
+      "RAFT": false,
+      "VideoScore": [
+        2.75,
+        2.578,
+        2.828,
+        2.359,
+        2.234
+      ],
+      "VIIDEO": 0.5576528906822205,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.22552746534347534,
+      "MUSIQ": 61.31625252715812
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_09_04",
+    "video_path": "./Video/Hunyuan/L2_09_04.mp4",
+    "score": {
+      "BRISQUE": 21.578013522565858,
+      "RAFT": true,
+      "VideoScore": [
+        3.266,
+        3.141,
+        3.312,
+        2.828,
+        3.047
+      ],
+      "VIIDEO": 0.8226432800292969,
+      "Qalign": 4.18359375,
+      "ViCLIP": 0.19541147351264954,
+      "MUSIQ": 67.55151370340143
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_10_01",
+    "video_path": "./Video/Hunyuan/L2_10_01.mp4",
+    "score": {
+      "BRISQUE": 56.3101973100142,
+      "RAFT": false,
+      "VideoScore": [
+        2.734,
+        2.75,
+        2.547,
+        2.484,
+        2.484
+      ],
+      "VIIDEO": 0.5573928356170654,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.2236463725566864,
+      "MUSIQ": 49.29057409743632
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_10_02",
+    "video_path": "./Video/Hunyuan/L2_10_02.mp4",
+    "score": {
+      "BRISQUE": 25.80539520515883,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.703,
+        2.672,
+        2.531,
+        2.469
+      ],
+      "VIIDEO": 0.42850029468536377,
+      "Qalign": 4.04296875,
+      "ViCLIP": 0.16245931386947632,
+      "MUSIQ": 51.66711586566011
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_10_03",
+    "video_path": "./Video/Hunyuan/L2_10_03.mp4",
+    "score": {
+      "BRISQUE": 32.399318726594785,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.688,
+        2.688,
+        2.438,
+        2.422
+      ],
+      "VIIDEO": 0.4564785361289978,
+      "Qalign": 4.6484375,
+      "ViCLIP": 0.30474892258644104,
+      "MUSIQ": 51.72082916764188
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_10_04",
+    "video_path": "./Video/Hunyuan/L2_10_04.mp4",
+    "score": {
+      "BRISQUE": 42.656057814921226,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.703,
+        2.766,
+        2.656,
+        2.75
+      ],
+      "VIIDEO": 0.7316002249717712,
+      "Qalign": 3.83203125,
+      "ViCLIP": 0.21320128440856934,
+      "MUSIQ": 53.45439426958068
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_11_01",
+    "video_path": "./Video/Hunyuan/L2_11_01.mp4",
+    "score": {
+      "BRISQUE": 36.9673714125452,
+      "RAFT": true,
+      "VideoScore": [
+        2.906,
+        2.469,
+        3.172,
+        2.359,
+        2.516
+      ],
+      "VIIDEO": 0.4602821171283722,
+      "Qalign": 3.740234375,
+      "ViCLIP": 0.17658741772174835,
+      "MUSIQ": 45.08622766920357
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_11_02",
+    "video_path": "./Video/Hunyuan/L2_11_02.mp4",
+    "score": {
+      "BRISQUE": 35.7534275527828,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.422,
+        2.859,
+        2.547,
+        2.594
+      ],
+      "VIIDEO": 0.5145862102508545,
+      "Qalign": 3.8828125,
+      "ViCLIP": 0.22107228636741638,
+      "MUSIQ": 39.03488197011396
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_11_03",
+    "video_path": "./Video/Hunyuan/L2_11_03.mp4",
+    "score": {
+      "BRISQUE": 27.360357111150567,
+      "RAFT": true,
+      "VideoScore": [
+        3.094,
+        2.75,
+        3.281,
+        2.5,
+        2.766
+      ],
+      "VIIDEO": 0.5578620433807373,
+      "Qalign": 3.900390625,
+      "ViCLIP": 0.21880678832530975,
+      "MUSIQ": 68.62871573582169
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_11_04",
+    "video_path": "./Video/Hunyuan/L2_11_04.mp4",
+    "score": {
+      "BRISQUE": 22.506986759910898,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.062,
+        2.797,
+        2.344,
+        2.047
+      ],
+      "VIIDEO": 0.6809127330780029,
+      "Qalign": 4.3984375,
+      "ViCLIP": 0.21754616498947144,
+      "MUSIQ": 68.71085849478226
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_12_01",
+    "video_path": "./Video/Hunyuan/L2_12_01.mp4",
+    "score": {
+      "BRISQUE": 33.70201274777247,
+      "RAFT": true,
+      "VideoScore": [
+        2.781,
+        2.562,
+        2.781,
+        2.438,
+        2.141
+      ],
+      "VIIDEO": 0.4039035439491272,
+      "Qalign": 4.7421875,
+      "ViCLIP": 0.21047931909561157,
+      "MUSIQ": 62.6980184129447
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_12_02",
+    "video_path": "./Video/Hunyuan/L2_12_02.mp4",
+    "score": {
+      "BRISQUE": 32.21286792597495,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.219,
+        2.891,
+        2.359,
+        2.047
+      ],
+      "VIIDEO": 0.3683059811592102,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.21181951463222504,
+      "MUSIQ": 55.10073657075235
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_12_03",
+    "video_path": "./Video/Hunyuan/L2_12_03.mp4",
+    "score": {
+      "BRISQUE": 16.846782085324122,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.594,
+        2.672,
+        2.391,
+        2.156
+      ],
+      "VIIDEO": 0.6472156047821045,
+      "Qalign": 4.640625,
+      "ViCLIP": 0.24335844814777374,
+      "MUSIQ": 74.90603057609117
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_12_04",
+    "video_path": "./Video/Hunyuan/L2_12_04.mp4",
+    "score": {
+      "BRISQUE": 32.851535765592715,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.547,
+        2.719,
+        2.469,
+        2.547
+      ],
+      "VIIDEO": 0.5086378455162048,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.1854061335325241,
+      "MUSIQ": 48.415580781038145
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_13_01",
+    "video_path": "./Video/Hunyuan/L2_13_01.mp4",
+    "score": {
+      "BRISQUE": 22.311121412545198,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.484,
+        2.453,
+        2.297,
+        1.984
+      ],
+      "VIIDEO": 0.6432003378868103,
+      "Qalign": 4.67578125,
+      "ViCLIP": 0.16045448184013367,
+      "MUSIQ": 73.68517776363151
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_13_02",
+    "video_path": "./Video/Hunyuan/L2_13_02.mp4",
+    "score": {
+      "BRISQUE": 31.89939943423941,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.594,
+        2.547,
+        2.375,
+        2.453
+      ],
+      "VIIDEO": 0.537511944770813,
+      "Qalign": 4.20703125,
+      "ViCLIP": 0.1867542564868927,
+      "MUSIQ": 43.549885710408866
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_13_03",
+    "video_path": "./Video/Hunyuan/L2_13_03.mp4",
+    "score": {
+      "BRISQUE": 16.30813926507619,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.484,
+        2.969,
+        2.547,
+        2.328
+      ],
+      "VIIDEO": 0.5999700427055359,
+      "Qalign": 4.09375,
+      "ViCLIP": 0.24027395248413086,
+      "MUSIQ": 67.02457115866922
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_13_04",
+    "video_path": "./Video/Hunyuan/L2_13_04.mp4",
+    "score": {
+      "BRISQUE": 24.035807459807593,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.266,
+        2.688,
+        2.328,
+        2.0
+      ],
+      "VIIDEO": 0.49107545614242554,
+      "Qalign": 4.36328125,
+      "ViCLIP": 0.20821450650691986,
+      "MUSIQ": 69.43134118702785
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_14_01",
+    "video_path": "./Video/Hunyuan/L2_14_01.mp4",
+    "score": {
+      "BRISQUE": 16.18372439549974,
+      "RAFT": false,
+      "VideoScore": [
+        3.344,
+        3.234,
+        3.422,
+        2.969,
+        3.172
+      ],
+      "VIIDEO": 0.6619826555252075,
+      "Qalign": 4.5,
+      "ViCLIP": 0.18482014536857605,
+      "MUSIQ": 75.76005708678694
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_14_02",
+    "video_path": "./Video/Hunyuan/L2_14_02.mp4",
+    "score": {
+      "BRISQUE": 22.010893009910898,
+      "RAFT": true,
+      "VideoScore": [
+        3.016,
+        2.812,
+        3.078,
+        2.594,
+        2.578
+      ],
+      "VIIDEO": 0.40016505122184753,
+      "Qalign": 4.42578125,
+      "ViCLIP": 0.23401282727718353,
+      "MUSIQ": 50.30086265122595
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_14_03",
+    "video_path": "./Video/Hunyuan/L2_14_03.mp4",
+    "score": {
+      "BRISQUE": 21.636570954125776,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.391,
+        2.75,
+        2.406,
+        2.203
+      ],
+      "VIIDEO": 0.4772596061229706,
+      "Qalign": 4.3125,
+      "ViCLIP": 0.17839281260967255,
+      "MUSIQ": 54.06573407512066
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_14_04",
+    "video_path": "./Video/Hunyuan/L2_14_04.mp4",
+    "score": {
+      "BRISQUE": 28.49925900293776,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.656,
+        2.578,
+        2.578,
+        2.578
+      ],
+      "VIIDEO": 0.7817848920822144,
+      "Qalign": 4.37890625,
+      "ViCLIP": 0.2034907341003418,
+      "MUSIQ": 55.01565192356583
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_15_01",
+    "video_path": "./Video/Hunyuan/L2_15_01.mp4",
+    "score": {
+      "BRISQUE": 23.65080374725594,
+      "RAFT": true,
+      "VideoScore": [
+        2.984,
+        2.719,
+        3.031,
+        2.625,
+        2.656
+      ],
+      "VIIDEO": 0.6326408982276917,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.17450572550296783,
+      "MUSIQ": 67.38488637120271
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_15_02",
+    "video_path": "./Video/Hunyuan/L2_15_02.mp4",
+    "score": {
+      "BRISQUE": 20.472242118898503,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.484,
+        2.859,
+        2.438,
+        2.375
+      ],
+      "VIIDEO": 0.6827380657196045,
+      "Qalign": 4.2734375,
+      "ViCLIP": 0.1853102445602417,
+      "MUSIQ": 76.72685266920358
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_15_03",
+    "video_path": "./Video/Hunyuan/L2_15_03.mp4",
+    "score": {
+      "BRISQUE": 32.44958344766916,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.359,
+        2.688,
+        2.375,
+        2.203
+      ],
+      "VIIDEO": 0.6006409525871277,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.21592727303504944,
+      "MUSIQ": 47.32689597389915
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_15_04",
+    "video_path": "./Video/Hunyuan/L2_15_04.mp4",
+    "score": {
+      "BRISQUE": 9.991777404280734,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.594,
+        2.562,
+        2.203,
+        2.234
+      ],
+      "VIIDEO": 0.6483453512191772,
+      "Qalign": 4.66015625,
+      "ViCLIP": 0.23234707117080688,
+      "MUSIQ": 75.73737562195329
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_16_01",
+    "video_path": "./Video/Hunyuan/L2_16_01.mp4",
+    "score": {
+      "BRISQUE": 10.49507027618156,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.5,
+        2.844,
+        2.391,
+        2.375
+      ],
+      "VIIDEO": 0.6514782905578613,
+      "Qalign": 4.4140625,
+      "ViCLIP": 0.24025166034698486,
+      "MUSIQ": 76.98828238495125
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_16_02",
+    "video_path": "./Video/Hunyuan/L2_16_02.mp4",
+    "score": {
+      "BRISQUE": 21.908951183981145,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.938,
+        3.984,
+        3.797,
+        3.922
+      ],
+      "VIIDEO": 0.39586764574050903,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.18868014216423035,
+      "MUSIQ": 76.20397161058158
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_16_03",
+    "video_path": "./Video/Hunyuan/L2_16_03.mp4",
+    "score": {
+      "BRISQUE": 49.24214865944602,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.25,
+        2.641,
+        2.297,
+        2.297
+      ],
+      "VIIDEO": 0.45810404419898987,
+      "Qalign": 4.01171875,
+      "ViCLIP": 0.11807449162006378,
+      "MUSIQ": 36.65948055992442
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_16_04",
+    "video_path": "./Video/Hunyuan/L2_16_04.mp4",
+    "score": {
+      "BRISQUE": 25.266796774115445,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.844,
+        4.094,
+        3.578,
+        3.797
+      ],
+      "VIIDEO": 0.5000057816505432,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.1833667904138565,
+      "MUSIQ": 58.15059835260565
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_17_01",
+    "video_path": "./Video/Hunyuan/L2_17_01.mp4",
+    "score": {
+      "BRISQUE": 28.987447439146436,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.594,
+        2.594,
+        2.375,
+        2.094
+      ],
+      "VIIDEO": 0.4999665319919586,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.20924435555934906,
+      "MUSIQ": 61.00091464460389
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_17_02",
+    "video_path": "./Video/Hunyuan/L2_17_02.mp4",
+    "score": {
+      "BRISQUE": -0.6877163973721591,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.641,
+        2.531,
+        2.391,
+        2.281
+      ],
+      "VIIDEO": 0.8301714658737183,
+      "Qalign": 4.60546875,
+      "ViCLIP": 0.26253455877304077,
+      "MUSIQ": 73.26628005603128
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_17_03",
+    "video_path": "./Video/Hunyuan/L2_17_03.mp4",
+    "score": {
+      "BRISQUE": 26.768689368381974,
+      "RAFT": false,
+      "VideoScore": [
+        3.422,
+        3.391,
+        3.422,
+        3.031,
+        3.391
+      ],
+      "VIIDEO": 0.3890588581562042,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.21039313077926636,
+      "MUSIQ": 64.86786743037956
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_17_04",
+    "video_path": "./Video/Hunyuan/L2_17_04.mp4",
+    "score": {
+      "BRISQUE": 22.56290908687371,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.312,
+        2.797,
+        2.25,
+        2.094
+      ],
+      "VIIDEO": 0.43686941266059875,
+      "Qalign": 4.35546875,
+      "ViCLIP": 0.15805312991142273,
+      "MUSIQ": 59.03644977916371
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_18_01",
+    "video_path": "./Video/Hunyuan/L2_18_01.mp4",
+    "score": {
+      "BRISQUE": 41.61828663723528,
+      "RAFT": true,
+      "VideoScore": [
+        3.484,
+        3.312,
+        3.578,
+        3.047,
+        3.234
+      ],
+      "VIIDEO": 0.4466124475002289,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.27143681049346924,
+      "MUSIQ": 70.37244913400697
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_18_02",
+    "video_path": "./Video/Hunyuan/L2_18_02.mp4",
+    "score": {
+      "BRISQUE": -7.40400077882877,
+      "RAFT": false,
+      "VideoScore": [
+        3.406,
+        3.359,
+        3.516,
+        2.922,
+        3.234
+      ],
+      "VIIDEO": 0.3813813626766205,
+      "Qalign": 4.6015625,
+      "ViCLIP": 0.24309538304805756,
+      "MUSIQ": 63.35582720543727
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_18_03",
+    "video_path": "./Video/Hunyuan/L2_18_03.mp4",
+    "score": {
+      "BRISQUE": 29.837081026439826,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.562,
+        2.625,
+        2.172,
+        2.469
+      ],
+      "VIIDEO": 0.3911389112472534,
+      "Qalign": 3.69140625,
+      "ViCLIP": 0.20103614032268524,
+      "MUSIQ": 36.004368175159804
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_18_04",
+    "video_path": "./Video/Hunyuan/L2_18_04.mp4",
+    "score": {
+      "BRISQUE": 2.4209685522662707,
+      "RAFT": false,
+      "VideoScore": [
+        3.391,
+        3.188,
+        3.422,
+        2.734,
+        3.062
+      ],
+      "VIIDEO": 0.2979297339916229,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.24499446153640747,
+      "MUSIQ": 57.07373128843702
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_19_01",
+    "video_path": "./Video/Hunyuan/L2_19_01.mp4",
+    "score": {
+      "BRISQUE": 33.345127578609244,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.516,
+        2.688,
+        2.0,
+        2.359
+      ],
+      "VIIDEO": 0.5733813643455505,
+      "Qalign": 3.814453125,
+      "ViCLIP": 0.2693111300468445,
+      "MUSIQ": 40.5596577667993
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_19_02",
+    "video_path": "./Video/Hunyuan/L2_19_02.mp4",
+    "score": {
+      "BRISQUE": -4.4287820611118285,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.625,
+        2.641,
+        2.312,
+        2.281
+      ],
+      "VIIDEO": 0.613734781742096,
+      "Qalign": 4.80078125,
+      "ViCLIP": 0.23184259235858917,
+      "MUSIQ": 61.43834191314445
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_19_03",
+    "video_path": "./Video/Hunyuan/L2_19_03.mp4",
+    "score": {
+      "BRISQUE": 18.335991473237346,
+      "RAFT": false,
+      "VideoScore": [
+        2.766,
+        2.781,
+        2.781,
+        2.719,
+        2.594
+      ],
+      "VIIDEO": 0.7994557023048401,
+      "Qalign": 4.62109375,
+      "ViCLIP": 0.23929619789123535,
+      "MUSIQ": 64.83729657259855
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_19_04",
+    "video_path": "./Video/Hunyuan/L2_19_04.mp4",
+    "score": {
+      "BRISQUE": 20.983908408929494,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.609,
+        2.656,
+        2.25,
+        2.203
+      ],
+      "VIIDEO": 0.4705438017845154,
+      "Qalign": 4.203125,
+      "ViCLIP": 0.27093324065208435,
+      "MUSIQ": 50.691798028867105
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_20_01",
+    "video_path": "./Video/Hunyuan/L2_20_01.mp4",
+    "score": {
+      "BRISQUE": 22.26994437225594,
+      "RAFT": false,
+      "VideoScore": [
+        3.359,
+        3.094,
+        3.422,
+        2.781,
+        3.0
+      ],
+      "VIIDEO": 0.7646217942237854,
+      "Qalign": 4.14453125,
+      "ViCLIP": 0.2616274952888489,
+      "MUSIQ": 67.50303571086285
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_20_02",
+    "video_path": "./Video/Hunyuan/L2_20_02.mp4",
+    "score": {
+      "BRISQUE": -7.414073092878358,
+      "RAFT": false,
+      "VideoScore": [
+        3.375,
+        3.328,
+        3.391,
+        2.969,
+        3.188
+      ],
+      "VIIDEO": 0.400822252035141,
+      "Qalign": 4.83984375,
+      "ViCLIP": 0.2364353984594345,
+      "MUSIQ": 76.39141978114104
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_20_03",
+    "video_path": "./Video/Hunyuan/L2_20_03.mp4",
+    "score": {
+      "BRISQUE": 28.99159581208032,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.656,
+        2.703,
+        2.438,
+        2.469
+      ],
+      "VIIDEO": 0.4400333762168884,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.20139914751052856,
+      "MUSIQ": 51.45673442872103
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_20_04",
+    "video_path": "./Video/Hunyuan/L2_20_04.mp4",
+    "score": {
+      "BRISQUE": 33.53714720670842,
+      "RAFT": true,
+      "VideoScore": [
+        3.156,
+        2.844,
+        3.203,
+        2.781,
+        2.688
+      ],
+      "VIIDEO": 0.5133355855941772,
+      "Qalign": 4.0859375,
+      "ViCLIP": 0.18302689492702484,
+      "MUSIQ": 63.34655484286222
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_21_01",
+    "video_path": "./Video/Hunyuan/L2_21_01.mp4",
+    "score": {
+      "BRISQUE": 36.97145521936338,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.25,
+        2.812,
+        2.375,
+        2.062
+      ],
+      "VIIDEO": 0.5717464685440063,
+      "Qalign": 4.21484375,
+      "ViCLIP": 0.20863167941570282,
+      "MUSIQ": 42.55568392414692
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_21_02",
+    "video_path": "./Video/Hunyuan/L2_21_02.mp4",
+    "score": {
+      "BRISQUE": 27.684809913319988,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.469,
+        2.578,
+        2.359,
+        2.344
+      ],
+      "VIIDEO": 0.6621479392051697,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.23598840832710266,
+      "MUSIQ": 53.757008576196085
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_21_03",
+    "video_path": "./Video/Hunyuan/L2_21_03.mp4",
+    "score": {
+      "BRISQUE": 18.303074860375776,
+      "RAFT": true,
+      "VideoScore": [
+        3.469,
+        3.266,
+        3.5,
+        3.0,
+        3.094
+      ],
+      "VIIDEO": 0.7884284257888794,
+      "Qalign": 4.8203125,
+      "ViCLIP": 0.3249020278453827,
+      "MUSIQ": 74.15963287984044
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_21_04",
+    "video_path": "./Video/Hunyuan/L2_21_04.mp4",
+    "score": {
+      "BRISQUE": 23.128734241832387,
+      "RAFT": false,
+      "VideoScore": [
+        2.781,
+        2.875,
+        2.688,
+        2.453,
+        2.656
+      ],
+      "VIIDEO": 0.7465898394584656,
+      "Qalign": 4.203125,
+      "ViCLIP": 0.24980591237545013,
+      "MUSIQ": 44.23724510255924
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_22_01",
+    "video_path": "./Video/Hunyuan/L2_22_01.mp4",
+    "score": {
+      "BRISQUE": 24.668200280055526,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.219,
+        2.797,
+        2.312,
+        2.047
+      ],
+      "VIIDEO": 0.4407121241092682,
+      "Qalign": 4.05078125,
+      "ViCLIP": 0.17282137274742126,
+      "MUSIQ": 54.47482435368309
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_22_02",
+    "video_path": "./Video/Hunyuan/L2_22_02.mp4",
+    "score": {
+      "BRISQUE": 17.314309364508006,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.547,
+        2.672,
+        2.422,
+        2.234
+      ],
+      "VIIDEO": 0.5704694986343384,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.22325314581394196,
+      "MUSIQ": 66.21669390970025
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_22_03",
+    "video_path": "./Video/Hunyuan/L2_22_03.mp4",
+    "score": {
+      "BRISQUE": 33.089175389817925,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.359,
+        2.609,
+        2.281,
+        2.047
+      ],
+      "VIIDEO": 0.726952075958252,
+      "Qalign": 4.35546875,
+      "ViCLIP": 0.2165316790342331,
+      "MUSIQ": 71.69344582045373
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_22_04",
+    "video_path": "./Video/Hunyuan/L2_22_04.mp4",
+    "score": {
+      "BRISQUE": 41.4987626509233,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.5,
+        3.016,
+        2.516,
+        2.406
+      ],
+      "VIIDEO": 0.4752897620201111,
+      "Qalign": 3.96875,
+      "ViCLIP": 0.20345281064510345,
+      "MUSIQ": 49.213633371778755
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_23_01",
+    "video_path": "./Video/Hunyuan/L2_23_01.mp4",
+    "score": {
+      "BRISQUE": 19.285335320086517,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.406,
+        2.719,
+        2.391,
+        2.234
+      ],
+      "VIIDEO": 0.4016885459423065,
+      "Qalign": 4.296875,
+      "ViCLIP": 0.24122916162014008,
+      "MUSIQ": 57.87378790358866
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_23_02",
+    "video_path": "./Video/Hunyuan/L2_23_02.mp4",
+    "score": {
+      "BRISQUE": 11.314083383103048,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.406,
+        2.734,
+        2.359,
+        1.945
+      ],
+      "VIIDEO": 0.48379072546958923,
+      "Qalign": 4.6015625,
+      "ViCLIP": 0.22904925048351288,
+      "MUSIQ": 61.78064658425071
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_23_03",
+    "video_path": "./Video/Hunyuan/L2_23_03.mp4",
+    "score": {
+      "BRISQUE": 26.132115892142302,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.422,
+        2.656,
+        2.422,
+        2.344
+      ],
+      "VIIDEO": 0.6143584847450256,
+      "Qalign": 4.609375,
+      "ViCLIP": 0.23650901019573212,
+      "MUSIQ": 65.3773757682359
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_23_04",
+    "video_path": "./Video/Hunyuan/L2_23_04.mp4",
+    "score": {
+      "BRISQUE": 26.82509190583032,
+      "RAFT": true,
+      "VideoScore": [
+        3.641,
+        3.438,
+        3.797,
+        3.297,
+        3.453
+      ],
+      "VIIDEO": 0.5752931237220764,
+      "Qalign": 4.3046875,
+      "ViCLIP": 0.23186248540878296,
+      "MUSIQ": 62.25051933477733
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_24_01",
+    "video_path": "./Video/Hunyuan/L2_24_01.mp4",
+    "score": {
+      "BRISQUE": -4.092211006101498,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.578,
+        2.734,
+        2.453,
+        2.406
+      ],
+      "VIIDEO": 0.7125682830810547,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.20645476877689362,
+      "MUSIQ": 68.23434344204989
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_24_02",
+    "video_path": "./Video/Hunyuan/L2_24_02.mp4",
+    "score": {
+      "BRISQUE": 18.854082091780732,
+      "RAFT": true,
+      "VideoScore": [
+        3.688,
+        3.641,
+        3.609,
+        3.25,
+        3.5
+      ],
+      "VIIDEO": 0.7019457817077637,
+      "Qalign": 4.625,
+      "ViCLIP": 0.27165940403938293,
+      "MUSIQ": 73.56876833576801
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_24_03",
+    "video_path": "./Video/Hunyuan/L2_24_03.mp4",
+    "score": {
+      "BRISQUE": 21.25713203367123,
+      "RAFT": false,
+      "VideoScore": [
+        2.922,
+        2.656,
+        2.984,
+        2.5,
+        2.469
+      ],
+      "VIIDEO": 0.7201010584831238,
+      "Qalign": 4.4140625,
+      "ViCLIP": 0.20416009426116943,
+      "MUSIQ": 66.73667816288216
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_24_04",
+    "video_path": "./Video/Hunyuan/L2_24_04.mp4",
+    "score": {
+      "BRISQUE": 27.01101407137784,
+      "RAFT": true,
+      "VideoScore": [
+        3.359,
+        2.984,
+        3.438,
+        2.75,
+        2.969
+      ],
+      "VIIDEO": 0.6252650618553162,
+      "Qalign": 4.10546875,
+      "ViCLIP": 0.2576272487640381,
+      "MUSIQ": 67.5011717110626
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_25_01",
+    "video_path": "./Video/Hunyuan/L2_25_01.mp4",
+    "score": {
+      "BRISQUE": 33.90546057835098,
+      "RAFT": false,
+      "VideoScore": [
+        3.078,
+        3.0,
+        3.125,
+        2.766,
+        2.781
+      ],
+      "VIIDEO": 0.6692413687705994,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.18530604243278503,
+      "MUSIQ": 52.28366987370262
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_25_02",
+    "video_path": "./Video/Hunyuan/L2_25_02.mp4",
+    "score": {
+      "BRISQUE": 5.858504870706353,
+      "RAFT": false,
+      "VideoScore": [
+        2.75,
+        2.797,
+        2.609,
+        2.469,
+        2.5
+      ],
+      "VIIDEO": 0.5770409107208252,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.1898554414510727,
+      "MUSIQ": 61.81678838178146
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_25_03",
+    "video_path": "./Video/Hunyuan/L2_25_03.mp4",
+    "score": {
+      "BRISQUE": 30.140977591522468,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.781,
+        2.531,
+        2.5,
+        2.438
+      ],
+      "VIIDEO": 0.5378358364105225,
+      "Qalign": 4.26953125,
+      "ViCLIP": 0.15896368026733398,
+      "MUSIQ": 42.50360306038344
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L2_25_04",
+    "video_path": "./Video/Hunyuan/L2_25_04.mp4",
+    "score": {
+      "BRISQUE": 20.81437393062371,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.719,
+        2.469,
+        2.328,
+        2.406
+      ],
+      "VIIDEO": 0.5978714227676392,
+      "Qalign": 4.52734375,
+      "ViCLIP": 0.1733992099761963,
+      "MUSIQ": 62.161086720868575
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_01_01",
+    "video_path": "./Video/Hunyuan/L3_01_01.mp4",
+    "score": {
+      "BRISQUE": 16.94928886476627,
+      "RAFT": false,
+      "VideoScore": [
+        2.75,
+        2.781,
+        2.734,
+        2.516,
+        2.516
+      ],
+      "VIIDEO": 0.78315269947052,
+      "Qalign": 4.77734375,
+      "ViCLIP": 0.26721417903900146,
+      "MUSIQ": 76.61067931120061
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_01_02",
+    "video_path": "./Video/Hunyuan/L3_01_02.mp4",
+    "score": {
+      "BRISQUE": 47.20727085081999,
+      "RAFT": false,
+      "VideoScore": [
+        3.859,
+        3.812,
+        3.906,
+        3.328,
+        3.828
+      ],
+      "VIIDEO": 0.4498232901096344,
+      "Qalign": 4.3515625,
+      "ViCLIP": 0.2449730932712555,
+      "MUSIQ": 57.10726935016222
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_01_03",
+    "video_path": "./Video/Hunyuan/L3_01_03.mp4",
+    "score": {
+      "BRISQUE": 31.647648078350983,
+      "RAFT": true,
+      "VideoScore": [
+        3.469,
+        3.25,
+        3.719,
+        3.266,
+        3.266
+      ],
+      "VIIDEO": 0.4882831573486328,
+      "Qalign": 4.3359375,
+      "ViCLIP": 0.2410258799791336,
+      "MUSIQ": 70.61694837207637
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_01_04",
+    "video_path": "./Video/Hunyuan/L3_01_04.mp4",
+    "score": {
+      "BRISQUE": 15.500417157638172,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.531,
+        2.531,
+        2.188,
+        2.266
+      ],
+      "VIIDEO": 0.6446523666381836,
+      "Qalign": 4.82421875,
+      "ViCLIP": 0.2484891414642334,
+      "MUSIQ": 76.64683702957532
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_02_01",
+    "video_path": "./Video/Hunyuan/L3_02_01.mp4",
+    "score": {
+      "BRISQUE": 22.702408215231145,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.312,
+        2.797,
+        2.266,
+        2.078
+      ],
+      "VIIDEO": 0.41555047035217285,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.23873911798000336,
+      "MUSIQ": 55.254072236620694
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_02_02",
+    "video_path": "./Video/Hunyuan/L3_02_02.mp4",
+    "score": {
+      "BRISQUE": 17.89368533299974,
+      "RAFT": true,
+      "VideoScore": [
+        3.094,
+        2.781,
+        3.281,
+        2.672,
+        2.766
+      ],
+      "VIIDEO": 0.5766650438308716,
+      "Qalign": 4.1015625,
+      "ViCLIP": 0.24097080528736115,
+      "MUSIQ": 57.52848068741727
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_02_03",
+    "video_path": "./Video/Hunyuan/L3_02_03.mp4",
+    "score": {
+      "BRISQUE": 27.357548485117512,
+      "RAFT": true,
+      "VideoScore": [
+        3.359,
+        3.172,
+        3.484,
+        2.766,
+        3.266
+      ],
+      "VIIDEO": 0.43930572271347046,
+      "Qalign": 3.46484375,
+      "ViCLIP": 0.1873122751712799,
+      "MUSIQ": 37.44538240984452
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_02_04",
+    "video_path": "./Video/Hunyuan/L3_02_04.mp4",
+    "score": {
+      "BRISQUE": 22.200810203867512,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.453,
+        2.594,
+        2.188,
+        2.25
+      ],
+      "VIIDEO": 0.5755406618118286,
+      "Qalign": 4.171875,
+      "ViCLIP": 0.25741222500801086,
+      "MUSIQ": 67.24707267698177
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_03_01",
+    "video_path": "./Video/Hunyuan/L3_03_01.mp4",
+    "score": {
+      "BRISQUE": 41.3101448500452,
+      "RAFT": false,
+      "VideoScore": [
+        2.703,
+        2.828,
+        2.516,
+        2.438,
+        2.547
+      ],
+      "VIIDEO": 0.6263620257377625,
+      "Qalign": 4.640625,
+      "ViCLIP": 0.18167224526405334,
+      "MUSIQ": 47.56462998823686
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_03_02",
+    "video_path": "./Video/Hunyuan/L3_03_02.mp4",
+    "score": {
+      "BRISQUE": 19.385848620706355,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.781,
+        2.703,
+        2.609,
+        2.719
+      ],
+      "VIIDEO": 0.6065864562988281,
+      "Qalign": 4.0,
+      "ViCLIP": 0.23018784821033478,
+      "MUSIQ": 48.4430402960659
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_03_03",
+    "video_path": "./Video/Hunyuan/L3_03_03.mp4",
+    "score": {
+      "BRISQUE": 33.290347264817925,
+      "RAFT": false,
+      "VideoScore": [
+        4.0,
+        3.812,
+        4.031,
+        3.203,
+        3.766
+      ],
+      "VIIDEO": 0.5432096123695374,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.14268022775650024,
+      "MUSIQ": 54.56602238426524
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_03_04",
+    "video_path": "./Video/Hunyuan/L3_03_04.mp4",
+    "score": {
+      "BRISQUE": 44.518172839456355,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.359,
+        2.547,
+        2.078,
+        2.094
+      ],
+      "VIIDEO": 0.6378223896026611,
+      "Qalign": 3.982421875,
+      "ViCLIP": 0.21174132823944092,
+      "MUSIQ": 73.71719644089376
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_04_01",
+    "video_path": "./Video/Hunyuan/L3_04_01.mp4",
+    "score": {
+      "BRISQUE": 21.219897561822055,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.281,
+        2.656,
+        2.312,
+        1.977
+      ],
+      "VIIDEO": 0.47581908106803894,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.16802887618541718,
+      "MUSIQ": 67.87314362959428
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_04_02",
+    "video_path": "./Video/Hunyuan/L3_04_02.mp4",
+    "score": {
+      "BRISQUE": 13.200931265334452,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.375,
+        2.578,
+        2.25,
+        1.984
+      ],
+      "VIIDEO": 0.6237345933914185,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.22380203008651733,
+      "MUSIQ": 73.2008147121461
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_04_03",
+    "video_path": "./Video/Hunyuan/L3_04_03.mp4",
+    "score": {
+      "BRISQUE": 22.447113793743544,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.922,
+        2.625,
+        2.469,
+        2.75
+      ],
+      "VIIDEO": 0.33779895305633545,
+      "Qalign": 4.69140625,
+      "ViCLIP": 0.22154560685157776,
+      "MUSIQ": 39.786688528770256
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_04_04",
+    "video_path": "./Video/Hunyuan/L3_04_04.mp4",
+    "score": {
+      "BRISQUE": 39.28612625500387,
+      "RAFT": true,
+      "VideoScore": [
+        3.109,
+        2.688,
+        3.172,
+        2.469,
+        2.609
+      ],
+      "VIIDEO": 0.5181218385696411,
+      "Qalign": 4.25390625,
+      "ViCLIP": 0.21674811840057373,
+      "MUSIQ": 64.17343826924474
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_05_01",
+    "video_path": "./Video/Hunyuan/L3_05_01.mp4",
+    "score": {
+      "BRISQUE": -2.37453038239282,
+      "RAFT": false,
+      "VideoScore": [
+        3.297,
+        3.344,
+        3.469,
+        3.031,
+        3.297
+      ],
+      "VIIDEO": 0.6561111211776733,
+      "Qalign": 4.03125,
+      "ViCLIP": 0.23659145832061768,
+      "MUSIQ": 50.996369101784445
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_05_02",
+    "video_path": "./Video/Hunyuan/L3_05_02.mp4",
+    "score": {
+      "BRISQUE": 31.060794546584454,
+      "RAFT": false,
+      "VideoScore": [
+        3.531,
+        3.5,
+        3.703,
+        3.109,
+        3.469
+      ],
+      "VIIDEO": 0.4464312195777893,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.16830739378929138,
+      "MUSIQ": 63.98640791837834
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_05_03",
+    "video_path": "./Video/Hunyuan/L3_05_03.mp4",
+    "score": {
+      "BRISQUE": 18.56291312225594,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.719,
+        2.906,
+        2.656,
+        2.484
+      ],
+      "VIIDEO": 0.4671955704689026,
+      "Qalign": 4.109375,
+      "ViCLIP": 0.2531029284000397,
+      "MUSIQ": 66.5484921163764
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_05_04",
+    "video_path": "./Video/Hunyuan/L3_05_04.mp4",
+    "score": {
+      "BRISQUE": 16.66852714601627,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.719,
+        2.781,
+        2.516,
+        2.547
+      ],
+      "VIIDEO": 0.7273528575897217,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.19634835422039032,
+      "MUSIQ": 75.39887004253293
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_06_01",
+    "video_path": "./Video/Hunyuan/L3_06_01.mp4",
+    "score": {
+      "BRISQUE": 24.48947723640883,
+      "RAFT": true,
+      "VideoScore": [
+        3.594,
+        3.328,
+        3.688,
+        2.984,
+        3.312
+      ],
+      "VIIDEO": 0.6194931268692017,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.14876744151115417,
+      "MUSIQ": 54.257621386819636
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_06_02",
+    "video_path": "./Video/Hunyuan/L3_06_02.mp4",
+    "score": {
+      "BRISQUE": 20.763350557689826,
+      "RAFT": false,
+      "VideoScore": [
+        2.906,
+        2.734,
+        2.938,
+        2.406,
+        2.469
+      ],
+      "VIIDEO": 0.7374597787857056,
+      "Qalign": 4.6875,
+      "ViCLIP": 0.20544378459453583,
+      "MUSIQ": 68.1872283052807
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_06_03",
+    "video_path": "./Video/Hunyuan/L3_06_03.mp4",
+    "score": {
+      "BRISQUE": 3.0568479427621384,
+      "RAFT": false,
+      "VideoScore": [
+        2.719,
+        2.703,
+        2.656,
+        2.375,
+        2.203
+      ],
+      "VIIDEO": 0.5355955362319946,
+      "Qalign": 4.5,
+      "ViCLIP": 0.22442032396793365,
+      "MUSIQ": 62.097674945169246
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_06_04",
+    "video_path": "./Video/Hunyuan/L3_06_04.mp4",
+    "score": {
+      "BRISQUE": 11.696387424941891,
+      "RAFT": false,
+      "VideoScore": [
+        2.766,
+        2.656,
+        2.719,
+        2.469,
+        2.312
+      ],
+      "VIIDEO": 0.5786145329475403,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.18338002264499664,
+      "MUSIQ": 72.1830785767106
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_07_01",
+    "video_path": "./Video/Hunyuan/L3_07_01.mp4",
+    "score": {
+      "BRISQUE": 22.38357266512784,
+      "RAFT": false,
+      "VideoScore": [
+        2.891,
+        2.75,
+        3.031,
+        2.656,
+        2.625
+      ],
+      "VIIDEO": 0.7802087664604187,
+      "Qalign": 4.52734375,
+      "ViCLIP": 0.2139156609773636,
+      "MUSIQ": 74.92579720237039
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_07_02",
+    "video_path": "./Video/Hunyuan/L3_07_02.mp4",
+    "score": {
+      "BRISQUE": 9.748476138784866,
+      "RAFT": true,
+      "VideoScore": [
+        3.281,
+        3.141,
+        3.375,
+        2.875,
+        3.016
+      ],
+      "VIIDEO": 0.4183419346809387,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.24426856637001038,
+      "MUSIQ": 68.66255490641949
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_07_03",
+    "video_path": "./Video/Hunyuan/L3_07_03.mp4",
+    "score": {
+      "BRISQUE": 33.07731943682206,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.844,
+        3.953,
+        3.594,
+        3.75
+      ],
+      "VIIDEO": 0.6444365382194519,
+      "Qalign": 4.74609375,
+      "ViCLIP": 0.18064096570014954,
+      "MUSIQ": 73.05355305317019
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_07_04",
+    "video_path": "./Video/Hunyuan/L3_07_04.mp4",
+    "score": {
+      "BRISQUE": 15.451645527989411,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.656,
+        2.641,
+        2.406,
+        2.281
+      ],
+      "VIIDEO": 0.8276136517524719,
+      "Qalign": 4.296875,
+      "ViCLIP": 0.20263034105300903,
+      "MUSIQ": 65.67654835094105
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_08_01",
+    "video_path": "./Video/Hunyuan/L3_08_01.mp4",
+    "score": {
+      "BRISQUE": 12.315193113216685,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.703,
+        2.703,
+        2.578,
+        2.5
+      ],
+      "VIIDEO": 0.5724297165870667,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.2153075486421585,
+      "MUSIQ": 63.66591256512098
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_08_02",
+    "video_path": "./Video/Hunyuan/L3_08_02.mp4",
+    "score": {
+      "BRISQUE": 19.01942380794809,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.688,
+        2.469,
+        2.328,
+        2.422
+      ],
+      "VIIDEO": 0.7365725040435791,
+      "Qalign": 4.4765625,
+      "ViCLIP": 0.1948079913854599,
+      "MUSIQ": 78.35325691916726
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_08_03",
+    "video_path": "./Video/Hunyuan/L3_08_03.mp4",
+    "score": {
+      "BRISQUE": -4.589995581256456,
+      "RAFT": false,
+      "VideoScore": [
+        3.547,
+        3.547,
+        3.625,
+        3.156,
+        3.594
+      ],
+      "VIIDEO": 0.7737876772880554,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.207175150513649,
+      "MUSIQ": 57.91902349803073
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_08_04",
+    "video_path": "./Video/Hunyuan/L3_08_04.mp4",
+    "score": {
+      "BRISQUE": 21.259391847720817,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.172,
+        2.703,
+        2.297,
+        1.992
+      ],
+      "VIIDEO": 0.4066063463687897,
+      "Qalign": 4.53125,
+      "ViCLIP": 0.18672288954257965,
+      "MUSIQ": 59.264250920823784
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_09_01",
+    "video_path": "./Video/Hunyuan/L3_09_01.mp4",
+    "score": {
+      "BRISQUE": 6.150408279797262,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.469,
+        2.594,
+        2.156,
+        2.125
+      ],
+      "VIIDEO": 0.40912628173828125,
+      "Qalign": 4.37890625,
+      "ViCLIP": 0.25810471177101135,
+      "MUSIQ": 57.19963546626824
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_09_02",
+    "video_path": "./Video/Hunyuan/L3_09_02.mp4",
+    "score": {
+      "BRISQUE": 31.837476493898503,
+      "RAFT": false,
+      "VideoScore": [
+        3.141,
+        2.906,
+        3.156,
+        2.609,
+        2.734
+      ],
+      "VIIDEO": 0.37454649806022644,
+      "Qalign": 4.703125,
+      "ViCLIP": 0.21648427844047546,
+      "MUSIQ": 77.10753502333459
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_09_03",
+    "video_path": "./Video/Hunyuan/L3_09_03.mp4",
+    "score": {
+      "BRISQUE": 21.607104593072055,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.688,
+        2.625,
+        2.422,
+        2.625
+      ],
+      "VIIDEO": 0.4651894271373749,
+      "Qalign": 4.0390625,
+      "ViCLIP": 0.2591860592365265,
+      "MUSIQ": 57.627205651653696
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_09_04",
+    "video_path": "./Video/Hunyuan/L3_09_04.mp4",
+    "score": {
+      "BRISQUE": 25.275279147565858,
+      "RAFT": true,
+      "VideoScore": [
+        3.156,
+        2.828,
+        3.312,
+        2.469,
+        2.703
+      ],
+      "VIIDEO": 0.4481898248195648,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.15505948662757874,
+      "MUSIQ": 61.593414306640625
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_10_01",
+    "video_path": "./Video/Hunyuan/L3_10_01.mp4",
+    "score": {
+      "BRISQUE": -2.315553271080837,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.625,
+        2.75,
+        2.484,
+        2.344
+      ],
+      "VIIDEO": 0.7766403555870056,
+      "Qalign": 4.71875,
+      "ViCLIP": 0.22351384162902832,
+      "MUSIQ": 68.02940106983027
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_10_02",
+    "video_path": "./Video/Hunyuan/L3_10_02.mp4",
+    "score": {
+      "BRISQUE": 36.23753621755553,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.5,
+        2.578,
+        2.438,
+        2.328
+      ],
+      "VIIDEO": 0.6263137459754944,
+      "Qalign": 3.9140625,
+      "ViCLIP": 0.19524116814136505,
+      "MUSIQ": 41.023017946353626
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_10_03",
+    "video_path": "./Video/Hunyuan/L3_10_03.mp4",
+    "score": {
+      "BRISQUE": 14.13032821781379,
+      "RAFT": true,
+      "VideoScore": [
+        2.938,
+        2.688,
+        3.062,
+        2.625,
+        2.625
+      ],
+      "VIIDEO": 0.620771050453186,
+      "Qalign": 4.0546875,
+      "ViCLIP": 0.23683711886405945,
+      "MUSIQ": 68.4376854384241
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_10_04",
+    "video_path": "./Video/Hunyuan/L3_10_04.mp4",
+    "score": {
+      "BRISQUE": -3.442905898921746,
+      "RAFT": false,
+      "VideoScore": [
+        2.828,
+        2.75,
+        2.797,
+        2.438,
+        2.5
+      ],
+      "VIIDEO": 0.7510926723480225,
+      "Qalign": 4.58984375,
+      "ViCLIP": 0.23002870380878448,
+      "MUSIQ": 67.27571786927783
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_11_01",
+    "video_path": "./Video/Hunyuan/L3_11_01.mp4",
+    "score": {
+      "BRISQUE": 20.737415156088584,
+      "RAFT": true,
+      "VideoScore": [
+        3.062,
+        2.812,
+        3.234,
+        2.719,
+        2.672
+      ],
+      "VIIDEO": 0.4306178092956543,
+      "Qalign": 4.5078125,
+      "ViCLIP": 0.2567313611507416,
+      "MUSIQ": 65.79979239219476
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_11_02",
+    "video_path": "./Video/Hunyuan/L3_11_02.mp4",
+    "score": {
+      "BRISQUE": 31.462391750871642,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.656,
+        2.672,
+        2.578,
+        2.438
+      ],
+      "VIIDEO": 0.4922122359275818,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.2625681161880493,
+      "MUSIQ": 44.85626584833319
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_11_03",
+    "video_path": "./Video/Hunyuan/L3_11_03.mp4",
+    "score": {
+      "BRISQUE": 15.879517105985279,
+      "RAFT": false,
+      "VideoScore": [
+        3.234,
+        3.062,
+        3.234,
+        2.734,
+        2.844
+      ],
+      "VIIDEO": 0.7762423753738403,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.1988457590341568,
+      "MUSIQ": 72.15346092034963
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_11_04",
+    "video_path": "./Video/Hunyuan/L3_11_04.mp4",
+    "score": {
+      "BRISQUE": 21.726838419260073,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.641,
+        2.672,
+        2.516,
+        2.359
+      ],
+      "VIIDEO": 0.7260547280311584,
+      "Qalign": 4.34765625,
+      "ViCLIP": 0.17932440340518951,
+      "MUSIQ": 54.20353147018054
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_12_01",
+    "video_path": "./Video/Hunyuan/L3_12_01.mp4",
+    "score": {
+      "BRISQUE": 8.485098846687759,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.641,
+        2.609,
+        2.375,
+        2.422
+      ],
+      "VIIDEO": 0.7591021060943604,
+      "Qalign": 4.63671875,
+      "ViCLIP": 0.23182857036590576,
+      "MUSIQ": 70.52223029018434
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_12_02",
+    "video_path": "./Video/Hunyuan/L3_12_02.mp4",
+    "score": {
+      "BRISQUE": 46.75879461115057,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.578,
+        2.578,
+        2.375,
+        2.453
+      ],
+      "VIIDEO": 0.6145040988922119,
+      "Qalign": 3.9921875,
+      "ViCLIP": 0.23642095923423767,
+      "MUSIQ": 43.11607084983636
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_12_03",
+    "video_path": "./Video/Hunyuan/L3_12_03.mp4",
+    "score": {
+      "BRISQUE": 16.545718358567925,
+      "RAFT": true,
+      "VideoScore": [
+        3.141,
+        2.844,
+        3.203,
+        2.75,
+        2.719
+      ],
+      "VIIDEO": 0.6126902103424072,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.21996189653873444,
+      "MUSIQ": 65.760119446053
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_12_04",
+    "video_path": "./Video/Hunyuan/L3_12_04.mp4",
+    "score": {
+      "BRISQUE": -1.7665435538804235,
+      "RAFT": false,
+      "VideoScore": [
+        2.688,
+        2.719,
+        2.547,
+        2.406,
+        2.375
+      ],
+      "VIIDEO": 0.7836624383926392,
+      "Qalign": 4.75,
+      "ViCLIP": 0.2357669621706009,
+      "MUSIQ": 67.41502954152004
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_13_01",
+    "video_path": "./Video/Hunyuan/L3_13_01.mp4",
+    "score": {
+      "BRISQUE": -4.305900636783316,
+      "RAFT": false,
+      "VideoScore": [
+        3.531,
+        3.266,
+        3.578,
+        2.969,
+        3.203
+      ],
+      "VIIDEO": 0.6261718273162842,
+      "Qalign": 4.28125,
+      "ViCLIP": 0.22299860417842865,
+      "MUSIQ": 68.42499211208879
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_13_02",
+    "video_path": "./Video/Hunyuan/L3_13_02.mp4",
+    "score": {
+      "BRISQUE": 12.08491402618156,
+      "RAFT": false,
+      "VideoScore": [
+        3.359,
+        3.078,
+        3.562,
+        2.719,
+        3.156
+      ],
+      "VIIDEO": 0.6484125852584839,
+      "Qalign": 3.85546875,
+      "ViCLIP": 0.2098083347082138,
+      "MUSIQ": 70.81667069364185
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_13_03",
+    "video_path": "./Video/Hunyuan/L3_13_03.mp4",
+    "score": {
+      "BRISQUE": 26.360167448185692,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.375,
+        2.594,
+        2.219,
+        2.172
+      ],
+      "VIIDEO": 0.5035498142242432,
+      "Qalign": 4.05078125,
+      "ViCLIP": 0.19643725454807281,
+      "MUSIQ": 47.56822523006723
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_13_04",
+    "video_path": "./Video/Hunyuan/L3_13_04.mp4",
+    "score": {
+      "BRISQUE": 30.459764717038997,
+      "RAFT": true,
+      "VideoScore": [
+        3.844,
+        3.688,
+        4.0,
+        3.469,
+        3.734
+      ],
+      "VIIDEO": 0.5601618885993958,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.2395116686820984,
+      "MUSIQ": 68.0447206103112
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_14_01",
+    "video_path": "./Video/Hunyuan/L3_14_01.mp4",
+    "score": {
+      "BRISQUE": 27.258592842038997,
+      "RAFT": true,
+      "VideoScore": [
+        3.312,
+        2.844,
+        3.531,
+        2.859,
+        3.0
+      ],
+      "VIIDEO": 0.511135458946228,
+      "Qalign": 3.7265625,
+      "ViCLIP": 0.1931268274784088,
+      "MUSIQ": 57.40492897979484
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_14_02",
+    "video_path": "./Video/Hunyuan/L3_14_02.mp4",
+    "score": {
+      "BRISQUE": 5.684596038061725,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.297,
+        2.656,
+        2.141,
+        2.125
+      ],
+      "VIIDEO": 0.5647271871566772,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.27550840377807617,
+      "MUSIQ": 62.18364800697516
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_14_03",
+    "video_path": "./Video/Hunyuan/L3_14_03.mp4",
+    "score": {
+      "BRISQUE": 32.414693532896436,
+      "RAFT": true,
+      "VideoScore": [
+        3.922,
+        3.859,
+        4.094,
+        3.844,
+        3.891
+      ],
+      "VIIDEO": 0.6172624230384827,
+      "Qalign": 4.0234375,
+      "ViCLIP": 0.21810150146484375,
+      "MUSIQ": 66.43586005849286
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_14_04",
+    "video_path": "./Video/Hunyuan/L3_14_04.mp4",
+    "score": {
+      "BRISQUE": 20.770485113474948,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.312,
+        2.953,
+        2.422,
+        2.062
+      ],
+      "VIIDEO": 0.5147591829299927,
+      "Qalign": 4.27734375,
+      "ViCLIP": 0.19013825058937073,
+      "MUSIQ": 60.62844016335227
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_15_01",
+    "video_path": "./Video/Hunyuan/L3_15_01.mp4",
+    "score": {
+      "BRISQUE": 3.9438572402827994,
+      "RAFT": false,
+      "VideoScore": [
+        3.172,
+        3.0,
+        3.109,
+        2.859,
+        2.828
+      ],
+      "VIIDEO": 0.5701009035110474,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.21938437223434448,
+      "MUSIQ": 71.60070214389769
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_15_02",
+    "video_path": "./Video/Hunyuan/L3_15_02.mp4",
+    "score": {
+      "BRISQUE": 10.823384939146436,
+      "RAFT": false,
+      "VideoScore": [
+        2.672,
+        2.578,
+        2.703,
+        2.297,
+        2.281
+      ],
+      "VIIDEO": 0.7036960124969482,
+      "Qalign": 4.74609375,
+      "ViCLIP": 0.18420687317848206,
+      "MUSIQ": 68.90230257649067
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_15_03",
+    "video_path": "./Video/Hunyuan/L3_15_03.mp4",
+    "score": {
+      "BRISQUE": 17.416323827317925,
+      "RAFT": true,
+      "VideoScore": [
+        3.875,
+        3.719,
+        4.031,
+        3.547,
+        3.734
+      ],
+      "VIIDEO": 0.6189485788345337,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.23848704993724823,
+      "MUSIQ": 74.94824111560159
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L3_15_04",
+    "video_path": "./Video/Hunyuan/L3_15_04.mp4",
+    "score": {
+      "BRISQUE": -4.460399280894887,
+      "RAFT": false,
+      "VideoScore": [
+        3.312,
+        3.312,
+        3.453,
+        2.953,
+        3.234
+      ],
+      "VIIDEO": 0.542259931564331,
+      "Qalign": 4.25,
+      "ViCLIP": 0.19137971103191376,
+      "MUSIQ": 55.111373018627326
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_01_01",
+    "video_path": "./Video/Hunyuan/L4_01_01.mp4",
+    "score": {
+      "BRISQUE": 13.585664607276602,
+      "RAFT": false,
+      "VideoScore": [
+        3.719,
+        3.578,
+        3.797,
+        3.125,
+        3.5
+      ],
+      "VIIDEO": 0.6181183457374573,
+      "Qalign": 4.453125,
+      "ViCLIP": 0.2345522791147232,
+      "MUSIQ": 68.75196466367107
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_01_02",
+    "video_path": "./Video/Hunyuan/L4_01_02.mp4",
+    "score": {
+      "BRISQUE": 28.29977795309272,
+      "RAFT": true,
+      "VideoScore": [
+        3.531,
+        3.312,
+        3.734,
+        2.969,
+        3.281
+      ],
+      "VIIDEO": 0.4992068409919739,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.3040401041507721,
+      "MUSIQ": 68.83092268636403
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_01_03",
+    "video_path": "./Video/Hunyuan/L4_01_03.mp4",
+    "score": {
+      "BRISQUE": 29.741075247772468,
+      "RAFT": true,
+      "VideoScore": [
+        2.797,
+        2.484,
+        2.844,
+        2.312,
+        2.297
+      ],
+      "VIIDEO": 0.5353627800941467,
+      "Qalign": 4.296875,
+      "ViCLIP": 0.25370222330093384,
+      "MUSIQ": 60.48160042250452
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_01_04",
+    "video_path": "./Video/Hunyuan/L4_01_04.mp4",
+    "score": {
+      "BRISQUE": 32.60145909333032,
+      "RAFT": false,
+      "VideoScore": [
+        3.562,
+        3.453,
+        3.609,
+        2.984,
+        3.406
+      ],
+      "VIIDEO": 0.648584246635437,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.16396138072013855,
+      "MUSIQ": 56.431369655388444
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_02_01",
+    "video_path": "./Video/Hunyuan/L4_02_01.mp4",
+    "score": {
+      "BRISQUE": 1.6246383288675104,
+      "RAFT": true,
+      "VideoScore": [
+        3.078,
+        2.984,
+        3.188,
+        2.688,
+        2.812
+      ],
+      "VIIDEO": 0.34117045998573303,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.23795977234840393,
+      "MUSIQ": 52.134640937994334
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_02_02",
+    "video_path": "./Video/Hunyuan/L4_02_02.mp4",
+    "score": {
+      "BRISQUE": 31.53229667726627,
+      "RAFT": true,
+      "VideoScore": [
+        3.281,
+        2.984,
+        3.5,
+        2.719,
+        2.891
+      ],
+      "VIIDEO": 0.4298746585845947,
+      "Qalign": 4.671875,
+      "ViCLIP": 0.2699785828590393,
+      "MUSIQ": 57.67938699012946
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_02_03",
+    "video_path": "./Video/Hunyuan/L4_02_03.mp4",
+    "score": {
+      "BRISQUE": 2.94354248046875,
+      "RAFT": false,
+      "VideoScore": [
+        3.438,
+        3.375,
+        3.5,
+        3.062,
+        3.312
+      ],
+      "VIIDEO": 0.5133410096168518,
+      "Qalign": 4.61328125,
+      "ViCLIP": 0.21574616432189941,
+      "MUSIQ": 75.59930741491397
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_02_04",
+    "video_path": "./Video/Hunyuan/L4_02_04.mp4",
+    "score": {
+      "BRISQUE": 31.917239859084454,
+      "RAFT": true,
+      "VideoScore": [
+        3.156,
+        2.812,
+        3.297,
+        2.75,
+        2.672
+      ],
+      "VIIDEO": 0.5313291549682617,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.2590063214302063,
+      "MUSIQ": 52.25474614545333
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_03_01",
+    "video_path": "./Video/Hunyuan/L4_03_01.mp4",
+    "score": {
+      "BRISQUE": 44.054079670551396,
+      "RAFT": false,
+      "VideoScore": [
+        3.531,
+        3.531,
+        3.656,
+        3.078,
+        3.516
+      ],
+      "VIIDEO": 0.593037486076355,
+      "Qalign": 4.421875,
+      "ViCLIP": 0.20554012060165405,
+      "MUSIQ": 54.01955098554122
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_03_02",
+    "video_path": "./Video/Hunyuan/L4_03_02.mp4",
+    "score": {
+      "BRISQUE": 30.216132550200154,
+      "RAFT": false,
+      "VideoScore": [
+        3.938,
+        3.875,
+        3.984,
+        3.578,
+        3.906
+      ],
+      "VIIDEO": 0.661979079246521,
+      "Qalign": 4.72265625,
+      "ViCLIP": 0.2861967086791992,
+      "MUSIQ": 70.66627092597898
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_03_03",
+    "video_path": "./Video/Hunyuan/L4_03_03.mp4",
+    "score": {
+      "BRISQUE": 2.4452050579480886,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.656,
+        2.641,
+        2.359,
+        2.281
+      ],
+      "VIIDEO": 0.5833172798156738,
+      "Qalign": 4.46875,
+      "ViCLIP": 0.219093456864357,
+      "MUSIQ": 55.23006849052492
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_03_04",
+    "video_path": "./Video/Hunyuan/L4_03_04.mp4",
+    "score": {
+      "BRISQUE": 23.89354005923941,
+      "RAFT": false,
+      "VideoScore": [
+        2.891,
+        2.969,
+        2.844,
+        2.688,
+        2.812
+      ],
+      "VIIDEO": 0.5955837368965149,
+      "Qalign": 4.4140625,
+      "ViCLIP": 0.2809393107891083,
+      "MUSIQ": 58.29194108316721
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_04_01",
+    "video_path": "./Video/Hunyuan/L4_04_01.mp4",
+    "score": {
+      "BRISQUE": 39.89905239136751,
+      "RAFT": true,
+      "VideoScore": [
+        2.953,
+        2.672,
+        3.062,
+        2.719,
+        2.641
+      ],
+      "VIIDEO": 0.4441380500793457,
+      "Qalign": 4.12890625,
+      "ViCLIP": 0.24463358521461487,
+      "MUSIQ": 41.030788216709105
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_04_02",
+    "video_path": "./Video/Hunyuan/L4_04_02.mp4",
+    "score": {
+      "BRISQUE": 23.82210168759685,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.938,
+        4.062,
+        3.719,
+        3.938
+      ],
+      "VIIDEO": 0.5345994234085083,
+      "Qalign": 4.3984375,
+      "ViCLIP": 0.16256961226463318,
+      "MUSIQ": 69.52581043085776
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_04_03",
+    "video_path": "./Video/Hunyuan/L4_04_03.mp4",
+    "score": {
+      "BRISQUE": 28.714542609600983,
+      "RAFT": true,
+      "VideoScore": [
+        2.844,
+        2.688,
+        2.906,
+        2.484,
+        2.562
+      ],
+      "VIIDEO": 0.5877848863601685,
+      "Qalign": 4.46484375,
+      "ViCLIP": 0.18224656581878662,
+      "MUSIQ": 60.49585884661714
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_04_04",
+    "video_path": "./Video/Hunyuan/L4_04_04.mp4",
+    "score": {
+      "BRISQUE": 28.7103175644047,
+      "RAFT": true,
+      "VideoScore": [
+        3.969,
+        3.812,
+        4.094,
+        3.688,
+        3.766
+      ],
+      "VIIDEO": 0.5867730379104614,
+      "Qalign": 4.5546875,
+      "ViCLIP": 0.19843417406082153,
+      "MUSIQ": 72.89421617492171
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_05_01",
+    "video_path": "./Video/Hunyuan/L4_05_01.mp4",
+    "score": {
+      "BRISQUE": 23.99949305510718,
+      "RAFT": true,
+      "VideoScore": [
+        3.156,
+        2.891,
+        3.469,
+        2.703,
+        2.984
+      ],
+      "VIIDEO": 0.45566850900650024,
+      "Qalign": 4.07421875,
+      "ViCLIP": 0.20866316556930542,
+      "MUSIQ": 64.61412319467087
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_05_02",
+    "video_path": "./Video/Hunyuan/L4_05_02.mp4",
+    "score": {
+      "BRISQUE": 21.913438529022468,
+      "RAFT": false,
+      "VideoScore": [
+        3.719,
+        3.641,
+        3.875,
+        3.594,
+        3.656
+      ],
+      "VIIDEO": 0.6122375726699829,
+      "Qalign": 4.19140625,
+      "ViCLIP": 0.2202080935239792,
+      "MUSIQ": 67.37128927687968
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_05_03",
+    "video_path": "./Video/Hunyuan/L4_05_03.mp4",
+    "score": {
+      "BRISQUE": 30.581399208258006,
+      "RAFT": false,
+      "VideoScore": [
+        3.766,
+        3.781,
+        3.828,
+        3.625,
+        3.703
+      ],
+      "VIIDEO": 0.6280736327171326,
+      "Qalign": 4.83203125,
+      "ViCLIP": 0.2537934184074402,
+      "MUSIQ": 76.16546511058965
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_05_04",
+    "video_path": "./Video/Hunyuan/L4_05_04.mp4",
+    "score": {
+      "BRISQUE": 19.313643526439826,
+      "RAFT": true,
+      "VideoScore": [
+        3.984,
+        3.906,
+        4.031,
+        3.734,
+        3.875
+      ],
+      "VIIDEO": 0.6288553476333618,
+      "Qalign": 4.2265625,
+      "ViCLIP": 0.23889446258544922,
+      "MUSIQ": 72.37090421314082
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_06_01",
+    "video_path": "./Video/Hunyuan/L4_06_01.mp4",
+    "score": {
+      "BRISQUE": 34.799745670034866,
+      "RAFT": false,
+      "VideoScore": [
+        3.172,
+        3.156,
+        3.141,
+        2.969,
+        3.078
+      ],
+      "VIIDEO": 0.5646142363548279,
+      "Qalign": 4.60546875,
+      "ViCLIP": 0.16120600700378418,
+      "MUSIQ": 50.8424964148151
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_06_02",
+    "video_path": "./Video/Hunyuan/L4_06_02.mp4",
+    "score": {
+      "BRISQUE": 32.176840033412965,
+      "RAFT": true,
+      "VideoScore": [
+        4.0,
+        3.922,
+        4.062,
+        3.625,
+        3.938
+      ],
+      "VIIDEO": 0.6327357292175293,
+      "Qalign": 4.7734375,
+      "ViCLIP": 0.2247253656387329,
+      "MUSIQ": 75.5709792838609
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_06_03",
+    "video_path": "./Video/Hunyuan/L4_06_03.mp4",
+    "score": {
+      "BRISQUE": 35.947896657896436,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.531,
+        2.75,
+        2.375,
+        2.344
+      ],
+      "VIIDEO": 0.6714142560958862,
+      "Qalign": 4.03515625,
+      "ViCLIP": 0.1942683905363083,
+      "MUSIQ": 42.156559321505966
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_06_04",
+    "video_path": "./Video/Hunyuan/L4_06_04.mp4",
+    "score": {
+      "BRISQUE": 24.165411830933625,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.375,
+        2.812,
+        2.141,
+        2.219
+      ],
+      "VIIDEO": 0.4887692630290985,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.19119378924369812,
+      "MUSIQ": 65.64053650532873
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_07_01",
+    "video_path": "./Video/Hunyuan/L4_07_01.mp4",
+    "score": {
+      "BRISQUE": 38.44546735779313,
+      "RAFT": false,
+      "VideoScore": [
+        2.734,
+        2.781,
+        2.484,
+        2.453,
+        2.547
+      ],
+      "VIIDEO": 0.57441246509552,
+      "Qalign": 4.5703125,
+      "ViCLIP": 0.2539457678794861,
+      "MUSIQ": 67.6697445703932
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_07_02",
+    "video_path": "./Video/Hunyuan/L4_07_02.mp4",
+    "score": {
+      "BRISQUE": 12.512805781088584,
+      "RAFT": false,
+      "VideoScore": [
+        3.562,
+        3.5,
+        3.594,
+        3.094,
+        3.375
+      ],
+      "VIIDEO": 0.364998459815979,
+      "Qalign": 4.6640625,
+      "ViCLIP": 0.1951064020395279,
+      "MUSIQ": 58.0463459866106
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_07_03",
+    "video_path": "./Video/Hunyuan/L4_07_03.mp4",
+    "score": {
+      "BRISQUE": 18.393721651439826,
+      "RAFT": true,
+      "VideoScore": [
+        3.312,
+        3.25,
+        3.375,
+        2.812,
+        3.109
+      ],
+      "VIIDEO": 0.4553118050098419,
+      "Qalign": 4.56640625,
+      "ViCLIP": 0.21717365086078644,
+      "MUSIQ": 60.36772581368439
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_07_04",
+    "video_path": "./Video/Hunyuan/L4_07_04.mp4",
+    "score": {
+      "BRISQUE": 26.56977327204933,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.641,
+        2.734,
+        2.359,
+        2.562
+      ],
+      "VIIDEO": 0.5174190998077393,
+      "Qalign": 3.599609375,
+      "ViCLIP": 0.18906015157699585,
+      "MUSIQ": 35.2089195409097
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_08_01",
+    "video_path": "./Video/Hunyuan/L4_08_01.mp4",
+    "score": {
+      "BRISQUE": 30.39759158299974,
+      "RAFT": true,
+      "VideoScore": [
+        3.234,
+        2.922,
+        3.25,
+        2.781,
+        2.859
+      ],
+      "VIIDEO": 0.7702374458312988,
+      "Qalign": 4.45703125,
+      "ViCLIP": 0.23650890588760376,
+      "MUSIQ": 70.88899114309264
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_08_02",
+    "video_path": "./Video/Hunyuan/L4_08_02.mp4",
+    "score": {
+      "BRISQUE": 30.380227333258006,
+      "RAFT": false,
+      "VideoScore": [
+        3.812,
+        3.781,
+        3.938,
+        3.734,
+        3.844
+      ],
+      "VIIDEO": 0.6212747693061829,
+      "Qalign": 4.359375,
+      "ViCLIP": 0.2466563582420349,
+      "MUSIQ": 75.66832506164046
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_08_03",
+    "video_path": "./Video/Hunyuan/L4_08_03.mp4",
+    "score": {
+      "BRISQUE": 14.961604851336519,
+      "RAFT": true,
+      "VideoScore": [
+        2.766,
+        2.703,
+        2.734,
+        2.234,
+        2.406
+      ],
+      "VIIDEO": 0.6341093182563782,
+      "Qalign": 4.1484375,
+      "ViCLIP": 0.2796918451786041,
+      "MUSIQ": 65.85325688764084
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_08_04",
+    "video_path": "./Video/Hunyuan/L4_08_04.mp4",
+    "score": {
+      "BRISQUE": 25.969203476078253,
+      "RAFT": true,
+      "VideoScore": [
+        4.031,
+        3.938,
+        4.094,
+        3.766,
+        3.906
+      ],
+      "VIIDEO": 0.5298032164573669,
+      "Qalign": 4.73828125,
+      "ViCLIP": 0.21249893307685852,
+      "MUSIQ": 71.37553071581628
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_09_01",
+    "video_path": "./Video/Hunyuan/L4_09_01.mp4",
+    "score": {
+      "BRISQUE": 4.026183073185692,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.594,
+        2.672,
+        2.422,
+        2.25
+      ],
+      "VIIDEO": 0.6750114560127258,
+      "Qalign": 4.65625,
+      "ViCLIP": 0.23804980516433716,
+      "MUSIQ": 74.38896059398809
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_09_02",
+    "video_path": "./Video/Hunyuan/L4_09_02.mp4",
+    "score": {
+      "BRISQUE": 13.003036120706353,
+      "RAFT": true,
+      "VideoScore": [
+        2.828,
+        2.859,
+        2.828,
+        2.688,
+        2.688
+      ],
+      "VIIDEO": 0.44932955503463745,
+      "Qalign": 4.37890625,
+      "ViCLIP": 0.21059869229793549,
+      "MUSIQ": 60.29042472524091
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_09_03",
+    "video_path": "./Video/Hunyuan/L4_09_03.mp4",
+    "score": {
+      "BRISQUE": 26.05131139834065,
+      "RAFT": false,
+      "VideoScore": [
+        3.812,
+        3.688,
+        3.969,
+        3.375,
+        3.688
+      ],
+      "VIIDEO": 0.5550061464309692,
+      "Qalign": 4.64453125,
+      "ViCLIP": 0.21515406668186188,
+      "MUSIQ": 63.11900096294308
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_09_04",
+    "video_path": "./Video/Hunyuan/L4_09_04.mp4",
+    "score": {
+      "BRISQUE": 35.58437328496255,
+      "RAFT": true,
+      "VideoScore": [
+        2.75,
+        2.797,
+        2.688,
+        2.672,
+        2.672
+      ],
+      "VIIDEO": 0.4859151840209961,
+      "Qalign": 4.5390625,
+      "ViCLIP": 0.21798627078533173,
+      "MUSIQ": 54.47328624252445
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_10_01",
+    "video_path": "./Video/Hunyuan/L4_10_01.mp4",
+    "score": {
+      "BRISQUE": 36.802126545551396,
+      "RAFT": true,
+      "VideoScore": [
+        2.703,
+        2.312,
+        2.797,
+        2.266,
+        2.156
+      ],
+      "VIIDEO": 0.49626782536506653,
+      "Qalign": 4.578125,
+      "ViCLIP": 0.2112301141023636,
+      "MUSIQ": 60.141814586544825
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_10_02",
+    "video_path": "./Video/Hunyuan/L4_10_02.mp4",
+    "score": {
+      "BRISQUE": 15.333671128454288,
+      "RAFT": false,
+      "VideoScore": [
+        3.391,
+        3.188,
+        3.5,
+        3.031,
+        3.156
+      ],
+      "VIIDEO": 0.6633285880088806,
+      "Qalign": 4.328125,
+      "ViCLIP": 0.23976574838161469,
+      "MUSIQ": 72.02057307219702
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_10_03",
+    "video_path": "./Video/Hunyuan/L4_10_03.mp4",
+    "score": {
+      "BRISQUE": 27.46298898744189,
+      "RAFT": true,
+      "VideoScore": [
+        3.938,
+        3.828,
+        4.0,
+        3.531,
+        3.812
+      ],
+      "VIIDEO": 0.6459130644798279,
+      "Qalign": 4.5234375,
+      "ViCLIP": 0.25125738978385925,
+      "MUSIQ": 66.89800281367026
+    }
+  },
+  {
+    "model": "Hunyuan",
+    "config_id": "L4_10_04",
+    "video_path": "./Video/Hunyuan/L4_10_04.mp4",
+    "score": {
+      "BRISQUE": 33.3436183456547,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.359,
+        2.766,
+        2.453,
+        2.25
+      ],
+      "VIIDEO": 0.64360511302948,
+      "Qalign": 4.41796875,
+      "ViCLIP": 0.20671691000461578,
+      "MUSIQ": 64.13101940312661
+    }
+  }
+]

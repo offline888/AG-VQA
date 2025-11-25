@@ -1,0 +1,3602 @@
+[
+  {
+    "score": 0.6704697608947754,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7471609115600586,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5811512470245361,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6261221766471863,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7323755025863647,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7266939878463745,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7364609837532043,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7120454907417297,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6395329833030701,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6246321201324463,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6499778628349304,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6657940745353699,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.705304741859436,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.648247241973877,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6179690361022949,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_15.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7248547077178955,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_16.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.4789392948150635,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_17.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8143414258956909,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B11_18.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7707045078277588,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6392970085144043,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6572214961051941,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7078604102134705,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5900496244430542,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.541287899017334,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7002663016319275,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6734889149665833,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5516355037689209,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.652519941329956,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6903457045555115,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5959689617156982,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B12_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7164925932884216,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6924212574958801,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6671141982078552,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6787397265434265,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7280563116073608,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7383581399917603,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8081864714622498,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6778351068496704,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.66066575050354,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6716300845146179,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5422860383987427,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7717132568359375,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B13_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6150804758071899,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.664134681224823,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7605825066566467,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6320098638534546,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7354729771614075,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6945986151695251,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5350013971328735,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6624610424041748,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.4592801630496979,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7048006057739258,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.641951858997345,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5380794405937195,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7466045022010803,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5723521709442139,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8364212512969971,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B14_15.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.612163245677948,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7965307831764221,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5890884399414062,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6921324133872986,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.749991238117218,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7657822370529175,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6540139317512512,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6426780819892883,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.613082230091095,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5855653285980225,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7266565561294556,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6925752758979797,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B15_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6445545554161072,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8057886362075806,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6098570227622986,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8350421786308289,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5960960984230042,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8014911413192749,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7364311814308167,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5519320964813232,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7342784404754639,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6382618546485901,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6792165637016296,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6755639910697937,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8179190158843994,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6814382672309875,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B21_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.629573404788971,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6707674264907837,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6588507294654846,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8422884941101074,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6703579425811768,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6655995845794678,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6475186944007874,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7114130854606628,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.632202684879303,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5706608891487122,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7124959826469421,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6433547735214233,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B22_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6399630308151245,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6607504487037659,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7380902767181396,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6696706414222717,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6857337951660156,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6253823637962341,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6706097722053528,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6492640376091003,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5515983700752258,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.633627712726593,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7137467861175537,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5017718076705933,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6639502048492432,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6997165083885193,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B31_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7023182511329651,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7527254223823547,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7798176407814026,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6875450611114502,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6264609694480896,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7463394403457642,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7239969372749329,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6940926909446716,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8383813500404358,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5478585958480835,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7150484323501587,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B32_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7860631942749023,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5902647972106934,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6185362935066223,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7112738490104675,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7763392925262451,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7087597250938416,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6545316576957703,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.790658712387085,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6767734885215759,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8487966060638428,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B33_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.672842264175415,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.590425968170166,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7595035433769226,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7480485439300537,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6273742318153381,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6420496702194214,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6474528312683105,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7430638670921326,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6930158138275146,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6699086427688599,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B34_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.714648425579071,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8456531167030334,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7126204371452332,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5510177612304688,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6526453495025635,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6681340932846069,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7381168603897095,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5641396045684814,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6320424675941467,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7570597529411316,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.658229649066925,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.63161301612854,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7563193440437317,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B41_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7918766140937805,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6452608108520508,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6304433345794678,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6756230592727661,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7079779505729675,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6185250878334045,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6458486318588257,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6472093462944031,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.649594783782959,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6453819274902344,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5373956561088562,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6049874424934387,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B42_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7194077372550964,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7111958861351013,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6092393398284912,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6496579051017761,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7436463832855225,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5873703956604004,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.4945395886898041,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5784226655960083,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6108338236808777,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6688591837882996,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7399986982345581,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B43_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7378836274147034,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7769513726234436,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7800694704055786,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5847901105880737,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7876455783843994,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6754746437072754,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7186717987060547,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6706308126449585,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7136514186859131,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6944102048873901,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7413753271102905,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6254419684410095,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B51_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6781975626945496,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7522379159927368,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6264437437057495,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7337856292724609,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5984178185462952,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7002463936805725,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7439418435096741,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6166844367980957,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6640498042106628,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7638130784034729,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8001132607460022,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6746839284896851,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/B52_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6606534123420715,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_01_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6412961483001709,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_01_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8157857656478882,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_01_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6385983824729919,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_01_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7823294401168823,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_02_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.630723774433136,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_02_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5729377269744873,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_02_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6864010691642761,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_02_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5414500832557678,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_03_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7107768058776855,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_03_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6924973726272583,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_03_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7198231816291809,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_03_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8121182322502136,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_04_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7310808300971985,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_04_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5934470295906067,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_04_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6514054536819458,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_04_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6216731071472168,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_05_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.48787200450897217,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_05_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5547826290130615,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_05_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6855030655860901,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_05_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6977594494819641,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_06_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8002500534057617,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_06_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.66449373960495,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_06_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8474035859107971,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_06_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.631050169467926,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_07_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7535380721092224,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_07_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5510116815567017,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_07_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7016710638999939,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_07_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8243435621261597,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_08_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6297391057014465,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_08_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5675249099731445,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_08_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5972123146057129,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_08_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7220665812492371,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_09_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7232170701026917,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_09_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5802389979362488,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_09_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6822514533996582,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_09_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6661078333854675,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_10_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6577921509742737,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_10_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.4322495460510254,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_10_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5811700224876404,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_10_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6803962588310242,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_11_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6471704244613647,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_11_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8432844877243042,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_11_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6827237010002136,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_11_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6431170105934143,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_12_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7043904066085815,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_12_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7728114724159241,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_12_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6207048892974854,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_12_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7012439370155334,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_13_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6453876495361328,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_13_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6599072217941284,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_13_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7872046232223511,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_13_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5714858174324036,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_14_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7605807185173035,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_14_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6996599435806274,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_14_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6601505279541016,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_14_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6683699488639832,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_15_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.74755859375,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_15_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7648770809173584,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_15_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5865870118141174,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_15_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7958987355232239,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_16_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7839106321334839,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_16_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7220522165298462,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_16_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7031354904174805,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_16_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7975967526435852,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_17_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6321540474891663,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_17_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6045671701431274,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_17_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6135878562927246,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_17_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6044774651527405,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_18_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5657684803009033,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_18_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6302313208580017,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_18_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6288769245147705,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_18_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6823868751525879,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_19_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6060460805892944,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_19_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6734970808029175,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_19_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6952342391014099,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_19_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7030071020126343,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_20_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5740305781364441,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_20_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6822729110717773,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_20_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.645718514919281,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_20_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7868313193321228,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_21_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6792092323303223,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_21_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7599759101867676,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_21_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5499534606933594,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_21_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7674628496170044,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_22_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7728474140167236,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_22_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8125312924385071,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_22_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6170830130577087,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_22_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5857666730880737,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_23_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.732908308506012,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_23_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7270472049713135,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_23_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.632760763168335,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_23_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8506636619567871,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_24_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5639252662658691,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_24_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6354783773422241,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_24_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5616649389266968,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_24_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5891268253326416,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_25_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5897828340530396,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_25_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5710079669952393,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_25_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7472367286682129,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L2_25_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6322477459907532,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_01_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.671175479888916,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_01_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8051292300224304,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_01_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7566227912902832,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_01_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7151925563812256,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_02_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.567197322845459,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_02_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6778180599212646,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_02_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7003883123397827,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_02_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6259124875068665,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_03_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.668021559715271,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_03_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6356762647628784,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_03_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7409622073173523,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_03_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7254486680030823,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_04_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7925620675086975,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_04_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6826459169387817,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_04_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6678021550178528,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_04_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5629380345344543,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_05_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6085677742958069,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_05_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6040757894515991,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_05_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.793067216873169,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_05_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6595804691314697,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_06_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6133829355239868,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_06_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7501209378242493,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_06_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.779278576374054,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_06_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7324945330619812,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_07_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6432663798332214,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_07_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7875856161117554,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_07_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.819025993347168,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_07_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8189637064933777,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_08_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8415729403495789,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_08_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5731092691421509,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_08_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7131273150444031,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_08_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5858569145202637,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_09_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.555794358253479,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_09_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6333264112472534,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_09_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7890565991401672,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_09_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7634626030921936,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_10_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6539931297302246,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_10_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7866348624229431,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_10_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5335396528244019,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_10_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5795454978942871,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_11_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6398784518241882,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_11_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5583910346031189,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_11_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7249549627304077,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_11_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6723446846008301,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_12_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5644860863685608,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_12_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7279489040374756,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_12_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5560331344604492,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_12_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6919612884521484,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_13_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6541270613670349,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_13_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6410137414932251,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_13_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7560315132141113,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_13_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7203996777534485,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_14_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6305638551712036,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_14_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7612242102622986,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_14_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6519885063171387,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_14_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.661673903465271,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_15_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5480230450630188,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_15_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.700738251209259,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_15_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6278989911079407,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L3_15_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6992347240447998,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_01_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5936886668205261,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_01_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6622115969657898,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_01_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7326942086219788,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_01_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6243584752082825,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_02_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6443355083465576,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_02_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.775165319442749,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_02_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7770998477935791,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_02_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.547852098941803,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_03_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6779338717460632,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_03_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6207466721534729,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_03_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6914293169975281,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_03_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7418310642242432,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_04_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5342979431152344,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_04_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.753353476524353,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_04_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8443796634674072,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_04_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7979212999343872,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_05_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8480179309844971,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_05_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5962831377983093,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_05_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6229567527770996,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_05_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7058306336402893,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_06_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7824921011924744,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_06_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6714490652084351,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_06_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8449746370315552,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_06_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6958594918251038,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_07_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5674254894256592,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_07_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7309834361076355,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_07_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5705848932266235,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_07_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7050298452377319,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_08_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.8182112574577332,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_08_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6134820580482483,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_08_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.740103006362915,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_08_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.851093590259552,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_09_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6406778693199158,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_09_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.5994184017181396,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_09_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.6166022419929504,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_09_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7574016451835632,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_10_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7243295311927795,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_10_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.727931022644043,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_10_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  },
+  {
+    "score": 0.7187997102737427,
+    "model_name": "Opensora",
+    "video_path": "./Video/Opensora/L4_10_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 274
+    }
+  }
+]

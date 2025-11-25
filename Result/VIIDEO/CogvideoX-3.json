@@ -1,0 +1,3602 @@
+[
+  {
+    "score": 0.5304639339447021,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48703762888908386,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4881627857685089,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47039803862571716,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5563807487487793,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6625632047653198,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5814648866653442,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49286386370658875,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49771496653556824,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.43298792839050293,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6163275837898254,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.531667947769165,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.3754071593284607,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6431721448898315,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5007380247116089,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_15.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.38125333189964294,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_16.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5085901618003845,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_17.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6616670489311218,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B11_18.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.679172694683075,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4197002053260803,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.442303329706192,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.44140923023223877,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5335856676101685,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5732895135879517,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5759876370429993,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49617764353752136,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5167792439460754,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.476321816444397,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6292412281036377,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5107078552246094,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B12_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5863795280456543,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6701298952102661,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5192311406135559,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47122061252593994,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5620362162590027,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6209126710891724,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5472478270530701,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5085062980651855,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5610154271125793,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5470795631408691,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5896828770637512,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.41914933919906616,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B13_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4994870722293854,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4595326781272888,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5057689547538757,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5002415776252747,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5984026193618774,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5081709623336792,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6255630850791931,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5319881439208984,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4240591824054718,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5328971147537231,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6656386256217957,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.447719007730484,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6157607436180115,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48228663206100464,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5502682328224182,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B14_15.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5115162134170532,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6128230690956116,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5373841524124146,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5251244902610779,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6556378602981567,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6209927797317505,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6145278215408325,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5669789910316467,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5014719367027283,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.600744366645813,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4073199927806854,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.437645822763443,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B15_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6220391988754272,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6152772307395935,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4725763201713562,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5473330616950989,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47636544704437256,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.555863082408905,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.724624752998352,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49742448329925537,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6180758476257324,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5932973623275757,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5286175608634949,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5432149171829224,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.7123467326164246,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5834943652153015,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B21_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5110536217689514,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.533930778503418,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5203071236610413,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6288617253303528,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5541978478431702,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5073156952857971,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5008357763290405,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5174371004104614,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5514422059059143,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4744211435317993,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48773443698883057,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5338883399963379,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B22_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.43631619215011597,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.46369385719299316,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.51624596118927,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5345859527587891,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6168792843818665,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.46500515937805176,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48587697744369507,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5113101601600647,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.3305060565471649,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5510160326957703,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4750560522079468,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48292073607444763,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49838000535964966,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.44865673780441284,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B31_14.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5331178903579712,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.42461907863616943,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4750654101371765,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5291074514389038,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5356980562210083,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5563717484474182,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4856368899345398,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5652902126312256,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47263407707214355,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49919071793556213,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5831695795059204,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B32_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5292655825614929,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5677968263626099,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5060269832611084,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5731863975524902,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6303688883781433,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5134627223014832,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5824897289276123,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5869793891906738,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5391550660133362,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48529544472694397,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B33_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5956727266311646,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5284165740013123,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4987298250198364,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5040434002876282,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.44195252656936646,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48321160674095154,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6000339984893799,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5900227427482605,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4577735364437103,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5314436554908752,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B34_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4371379017829895,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6156132817268372,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.56541907787323,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.460813045501709,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5678417086601257,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.3492550253868103,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6104903817176819,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5578441619873047,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4768495559692383,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5004177689552307,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49223586916923523,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5363037586212158,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5788501501083374,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B41_13.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5813791751861572,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.3345354199409485,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4682890474796295,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5124317407608032,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4398849904537201,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49622842669487,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.3963859975337982,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47962290048599243,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.30812737345695496,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4694609045982361,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5738896727561951,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47853896021842957,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B42_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5089784860610962,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6610623002052307,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5835363864898682,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.39713796973228455,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5717824101448059,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4939758777618408,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4082265794277191,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5770143270492554,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5375614762306213,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5582972168922424,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5485398173332214,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B43_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49295175075531006,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5438671112060547,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5692143440246582,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6191915273666382,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5643272399902344,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5657665729522705,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6404310464859009,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6938410997390747,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5647332668304443,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5727632641792297,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4514526426792145,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5493529438972473,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B51_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4453796148300171,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5588603019714355,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4821816682815552,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.496337890625,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5592286586761475,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_05.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.42327892780303955,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_06.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4910004734992981,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_07.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.569114625453949,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_08.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5927043557167053,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_09.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6007728576660156,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_10.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6814863681793213,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_11.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5336345434188843,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/B52_12.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6507115960121155,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_01_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5088863372802734,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_01_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5702503323554993,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_01_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.38628003001213074,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_01_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6008410453796387,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_02_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6422250866889954,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_02_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5658709406852722,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_02_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5815048813819885,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_02_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4212561249732971,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_03_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.40634387731552124,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_03_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5441661477088928,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_03_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49955832958221436,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_03_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6400244832038879,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_04_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5256531834602356,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_04_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5629264712333679,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_04_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5746324062347412,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_04_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6415621638298035,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_05_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4854770600795746,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_05_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47073227167129517,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_05_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6073296070098877,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_05_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5918780565261841,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_06_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.45750901103019714,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_06_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.574129045009613,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_06_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5643972158432007,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_06_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49403584003448486,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_07_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5157713294029236,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_07_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.559812068939209,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_07_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4703477621078491,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_07_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5897319316864014,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_08_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5645637512207031,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_08_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5024073123931885,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_08_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6290746927261353,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_08_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4674822688102722,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_09_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5428572297096252,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_09_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5028671622276306,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_09_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5281194448471069,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_09_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6057253479957581,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_10_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4888686537742615,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_10_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47076815366744995,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_10_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6414706707000732,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_10_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49249035120010376,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_11_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5226201415061951,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_11_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6163308024406433,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_11_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6271402835845947,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_11_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5523005723953247,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_12_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5602786540985107,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_12_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.483978807926178,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_12_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4812271296977997,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_12_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6423414349555969,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_13_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.44454190135002136,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_13_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.46848589181900024,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_13_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6498695015907288,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_13_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4876803159713745,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_14_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5065441131591797,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_14_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5656298995018005,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_14_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49970030784606934,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_14_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6581445932388306,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_15_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4883792996406555,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_15_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.567974328994751,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_15_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6934895515441895,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_15_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6731696128845215,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_16_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6789114475250244,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_16_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4061504304409027,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_16_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.42389973998069763,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_16_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.7392467856407166,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_17_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5266906023025513,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_17_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.30446577072143555,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_17_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5548977851867676,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_17_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5339669585227966,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_18_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5818493962287903,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_18_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4310540556907654,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_18_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4511272609233856,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_18_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4989335536956787,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_19_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4872604012489319,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_19_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5294389724731445,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_19_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48689141869544983,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_19_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.7347450256347656,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_20_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.470487117767334,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_20_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5111214518547058,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_20_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5560445785522461,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_20_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5061569809913635,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_21_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5820311307907104,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_21_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5662310719490051,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_21_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4097084701061249,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_21_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5903592705726624,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_22_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5787854194641113,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_22_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5449943542480469,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_22_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.45479798316955566,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_22_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5727569460868835,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_23_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49419569969177246,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_23_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.41321268677711487,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_23_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5593346953392029,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_23_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48102670907974243,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_24_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5987139940261841,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_24_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4563198387622833,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_24_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4967982769012451,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_24_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5237555503845215,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_25_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.528466522693634,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_25_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.41401195526123047,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_25_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5150221586227417,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L2_25_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5590002536773682,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_01_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.37054792046546936,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_01_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5602579116821289,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_01_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.46930405497550964,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_01_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5098970532417297,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_02_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47760048508644104,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_02_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5573866963386536,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_02_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5174417495727539,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_02_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48129841685295105,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_03_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5534969568252563,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_03_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5497147440910339,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_03_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5691661238670349,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_03_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6014513373374939,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_04_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5780465602874756,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_04_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4696519374847412,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_04_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5282664895057678,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_04_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6857032775878906,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_05_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5444355010986328,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_05_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5510731339454651,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_05_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6824918985366821,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_05_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5468798875808716,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_06_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6731339693069458,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_06_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4618934392929077,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_06_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6065607070922852,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_06_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5365960597991943,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_07_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6079766750335693,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_07_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5799148678779602,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_07_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6135154366493225,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_07_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.551274299621582,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_08_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6009954214096069,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_08_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49295204877853394,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_08_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5760047435760498,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_08_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.42054155468940735,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_09_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.525253415107727,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_09_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.44714415073394775,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_09_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.543158233165741,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_09_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4323102831840515,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_10_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4449324607849121,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_10_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5530391931533813,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_10_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5614157319068909,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_10_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5080019235610962,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_11_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5197214484214783,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_11_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5573632717132568,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_11_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5114718675613403,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_11_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49173709750175476,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_12_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4208495318889618,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_12_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5311112999916077,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_12_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5486905574798584,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_12_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6013708710670471,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_13_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.56038498878479,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_13_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5582609176635742,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_13_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6821186542510986,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_13_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.49580812454223633,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_14_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4969024956226349,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_14_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5294497013092041,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_14_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5830219388008118,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_14_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47103023529052734,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_15_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5490840673446655,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_15_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5238215327262878,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_15_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.576867401599884,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L3_15_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5419197678565979,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_01_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5623890161514282,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_01_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5726552605628967,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_01_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5830367803573608,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_01_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.45952051877975464,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_02_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5871658325195312,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_02_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4603429436683655,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_02_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5452619791030884,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_02_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48915335536003113,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_03_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6225265264511108,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_03_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.7080161571502686,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_03_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.48207810521125793,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_03_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4315745532512665,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_04_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5269538164138794,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_04_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6261146664619446,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_04_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5125113129615784,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_04_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5257672667503357,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_05_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5032749176025391,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_05_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5253636837005615,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_05_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.644768476486206,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_05_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4533495008945465,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_06_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6887849569320679,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_06_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5146979093551636,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_06_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5632752180099487,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_06_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5406249165534973,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_07_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5216235518455505,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_07_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6234414577484131,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_07_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.4662555456161499,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_07_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.7243661284446716,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_08_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6821986436843872,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_08_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5693419575691223,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_08_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5355154275894165,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_08_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6577560901641846,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_09_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5100099444389343,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_09_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.47338244318962097,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_09_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6268192529678345,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_09_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.5062469840049744,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_10_01.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6813830137252808,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_10_02.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.6509939432144165,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_10_03.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  },
+  {
+    "score": 0.44103866815567017,
+    "model_name": "CogvideoX-3",
+    "video_path": "./Video/CogvideoX-3/L4_10_04.mp4",
+    "resized_size": {
+      "width": 480,
+      "height": 270
+    }
+  }
+]

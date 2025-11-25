@@ -1,0 +1,1607 @@
+{
+    "imaging_quality": [
+        0.521115386342198,
+        [
+            {
+                "video_path": "./Video/LTX/B34_07.mp4",
+                "video_results": 64.80234600452894
+            },
+            {
+                "video_path": "./Video/LTX/B15_11.mp4",
+                "video_results": 69.84439044052296
+            },
+            {
+                "video_path": "./Video/LTX/L2_07_04.mp4",
+                "video_results": 53.57789204629619
+            },
+            {
+                "video_path": "./Video/LTX/B42_05.mp4",
+                "video_results": 63.7770091281848
+            },
+            {
+                "video_path": "./Video/LTX/B42_01.mp4",
+                "video_results": 62.43528876143895
+            },
+            {
+                "video_path": "./Video/LTX/L4_08_02.mp4",
+                "video_results": 77.59249903646747
+            },
+            {
+                "video_path": "./Video/LTX/B15_03.mp4",
+                "video_results": 30.899402639839085
+            },
+            {
+                "video_path": "./Video/LTX/L3_05_04.mp4",
+                "video_results": 62.6178378844529
+            },
+            {
+                "video_path": "./Video/LTX/B31_03.mp4",
+                "video_results": 58.970297481236834
+            },
+            {
+                "video_path": "./Video/LTX/B21_12.mp4",
+                "video_results": 66.25380149584139
+            },
+            {
+                "video_path": "./Video/LTX/L2_10_01.mp4",
+                "video_results": 36.14043512237206
+            },
+            {
+                "video_path": "./Video/LTX/L2_18_01.mp4",
+                "video_results": 64.58400473433935
+            },
+            {
+                "video_path": "./Video/LTX/L3_15_03.mp4",
+                "video_results": 63.70786148242736
+            },
+            {
+                "video_path": "./Video/LTX/B14_02.mp4",
+                "video_results": 40.726696485883735
+            },
+            {
+                "video_path": "./Video/LTX/B51_08.mp4",
+                "video_results": 56.30258770203322
+            },
+            {
+                "video_path": "./Video/LTX/B21_01.mp4",
+                "video_results": 65.07655334472656
+            },
+            {
+                "video_path": "./Video/LTX/L2_09_03.mp4",
+                "video_results": 59.244358277052974
+            },
+            {
+                "video_path": "./Video/LTX/B33_02.mp4",
+                "video_results": 74.16277561830671
+            },
+            {
+                "video_path": "./Video/LTX/L3_14_04.mp4",
+                "video_results": 62.20378648565057
+            },
+            {
+                "video_path": "./Video/LTX/B51_04.mp4",
+                "video_results": 39.340993945518235
+            },
+            {
+                "video_path": "./Video/LTX/B33_10.mp4",
+                "video_results": 71.35177003667596
+            },
+            {
+                "video_path": "./Video/LTX/L4_04_04.mp4",
+                "video_results": 60.45412072170986
+            },
+            {
+                "video_path": "./Video/LTX/L4_02_04.mp4",
+                "video_results": 69.08777185504356
+            },
+            {
+                "video_path": "./Video/LTX/B22_11.mp4",
+                "video_results": 33.73777657412411
+            },
+            {
+                "video_path": "./Video/LTX/B52_12.mp4",
+                "video_results": 48.462024260103036
+            },
+            {
+                "video_path": "./Video/LTX/L2_14_04.mp4",
+                "video_results": 40.650292128659366
+            },
+            {
+                "video_path": "./Video/LTX/B13_08.mp4",
+                "video_results": 60.5590865745973
+            },
+            {
+                "video_path": "./Video/LTX/L3_06_03.mp4",
+                "video_results": 62.28092420770881
+            },
+            {
+                "video_path": "./Video/LTX/L3_01_01.mp4",
+                "video_results": 69.65448203783357
+            },
+            {
+                "video_path": "./Video/LTX/B42_10.mp4",
+                "video_results": 67.0766432687138
+            },
+            {
+                "video_path": "./Video/LTX/B14_13.mp4",
+                "video_results": 56.57790773370293
+            },
+            {
+                "video_path": "./Video/LTX/L3_10_04.mp4",
+                "video_results": 62.25355894110176
+            },
+            {
+                "video_path": "./Video/LTX/B41_10.mp4",
+                "video_results": 70.3721880966358
+            },
+            {
+                "video_path": "./Video/LTX/L4_03_03.mp4",
+                "video_results": 59.55671164694797
+            },
+            {
+                "video_path": "./Video/LTX/L2_12_04.mp4",
+                "video_results": 44.25442256284564
+            },
+            {
+                "video_path": "./Video/LTX/L2_22_04.mp4",
+                "video_results": 59.617483846257244
+            },
+            {
+                "video_path": "./Video/LTX/L2_20_02.mp4",
+                "video_results": 78.21298740686996
+            },
+            {
+                "video_path": "./Video/LTX/L2_20_01.mp4",
+                "video_results": 69.9051108199559
+            },
+            {
+                "video_path": "./Video/LTX/B43_05.mp4",
+                "video_results": 66.74685407488533
+            },
+            {
+                "video_path": "./Video/LTX/L4_06_02.mp4",
+                "video_results": 78.10383263062894
+            },
+            {
+                "video_path": "./Video/LTX/L2_25_04.mp4",
+                "video_results": 22.99675817168161
+            },
+            {
+                "video_path": "./Video/LTX/L2_04_01.mp4",
+                "video_results": 70.7745049294461
+            },
+            {
+                "video_path": "./Video/LTX/L2_01_03.mp4",
+                "video_results": 75.7813599832942
+            },
+            {
+                "video_path": "./Video/LTX/B11_12.mp4",
+                "video_results": 30.49462183405844
+            },
+            {
+                "video_path": "./Video/LTX/B33_08.mp4",
+                "video_results": 45.15086017565781
+            },
+            {
+                "video_path": "./Video/LTX/L2_21_03.mp4",
+                "video_results": 62.84505231192942
+            },
+            {
+                "video_path": "./Video/LTX/B11_16.mp4",
+                "video_results": 23.970123269584743
+            },
+            {
+                "video_path": "./Video/LTX/B11_08.mp4",
+                "video_results": 30.189407562941646
+            },
+            {
+                "video_path": "./Video/LTX/L2_15_04.mp4",
+                "video_results": 65.60654428032007
+            },
+            {
+                "video_path": "./Video/LTX/B52_05.mp4",
+                "video_results": 70.40399907144268
+            },
+            {
+                "video_path": "./Video/LTX/B22_01.mp4",
+                "video_results": 57.73468441909618
+            },
+            {
+                "video_path": "./Video/LTX/L3_09_04.mp4",
+                "video_results": 66.82481405708228
+            },
+            {
+                "video_path": "./Video/LTX/B14_01.mp4",
+                "video_results": 53.58233724015482
+            },
+            {
+                "video_path": "./Video/LTX/L2_13_02.mp4",
+                "video_results": 20.67323241073094
+            },
+            {
+                "video_path": "./Video/LTX/L2_19_03.mp4",
+                "video_results": 57.64529376083546
+            },
+            {
+                "video_path": "./Video/LTX/B12_05.mp4",
+                "video_results": 31.96415234683605
+            },
+            {
+                "video_path": "./Video/LTX/B31_05.mp4",
+                "video_results": 66.68181322933583
+            },
+            {
+                "video_path": "./Video/LTX/L3_01_02.mp4",
+                "video_results": 33.96177193288053
+            },
+            {
+                "video_path": "./Video/LTX/L3_02_01.mp4",
+                "video_results": 52.000324849332316
+            },
+            {
+                "video_path": "./Video/LTX/B51_03.mp4",
+                "video_results": 54.07466661260369
+            },
+            {
+                "video_path": "./Video/LTX/L2_10_03.mp4",
+                "video_results": 46.403398706671894
+            },
+            {
+                "video_path": "./Video/LTX/L3_12_04.mp4",
+                "video_results": 64.37005203761412
+            },
+            {
+                "video_path": "./Video/LTX/L2_03_03.mp4",
+                "video_results": 62.60119838928908
+            },
+            {
+                "video_path": "./Video/LTX/L3_04_02.mp4",
+                "video_results": 72.90990850898658
+            },
+            {
+                "video_path": "./Video/LTX/L3_05_03.mp4",
+                "video_results": 55.986128732059775
+            },
+            {
+                "video_path": "./Video/LTX/B13_12.mp4",
+                "video_results": 68.26942983905921
+            },
+            {
+                "video_path": "./Video/LTX/L4_05_01.mp4",
+                "video_results": 74.33341637086332
+            },
+            {
+                "video_path": "./Video/LTX/L3_04_04.mp4",
+                "video_results": 50.12981564811106
+            },
+            {
+                "video_path": "./Video/LTX/L3_14_02.mp4",
+                "video_results": 61.343534962514816
+            },
+            {
+                "video_path": "./Video/LTX/L2_17_02.mp4",
+                "video_results": 64.09836089744996
+            },
+            {
+                "video_path": "./Video/LTX/L4_07_01.mp4",
+                "video_results": 54.13097668765636
+            },
+            {
+                "video_path": "./Video/LTX/B12_07.mp4",
+                "video_results": 23.126394314712353
+            },
+            {
+                "video_path": "./Video/LTX/L3_08_04.mp4",
+                "video_results": 62.15805358029483
+            },
+            {
+                "video_path": "./Video/LTX/B33_04.mp4",
+                "video_results": 65.59369895163547
+            },
+            {
+                "video_path": "./Video/LTX/L3_14_01.mp4",
+                "video_results": 58.52372634544801
+            },
+            {
+                "video_path": "./Video/LTX/B51_05.mp4",
+                "video_results": 55.5219132498409
+            },
+            {
+                "video_path": "./Video/LTX/B21_08.mp4",
+                "video_results": 23.333340269795965
+            },
+            {
+                "video_path": "./Video/LTX/L2_06_02.mp4",
+                "video_results": 75.30860703714778
+            },
+            {
+                "video_path": "./Video/LTX/L4_08_01.mp4",
+                "video_results": 55.93736682848984
+            },
+            {
+                "video_path": "./Video/LTX/L3_05_02.mp4",
+                "video_results": 28.421855155001865
+            },
+            {
+                "video_path": "./Video/LTX/B13_10.mp4",
+                "video_results": 48.92584211370918
+            },
+            {
+                "video_path": "./Video/LTX/B21_02.mp4",
+                "video_results": 65.9463441827324
+            },
+            {
+                "video_path": "./Video/LTX/B32_11.mp4",
+                "video_results": 63.19899634029088
+            },
+            {
+                "video_path": "./Video/LTX/B32_04.mp4",
+                "video_results": 27.256811699170743
+            },
+            {
+                "video_path": "./Video/LTX/B22_10.mp4",
+                "video_results": 24.557550215989018
+            },
+            {
+                "video_path": "./Video/LTX/L4_04_02.mp4",
+                "video_results": 58.177895063764595
+            },
+            {
+                "video_path": "./Video/LTX/L2_16_02.mp4",
+                "video_results": 62.222478245081525
+            },
+            {
+                "video_path": "./Video/LTX/L2_05_02.mp4",
+                "video_results": 48.217944798844584
+            },
+            {
+                "video_path": "./Video/LTX/L3_10_03.mp4",
+                "video_results": 65.96717693028825
+            },
+            {
+                "video_path": "./Video/LTX/L4_05_04.mp4",
+                "video_results": 39.58748783154434
+            },
+            {
+                "video_path": "./Video/LTX/B33_01.mp4",
+                "video_results": 58.637474060058594
+            },
+            {
+                "video_path": "./Video/LTX/B11_10.mp4",
+                "video_results": 74.60341995753599
+            },
+            {
+                "video_path": "./Video/LTX/L3_13_04.mp4",
+                "video_results": 74.06514619977287
+            },
+            {
+                "video_path": "./Video/LTX/L2_25_02.mp4",
+                "video_results": 61.07951582147834
+            },
+            {
+                "video_path": "./Video/LTX/L3_05_01.mp4",
+                "video_results": 47.657174828347195
+            },
+            {
+                "video_path": "./Video/LTX/B14_05.mp4",
+                "video_results": 60.75144979926977
+            },
+            {
+                "video_path": "./Video/LTX/B43_01.mp4",
+                "video_results": 61.08151849468103
+            },
+            {
+                "video_path": "./Video/LTX/L2_15_03.mp4",
+                "video_results": 31.439734169606414
+            },
+            {
+                "video_path": "./Video/LTX/B42_03.mp4",
+                "video_results": 66.43891786725334
+            },
+            {
+                "video_path": "./Video/LTX/L3_06_01.mp4",
+                "video_results": 24.939709202627117
+            },
+            {
+                "video_path": "./Video/LTX/L4_09_03.mp4",
+                "video_results": 59.71588576241825
+            },
+            {
+                "video_path": "./Video/LTX/B22_03.mp4",
+                "video_results": 31.594377389114893
+            },
+            {
+                "video_path": "./Video/LTX/B12_08.mp4",
+                "video_results": 29.69806152515197
+            },
+            {
+                "video_path": "./Video/LTX/L4_03_01.mp4",
+                "video_results": 34.5038084823094
+            },
+            {
+                "video_path": "./Video/LTX/L2_06_04.mp4",
+                "video_results": 69.40660673848699
+            },
+            {
+                "video_path": "./Video/LTX/L3_15_02.mp4",
+                "video_results": 70.25289745545119
+            },
+            {
+                "video_path": "./Video/LTX/L3_02_03.mp4",
+                "video_results": 25.762104805935635
+            },
+            {
+                "video_path": "./Video/LTX/L2_01_02.mp4",
+                "video_results": 62.779837361882244
+            },
+            {
+                "video_path": "./Video/LTX/L2_14_02.mp4",
+                "video_results": 60.333520010616006
+            },
+            {
+                "video_path": "./Video/LTX/L4_02_03.mp4",
+                "video_results": 67.33511669716138
+            },
+            {
+                "video_path": "./Video/LTX/B52_08.mp4",
+                "video_results": 58.69618242242363
+            },
+            {
+                "video_path": "./Video/LTX/L2_04_02.mp4",
+                "video_results": 29.568240090702357
+            },
+            {
+                "video_path": "./Video/LTX/B51_10.mp4",
+                "video_results": 68.6141865762432
+            },
+            {
+                "video_path": "./Video/LTX/L3_12_03.mp4",
+                "video_results": 64.07765129175078
+            },
+            {
+                "video_path": "./Video/LTX/B41_12.mp4",
+                "video_results": 27.57283945833699
+            },
+            {
+                "video_path": "./Video/LTX/L3_13_02.mp4",
+                "video_results": 65.01041129465854
+            },
+            {
+                "video_path": "./Video/LTX/L2_21_02.mp4",
+                "video_results": 25.777512989687114
+            },
+            {
+                "video_path": "./Video/LTX/L4_08_03.mp4",
+                "video_results": 52.56068681866935
+            },
+            {
+                "video_path": "./Video/LTX/B43_11.mp4",
+                "video_results": 62.950268263227485
+            },
+            {
+                "video_path": "./Video/LTX/L2_21_01.mp4",
+                "video_results": 53.74576975790303
+            },
+            {
+                "video_path": "./Video/LTX/B11_07.mp4",
+                "video_results": 54.490733243106455
+            },
+            {
+                "video_path": "./Video/LTX/L2_15_02.mp4",
+                "video_results": 72.20860993460323
+            },
+            {
+                "video_path": "./Video/LTX/B42_02.mp4",
+                "video_results": 65.54166810967949
+            },
+            {
+                "video_path": "./Video/LTX/L2_14_03.mp4",
+                "video_results": 65.09321979994185
+            },
+            {
+                "video_path": "./Video/LTX/B31_08.mp4",
+                "video_results": 26.969006634830087
+            },
+            {
+                "video_path": "./Video/LTX/B42_12.mp4",
+                "video_results": 30.885632589961705
+            },
+            {
+                "video_path": "./Video/LTX/B52_02.mp4",
+                "video_results": 69.6175015910288
+            },
+            {
+                "video_path": "./Video/LTX/L3_12_01.mp4",
+                "video_results": 72.08362313602747
+            },
+            {
+                "video_path": "./Video/LTX/L4_02_02.mp4",
+                "video_results": 71.50357561432914
+            },
+            {
+                "video_path": "./Video/LTX/L2_19_01.mp4",
+                "video_results": 34.55478269598457
+            },
+            {
+                "video_path": "./Video/LTX/L3_07_04.mp4",
+                "video_results": 67.99017728312631
+            },
+            {
+                "video_path": "./Video/LTX/B12_10.mp4",
+                "video_results": 65.36194233412154
+            },
+            {
+                "video_path": "./Video/LTX/B21_10.mp4",
+                "video_results": 33.299245962935885
+            },
+            {
+                "video_path": "./Video/LTX/B21_11.mp4",
+                "video_results": 30.85557455427191
+            },
+            {
+                "video_path": "./Video/LTX/B15_05.mp4",
+                "video_results": 64.68490969197134
+            },
+            {
+                "video_path": "./Video/LTX/L2_06_03.mp4",
+                "video_results": 41.713698869340874
+            },
+            {
+                "video_path": "./Video/LTX/B41_11.mp4",
+                "video_results": 61.04067937443765
+            },
+            {
+                "video_path": "./Video/LTX/L2_02_01.mp4",
+                "video_results": 68.68071973993537
+            },
+            {
+                "video_path": "./Video/LTX/B12_06.mp4",
+                "video_results": 23.94284944855765
+            },
+            {
+                "video_path": "./Video/LTX/L4_09_02.mp4",
+                "video_results": 70.22199643595835
+            },
+            {
+                "video_path": "./Video/LTX/B22_08.mp4",
+                "video_results": 23.43678320123908
+            },
+            {
+                "video_path": "./Video/LTX/B14_10.mp4",
+                "video_results": 59.11486409219463
+            },
+            {
+                "video_path": "./Video/LTX/B43_09.mp4",
+                "video_results": 17.657008321097727
+            },
+            {
+                "video_path": "./Video/LTX/L2_07_02.mp4",
+                "video_results": 54.62271422482608
+            },
+            {
+                "video_path": "./Video/LTX/L4_08_04.mp4",
+                "video_results": 27.51438601633136
+            },
+            {
+                "video_path": "./Video/LTX/B41_04.mp4",
+                "video_results": 61.30051237813542
+            },
+            {
+                "video_path": "./Video/LTX/B51_01.mp4",
+                "video_results": 51.9316564838538
+            },
+            {
+                "video_path": "./Video/LTX/L2_19_04.mp4",
+                "video_results": 50.75414589013946
+            },
+            {
+                "video_path": "./Video/LTX/L4_07_04.mp4",
+                "video_results": 31.539767704652935
+            },
+            {
+                "video_path": "./Video/LTX/B32_02.mp4",
+                "video_results": 59.03200651018807
+            },
+            {
+                "video_path": "./Video/LTX/L4_06_04.mp4",
+                "video_results": 60.38172196806147
+            },
+            {
+                "video_path": "./Video/LTX/L3_01_04.mp4",
+                "video_results": 65.16707533932804
+            },
+            {
+                "video_path": "./Video/LTX/B22_09.mp4",
+                "video_results": 70.15691890073626
+            },
+            {
+                "video_path": "./Video/LTX/B51_02.mp4",
+                "video_results": 57.034836115462056
+            },
+            {
+                "video_path": "./Video/LTX/B22_06.mp4",
+                "video_results": 25.922658748841016
+            },
+            {
+                "video_path": "./Video/LTX/B34_08.mp4",
+                "video_results": 59.05301417661517
+            },
+            {
+                "video_path": "./Video/LTX/B12_04.mp4",
+                "video_results": 63.163583048274006
+            },
+            {
+                "video_path": "./Video/LTX/B43_07.mp4",
+                "video_results": 31.453215995531405
+            },
+            {
+                "video_path": "./Video/LTX/B12_09.mp4",
+                "video_results": 68.61000961132264
+            },
+            {
+                "video_path": "./Video/LTX/L4_10_03.mp4",
+                "video_results": 71.83928388959906
+            },
+            {
+                "video_path": "./Video/LTX/B34_05.mp4",
+                "video_results": 35.85399719838346
+            },
+            {
+                "video_path": "./Video/LTX/B21_09.mp4",
+                "video_results": 51.230943701240456
+            },
+            {
+                "video_path": "./Video/LTX/B51_06.mp4",
+                "video_results": 38.68500844548257
+            },
+            {
+                "video_path": "./Video/LTX/L3_08_01.mp4",
+                "video_results": 64.11790989222152
+            },
+            {
+                "video_path": "./Video/LTX/B15_01.mp4",
+                "video_results": 40.98279530814524
+            },
+            {
+                "video_path": "./Video/LTX/L4_01_03.mp4",
+                "video_results": 68.61110772979393
+            },
+            {
+                "video_path": "./Video/LTX/L2_16_03.mp4",
+                "video_results": 19.979726244894305
+            },
+            {
+                "video_path": "./Video/LTX/B14_09.mp4",
+                "video_results": 28.596633846840163
+            },
+            {
+                "video_path": "./Video/LTX/L2_12_03.mp4",
+                "video_results": 58.229822351691425
+            },
+            {
+                "video_path": "./Video/LTX/B51_09.mp4",
+                "video_results": 69.7324331905065
+            },
+            {
+                "video_path": "./Video/LTX/B32_06.mp4",
+                "video_results": 59.468755443444415
+            },
+            {
+                "video_path": "./Video/LTX/L4_10_02.mp4",
+                "video_results": 69.55689548106676
+            },
+            {
+                "video_path": "./Video/LTX/L2_24_02.mp4",
+                "video_results": 73.7424326693074
+            },
+            {
+                "video_path": "./Video/LTX/B33_09.mp4",
+                "video_results": 45.903309854228844
+            },
+            {
+                "video_path": "./Video/LTX/L2_07_03.mp4",
+                "video_results": 70.40875634182704
+            },
+            {
+                "video_path": "./Video/LTX/L3_03_02.mp4",
+                "video_results": 30.650878863388233
+            },
+            {
+                "video_path": "./Video/LTX/B43_10.mp4",
+                "video_results": 56.19049950931849
+            },
+            {
+                "video_path": "./Video/LTX/L3_09_01.mp4",
+                "video_results": 57.68150963943996
+            },
+            {
+                "video_path": "./Video/LTX/L2_20_04.mp4",
+                "video_results": 62.45138301206439
+            },
+            {
+                "video_path": "./Video/LTX/B34_01.mp4",
+                "video_results": 22.813456846087167
+            },
+            {
+                "video_path": "./Video/LTX/L2_02_04.mp4",
+                "video_results": 60.608546953522755
+            },
+            {
+                "video_path": "./Video/LTX/L3_02_02.mp4",
+                "video_results": 63.93504607811403
+            },
+            {
+                "video_path": "./Video/LTX/B12_01.mp4",
+                "video_results": 64.07921801792102
+            },
+            {
+                "video_path": "./Video/LTX/L2_24_03.mp4",
+                "video_results": 65.95500285973709
+            },
+            {
+                "video_path": "./Video/LTX/L2_20_03.mp4",
+                "video_results": 22.898945197630464
+            },
+            {
+                "video_path": "./Video/LTX/L4_06_03.mp4",
+                "video_results": 28.345639560999494
+            },
+            {
+                "video_path": "./Video/LTX/B22_12.mp4",
+                "video_results": 68.2369735803497
+            },
+            {
+                "video_path": "./Video/LTX/B31_01.mp4",
+                "video_results": 32.1073258003492
+            },
+            {
+                "video_path": "./Video/LTX/B14_03.mp4",
+                "video_results": 51.317439561479546
+            },
+            {
+                "video_path": "./Video/LTX/B33_06.mp4",
+                "video_results": 64.50412818822969
+            },
+            {
+                "video_path": "./Video/LTX/B13_02.mp4",
+                "video_results": 60.24379460195477
+            },
+            {
+                "video_path": "./Video/LTX/L3_03_03.mp4",
+                "video_results": 51.30868165948418
+            },
+            {
+                "video_path": "./Video/LTX/L2_12_01.mp4",
+                "video_results": 47.25184485617648
+            },
+            {
+                "video_path": "./Video/LTX/L4_05_03.mp4",
+                "video_results": 68.7658174064722
+            },
+            {
+                "video_path": "./Video/LTX/B52_04.mp4",
+                "video_results": 32.61954116821289
+            },
+            {
+                "video_path": "./Video/LTX/B52_01.mp4",
+                "video_results": 39.89847251806366
+            },
+            {
+                "video_path": "./Video/LTX/L3_03_04.mp4",
+                "video_results": 61.69353137927109
+            },
+            {
+                "video_path": "./Video/LTX/B15_02.mp4",
+                "video_results": 66.2788484980551
+            },
+            {
+                "video_path": "./Video/LTX/L2_05_01.mp4",
+                "video_results": 43.76721965061145
+            },
+            {
+                "video_path": "./Video/LTX/L2_13_03.mp4",
+                "video_results": 60.39658732896441
+            },
+            {
+                "video_path": "./Video/LTX/B11_09.mp4",
+                "video_results": 63.74876133779461
+            },
+            {
+                "video_path": "./Video/LTX/B13_05.mp4",
+                "video_results": 65.71072700586211
+            },
+            {
+                "video_path": "./Video/LTX/B15_07.mp4",
+                "video_results": 26.203767755058376
+            },
+            {
+                "video_path": "./Video/LTX/L2_03_01.mp4",
+                "video_results": 32.028945022754456
+            },
+            {
+                "video_path": "./Video/LTX/B42_08.mp4",
+                "video_results": 14.849767159879878
+            },
+            {
+                "video_path": "./Video/LTX/B32_03.mp4",
+                "video_results": 74.19794635558397
+            },
+            {
+                "video_path": "./Video/LTX/B14_06.mp4",
+                "video_results": 51.066902203506295
+            },
+            {
+                "video_path": "./Video/LTX/B34_10.mp4",
+                "video_results": 33.861646437912846
+            },
+            {
+                "video_path": "./Video/LTX/B21_14.mp4",
+                "video_results": 61.823259246483275
+            },
+            {
+                "video_path": "./Video/LTX/L2_13_04.mp4",
+                "video_results": 65.22709360015526
+            },
+            {
+                "video_path": "./Video/LTX/B31_06.mp4",
+                "video_results": 64.11568789535694
+            },
+            {
+                "video_path": "./Video/LTX/L4_03_04.mp4",
+                "video_results": 37.41789477059011
+            },
+            {
+                "video_path": "./Video/LTX/B34_03.mp4",
+                "video_results": 17.718096336621915
+            },
+            {
+                "video_path": "./Video/LTX/L2_15_01.mp4",
+                "video_results": 59.730493781271946
+            },
+            {
+                "video_path": "./Video/LTX/L2_17_01.mp4",
+                "video_results": 44.84807895274645
+            },
+            {
+                "video_path": "./Video/LTX/B21_04.mp4",
+                "video_results": 72.14928736311666
+            },
+            {
+                "video_path": "./Video/LTX/L2_06_01.mp4",
+                "video_results": 34.769074472148766
+            },
+            {
+                "video_path": "./Video/LTX/L2_01_01.mp4",
+                "video_results": 69.92403214701106
+            },
+            {
+                "video_path": "./Video/LTX/B31_09.mp4",
+                "video_results": 28.86677975601025
+            },
+            {
+                "video_path": "./Video/LTX/B31_04.mp4",
+                "video_results": 26.665176627341282
+            },
+            {
+                "video_path": "./Video/LTX/B12_12.mp4",
+                "video_results": 67.66911675956811
+            },
+            {
+                "video_path": "./Video/LTX/L4_09_01.mp4",
+                "video_results": 64.17399905772692
+            },
+            {
+                "video_path": "./Video/LTX/B22_05.mp4",
+                "video_results": 64.52966861510545
+            },
+            {
+                "video_path": "./Video/LTX/L2_19_02.mp4",
+                "video_results": 55.58178119445115
+            },
+            {
+                "video_path": "./Video/LTX/B14_07.mp4",
+                "video_results": 73.04527994220176
+            },
+            {
+                "video_path": "./Video/LTX/L2_04_04.mp4",
+                "video_results": 49.59517151050353
+            },
+            {
+                "video_path": "./Video/LTX/B13_06.mp4",
+                "video_results": 47.09770622682036
+            },
+            {
+                "video_path": "./Video/LTX/L2_01_04.mp4",
+                "video_results": 48.967104536763735
+            },
+            {
+                "video_path": "./Video/LTX/L2_09_02.mp4",
+                "video_results": 61.114613736613414
+            },
+            {
+                "video_path": "./Video/LTX/B43_02.mp4",
+                "video_results": 50.219588547610165
+            },
+            {
+                "video_path": "./Video/LTX/L2_17_03.mp4",
+                "video_results": 37.39386419231972
+            },
+            {
+                "video_path": "./Video/LTX/L4_07_02.mp4",
+                "video_results": 66.8280944395601
+            },
+            {
+                "video_path": "./Video/LTX/L2_09_04.mp4",
+                "video_results": 56.7792889455731
+            },
+            {
+                "video_path": "./Video/LTX/L3_11_04.mp4",
+                "video_results": 23.363499823580966
+            },
+            {
+                "video_path": "./Video/LTX/L4_10_01.mp4",
+                "video_results": 55.49276146192229
+            },
+            {
+                "video_path": "./Video/LTX/L2_03_04.mp4",
+                "video_results": 34.815168552184375
+            },
+            {
+                "video_path": "./Video/LTX/B15_09.mp4",
+                "video_results": 61.26975254530317
+            },
+            {
+                "video_path": "./Video/LTX/B31_11.mp4",
+                "video_results": 64.45889432242747
+            },
+            {
+                "video_path": "./Video/LTX/B13_07.mp4",
+                "video_results": 35.46213068587057
+            },
+            {
+                "video_path": "./Video/LTX/L2_05_04.mp4",
+                "video_results": 27.906101312530176
+            },
+            {
+                "video_path": "./Video/LTX/B11_01.mp4",
+                "video_results": 26.474795930840997
+            },
+            {
+                "video_path": "./Video/LTX/B15_12.mp4",
+                "video_results": 63.017729384175844
+            },
+            {
+                "video_path": "./Video/LTX/B34_02.mp4",
+                "video_results": 31.046429387639076
+            },
+            {
+                "video_path": "./Video/LTX/L3_01_03.mp4",
+                "video_results": 73.40027189790533
+            },
+            {
+                "video_path": "./Video/LTX/B32_07.mp4",
+                "video_results": 58.29493083310931
+            },
+            {
+                "video_path": "./Video/LTX/L2_22_01.mp4",
+                "video_results": 59.78737490364675
+            },
+            {
+                "video_path": "./Video/LTX/B51_07.mp4",
+                "video_results": 61.52583471576819
+            },
+            {
+                "video_path": "./Video/LTX/B34_09.mp4",
+                "video_results": 29.23090765449438
+            },
+            {
+                "video_path": "./Video/LTX/L2_23_04.mp4",
+                "video_results": 57.83636341737897
+            },
+            {
+                "video_path": "./Video/LTX/L3_03_01.mp4",
+                "video_results": 26.721876230132715
+            },
+            {
+                "video_path": "./Video/LTX/B43_06.mp4",
+                "video_results": 30.148604360859046
+            },
+            {
+                "video_path": "./Video/LTX/B14_11.mp4",
+                "video_results": 55.40256088771177
+            },
+            {
+                "video_path": "./Video/LTX/B13_09.mp4",
+                "video_results": 54.39559019281623
+            },
+            {
+                "video_path": "./Video/LTX/B32_01.mp4",
+                "video_results": 18.980556027273114
+            },
+            {
+                "video_path": "./Video/LTX/L3_11_03.mp4",
+                "video_results": 67.4096636825733
+            },
+            {
+                "video_path": "./Video/LTX/L2_17_04.mp4",
+                "video_results": 56.87765901544121
+            },
+            {
+                "video_path": "./Video/LTX/B31_02.mp4",
+                "video_results": 28.03106593014149
+            },
+            {
+                "video_path": "./Video/LTX/B11_02.mp4",
+                "video_results": 56.8697587774041
+            },
+            {
+                "video_path": "./Video/LTX/B41_05.mp4",
+                "video_results": 43.966262688797514
+            },
+            {
+                "video_path": "./Video/LTX/B11_14.mp4",
+                "video_results": 61.631503973114356
+            },
+            {
+                "video_path": "./Video/LTX/L3_07_01.mp4",
+                "video_results": 58.480531499626935
+            },
+            {
+                "video_path": "./Video/LTX/L3_06_02.mp4",
+                "video_results": 64.70577685752612
+            },
+            {
+                "video_path": "./Video/LTX/L4_09_04.mp4",
+                "video_results": 39.673666407553
+            },
+            {
+                "video_path": "./Video/LTX/L4_04_01.mp4",
+                "video_results": 41.665374455827006
+            },
+            {
+                "video_path": "./Video/LTX/L3_10_01.mp4",
+                "video_results": 69.76102751828311
+            },
+            {
+                "video_path": "./Video/LTX/L2_08_02.mp4",
+                "video_results": 59.771850500213965
+            },
+            {
+                "video_path": "./Video/LTX/L3_13_01.mp4",
+                "video_results": 67.22729205013661
+            },
+            {
+                "video_path": "./Video/LTX/B52_06.mp4",
+                "video_results": 73.50123544757285
+            },
+            {
+                "video_path": "./Video/LTX/B42_09.mp4",
+                "video_results": 32.03270039933451
+            },
+            {
+                "video_path": "./Video/LTX/L2_04_03.mp4",
+                "video_results": 41.715846972519095
+            },
+            {
+                "video_path": "./Video/LTX/L4_07_03.mp4",
+                "video_results": 46.9094204420454
+            },
+            {
+                "video_path": "./Video/LTX/L2_03_02.mp4",
+                "video_results": 64.53064629201138
+            },
+            {
+                "video_path": "./Video/LTX/B32_05.mp4",
+                "video_results": 13.566188737247767
+            },
+            {
+                "video_path": "./Video/LTX/B32_08.mp4",
+                "video_results": 21.494577064942778
+            },
+            {
+                "video_path": "./Video/LTX/B41_09.mp4",
+                "video_results": 68.81486974137553
+            },
+            {
+                "video_path": "./Video/LTX/L2_25_01.mp4",
+                "video_results": 32.102965922837846
+            },
+            {
+                "video_path": "./Video/LTX/L2_23_01.mp4",
+                "video_results": 58.89059396808067
+            },
+            {
+                "video_path": "./Video/LTX/L3_04_03.mp4",
+                "video_results": 19.34591427277983
+            },
+            {
+                "video_path": "./Video/LTX/L2_02_03.mp4",
+                "video_results": 52.04369761434834
+            },
+            {
+                "video_path": "./Video/LTX/L3_11_01.mp4",
+                "video_results": 58.880235179086746
+            },
+            {
+                "video_path": "./Video/LTX/L4_01_01.mp4",
+                "video_results": 62.154586749130424
+            },
+            {
+                "video_path": "./Video/LTX/L3_09_03.mp4",
+                "video_results": 73.81437297349565
+            },
+            {
+                "video_path": "./Video/LTX/L2_22_03.mp4",
+                "video_results": 75.46004263202796
+            },
+            {
+                "video_path": "./Video/LTX/B21_13.mp4",
+                "video_results": 71.56332037422095
+            },
+            {
+                "video_path": "./Video/LTX/L2_21_04.mp4",
+                "video_results": 31.99554773394981
+            },
+            {
+                "video_path": "./Video/LTX/B52_10.mp4",
+                "video_results": 35.26546518990163
+            },
+            {
+                "video_path": "./Video/LTX/L2_22_02.mp4",
+                "video_results": 58.517305909917596
+            },
+            {
+                "video_path": "./Video/LTX/L2_25_03.mp4",
+                "video_results": 38.62511559818568
+            },
+            {
+                "video_path": "./Video/LTX/B32_09.mp4",
+                "video_results": 56.77631151006463
+            },
+            {
+                "video_path": "./Video/LTX/L2_07_01.mp4",
+                "video_results": 54.39820634649041
+            },
+            {
+                "video_path": "./Video/LTX/B13_11.mp4",
+                "video_results": 66.17334850182694
+            },
+            {
+                "video_path": "./Video/LTX/L2_10_02.mp4",
+                "video_results": 41.01765810505728
+            },
+            {
+                "video_path": "./Video/LTX/L2_18_04.mp4",
+                "video_results": 62.52217594961102
+            },
+            {
+                "video_path": "./Video/LTX/B15_06.mp4",
+                "video_results": 68.25568107004916
+            },
+            {
+                "video_path": "./Video/LTX/L2_23_03.mp4",
+                "video_results": 38.9687347840727
+            },
+            {
+                "video_path": "./Video/LTX/L2_23_02.mp4",
+                "video_results": 61.273134981648305
+            },
+            {
+                "video_path": "./Video/LTX/B41_03.mp4",
+                "video_results": 22.256353592604732
+            },
+            {
+                "video_path": "./Video/LTX/B42_11.mp4",
+                "video_results": 30.234482475880828
+            },
+            {
+                "video_path": "./Video/LTX/B33_05.mp4",
+                "video_results": 62.121494507521724
+            },
+            {
+                "video_path": "./Video/LTX/L2_24_04.mp4",
+                "video_results": 57.03510755903265
+            },
+            {
+                "video_path": "./Video/LTX/L3_04_01.mp4",
+                "video_results": 55.81289175655065
+            },
+            {
+                "video_path": "./Video/LTX/L2_08_03.mp4",
+                "video_results": 56.643531799316406
+            },
+            {
+                "video_path": "./Video/LTX/B13_03.mp4",
+                "video_results": 32.93381712409887
+            },
+            {
+                "video_path": "./Video/LTX/B42_04.mp4",
+                "video_results": 29.394919256146036
+            },
+            {
+                "video_path": "./Video/LTX/B32_10.mp4",
+                "video_results": 39.90126809109463
+            },
+            {
+                "video_path": "./Video/LTX/L2_12_02.mp4",
+                "video_results": 56.99809140837594
+            },
+            {
+                "video_path": "./Video/LTX/B51_12.mp4",
+                "video_results": 69.92596559846
+            },
+            {
+                "video_path": "./Video/LTX/L3_07_03.mp4",
+                "video_results": 73.44504598553262
+            },
+            {
+                "video_path": "./Video/LTX/B21_07.mp4",
+                "video_results": 58.99236721938915
+            },
+            {
+                "video_path": "./Video/LTX/B15_04.mp4",
+                "video_results": 64.87892078013903
+            },
+            {
+                "video_path": "./Video/LTX/B12_03.mp4",
+                "video_results": 35.27525177430571
+            },
+            {
+                "video_path": "./Video/LTX/B51_11.mp4",
+                "video_results": 39.452504018719274
+            },
+            {
+                "video_path": "./Video/LTX/B41_01.mp4",
+                "video_results": 78.81444112370524
+            },
+            {
+                "video_path": "./Video/LTX/L3_02_04.mp4",
+                "video_results": 31.94610053501772
+            },
+            {
+                "video_path": "./Video/LTX/B31_12.mp4",
+                "video_results": 42.28671866856264
+            },
+            {
+                "video_path": "./Video/LTX/L2_11_01.mp4",
+                "video_results": 63.54639323373859
+            },
+            {
+                "video_path": "./Video/LTX/B22_07.mp4",
+                "video_results": 26.47238619943683
+            },
+            {
+                "video_path": "./Video/LTX/L2_11_02.mp4",
+                "video_results": 22.838998623108594
+            },
+            {
+                "video_path": "./Video/LTX/B21_05.mp4",
+                "video_results": 33.97964479682151
+            },
+            {
+                "video_path": "./Video/LTX/L3_08_02.mp4",
+                "video_results": 71.67053205511543
+            },
+            {
+                "video_path": "./Video/LTX/L3_06_04.mp4",
+                "video_results": 72.93290144673894
+            },
+            {
+                "video_path": "./Video/LTX/B22_02.mp4",
+                "video_results": 54.13523706157556
+            },
+            {
+                "video_path": "./Video/LTX/L2_16_01.mp4",
+                "video_results": 63.152399213126536
+            },
+            {
+                "video_path": "./Video/LTX/B15_08.mp4",
+                "video_results": 30.592671233616517
+            },
+            {
+                "video_path": "./Video/LTX/L2_09_01.mp4",
+                "video_results": 32.56112313002683
+            },
+            {
+                "video_path": "./Video/LTX/L4_01_02.mp4",
+                "video_results": 69.50116892611042
+            },
+            {
+                "video_path": "./Video/LTX/B11_15.mp4",
+                "video_results": 46.552397224340545
+            },
+            {
+                "video_path": "./Video/LTX/B52_11.mp4",
+                "video_results": 53.83827252334423
+            },
+            {
+                "video_path": "./Video/LTX/L4_05_02.mp4",
+                "video_results": 72.09633010692811
+            },
+            {
+                "video_path": "./Video/LTX/B31_10.mp4",
+                "video_results": 28.764377058222053
+            },
+            {
+                "video_path": "./Video/LTX/B12_11.mp4",
+                "video_results": 57.51341419005662
+            },
+            {
+                "video_path": "./Video/LTX/B11_13.mp4",
+                "video_results": 43.54246773880519
+            },
+            {
+                "video_path": "./Video/LTX/L2_10_04.mp4",
+                "video_results": 24.72515772701649
+            },
+            {
+                "video_path": "./Video/LTX/B42_06.mp4",
+                "video_results": 50.75364577904176
+            },
+            {
+                "video_path": "./Video/LTX/L3_09_02.mp4",
+                "video_results": 66.1068305112003
+            },
+            {
+                "video_path": "./Video/LTX/B14_12.mp4",
+                "video_results": 31.758384168817756
+            },
+            {
+                "video_path": "./Video/LTX/B11_03.mp4",
+                "video_results": 64.58608910206998
+            },
+            {
+                "video_path": "./Video/LTX/B14_04.mp4",
+                "video_results": 23.725963206773393
+            },
+            {
+                "video_path": "./Video/LTX/L3_15_01.mp4",
+                "video_results": 57.84189558564947
+            },
+            {
+                "video_path": "./Video/LTX/B41_13.mp4",
+                "video_results": 58.268573203783355
+            },
+            {
+                "video_path": "./Video/LTX/L3_13_03.mp4",
+                "video_results": 23.3907549997394
+            },
+            {
+                "video_path": "./Video/LTX/L2_14_01.mp4",
+                "video_results": 67.31866347923707
+            },
+            {
+                "video_path": "./Video/LTX/L2_11_03.mp4",
+                "video_results": 63.935584507631454
+            },
+            {
+                "video_path": "./Video/LTX/B52_03.mp4",
+                "video_results": 43.12846751695269
+            },
+            {
+                "video_path": "./Video/LTX/L2_08_04.mp4",
+                "video_results": 71.04255350520101
+            },
+            {
+                "video_path": "./Video/LTX/B33_07.mp4",
+                "video_results": 56.792585265770384
+            },
+            {
+                "video_path": "./Video/LTX/L3_10_02.mp4",
+                "video_results": 21.569686160998398
+            },
+            {
+                "video_path": "./Video/LTX/B41_06.mp4",
+                "video_results": 54.75190404827675
+            },
+            {
+                "video_path": "./Video/LTX/B11_04.mp4",
+                "video_results": 61.00533581851573
+            },
+            {
+                "video_path": "./Video/LTX/B14_08.mp4",
+                "video_results": 21.18449031101184
+            },
+            {
+                "video_path": "./Video/LTX/B41_02.mp4",
+                "video_results": 62.54788405171941
+            },
+            {
+                "video_path": "./Video/LTX/L3_12_02.mp4",
+                "video_results": 31.164084595240904
+            },
+            {
+                "video_path": "./Video/LTX/B11_05.mp4",
+                "video_results": 68.3249943336744
+            },
+            {
+                "video_path": "./Video/LTX/L2_13_01.mp4",
+                "video_results": 69.97031334009063
+            },
+            {
+                "video_path": "./Video/LTX/L2_11_04.mp4",
+                "video_results": 68.63438895579135
+            },
+            {
+                "video_path": "./Video/LTX/L4_02_01.mp4",
+                "video_results": 57.77960402242253
+            },
+            {
+                "video_path": "./Video/LTX/B43_08.mp4",
+                "video_results": 67.53284047158917
+            },
+            {
+                "video_path": "./Video/LTX/B41_08.mp4",
+                "video_results": 47.3332857496283
+            },
+            {
+                "video_path": "./Video/LTX/L4_01_04.mp4",
+                "video_results": 37.41033099742418
+            },
+            {
+                "video_path": "./Video/LTX/L4_06_01.mp4",
+                "video_results": 27.016285928447594
+            },
+            {
+                "video_path": "./Video/LTX/B41_07.mp4",
+                "video_results": 55.82786821515373
+            },
+            {
+                "video_path": "./Video/LTX/L4_04_03.mp4",
+                "video_results": 62.83262994316187
+            },
+            {
+                "video_path": "./Video/LTX/B11_18.mp4",
+                "video_results": 71.02742424439847
+            },
+            {
+                "video_path": "./Video/LTX/L3_15_04.mp4",
+                "video_results": 40.21421693951896
+            },
+            {
+                "video_path": "./Video/LTX/L3_11_02.mp4",
+                "video_results": 31.731772090611834
+            },
+            {
+                "video_path": "./Video/LTX/B13_01.mp4",
+                "video_results": 73.24042802446344
+            },
+            {
+                "video_path": "./Video/LTX/B14_14.mp4",
+                "video_results": 65.12097137965513
+            },
+            {
+                "video_path": "./Video/LTX/B34_04.mp4",
+                "video_results": 25.144111547577246
+            },
+            {
+                "video_path": "./Video/LTX/B52_07.mp4",
+                "video_results": 39.98780458428887
+            },
+            {
+                "video_path": "./Video/LTX/B43_03.mp4",
+                "video_results": 76.83725832821278
+            },
+            {
+                "video_path": "./Video/LTX/B42_07.mp4",
+                "video_results": 17.87262200773432
+            },
+            {
+                "video_path": "./Video/LTX/B11_17.mp4",
+                "video_results": 50.560026961765935
+            },
+            {
+                "video_path": "./Video/LTX/B11_11.mp4",
+                "video_results": 63.68987762794066
+            },
+            {
+                "video_path": "./Video/LTX/L2_05_03.mp4",
+                "video_results": 54.749759674072266
+            },
+            {
+                "video_path": "./Video/LTX/B52_09.mp4",
+                "video_results": 59.485238493158576
+            },
+            {
+                "video_path": "./Video/LTX/B31_14.mp4",
+                "video_results": 14.337064325139764
+            },
+            {
+                "video_path": "./Video/LTX/L2_08_01.mp4",
+                "video_results": 69.08727864469036
+            },
+            {
+                "video_path": "./Video/LTX/B34_06.mp4",
+                "video_results": 35.063674390985724
+            },
+            {
+                "video_path": "./Video/LTX/L2_18_02.mp4",
+                "video_results": 65.54910561207974
+            },
+            {
+                "video_path": "./Video/LTX/L2_02_02.mp4",
+                "video_results": 27.709240216887398
+            },
+            {
+                "video_path": "./Video/LTX/B11_06.mp4",
+                "video_results": 65.22009414501404
+            },
+            {
+                "video_path": "./Video/LTX/L3_14_03.mp4",
+                "video_results": 73.18085008256891
+            },
+            {
+                "video_path": "./Video/LTX/L3_08_03.mp4",
+                "video_results": 31.624766081906436
+            },
+            {
+                "video_path": "./Video/LTX/B21_03.mp4",
+                "video_results": 24.68674458278699
+            },
+            {
+                "video_path": "./Video/LTX/B33_03.mp4",
+                "video_results": 32.46133112103752
+            },
+            {
+                "video_path": "./Video/LTX/B22_04.mp4",
+                "video_results": 69.58802328216896
+            },
+            {
+                "video_path": "./Video/LTX/B13_04.mp4",
+                "video_results": 27.929659489835245
+            },
+            {
+                "video_path": "./Video/LTX/B21_06.mp4",
+                "video_results": 69.64095439267962
+            },
+            {
+                "video_path": "./Video/LTX/L2_16_04.mp4",
+                "video_results": 62.37458912710125
+            },
+            {
+                "video_path": "./Video/LTX/L2_24_01.mp4",
+                "video_results": 73.26318530822068
+            },
+            {
+                "video_path": "./Video/LTX/B12_02.mp4",
+                "video_results": 65.83901977539062
+            },
+            {
+                "video_path": "./Video/LTX/B31_07.mp4",
+                "video_results": 66.50302908393775
+            },
+            {
+                "video_path": "./Video/LTX/B31_13.mp4",
+                "video_results": 67.11499263463395
+            },
+            {
+                "video_path": "./Video/LTX/L3_07_02.mp4",
+                "video_results": 69.77436014239707
+            },
+            {
+                "video_path": "./Video/LTX/B14_15.mp4",
+                "video_results": 69.88231341758471
+            },
+            {
+                "video_path": "./Video/LTX/L4_10_04.mp4",
+                "video_results": 27.080093340927295
+            },
+            {
+                "video_path": "./Video/LTX/L4_03_02.mp4",
+                "video_results": 29.524846344851376
+            },
+            {
+                "video_path": "./Video/LTX/B15_10.mp4",
+                "video_results": 67.7764742990558
+            },
+            {
+                "video_path": "./Video/LTX/B43_04.mp4",
+                "video_results": 33.55373781182793
+            },
+            {
+                "video_path": "./Video/LTX/L2_18_03.mp4",
+                "video_results": 20.9852966994382
+            }
+        ]
+    ]
+}

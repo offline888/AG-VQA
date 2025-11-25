@@ -1,0 +1,1607 @@
+{
+    "imaging_quality": [
+        0.7169630153510598,
+        [
+            {
+                "video_path": "./Video/Seedance1.0/B34_07.mp4",
+                "video_results": 73.98724560698201
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_11.mp4",
+                "video_results": 76.94077401909946
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_07_04.mp4",
+                "video_results": 79.50190936632393
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_05.mp4",
+                "video_results": 71.4212741063646
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_01.mp4",
+                "video_results": 79.00936820290305
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_08_02.mp4",
+                "video_results": 80.11976251523357
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_03.mp4",
+                "video_results": 73.61771153221446
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_05_04.mp4",
+                "video_results": 77.19341492455852
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_03.mp4",
+                "video_results": 79.49701804168953
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_12.mp4",
+                "video_results": 75.49905877862095
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_10_01.mp4",
+                "video_results": 65.65872252283017
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_18_01.mp4",
+                "video_results": 71.74006220920027
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_15_03.mp4",
+                "video_results": 79.07488685797068
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_02.mp4",
+                "video_results": 75.59640313771145
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_08.mp4",
+                "video_results": 77.56961835120335
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_01.mp4",
+                "video_results": 78.91955024151763
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_09_03.mp4",
+                "video_results": 61.05380961520613
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_02.mp4",
+                "video_results": 71.63436290646388
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_14_04.mp4",
+                "video_results": 75.37170605620076
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_04.mp4",
+                "video_results": 74.97801435486345
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_10.mp4",
+                "video_results": 78.96315677106872
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_04_04.mp4",
+                "video_results": 79.42503085806351
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_02_04.mp4",
+                "video_results": 75.88984257721704
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_11.mp4",
+                "video_results": 77.9845535026109
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_12.mp4",
+                "video_results": 77.1435452295729
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_14_04.mp4",
+                "video_results": 72.69229926747724
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_08.mp4",
+                "video_results": 75.39487646433933
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_06_03.mp4",
+                "video_results": 64.83333537204207
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_01_01.mp4",
+                "video_results": 67.78313474418704
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_10.mp4",
+                "video_results": 75.89547382701527
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_13.mp4",
+                "video_results": 77.06540894311321
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_10_04.mp4",
+                "video_results": 76.92898729813001
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_10.mp4",
+                "video_results": 77.3927671574364
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_03_03.mp4",
+                "video_results": 75.36041562419292
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_12_04.mp4",
+                "video_results": 58.51793084262816
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_22_04.mp4",
+                "video_results": 71.03837670570563
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_20_02.mp4",
+                "video_results": 77.63124324073476
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_20_01.mp4",
+                "video_results": 68.35103912984044
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_05.mp4",
+                "video_results": 75.9440727549151
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_06_02.mp4",
+                "video_results": 78.12734386349513
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_25_04.mp4",
+                "video_results": 68.61936581824436
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_04_01.mp4",
+                "video_results": 75.55321553127824
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_01_03.mp4",
+                "video_results": 78.8214361647929
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_12.mp4",
+                "video_results": 66.45430995216054
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_08.mp4",
+                "video_results": 76.58796925190066
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_21_03.mp4",
+                "video_results": 79.41359382818553
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_16.mp4",
+                "video_results": 55.15760560469194
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_08.mp4",
+                "video_results": 71.52278332670858
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_15_04.mp4",
+                "video_results": 76.63485194434804
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_05.mp4",
+                "video_results": 76.6203505460881
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_01.mp4",
+                "video_results": 59.30929026327843
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_09_04.mp4",
+                "video_results": 70.69143828084646
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_01.mp4",
+                "video_results": 74.32297213215473
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_13_02.mp4",
+                "video_results": 63.90774242937072
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_19_03.mp4",
+                "video_results": 79.20948085312016
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_05.mp4",
+                "video_results": 58.401410189541906
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_05.mp4",
+                "video_results": 80.93668655521614
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_01_02.mp4",
+                "video_results": 59.588973809864896
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_02_01.mp4",
+                "video_results": 72.78148398911658
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_03.mp4",
+                "video_results": 74.33085329670551
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_10_03.mp4",
+                "video_results": 67.14170351895419
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_12_04.mp4",
+                "video_results": 68.66788756945901
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_03_03.mp4",
+                "video_results": 73.12338187477805
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_04_02.mp4",
+                "video_results": 78.92022755520402
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_05_03.mp4",
+                "video_results": 76.56797122167161
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_12.mp4",
+                "video_results": 76.25640856530056
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_05_01.mp4",
+                "video_results": 75.97311439198896
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_04_04.mp4",
+                "video_results": 77.49509347962939
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_14_02.mp4",
+                "video_results": 66.72807431812129
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_17_02.mp4",
+                "video_results": 76.55364321874193
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_07_01.mp4",
+                "video_results": 75.13689315417581
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_07.mp4",
+                "video_results": 54.93205415709945
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_08_04.mp4",
+                "video_results": 72.03173159764818
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_04.mp4",
+                "video_results": 77.40013236053719
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_14_01.mp4",
+                "video_results": 69.70852440447847
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_05.mp4",
+                "video_results": 72.17244915922811
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_08.mp4",
+                "video_results": 70.84310115467419
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_06_02.mp4",
+                "video_results": 77.62136002217443
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_08_01.mp4",
+                "video_results": 78.62584881743123
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_05_02.mp4",
+                "video_results": 78.04955821391965
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_10.mp4",
+                "video_results": 72.00358991386477
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_02.mp4",
+                "video_results": 75.46118037956805
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_11.mp4",
+                "video_results": 70.79751993604928
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_04.mp4",
+                "video_results": 47.48642454147339
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_10.mp4",
+                "video_results": 60.87876453872555
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_04_02.mp4",
+                "video_results": 73.25980881620045
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_16_02.mp4",
+                "video_results": 77.64716799397114
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_05_02.mp4",
+                "video_results": 75.94654928160108
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_10_03.mp4",
+                "video_results": 73.49413242812984
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_05_04.mp4",
+                "video_results": 76.70346264799764
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_01.mp4",
+                "video_results": 67.86542365964779
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_10.mp4",
+                "video_results": 77.75728676535867
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_13_04.mp4",
+                "video_results": 78.22011320256004
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_25_02.mp4",
+                "video_results": 78.00909732787078
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_05_01.mp4",
+                "video_results": 66.48095885978258
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_05.mp4",
+                "video_results": 77.20902327860682
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_01.mp4",
+                "video_results": 78.9428159855614
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_15_03.mp4",
+                "video_results": 69.88607586316826
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_03.mp4",
+                "video_results": 74.7440055027481
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_06_01.mp4",
+                "video_results": 61.66858433494883
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_09_03.mp4",
+                "video_results": 75.98123269829868
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_03.mp4",
+                "video_results": 74.01606047449033
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_08.mp4",
+                "video_results": 60.48681621709146
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_03_01.mp4",
+                "video_results": 72.12498221909705
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_06_04.mp4",
+                "video_results": 76.46370041271872
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_15_02.mp4",
+                "video_results": 78.78980015526133
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_02_03.mp4",
+                "video_results": 70.90016691349754
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_01_02.mp4",
+                "video_results": 78.76978888393434
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_14_02.mp4",
+                "video_results": 78.53496425407977
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_02_03.mp4",
+                "video_results": 77.50650093772195
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_08.mp4",
+                "video_results": 79.84158728733536
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_04_02.mp4",
+                "video_results": 54.938859608547745
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_10.mp4",
+                "video_results": 73.0629990632869
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_12_03.mp4",
+                "video_results": 68.47083900388607
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_12.mp4",
+                "video_results": 58.11425626770524
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_13_02.mp4",
+                "video_results": 76.06396679838826
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_21_02.mp4",
+                "video_results": 56.39451239719864
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_08_03.mp4",
+                "video_results": 75.78681088282057
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_11.mp4",
+                "video_results": 76.64693091526505
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_21_01.mp4",
+                "video_results": 78.26952866483326
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_07.mp4",
+                "video_results": 75.87439677340926
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_15_02.mp4",
+                "video_results": 76.8520244251598
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_02.mp4",
+                "video_results": 74.36382980977208
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_14_03.mp4",
+                "video_results": 79.91567154561193
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_08.mp4",
+                "video_results": 56.324822386434256
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_12.mp4",
+                "video_results": 74.97726427819119
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_02.mp4",
+                "video_results": 68.04791603403643
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_12_01.mp4",
+                "video_results": 73.62206318752824
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_02_02.mp4",
+                "video_results": 74.0094220500347
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_19_01.mp4",
+                "video_results": 71.25509208490041
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_07_04.mp4",
+                "video_results": 71.85787610771243
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_10.mp4",
+                "video_results": 77.37970866053557
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_10.mp4",
+                "video_results": 64.29903307828036
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_11.mp4",
+                "video_results": 71.83186529490574
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_05.mp4",
+                "video_results": 79.37365249759895
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_06_03.mp4",
+                "video_results": 62.77389125981607
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_11.mp4",
+                "video_results": 77.67301215810224
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_02_01.mp4",
+                "video_results": 77.57596241344105
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_06.mp4",
+                "video_results": 51.136509982022375
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_09_02.mp4",
+                "video_results": 76.8019686612216
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_08.mp4",
+                "video_results": 64.57903138468089
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_10.mp4",
+                "video_results": 80.04457514739234
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_09.mp4",
+                "video_results": 63.390611349058545
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_07_02.mp4",
+                "video_results": 76.96300166106421
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_08_04.mp4",
+                "video_results": 70.0993903924611
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_04.mp4",
+                "video_results": 78.1303016095122
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_01.mp4",
+                "video_results": 72.45927407130722
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_19_04.mp4",
+                "video_results": 74.87798454347721
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_07_04.mp4",
+                "video_results": 60.13184180141481
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_02.mp4",
+                "video_results": 66.05181487532687
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_06_04.mp4",
+                "video_results": 75.4699911953004
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_01_04.mp4",
+                "video_results": 70.06200620162585
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_09.mp4",
+                "video_results": 78.04375344268547
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_02.mp4",
+                "video_results": 70.35984669835115
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_06.mp4",
+                "video_results": 55.21713155951382
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_08.mp4",
+                "video_results": 78.51120108612312
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_04.mp4",
+                "video_results": 79.63581614848997
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_07.mp4",
+                "video_results": 64.49922687751203
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_09.mp4",
+                "video_results": 72.46955196916565
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_10_03.mp4",
+                "video_results": 79.23087474728419
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_05.mp4",
+                "video_results": 68.2202364078238
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_09.mp4",
+                "video_results": 67.85548161278086
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_06.mp4",
+                "video_results": 74.62935625817165
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_08_01.mp4",
+                "video_results": 65.92421230599899
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_01.mp4",
+                "video_results": 62.8471135226163
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_01_03.mp4",
+                "video_results": 76.37302077112119
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_16_03.mp4",
+                "video_results": 71.67028966225868
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_09.mp4",
+                "video_results": 74.34189195869382
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_12_03.mp4",
+                "video_results": 75.57910212997562
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_09.mp4",
+                "video_results": 67.87196050596631
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_06.mp4",
+                "video_results": 78.15422682328658
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_10_02.mp4",
+                "video_results": 75.85800101540305
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_24_02.mp4",
+                "video_results": 78.41781263114993
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_09.mp4",
+                "video_results": 71.67669488575832
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_07_03.mp4",
+                "video_results": 71.57163988854275
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_03_02.mp4",
+                "video_results": 72.41689521222075
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_10.mp4",
+                "video_results": 80.00161869269758
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_09_01.mp4",
+                "video_results": 67.767709905451
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_20_04.mp4",
+                "video_results": 75.81386219371448
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_01.mp4",
+                "video_results": 54.72109045864137
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_02_04.mp4",
+                "video_results": 77.4888592554518
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_02_02.mp4",
+                "video_results": 67.73037852137541
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_01.mp4",
+                "video_results": 60.85313588922674
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_24_03.mp4",
+                "video_results": 70.51058146579207
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_20_03.mp4",
+                "video_results": 72.62383894486861
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_06_03.mp4",
+                "video_results": 58.84798752966006
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_12.mp4",
+                "video_results": 77.95266036356776
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_01.mp4",
+                "video_results": 57.80252834982123
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_03.mp4",
+                "video_results": 76.72814424372902
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_06.mp4",
+                "video_results": 73.075154832572
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_02.mp4",
+                "video_results": 78.63032594791129
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_03_03.mp4",
+                "video_results": 72.96916892311789
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_12_01.mp4",
+                "video_results": 60.798804543235086
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_05_03.mp4",
+                "video_results": 76.82340423331773
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_04.mp4",
+                "video_results": 74.86762477149648
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_01.mp4",
+                "video_results": 68.86942720019128
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_03_04.mp4",
+                "video_results": 75.77051831079909
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_02.mp4",
+                "video_results": 77.57070481481631
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_05_01.mp4",
+                "video_results": 73.58955272958298
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_13_03.mp4",
+                "video_results": 69.44897051093992
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_09.mp4",
+                "video_results": 75.50994601919632
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_05.mp4",
+                "video_results": 77.80430306678961
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_07.mp4",
+                "video_results": 63.61632632421068
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_03_01.mp4",
+                "video_results": 75.48635082402505
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_08.mp4",
+                "video_results": 59.001908893427576
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_03.mp4",
+                "video_results": 79.26769395308061
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_06.mp4",
+                "video_results": 74.47501341764593
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_10.mp4",
+                "video_results": 56.11440163604484
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_14.mp4",
+                "video_results": 74.49146894975142
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_13_04.mp4",
+                "video_results": 68.50227702747692
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_06.mp4",
+                "video_results": 75.68422944880714
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_03_04.mp4",
+                "video_results": 75.68514220182561
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_03.mp4",
+                "video_results": 65.16571773182262
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_15_01.mp4",
+                "video_results": 79.74857090721446
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_17_01.mp4",
+                "video_results": 75.33520873519015
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_04.mp4",
+                "video_results": 78.55036087666662
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_06_01.mp4",
+                "video_results": 71.29314050595623
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_01_01.mp4",
+                "video_results": 71.30469821898406
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_09.mp4",
+                "video_results": 65.08308892998814
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_04.mp4",
+                "video_results": 64.36436090390545
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_12.mp4",
+                "video_results": 74.63001711506489
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_09_01.mp4",
+                "video_results": 73.73489272692971
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_05.mp4",
+                "video_results": 75.70072855043017
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_19_02.mp4",
+                "video_results": 62.363934729710095
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_07.mp4",
+                "video_results": 67.62503947108245
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_04_04.mp4",
+                "video_results": 67.42720353307803
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_06.mp4",
+                "video_results": 66.05519290009806
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_01_04.mp4",
+                "video_results": 76.77989259830191
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_09_02.mp4",
+                "video_results": 69.20653054733907
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_02.mp4",
+                "video_results": 77.65534947923392
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_17_03.mp4",
+                "video_results": 75.20597448427814
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_07_02.mp4",
+                "video_results": 68.90360329367898
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_09_04.mp4",
+                "video_results": 79.79289491511574
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_11_04.mp4",
+                "video_results": 69.25046088478781
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_10_01.mp4",
+                "video_results": 73.67502789457967
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_03_04.mp4",
+                "video_results": 68.18466744541136
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_09.mp4",
+                "video_results": 75.27623774000436
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_11.mp4",
+                "video_results": 78.86893772093718
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_07.mp4",
+                "video_results": 62.80528010218597
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_05_04.mp4",
+                "video_results": 75.07198636393902
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_01.mp4",
+                "video_results": 72.41053986352337
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_12.mp4",
+                "video_results": 73.9601258837487
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_02.mp4",
+                "video_results": 68.94465233668808
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_01_03.mp4",
+                "video_results": 76.27120952763833
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_07.mp4",
+                "video_results": 47.48642454147339
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_22_01.mp4",
+                "video_results": 78.76296404373548
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_07.mp4",
+                "video_results": 72.27992330503858
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_09.mp4",
+                "video_results": 50.90396461802081
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_23_04.mp4",
+                "video_results": 78.44809168035334
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_03_01.mp4",
+                "video_results": 61.208060871471055
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_06.mp4",
+                "video_results": 66.03487175555269
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_11.mp4",
+                "video_results": 78.82857393627324
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_09.mp4",
+                "video_results": 67.31800359930874
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_01.mp4",
+                "video_results": 71.34583616650794
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_11_03.mp4",
+                "video_results": 72.68382367220792
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_17_04.mp4",
+                "video_results": 78.0313216280346
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_02.mp4",
+                "video_results": 57.566693203508365
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_02.mp4",
+                "video_results": 74.81369762578286
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_05.mp4",
+                "video_results": 71.89551146956515
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_14.mp4",
+                "video_results": 76.22255170837907
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_07_01.mp4",
+                "video_results": 71.38697278992204
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_06_02.mp4",
+                "video_results": 77.89612963968072
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_09_04.mp4",
+                "video_results": 75.0431954565127
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_04_01.mp4",
+                "video_results": 60.48422575391029
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_10_01.mp4",
+                "video_results": 74.12599598277698
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_08_02.mp4",
+                "video_results": 76.41772801422876
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_13_01.mp4",
+                "video_results": 68.12440002063089
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_06.mp4",
+                "video_results": 72.30184053783574
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_09.mp4",
+                "video_results": 60.775459730920716
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_04_03.mp4",
+                "video_results": 72.84020176406734
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_07_03.mp4",
+                "video_results": 68.26825944254222
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_03_02.mp4",
+                "video_results": 76.64291911479856
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_05.mp4",
+                "video_results": 59.69375777441608
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_08.mp4",
+                "video_results": 71.80836174704812
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_09.mp4",
+                "video_results": 75.18746248355582
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_25_01.mp4",
+                "video_results": 69.04118277809836
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_23_01.mp4",
+                "video_results": 58.549404270392806
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_04_03.mp4",
+                "video_results": 60.847627624007295
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_02_03.mp4",
+                "video_results": 76.79962757205175
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_11_01.mp4",
+                "video_results": 68.45996957574009
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_01_01.mp4",
+                "video_results": 75.2269478790031
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_09_03.mp4",
+                "video_results": 67.80514885768417
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_22_03.mp4",
+                "video_results": 69.59089654339246
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_13.mp4",
+                "video_results": 68.53405610391917
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_21_04.mp4",
+                "video_results": 69.55951816779523
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_10.mp4",
+                "video_results": 71.02211206609553
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_22_02.mp4",
+                "video_results": 70.05807211379374
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_25_03.mp4",
+                "video_results": 55.42732320738233
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_09.mp4",
+                "video_results": 75.78352690137122
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_07_01.mp4",
+                "video_results": 75.11334398758314
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_11.mp4",
+                "video_results": 71.2997639553606
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_10_02.mp4",
+                "video_results": 66.54281723400779
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_18_04.mp4",
+                "video_results": 74.9130004693654
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_06.mp4",
+                "video_results": 74.6655406479008
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_23_03.mp4",
+                "video_results": 62.94452572657057
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_23_02.mp4",
+                "video_results": 80.3658399345461
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_03.mp4",
+                "video_results": 64.58888752204328
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_11.mp4",
+                "video_results": 69.45154322474455
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_05.mp4",
+                "video_results": 78.74045789734392
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_24_04.mp4",
+                "video_results": 77.97278185127195
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_04_01.mp4",
+                "video_results": 79.10593508885911
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_08_03.mp4",
+                "video_results": 77.46354845535657
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_03.mp4",
+                "video_results": 63.00832795702721
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_04.mp4",
+                "video_results": 58.789422594811306
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B32_10.mp4",
+                "video_results": 67.91498918769773
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_12_02.mp4",
+                "video_results": 78.59281486322072
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_12.mp4",
+                "video_results": 75.02918596504148
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_07_03.mp4",
+                "video_results": 78.76971807558674
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_07.mp4",
+                "video_results": 76.31802853670987
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_04.mp4",
+                "video_results": 77.13029713276003
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_03.mp4",
+                "video_results": 64.78156807008854
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B51_11.mp4",
+                "video_results": 67.74923148036989
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_01.mp4",
+                "video_results": 74.02973067858987
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_02_04.mp4",
+                "video_results": 73.03014594464263
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_12.mp4",
+                "video_results": 75.2932095488241
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_11_01.mp4",
+                "video_results": 76.99664987611376
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_07.mp4",
+                "video_results": 68.91653054607801
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_11_02.mp4",
+                "video_results": 61.361468102321155
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_05.mp4",
+                "video_results": 66.42172878044695
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_08_02.mp4",
+                "video_results": 77.39485773764366
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_06_04.mp4",
+                "video_results": 78.01111552340926
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_02.mp4",
+                "video_results": 77.15989168025246
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_16_01.mp4",
+                "video_results": 77.4102314720469
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_08.mp4",
+                "video_results": 62.38425839636937
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_09_01.mp4",
+                "video_results": 52.36682872929849
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_01_02.mp4",
+                "video_results": 80.39172501997514
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_15.mp4",
+                "video_results": 72.29964970360118
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_11.mp4",
+                "video_results": 75.441950711337
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_05_02.mp4",
+                "video_results": 69.87537585802315
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_10.mp4",
+                "video_results": 72.19881407682561
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_11.mp4",
+                "video_results": 78.10540494051847
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_13.mp4",
+                "video_results": 75.66823748123548
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_10_04.mp4",
+                "video_results": 64.17696021214005
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_06.mp4",
+                "video_results": 67.08256010575728
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_09_02.mp4",
+                "video_results": 78.16270982726546
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_12.mp4",
+                "video_results": 72.64621173448799
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_03.mp4",
+                "video_results": 76.89665840085873
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_04.mp4",
+                "video_results": 71.07936896962568
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_15_01.mp4",
+                "video_results": 77.04338105256892
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_13.mp4",
+                "video_results": 75.3614551134346
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_13_03.mp4",
+                "video_results": 67.18614931343015
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_14_01.mp4",
+                "video_results": 78.95319845656718
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_11_03.mp4",
+                "video_results": 79.99910679336422
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_03.mp4",
+                "video_results": 74.07617196957928
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_08_04.mp4",
+                "video_results": 78.77102024299055
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_07.mp4",
+                "video_results": 71.33631392549877
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_10_02.mp4",
+                "video_results": 60.87337506507054
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_06.mp4",
+                "video_results": 79.0995653010597
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_04.mp4",
+                "video_results": 78.73704862988684
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_08.mp4",
+                "video_results": 49.42251016285794
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_02.mp4",
+                "video_results": 77.95299429144741
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_12_02.mp4",
+                "video_results": 69.96466745423876
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_05.mp4",
+                "video_results": 63.727312229881605
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_13_01.mp4",
+                "video_results": 71.6697940668784
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_11_04.mp4",
+                "video_results": 75.87804652442617
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_02_01.mp4",
+                "video_results": 73.2119485524075
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_08.mp4",
+                "video_results": 67.92963488239887
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_08.mp4",
+                "video_results": 70.71545870442036
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_01_04.mp4",
+                "video_results": 63.79259522493221
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_06_01.mp4",
+                "video_results": 63.58350529946571
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B41_07.mp4",
+                "video_results": 61.043898117443746
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_04_03.mp4",
+                "video_results": 79.25596442104371
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_18.mp4",
+                "video_results": 75.98265744043776
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_15_04.mp4",
+                "video_results": 65.76425700542356
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_11_02.mp4",
+                "video_results": 66.81295905625525
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_01.mp4",
+                "video_results": 77.56797954464747
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_14.mp4",
+                "video_results": 77.89736780844444
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_04.mp4",
+                "video_results": 55.97623005386227
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_07.mp4",
+                "video_results": 64.85556821586673
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_03.mp4",
+                "video_results": 76.99384314166613
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B42_07.mp4",
+                "video_results": 61.89040860262784
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_17.mp4",
+                "video_results": 75.03921830358584
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_11.mp4",
+                "video_results": 75.50994601919632
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_05_03.mp4",
+                "video_results": 70.41089258115154
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B52_09.mp4",
+                "video_results": 79.78821443920293
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_14.mp4",
+                "video_results": 63.67024193125323
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_08_01.mp4",
+                "video_results": 75.19490845735407
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B34_06.mp4",
+                "video_results": 60.23738902068335
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_18_02.mp4",
+                "video_results": 72.01347710475449
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_02_02.mp4",
+                "video_results": 58.8739133472285
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B11_06.mp4",
+                "video_results": 77.15965756503019
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_14_03.mp4",
+                "video_results": 71.04435893917872
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_08_03.mp4",
+                "video_results": 67.06331007145653
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_03.mp4",
+                "video_results": 58.75768828589069
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B33_03.mp4",
+                "video_results": 62.141651437302265
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B22_04.mp4",
+                "video_results": 76.28221981584534
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B13_04.mp4",
+                "video_results": 75.34862650721526
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B21_06.mp4",
+                "video_results": 75.6326426356292
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_16_04.mp4",
+                "video_results": 75.24489669169276
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_24_01.mp4",
+                "video_results": 78.17437781972333
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B12_02.mp4",
+                "video_results": 75.82957628738782
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_07.mp4",
+                "video_results": 75.57941884442795
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B31_13.mp4",
+                "video_results": 76.05784392553913
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L3_07_02.mp4",
+                "video_results": 73.85430637075882
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B14_15.mp4",
+                "video_results": 75.99261897063452
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_10_04.mp4",
+                "video_results": 65.00444837838165
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L4_03_02.mp4",
+                "video_results": 76.93632702788045
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B15_10.mp4",
+                "video_results": 61.12669719349254
+            },
+            {
+                "video_path": "./Video/Seedance1.0/B43_04.mp4",
+                "video_results": 79.33435689122224
+            },
+            {
+                "video_path": "./Video/Seedance1.0/L2_18_03.mp4",
+                "video_results": 63.99396514892578
+            }
+        ]
+    ]
+}

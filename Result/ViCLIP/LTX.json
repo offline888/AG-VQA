@@ -1,0 +1,2002 @@
+[
+  {
+    "score": 0.23225060105323792,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_01.mp4"
+  },
+  {
+    "score": 0.17910124361515045,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_02.mp4"
+  },
+  {
+    "score": 0.15517441928386688,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_03.mp4"
+  },
+  {
+    "score": 0.15350273251533508,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_04.mp4"
+  },
+  {
+    "score": 0.15848012268543243,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_05.mp4"
+  },
+  {
+    "score": 0.16978424787521362,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_06.mp4"
+  },
+  {
+    "score": 0.1985832154750824,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_07.mp4"
+  },
+  {
+    "score": 0.2004181444644928,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_08.mp4"
+  },
+  {
+    "score": 0.1940407007932663,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_09.mp4"
+  },
+  {
+    "score": 0.19703033566474915,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_10.mp4"
+  },
+  {
+    "score": 0.1964552253484726,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_11.mp4"
+  },
+  {
+    "score": 0.16161510348320007,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_12.mp4"
+  },
+  {
+    "score": 0.19092728197574615,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_13.mp4"
+  },
+  {
+    "score": 0.2183411717414856,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_14.mp4"
+  },
+  {
+    "score": 0.2161615639925003,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_15.mp4"
+  },
+  {
+    "score": 0.25134655833244324,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_16.mp4"
+  },
+  {
+    "score": 0.23525582253932953,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_17.mp4"
+  },
+  {
+    "score": 0.1757696568965912,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B11_18.mp4"
+  },
+  {
+    "score": 0.24939069151878357,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_01.mp4"
+  },
+  {
+    "score": 0.2171204388141632,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_02.mp4"
+  },
+  {
+    "score": 0.26300832629203796,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_03.mp4"
+  },
+  {
+    "score": 0.20433485507965088,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_04.mp4"
+  },
+  {
+    "score": 0.2505199909210205,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_05.mp4"
+  },
+  {
+    "score": 0.2662937045097351,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_06.mp4"
+  },
+  {
+    "score": 0.22681988775730133,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_07.mp4"
+  },
+  {
+    "score": 0.2172536849975586,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_08.mp4"
+  },
+  {
+    "score": 0.23153996467590332,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_09.mp4"
+  },
+  {
+    "score": 0.18011324107646942,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_10.mp4"
+  },
+  {
+    "score": 0.2224542796611786,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_11.mp4"
+  },
+  {
+    "score": 0.21189333498477936,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B12_12.mp4"
+  },
+  {
+    "score": 0.18456301093101501,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_01.mp4"
+  },
+  {
+    "score": 0.16223371028900146,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_02.mp4"
+  },
+  {
+    "score": 0.1975627988576889,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_03.mp4"
+  },
+  {
+    "score": 0.2933272123336792,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_04.mp4"
+  },
+  {
+    "score": 0.2500459849834442,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_05.mp4"
+  },
+  {
+    "score": 0.21552202105522156,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_06.mp4"
+  },
+  {
+    "score": 0.2115350067615509,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_07.mp4"
+  },
+  {
+    "score": 0.25120067596435547,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_08.mp4"
+  },
+  {
+    "score": 0.18578852713108063,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_09.mp4"
+  },
+  {
+    "score": 0.23237183690071106,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_10.mp4"
+  },
+  {
+    "score": 0.24029389023780823,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_11.mp4"
+  },
+  {
+    "score": 0.1420649141073227,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B13_12.mp4"
+  },
+  {
+    "score": 0.2787970006465912,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_01.mp4"
+  },
+  {
+    "score": 0.2418213188648224,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_02.mp4"
+  },
+  {
+    "score": 0.19938506186008453,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_03.mp4"
+  },
+  {
+    "score": 0.2378356158733368,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_04.mp4"
+  },
+  {
+    "score": 0.1279773861169815,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_05.mp4"
+  },
+  {
+    "score": 0.2059648334980011,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_06.mp4"
+  },
+  {
+    "score": 0.16065947711467743,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_07.mp4"
+  },
+  {
+    "score": 0.22648489475250244,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_08.mp4"
+  },
+  {
+    "score": 0.2602122724056244,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_09.mp4"
+  },
+  {
+    "score": 0.1764882653951645,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_10.mp4"
+  },
+  {
+    "score": 0.2258753627538681,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_11.mp4"
+  },
+  {
+    "score": 0.13146451115608215,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_12.mp4"
+  },
+  {
+    "score": 0.21432243287563324,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_13.mp4"
+  },
+  {
+    "score": 0.20549966394901276,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_14.mp4"
+  },
+  {
+    "score": 0.22577856481075287,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B14_15.mp4"
+  },
+  {
+    "score": 0.25562021136283875,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_01.mp4"
+  },
+  {
+    "score": 0.22592198848724365,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_02.mp4"
+  },
+  {
+    "score": 0.2566033899784088,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_03.mp4"
+  },
+  {
+    "score": 0.20217013359069824,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_04.mp4"
+  },
+  {
+    "score": 0.23359432816505432,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_05.mp4"
+  },
+  {
+    "score": 0.23137545585632324,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_06.mp4"
+  },
+  {
+    "score": 0.25782510638237,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_07.mp4"
+  },
+  {
+    "score": 0.2797137200832367,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_08.mp4"
+  },
+  {
+    "score": 0.17694708704948425,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_09.mp4"
+  },
+  {
+    "score": 0.22524568438529968,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_10.mp4"
+  },
+  {
+    "score": 0.20405368506908417,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_11.mp4"
+  },
+  {
+    "score": 0.2299971580505371,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B15_12.mp4"
+  },
+  {
+    "score": 0.13976645469665527,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_01.mp4"
+  },
+  {
+    "score": 0.29744574427604675,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_02.mp4"
+  },
+  {
+    "score": 0.19390013813972473,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_03.mp4"
+  },
+  {
+    "score": 0.23443979024887085,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_04.mp4"
+  },
+  {
+    "score": 0.21934950351715088,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_05.mp4"
+  },
+  {
+    "score": 0.20921345055103302,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_06.mp4"
+  },
+  {
+    "score": 0.1948043406009674,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_07.mp4"
+  },
+  {
+    "score": 0.26168033480644226,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_08.mp4"
+  },
+  {
+    "score": 0.15265049040317535,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_09.mp4"
+  },
+  {
+    "score": 0.20422878861427307,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_10.mp4"
+  },
+  {
+    "score": 0.19047334790229797,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_11.mp4"
+  },
+  {
+    "score": 0.25910115242004395,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_12.mp4"
+  },
+  {
+    "score": 0.25417935848236084,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_13.mp4"
+  },
+  {
+    "score": 0.20168475806713104,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B21_14.mp4"
+  },
+  {
+    "score": 0.2630065083503723,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_01.mp4"
+  },
+  {
+    "score": 0.21800437569618225,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_02.mp4"
+  },
+  {
+    "score": 0.2737235128879547,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_03.mp4"
+  },
+  {
+    "score": 0.24644434452056885,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_04.mp4"
+  },
+  {
+    "score": 0.19847477972507477,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_05.mp4"
+  },
+  {
+    "score": 0.22292372584342957,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_06.mp4"
+  },
+  {
+    "score": 0.21142685413360596,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_07.mp4"
+  },
+  {
+    "score": 0.18673589825630188,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_08.mp4"
+  },
+  {
+    "score": 0.17113594710826874,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_09.mp4"
+  },
+  {
+    "score": 0.20680296421051025,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_10.mp4"
+  },
+  {
+    "score": 0.21613186597824097,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_11.mp4"
+  },
+  {
+    "score": 0.2108747959136963,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B22_12.mp4"
+  },
+  {
+    "score": 0.2358572781085968,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_01.mp4"
+  },
+  {
+    "score": 0.21649685502052307,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_02.mp4"
+  },
+  {
+    "score": 0.18768355250358582,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_03.mp4"
+  },
+  {
+    "score": 0.2215162217617035,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_04.mp4"
+  },
+  {
+    "score": 0.17564871907234192,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_05.mp4"
+  },
+  {
+    "score": 0.23377664387226105,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_06.mp4"
+  },
+  {
+    "score": 0.19667088985443115,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_07.mp4"
+  },
+  {
+    "score": 0.2006547451019287,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_08.mp4"
+  },
+  {
+    "score": 0.2386944591999054,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_09.mp4"
+  },
+  {
+    "score": 0.19104287028312683,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_10.mp4"
+  },
+  {
+    "score": 0.1869029998779297,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_11.mp4"
+  },
+  {
+    "score": 0.31711938977241516,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_12.mp4"
+  },
+  {
+    "score": 0.17928734421730042,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_13.mp4"
+  },
+  {
+    "score": 0.19408327341079712,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B31_14.mp4"
+  },
+  {
+    "score": 0.21118180453777313,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_01.mp4"
+  },
+  {
+    "score": 0.20907941460609436,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_02.mp4"
+  },
+  {
+    "score": 0.12789306044578552,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_03.mp4"
+  },
+  {
+    "score": 0.21945004165172577,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_04.mp4"
+  },
+  {
+    "score": 0.21507181227207184,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_05.mp4"
+  },
+  {
+    "score": 0.1520904153585434,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_06.mp4"
+  },
+  {
+    "score": 0.17500139772891998,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_07.mp4"
+  },
+  {
+    "score": 0.22938111424446106,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_08.mp4"
+  },
+  {
+    "score": 0.22615323960781097,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_09.mp4"
+  },
+  {
+    "score": 0.22127649188041687,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_10.mp4"
+  },
+  {
+    "score": 0.2087700217962265,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B32_11.mp4"
+  },
+  {
+    "score": 0.12865698337554932,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_01.mp4"
+  },
+  {
+    "score": 0.2694348990917206,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_02.mp4"
+  },
+  {
+    "score": 0.15603870153427124,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_03.mp4"
+  },
+  {
+    "score": 0.1635511964559555,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_04.mp4"
+  },
+  {
+    "score": 0.22992828488349915,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_05.mp4"
+  },
+  {
+    "score": 0.1750965714454651,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_06.mp4"
+  },
+  {
+    "score": 0.16220468282699585,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_07.mp4"
+  },
+  {
+    "score": 0.14500784873962402,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_08.mp4"
+  },
+  {
+    "score": 0.20630469918251038,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_09.mp4"
+  },
+  {
+    "score": 0.20600919425487518,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B33_10.mp4"
+  },
+  {
+    "score": 0.24352632462978363,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_01.mp4"
+  },
+  {
+    "score": 0.23346862196922302,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_02.mp4"
+  },
+  {
+    "score": 0.12803131341934204,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_03.mp4"
+  },
+  {
+    "score": 0.1940980851650238,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_04.mp4"
+  },
+  {
+    "score": 0.19394689798355103,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_05.mp4"
+  },
+  {
+    "score": 0.2632582187652588,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_06.mp4"
+  },
+  {
+    "score": 0.21231356263160706,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_07.mp4"
+  },
+  {
+    "score": 0.22804555296897888,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_08.mp4"
+  },
+  {
+    "score": 0.24916711449623108,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_09.mp4"
+  },
+  {
+    "score": 0.2300877422094345,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B34_10.mp4"
+  },
+  {
+    "score": 0.1574958860874176,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_01.mp4"
+  },
+  {
+    "score": 0.18603017926216125,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_02.mp4"
+  },
+  {
+    "score": 0.2009088397026062,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_03.mp4"
+  },
+  {
+    "score": 0.2756112217903137,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_04.mp4"
+  },
+  {
+    "score": 0.25191250443458557,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_05.mp4"
+  },
+  {
+    "score": 0.25211429595947266,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_06.mp4"
+  },
+  {
+    "score": 0.23940308392047882,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_07.mp4"
+  },
+  {
+    "score": 0.253449022769928,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_08.mp4"
+  },
+  {
+    "score": 0.21353767812252045,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_09.mp4"
+  },
+  {
+    "score": 0.1941392719745636,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_10.mp4"
+  },
+  {
+    "score": 0.2571013867855072,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_11.mp4"
+  },
+  {
+    "score": 0.22384755313396454,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_12.mp4"
+  },
+  {
+    "score": 0.20155516266822815,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B41_13.mp4"
+  },
+  {
+    "score": 0.1937616616487503,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_01.mp4"
+  },
+  {
+    "score": 0.22495560348033905,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_02.mp4"
+  },
+  {
+    "score": 0.24419941008090973,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_03.mp4"
+  },
+  {
+    "score": 0.17240002751350403,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_04.mp4"
+  },
+  {
+    "score": 0.19096150994300842,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_05.mp4"
+  },
+  {
+    "score": 0.2080247700214386,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_06.mp4"
+  },
+  {
+    "score": 0.19769929349422455,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_07.mp4"
+  },
+  {
+    "score": 0.17347685992717743,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_08.mp4"
+  },
+  {
+    "score": 0.2449173927307129,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_09.mp4"
+  },
+  {
+    "score": 0.17964346706867218,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_10.mp4"
+  },
+  {
+    "score": 0.23863263428211212,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_11.mp4"
+  },
+  {
+    "score": 0.23902447521686554,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B42_12.mp4"
+  },
+  {
+    "score": 0.24757084250450134,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_01.mp4"
+  },
+  {
+    "score": 0.22613686323165894,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_02.mp4"
+  },
+  {
+    "score": 0.2125343680381775,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_03.mp4"
+  },
+  {
+    "score": 0.2210492044687271,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_04.mp4"
+  },
+  {
+    "score": 0.21524688601493835,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_05.mp4"
+  },
+  {
+    "score": 0.19040235877037048,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_06.mp4"
+  },
+  {
+    "score": 0.2679128050804138,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_07.mp4"
+  },
+  {
+    "score": 0.07546152174472809,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_08.mp4"
+  },
+  {
+    "score": 0.23482565581798553,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_09.mp4"
+  },
+  {
+    "score": 0.17096400260925293,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_10.mp4"
+  },
+  {
+    "score": 0.19504600763320923,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B43_11.mp4"
+  },
+  {
+    "score": 0.1868235170841217,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_01.mp4"
+  },
+  {
+    "score": 0.18160958588123322,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_02.mp4"
+  },
+  {
+    "score": 0.206289604306221,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_03.mp4"
+  },
+  {
+    "score": 0.20427754521369934,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_04.mp4"
+  },
+  {
+    "score": 0.2031019628047943,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_05.mp4"
+  },
+  {
+    "score": 0.1981370449066162,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_06.mp4"
+  },
+  {
+    "score": 0.22008541226387024,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_07.mp4"
+  },
+  {
+    "score": 0.20114846527576447,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_08.mp4"
+  },
+  {
+    "score": 0.16204416751861572,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_09.mp4"
+  },
+  {
+    "score": 0.16868235170841217,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_10.mp4"
+  },
+  {
+    "score": 0.22003062069416046,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_11.mp4"
+  },
+  {
+    "score": 0.236287921667099,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B51_12.mp4"
+  },
+  {
+    "score": 0.17246589064598083,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_01.mp4"
+  },
+  {
+    "score": 0.2367580384016037,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_02.mp4"
+  },
+  {
+    "score": 0.2343463897705078,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_03.mp4"
+  },
+  {
+    "score": 0.21532988548278809,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_04.mp4"
+  },
+  {
+    "score": 0.25295913219451904,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_05.mp4"
+  },
+  {
+    "score": 0.19697344303131104,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_06.mp4"
+  },
+  {
+    "score": 0.26188910007476807,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_07.mp4"
+  },
+  {
+    "score": 0.2227220982313156,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_08.mp4"
+  },
+  {
+    "score": 0.16702251136302948,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_09.mp4"
+  },
+  {
+    "score": 0.24453961849212646,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_10.mp4"
+  },
+  {
+    "score": 0.19344307482242584,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_11.mp4"
+  },
+  {
+    "score": 0.3007957935333252,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/B52_12.mp4"
+  },
+  {
+    "score": 0.1975409984588623,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_01_01.mp4"
+  },
+  {
+    "score": 0.20325294137001038,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_01_02.mp4"
+  },
+  {
+    "score": 0.21066242456436157,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_01_03.mp4"
+  },
+  {
+    "score": 0.2184845209121704,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_01_04.mp4"
+  },
+  {
+    "score": 0.1924932301044464,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_02_01.mp4"
+  },
+  {
+    "score": 0.21574033796787262,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_02_02.mp4"
+  },
+  {
+    "score": 0.23301613330841064,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_02_03.mp4"
+  },
+  {
+    "score": 0.18688946962356567,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_02_04.mp4"
+  },
+  {
+    "score": 0.21211235225200653,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_03_01.mp4"
+  },
+  {
+    "score": 0.24284064769744873,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_03_02.mp4"
+  },
+  {
+    "score": 0.226176917552948,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_03_03.mp4"
+  },
+  {
+    "score": 0.21232903003692627,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_03_04.mp4"
+  },
+  {
+    "score": 0.22854650020599365,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_04_01.mp4"
+  },
+  {
+    "score": 0.2266683578491211,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_04_02.mp4"
+  },
+  {
+    "score": 0.23730215430259705,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_04_03.mp4"
+  },
+  {
+    "score": 0.22066915035247803,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_04_04.mp4"
+  },
+  {
+    "score": 0.23212778568267822,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_05_01.mp4"
+  },
+  {
+    "score": 0.2580217123031616,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_05_02.mp4"
+  },
+  {
+    "score": 0.1470450758934021,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_05_03.mp4"
+  },
+  {
+    "score": 0.22951245307922363,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_05_04.mp4"
+  },
+  {
+    "score": 0.2108217179775238,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_06_01.mp4"
+  },
+  {
+    "score": 0.17583882808685303,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_06_02.mp4"
+  },
+  {
+    "score": 0.1970619261264801,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_06_03.mp4"
+  },
+  {
+    "score": 0.19698907434940338,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_06_04.mp4"
+  },
+  {
+    "score": 0.2247014194726944,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_07_01.mp4"
+  },
+  {
+    "score": 0.23631475865840912,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_07_02.mp4"
+  },
+  {
+    "score": 0.22519372403621674,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_07_03.mp4"
+  },
+  {
+    "score": 0.1769545078277588,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_07_04.mp4"
+  },
+  {
+    "score": 0.19859424233436584,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_08_01.mp4"
+  },
+  {
+    "score": 0.2107735574245453,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_08_02.mp4"
+  },
+  {
+    "score": 0.22289100289344788,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_08_03.mp4"
+  },
+  {
+    "score": 0.1943426877260208,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_08_04.mp4"
+  },
+  {
+    "score": 0.21969817578792572,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_09_01.mp4"
+  },
+  {
+    "score": 0.16335663199424744,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_09_02.mp4"
+  },
+  {
+    "score": 0.21390819549560547,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_09_03.mp4"
+  },
+  {
+    "score": 0.23389121890068054,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_09_04.mp4"
+  },
+  {
+    "score": 0.2574840188026428,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_10_01.mp4"
+  },
+  {
+    "score": 0.1817779690027237,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_10_02.mp4"
+  },
+  {
+    "score": 0.24375063180923462,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_10_03.mp4"
+  },
+  {
+    "score": 0.24378961324691772,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_10_04.mp4"
+  },
+  {
+    "score": 0.1557030975818634,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_11_01.mp4"
+  },
+  {
+    "score": 0.2466372400522232,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_11_02.mp4"
+  },
+  {
+    "score": 0.13774313032627106,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_11_03.mp4"
+  },
+  {
+    "score": 0.22298607230186462,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_11_04.mp4"
+  },
+  {
+    "score": 0.24253995716571808,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_12_01.mp4"
+  },
+  {
+    "score": 0.1914498209953308,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_12_02.mp4"
+  },
+  {
+    "score": 0.25633475184440613,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_12_03.mp4"
+  },
+  {
+    "score": 0.20961080491542816,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_12_04.mp4"
+  },
+  {
+    "score": 0.159966841340065,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_13_01.mp4"
+  },
+  {
+    "score": 0.24678170680999756,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_13_02.mp4"
+  },
+  {
+    "score": 0.22066150605678558,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_13_03.mp4"
+  },
+  {
+    "score": 0.19506333768367767,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_13_04.mp4"
+  },
+  {
+    "score": 0.17056606709957123,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_14_01.mp4"
+  },
+  {
+    "score": 0.22171498835086823,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_14_02.mp4"
+  },
+  {
+    "score": 0.1833580583333969,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_14_03.mp4"
+  },
+  {
+    "score": 0.23434221744537354,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_14_04.mp4"
+  },
+  {
+    "score": 0.19215719401836395,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_15_01.mp4"
+  },
+  {
+    "score": 0.21765244007110596,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_15_02.mp4"
+  },
+  {
+    "score": 0.19867479801177979,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_15_03.mp4"
+  },
+  {
+    "score": 0.2326563000679016,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_15_04.mp4"
+  },
+  {
+    "score": 0.19576294720172882,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_16_01.mp4"
+  },
+  {
+    "score": 0.22547122836112976,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_16_02.mp4"
+  },
+  {
+    "score": 0.1942899078130722,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_16_03.mp4"
+  },
+  {
+    "score": 0.17385154962539673,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_16_04.mp4"
+  },
+  {
+    "score": 0.19429269433021545,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_17_01.mp4"
+  },
+  {
+    "score": 0.2255352884531021,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_17_02.mp4"
+  },
+  {
+    "score": 0.1580408662557602,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_17_03.mp4"
+  },
+  {
+    "score": 0.20023579895496368,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_17_04.mp4"
+  },
+  {
+    "score": 0.21144117414951324,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_18_01.mp4"
+  },
+  {
+    "score": 0.2268170714378357,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_18_02.mp4"
+  },
+  {
+    "score": 0.17227578163146973,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_18_03.mp4"
+  },
+  {
+    "score": 0.23475036025047302,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_18_04.mp4"
+  },
+  {
+    "score": 0.2917245924472809,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_19_01.mp4"
+  },
+  {
+    "score": 0.2513013482093811,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_19_02.mp4"
+  },
+  {
+    "score": 0.1762198805809021,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_19_03.mp4"
+  },
+  {
+    "score": 0.2078213393688202,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_19_04.mp4"
+  },
+  {
+    "score": 0.20417581498622894,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_20_01.mp4"
+  },
+  {
+    "score": 0.21859486401081085,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_20_02.mp4"
+  },
+  {
+    "score": 0.2055831402540207,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_20_03.mp4"
+  },
+  {
+    "score": 0.16106636822223663,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_20_04.mp4"
+  },
+  {
+    "score": 0.20236700773239136,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_21_01.mp4"
+  },
+  {
+    "score": 0.21191637217998505,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_21_02.mp4"
+  },
+  {
+    "score": 0.2643008232116699,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_21_03.mp4"
+  },
+  {
+    "score": 0.19395077228546143,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_21_04.mp4"
+  },
+  {
+    "score": 0.15268705785274506,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_22_01.mp4"
+  },
+  {
+    "score": 0.2305351197719574,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_22_02.mp4"
+  },
+  {
+    "score": 0.2119286060333252,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_22_03.mp4"
+  },
+  {
+    "score": 0.24484427273273468,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_22_04.mp4"
+  },
+  {
+    "score": 0.27332237362861633,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_23_01.mp4"
+  },
+  {
+    "score": 0.20762592554092407,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_23_02.mp4"
+  },
+  {
+    "score": 0.1701565682888031,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_23_03.mp4"
+  },
+  {
+    "score": 0.22788824141025543,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_23_04.mp4"
+  },
+  {
+    "score": 0.22252722084522247,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_24_01.mp4"
+  },
+  {
+    "score": 0.2535455822944641,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_24_02.mp4"
+  },
+  {
+    "score": 0.2015138864517212,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_24_03.mp4"
+  },
+  {
+    "score": 0.13356512784957886,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_24_04.mp4"
+  },
+  {
+    "score": 0.2463262975215912,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_25_01.mp4"
+  },
+  {
+    "score": 0.2709996998310089,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_25_02.mp4"
+  },
+  {
+    "score": 0.21540185809135437,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_25_03.mp4"
+  },
+  {
+    "score": 0.18327990174293518,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L2_25_04.mp4"
+  },
+  {
+    "score": 0.23331105709075928,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_01_01.mp4"
+  },
+  {
+    "score": 0.24397067725658417,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_01_02.mp4"
+  },
+  {
+    "score": 0.1946469247341156,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_01_03.mp4"
+  },
+  {
+    "score": 0.2517450749874115,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_01_04.mp4"
+  },
+  {
+    "score": 0.20461079478263855,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_02_01.mp4"
+  },
+  {
+    "score": 0.23254168033599854,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_02_02.mp4"
+  },
+  {
+    "score": 0.18949508666992188,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_02_03.mp4"
+  },
+  {
+    "score": 0.21843388676643372,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_02_04.mp4"
+  },
+  {
+    "score": 0.2047169804573059,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_03_01.mp4"
+  },
+  {
+    "score": 0.1861627846956253,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_03_02.mp4"
+  },
+  {
+    "score": 0.28109073638916016,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_03_03.mp4"
+  },
+  {
+    "score": 0.18206530809402466,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_03_04.mp4"
+  },
+  {
+    "score": 0.19387029111385345,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_04_01.mp4"
+  },
+  {
+    "score": 0.18798279762268066,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_04_02.mp4"
+  },
+  {
+    "score": 0.2562660872936249,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_04_03.mp4"
+  },
+  {
+    "score": 0.22420382499694824,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_04_04.mp4"
+  },
+  {
+    "score": 0.21069827675819397,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_05_01.mp4"
+  },
+  {
+    "score": 0.1648692488670349,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_05_02.mp4"
+  },
+  {
+    "score": 0.24009983241558075,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_05_03.mp4"
+  },
+  {
+    "score": 0.2349681258201599,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_05_04.mp4"
+  },
+  {
+    "score": 0.20795036852359772,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_06_01.mp4"
+  },
+  {
+    "score": 0.14868932962417603,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_06_02.mp4"
+  },
+  {
+    "score": 0.2335241734981537,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_06_03.mp4"
+  },
+  {
+    "score": 0.2303464561700821,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_06_04.mp4"
+  },
+  {
+    "score": 0.22760577499866486,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_07_01.mp4"
+  },
+  {
+    "score": 0.20574325323104858,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_07_02.mp4"
+  },
+  {
+    "score": 0.1876794844865799,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_07_03.mp4"
+  },
+  {
+    "score": 0.19579224288463593,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_07_04.mp4"
+  },
+  {
+    "score": 0.21188606321811676,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_08_01.mp4"
+  },
+  {
+    "score": 0.22854077816009521,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_08_02.mp4"
+  },
+  {
+    "score": 0.21890071034431458,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_08_03.mp4"
+  },
+  {
+    "score": 0.19434872269630432,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_08_04.mp4"
+  },
+  {
+    "score": 0.2383405566215515,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_09_01.mp4"
+  },
+  {
+    "score": 0.14579103887081146,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_09_02.mp4"
+  },
+  {
+    "score": 0.19943225383758545,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_09_03.mp4"
+  },
+  {
+    "score": 0.11986702680587769,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_09_04.mp4"
+  },
+  {
+    "score": 0.22727267444133759,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_10_01.mp4"
+  },
+  {
+    "score": 0.18242189288139343,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_10_02.mp4"
+  },
+  {
+    "score": 0.19185508787631989,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_10_03.mp4"
+  },
+  {
+    "score": 0.20011791586875916,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_10_04.mp4"
+  },
+  {
+    "score": 0.1834115982055664,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_11_01.mp4"
+  },
+  {
+    "score": 0.1099269688129425,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_11_02.mp4"
+  },
+  {
+    "score": 0.19309073686599731,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_11_03.mp4"
+  },
+  {
+    "score": 0.176006019115448,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_11_04.mp4"
+  },
+  {
+    "score": 0.21515704691410065,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_12_01.mp4"
+  },
+  {
+    "score": 0.15650996565818787,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_12_02.mp4"
+  },
+  {
+    "score": 0.18721631169319153,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_12_03.mp4"
+  },
+  {
+    "score": 0.18504929542541504,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_12_04.mp4"
+  },
+  {
+    "score": 0.20098301768302917,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_13_01.mp4"
+  },
+  {
+    "score": 0.19375459849834442,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_13_02.mp4"
+  },
+  {
+    "score": 0.20033255219459534,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_13_03.mp4"
+  },
+  {
+    "score": 0.17292967438697815,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_13_04.mp4"
+  },
+  {
+    "score": 0.16574351489543915,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_14_01.mp4"
+  },
+  {
+    "score": 0.23118150234222412,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_14_02.mp4"
+  },
+  {
+    "score": 0.22517943382263184,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_14_03.mp4"
+  },
+  {
+    "score": 0.23357170820236206,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_14_04.mp4"
+  },
+  {
+    "score": 0.24887613952159882,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_15_01.mp4"
+  },
+  {
+    "score": 0.2244308590888977,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_15_02.mp4"
+  },
+  {
+    "score": 0.20681753754615784,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_15_03.mp4"
+  },
+  {
+    "score": 0.23823034763336182,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L3_15_04.mp4"
+  },
+  {
+    "score": 0.24097944796085358,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_01_01.mp4"
+  },
+  {
+    "score": 0.20655281841754913,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_01_02.mp4"
+  },
+  {
+    "score": 0.16527551412582397,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_01_03.mp4"
+  },
+  {
+    "score": 0.21412794291973114,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_01_04.mp4"
+  },
+  {
+    "score": 0.18461713194847107,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_02_01.mp4"
+  },
+  {
+    "score": 0.17187850177288055,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_02_02.mp4"
+  },
+  {
+    "score": 0.19163528084754944,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_02_03.mp4"
+  },
+  {
+    "score": 0.15162457525730133,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_02_04.mp4"
+  },
+  {
+    "score": 0.20203538239002228,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_03_01.mp4"
+  },
+  {
+    "score": 0.1895274668931961,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_03_02.mp4"
+  },
+  {
+    "score": 0.22039003670215607,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_03_03.mp4"
+  },
+  {
+    "score": 0.25152233242988586,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_03_04.mp4"
+  },
+  {
+    "score": 0.14579825103282928,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_04_01.mp4"
+  },
+  {
+    "score": 0.08132188022136688,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_04_02.mp4"
+  },
+  {
+    "score": 0.12303874641656876,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_04_03.mp4"
+  },
+  {
+    "score": 0.14587818086147308,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_04_04.mp4"
+  },
+  {
+    "score": 0.21154028177261353,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_05_01.mp4"
+  },
+  {
+    "score": 0.1946897804737091,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_05_02.mp4"
+  },
+  {
+    "score": 0.19637955725193024,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_05_03.mp4"
+  },
+  {
+    "score": 0.26495781540870667,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_05_04.mp4"
+  },
+  {
+    "score": 0.2150861918926239,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_06_01.mp4"
+  },
+  {
+    "score": 0.21021001040935516,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_06_02.mp4"
+  },
+  {
+    "score": 0.23891837894916534,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_06_03.mp4"
+  },
+  {
+    "score": 0.19579383730888367,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_06_04.mp4"
+  },
+  {
+    "score": 0.22281970083713531,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_07_01.mp4"
+  },
+  {
+    "score": 0.25417640805244446,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_07_02.mp4"
+  },
+  {
+    "score": 0.2698207199573517,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_07_03.mp4"
+  },
+  {
+    "score": 0.20249037444591522,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_07_04.mp4"
+  },
+  {
+    "score": 0.27716004848480225,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_08_01.mp4"
+  },
+  {
+    "score": 0.22336116433143616,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_08_02.mp4"
+  },
+  {
+    "score": 0.25140613317489624,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_08_03.mp4"
+  },
+  {
+    "score": 0.19088533520698547,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_08_04.mp4"
+  },
+  {
+    "score": 0.20117007195949554,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_09_01.mp4"
+  },
+  {
+    "score": 0.22114859521389008,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_09_02.mp4"
+  },
+  {
+    "score": 0.21759457886219025,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_09_03.mp4"
+  },
+  {
+    "score": 0.2098739594221115,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_09_04.mp4"
+  },
+  {
+    "score": 0.20381972193717957,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_10_01.mp4"
+  },
+  {
+    "score": 0.1786181628704071,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_10_02.mp4"
+  },
+  {
+    "score": 0.22056205570697784,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_10_03.mp4"
+  },
+  {
+    "score": 0.2103702574968338,
+    "model_name": "LTX",
+    "video_path": "./Video/LTX/L4_10_04.mp4"
+  }
+]

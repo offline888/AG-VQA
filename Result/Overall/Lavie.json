@@ -1,0 +1,8002 @@
+[
+  {
+    "model": "Lavie",
+    "config_id": "B11_01",
+    "video_path": "./Video/Lavie/B11_01.mp4",
+    "score": {
+      "BRISQUE": 39.624755859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.578,
+        2.906,
+        2.625,
+        2.453
+      ],
+      "VIIDEO": 0.3817816376686096,
+      "Qalign": 3.232421875,
+      "ViCLIP": 0.23333962261676788,
+      "MUSIQ": 49.18547821044922
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_02",
+    "video_path": "./Video/Lavie/B11_02.mp4",
+    "score": {
+      "BRISQUE": 14.731597900390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.547,
+        2.891,
+        2.656,
+        2.406
+      ],
+      "VIIDEO": 0.6144437789916992,
+      "Qalign": 2.8203125,
+      "ViCLIP": 0.185373455286026,
+      "MUSIQ": 42.440091371536255
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_03",
+    "video_path": "./Video/Lavie/B11_03.mp4",
+    "score": {
+      "BRISQUE": -7.549774169921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.203,
+        3.031,
+        2.734,
+        1.984
+      ],
+      "VIIDEO": 0.469015896320343,
+      "Qalign": 4.2734375,
+      "ViCLIP": 0.2448132038116455,
+      "MUSIQ": 65.09436368942261
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_04",
+    "video_path": "./Video/Lavie/B11_04.mp4",
+    "score": {
+      "BRISQUE": 25.7958984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        1.75,
+        3.047,
+        2.656,
+        1.734
+      ],
+      "VIIDEO": 0.8273380994796753,
+      "Qalign": 4.05078125,
+      "ViCLIP": 0.20624753832817078,
+      "MUSIQ": 69.3161792755127
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_05",
+    "video_path": "./Video/Lavie/B11_05.mp4",
+    "score": {
+      "BRISQUE": 18.275238037109375,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.266,
+        3.016,
+        2.688,
+        2.156
+      ],
+      "VIIDEO": 0.5246033072471619,
+      "Qalign": 4.5625,
+      "ViCLIP": 0.16093523800373077,
+      "MUSIQ": 78.36546564102173
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_06",
+    "video_path": "./Video/Lavie/B11_06.mp4",
+    "score": {
+      "BRISQUE": 35.81060791015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.172,
+        2.984,
+        2.297,
+        2.188
+      ],
+      "VIIDEO": 0.5758012533187866,
+      "Qalign": 3.966796875,
+      "ViCLIP": 0.18919941782951355,
+      "MUSIQ": 51.08454132080078
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_07",
+    "video_path": "./Video/Lavie/B11_07.mp4",
+    "score": {
+      "BRISQUE": 59.599151611328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.219,
+        2.969,
+        2.609,
+        2.125
+      ],
+      "VIIDEO": 0.6605890989303589,
+      "Qalign": 3.484375,
+      "ViCLIP": 0.19019261002540588,
+      "MUSIQ": 69.75629615783691
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_08",
+    "video_path": "./Video/Lavie/B11_08.mp4",
+    "score": {
+      "BRISQUE": 19.651031494140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.672,
+        2.938,
+        2.688,
+        2.547
+      ],
+      "VIIDEO": 0.8382294774055481,
+      "Qalign": 2.9296875,
+      "ViCLIP": 0.18437528610229492,
+      "MUSIQ": 36.7271511554718
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_09",
+    "video_path": "./Video/Lavie/B11_09.mp4",
+    "score": {
+      "BRISQUE": 5.359954833984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.141,
+        1.812,
+        3.094,
+        2.688,
+        2.062
+      ],
+      "VIIDEO": 0.6825299263000488,
+      "Qalign": 3.787109375,
+      "ViCLIP": 0.16877177357673645,
+      "MUSIQ": 62.41565704345703
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_10",
+    "video_path": "./Video/Lavie/B11_10.mp4",
+    "score": {
+      "BRISQUE": 30.760711669921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.156,
+        2.953,
+        2.5,
+        1.961
+      ],
+      "VIIDEO": 0.794103741645813,
+      "Qalign": 3.71484375,
+      "ViCLIP": 0.18312078714370728,
+      "MUSIQ": 63.102920055389404
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_11",
+    "video_path": "./Video/Lavie/B11_11.mp4",
+    "score": {
+      "BRISQUE": 26.6116943359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        1.867,
+        2.984,
+        2.016,
+        1.898
+      ],
+      "VIIDEO": 0.7404972314834595,
+      "Qalign": 3.931640625,
+      "ViCLIP": 0.23264017701148987,
+      "MUSIQ": 70.47031331062317
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_12",
+    "video_path": "./Video/Lavie/B11_12.mp4",
+    "score": {
+      "BRISQUE": 38.391876220703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        2.078,
+        3.016,
+        2.484,
+        2.094
+      ],
+      "VIIDEO": 0.6095224022865295,
+      "Qalign": 2.453125,
+      "ViCLIP": 0.19761502742767334,
+      "MUSIQ": 40.33872163295746
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_13",
+    "video_path": "./Video/Lavie/B11_13.mp4",
+    "score": {
+      "BRISQUE": 24.812713623046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.297,
+        3.078,
+        2.75,
+        2.172
+      ],
+      "VIIDEO": 0.5888067483901978,
+      "Qalign": 4.546875,
+      "ViCLIP": 0.20353321731090546,
+      "MUSIQ": 56.87165975570679
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_14",
+    "video_path": "./Video/Lavie/B11_14.mp4",
+    "score": {
+      "BRISQUE": 19.256011962890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.5,
+        2.859,
+        2.688,
+        2.312
+      ],
+      "VIIDEO": 0.5766314268112183,
+      "Qalign": 4.0,
+      "ViCLIP": 0.2210501730442047,
+      "MUSIQ": 70.93849802017212
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_15",
+    "video_path": "./Video/Lavie/B11_15.mp4",
+    "score": {
+      "BRISQUE": 24.232574462890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.078,
+        3.078,
+        2.766,
+        2.031
+      ],
+      "VIIDEO": 0.5425947308540344,
+      "Qalign": 3.884765625,
+      "ViCLIP": 0.25868257880210876,
+      "MUSIQ": 72.23970103263855
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_16",
+    "video_path": "./Video/Lavie/B11_16.mp4",
+    "score": {
+      "BRISQUE": 34.34136962890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.578,
+        2.578,
+        2.828,
+        2.578,
+        2.609
+      ],
+      "VIIDEO": 0.6334046125411987,
+      "Qalign": 3.25,
+      "ViCLIP": 0.21341201663017273,
+      "MUSIQ": 38.358717918395996
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_17",
+    "video_path": "./Video/Lavie/B11_17.mp4",
+    "score": {
+      "BRISQUE": 13.75506591796875,
+      "RAFT": false,
+      "VideoScore": [
+        2.516,
+        2.797,
+        2.625,
+        2.562,
+        2.703
+      ],
+      "VIIDEO": 0.3784031569957733,
+      "Qalign": 3.853515625,
+      "ViCLIP": 0.2568880021572113,
+      "MUSIQ": 79.85688304901123
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B11_18",
+    "video_path": "./Video/Lavie/B11_18.mp4",
+    "score": {
+      "BRISQUE": 24.90997314453125,
+      "RAFT": false,
+      "VideoScore": [
+        2.422,
+        1.922,
+        3.062,
+        2.703,
+        1.852
+      ],
+      "VIIDEO": 0.8193178176879883,
+      "Qalign": 4.38671875,
+      "ViCLIP": 0.17167577147483826,
+      "MUSIQ": 72.70872163772583
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_01",
+    "video_path": "./Video/Lavie/B12_01.mp4",
+    "score": {
+      "BRISQUE": 40.338592529296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.609,
+        2.891,
+        2.484,
+        2.438
+      ],
+      "VIIDEO": 0.37118807435035706,
+      "Qalign": 4.49609375,
+      "ViCLIP": 0.18155251443386078,
+      "MUSIQ": 79.12333106994629
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_02",
+    "video_path": "./Video/Lavie/B12_02.mp4",
+    "score": {
+      "BRISQUE": 10.776702880859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.188,
+        3.016,
+        2.5,
+        2.078
+      ],
+      "VIIDEO": 0.5148930549621582,
+      "Qalign": 4.15625,
+      "ViCLIP": 0.18525683879852295,
+      "MUSIQ": 70.46474981307983
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_03",
+    "video_path": "./Video/Lavie/B12_03.mp4",
+    "score": {
+      "BRISQUE": 30.098358154296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.125,
+        1.875,
+        3.094,
+        2.641,
+        1.961
+      ],
+      "VIIDEO": 0.640555739402771,
+      "Qalign": 2.91015625,
+      "ViCLIP": 0.28754448890686035,
+      "MUSIQ": 46.08307349681854
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_04",
+    "video_path": "./Video/Lavie/B12_04.mp4",
+    "score": {
+      "BRISQUE": 16.844573974609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.219,
+        1.945,
+        2.969,
+        2.484,
+        1.828
+      ],
+      "VIIDEO": 0.5931760668754578,
+      "Qalign": 4.0,
+      "ViCLIP": 0.24353520572185516,
+      "MUSIQ": 69.6402895450592
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_05",
+    "video_path": "./Video/Lavie/B12_05.mp4",
+    "score": {
+      "BRISQUE": 36.612274169921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.297,
+        2.984,
+        2.562,
+        2.266
+      ],
+      "VIIDEO": 0.7062637209892273,
+      "Qalign": 2.75,
+      "ViCLIP": 0.1807517409324646,
+      "MUSIQ": 26.041085362434387
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_06",
+    "video_path": "./Video/Lavie/B12_06.mp4",
+    "score": {
+      "BRISQUE": 32.89306640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.812,
+        2.641,
+        2.469,
+        2.734
+      ],
+      "VIIDEO": 0.7445794343948364,
+      "Qalign": 3.3828125,
+      "ViCLIP": 0.25731730461120605,
+      "MUSIQ": 46.43892049789429
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_07",
+    "video_path": "./Video/Lavie/B12_07.mp4",
+    "score": {
+      "BRISQUE": 34.70416259765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.266,
+        3.016,
+        2.781,
+        2.266
+      ],
+      "VIIDEO": 0.6279282569885254,
+      "Qalign": 2.609375,
+      "ViCLIP": 0.2159750908613205,
+      "MUSIQ": 22.582998156547546
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_08",
+    "video_path": "./Video/Lavie/B12_08.mp4",
+    "score": {
+      "BRISQUE": 65.055419921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.219,
+        3.031,
+        2.609,
+        2.266
+      ],
+      "VIIDEO": 0.5988414287567139,
+      "Qalign": 3.412109375,
+      "ViCLIP": 0.23088660836219788,
+      "MUSIQ": 29.36684811115265
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_09",
+    "video_path": "./Video/Lavie/B12_09.mp4",
+    "score": {
+      "BRISQUE": 20.569000244140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.516,
+        2.484,
+        2.969,
+        2.578,
+        2.344
+      ],
+      "VIIDEO": 0.3025572597980499,
+      "Qalign": 4.48046875,
+      "ViCLIP": 0.22592389583587646,
+      "MUSIQ": 76.00665187835693
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_10",
+    "video_path": "./Video/Lavie/B12_10.mp4",
+    "score": {
+      "BRISQUE": 31.46856689453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.547,
+        3.0,
+        2.828,
+        2.406
+      ],
+      "VIIDEO": 0.6242496371269226,
+      "Qalign": 3.75,
+      "ViCLIP": 0.2120644450187683,
+      "MUSIQ": 59.35685443878174
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_11",
+    "video_path": "./Video/Lavie/B12_11.mp4",
+    "score": {
+      "BRISQUE": 21.140167236328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        2.172,
+        3.031,
+        2.688,
+        2.141
+      ],
+      "VIIDEO": 0.7804865837097168,
+      "Qalign": 3.77734375,
+      "ViCLIP": 0.18362852931022644,
+      "MUSIQ": 49.902745485305786
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B12_12",
+    "video_path": "./Video/Lavie/B12_12.mp4",
+    "score": {
+      "BRISQUE": 63.798126220703125,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.266,
+        2.938,
+        2.438,
+        2.0
+      ],
+      "VIIDEO": 0.3206982910633087,
+      "Qalign": 4.31640625,
+      "ViCLIP": 0.13629865646362305,
+      "MUSIQ": 78.67673683166504
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_01",
+    "video_path": "./Video/Lavie/B13_01.mp4",
+    "score": {
+      "BRISQUE": 22.482208251953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.078,
+        3.047,
+        2.609,
+        2.062
+      ],
+      "VIIDEO": 0.6840565800666809,
+      "Qalign": 4.03515625,
+      "ViCLIP": 0.26081717014312744,
+      "MUSIQ": 63.04193890094757
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_02",
+    "video_path": "./Video/Lavie/B13_02.mp4",
+    "score": {
+      "BRISQUE": 16.29791259765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.172,
+        1.805,
+        3.031,
+        2.562,
+        1.742
+      ],
+      "VIIDEO": 0.6536160111427307,
+      "Qalign": 3.984375,
+      "ViCLIP": 0.2027815729379654,
+      "MUSIQ": 66.48491287231445
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_03",
+    "video_path": "./Video/Lavie/B13_03.mp4",
+    "score": {
+      "BRISQUE": 30.862152099609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.297,
+        3.094,
+        2.031,
+        2.234
+      ],
+      "VIIDEO": 0.6339606046676636,
+      "Qalign": 3.52734375,
+      "ViCLIP": 0.17773491144180298,
+      "MUSIQ": 50.82576036453247
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_04",
+    "video_path": "./Video/Lavie/B13_04.mp4",
+    "score": {
+      "BRISQUE": 2.134613037109375,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.469,
+        2.797,
+        2.391,
+        2.172
+      ],
+      "VIIDEO": 0.708337664604187,
+      "Qalign": 3.765625,
+      "ViCLIP": 0.28667527437210083,
+      "MUSIQ": 57.52790713310242
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_05",
+    "video_path": "./Video/Lavie/B13_05.mp4",
+    "score": {
+      "BRISQUE": 13.737152099609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.234,
+        2.922,
+        2.625,
+        2.062
+      ],
+      "VIIDEO": 0.563774824142456,
+      "Qalign": 4.10546875,
+      "ViCLIP": 0.21054057776927948,
+      "MUSIQ": 77.38203954696655
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_06",
+    "video_path": "./Video/Lavie/B13_06.mp4",
+    "score": {
+      "BRISQUE": 26.042724609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.078,
+        3.094,
+        2.812,
+        1.922
+      ],
+      "VIIDEO": 0.6245307326316833,
+      "Qalign": 3.1171875,
+      "ViCLIP": 0.2621133625507355,
+      "MUSIQ": 49.32978844642639
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_07",
+    "video_path": "./Video/Lavie/B13_07.mp4",
+    "score": {
+      "BRISQUE": 32.29022216796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.328,
+        3.062,
+        2.766,
+        2.281
+      ],
+      "VIIDEO": 0.7194914817810059,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.25939249992370605,
+      "MUSIQ": 64.32350182533264
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_08",
+    "video_path": "./Video/Lavie/B13_08.mp4",
+    "score": {
+      "BRISQUE": 22.090240478515625,
+      "RAFT": false,
+      "VideoScore": [
+        2.328,
+        2.219,
+        3.047,
+        2.719,
+        2.172
+      ],
+      "VIIDEO": 0.527359664440155,
+      "Qalign": 3.76171875,
+      "ViCLIP": 0.27298226952552795,
+      "MUSIQ": 50.98282551765442
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_09",
+    "video_path": "./Video/Lavie/B13_09.mp4",
+    "score": {
+      "BRISQUE": 11.341033935546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.203,
+        1.984,
+        3.047,
+        2.562,
+        1.883
+      ],
+      "VIIDEO": 0.5627692937850952,
+      "Qalign": 3.76953125,
+      "ViCLIP": 0.14062736928462982,
+      "MUSIQ": 59.324615478515625
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_10",
+    "video_path": "./Video/Lavie/B13_10.mp4",
+    "score": {
+      "BRISQUE": 40.5103759765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        1.859,
+        2.906,
+        2.438,
+        1.898
+      ],
+      "VIIDEO": 0.6249872446060181,
+      "Qalign": 3.560546875,
+      "ViCLIP": 0.15535278618335724,
+      "MUSIQ": 73.69196367263794
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_11",
+    "video_path": "./Video/Lavie/B13_11.mp4",
+    "score": {
+      "BRISQUE": 8.71319580078125,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.438,
+        2.891,
+        2.172,
+        2.25
+      ],
+      "VIIDEO": 0.6429057121276855,
+      "Qalign": 4.140625,
+      "ViCLIP": 0.20281463861465454,
+      "MUSIQ": 75.49458026885986
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B13_12",
+    "video_path": "./Video/Lavie/B13_12.mp4",
+    "score": {
+      "BRISQUE": 31.739776611328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.156,
+        1.93,
+        3.016,
+        2.5,
+        1.797
+      ],
+      "VIIDEO": 0.5729759931564331,
+      "Qalign": 3.185546875,
+      "ViCLIP": 0.19165197014808655,
+      "MUSIQ": 49.6939799785614
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_01",
+    "video_path": "./Video/Lavie/B14_01.mp4",
+    "score": {
+      "BRISQUE": 36.774139404296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.594,
+        2.969,
+        2.578,
+        2.562
+      ],
+      "VIIDEO": 0.598578691482544,
+      "Qalign": 3.6875,
+      "ViCLIP": 0.24333758652210236,
+      "MUSIQ": 54.64525246620178
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_02",
+    "video_path": "./Video/Lavie/B14_02.mp4",
+    "score": {
+      "BRISQUE": 41.6668701171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.297,
+        3.062,
+        2.875,
+        2.203
+      ],
+      "VIIDEO": 0.7237386107444763,
+      "Qalign": 3.732421875,
+      "ViCLIP": 0.24415069818496704,
+      "MUSIQ": 48.927305698394775
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_03",
+    "video_path": "./Video/Lavie/B14_03.mp4",
+    "score": {
+      "BRISQUE": 13.18450927734375,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.125,
+        3.062,
+        2.719,
+        2.094
+      ],
+      "VIIDEO": 0.6594638824462891,
+      "Qalign": 3.650390625,
+      "ViCLIP": 0.23776432871818542,
+      "MUSIQ": 55.83719205856323
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_04",
+    "video_path": "./Video/Lavie/B14_04.mp4",
+    "score": {
+      "BRISQUE": 27.600433349609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.406,
+        3.047,
+        2.75,
+        2.156
+      ],
+      "VIIDEO": 0.5752280354499817,
+      "Qalign": 3.49609375,
+      "ViCLIP": 0.21651822328567505,
+      "MUSIQ": 66.90494179725647
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_05",
+    "video_path": "./Video/Lavie/B14_05.mp4",
+    "score": {
+      "BRISQUE": 14.651519775390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        1.977,
+        3.016,
+        2.531,
+        1.922
+      ],
+      "VIIDEO": 0.6740016937255859,
+      "Qalign": 3.79296875,
+      "ViCLIP": 0.21206438541412354,
+      "MUSIQ": 65.61121869087219
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_06",
+    "video_path": "./Video/Lavie/B14_06.mp4",
+    "score": {
+      "BRISQUE": 31.893341064453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.312,
+        3.016,
+        2.672,
+        2.203
+      ],
+      "VIIDEO": 0.6511444449424744,
+      "Qalign": 3.572265625,
+      "ViCLIP": 0.2484121024608612,
+      "MUSIQ": 52.970457553863525
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_07",
+    "video_path": "./Video/Lavie/B14_07.mp4",
+    "score": {
+      "BRISQUE": 14.8255615234375,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.531,
+        2.906,
+        2.203,
+        2.359
+      ],
+      "VIIDEO": 0.44397881627082825,
+      "Qalign": 4.1796875,
+      "ViCLIP": 0.17072930932044983,
+      "MUSIQ": 75.06440496444702
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_08",
+    "video_path": "./Video/Lavie/B14_08.mp4",
+    "score": {
+      "BRISQUE": 46.569122314453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.25,
+        3.016,
+        2.672,
+        2.328
+      ],
+      "VIIDEO": 0.5628675818443298,
+      "Qalign": 2.98828125,
+      "ViCLIP": 0.19085213541984558,
+      "MUSIQ": 42.90354943275452
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_09",
+    "video_path": "./Video/Lavie/B14_09.mp4",
+    "score": {
+      "BRISQUE": 14.69390869140625,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.797,
+        2.688,
+        2.672,
+        2.734
+      ],
+      "VIIDEO": 0.4870482385158539,
+      "Qalign": 3.576171875,
+      "ViCLIP": 0.26097849011421204,
+      "MUSIQ": 56.75773620605469
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_10",
+    "video_path": "./Video/Lavie/B14_10.mp4",
+    "score": {
+      "BRISQUE": 38.721771240234375,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.438,
+        2.875,
+        2.547,
+        2.281
+      ],
+      "VIIDEO": 0.5879379510879517,
+      "Qalign": 4.12109375,
+      "ViCLIP": 0.15306025743484497,
+      "MUSIQ": 70.8916015625
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_11",
+    "video_path": "./Video/Lavie/B14_11.mp4",
+    "score": {
+      "BRISQUE": 30.651397705078125,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.438,
+        2.969,
+        2.641,
+        2.328
+      ],
+      "VIIDEO": 0.590416431427002,
+      "Qalign": 4.22265625,
+      "ViCLIP": 0.2078816294670105,
+      "MUSIQ": 66.47323226928711
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_12",
+    "video_path": "./Video/Lavie/B14_12.mp4",
+    "score": {
+      "BRISQUE": 7.020355224609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        2.016,
+        3.062,
+        2.594,
+        2.078
+      ],
+      "VIIDEO": 0.5314028263092041,
+      "Qalign": 3.517578125,
+      "ViCLIP": 0.1838368922472,
+      "MUSIQ": 59.84034442901611
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_13",
+    "video_path": "./Video/Lavie/B14_13.mp4",
+    "score": {
+      "BRISQUE": 17.3013916015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.234,
+        3.047,
+        2.672,
+        2.109
+      ],
+      "VIIDEO": 0.6080115437507629,
+      "Qalign": 3.79296875,
+      "ViCLIP": 0.21545258164405823,
+      "MUSIQ": 67.18660283088684
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_14",
+    "video_path": "./Video/Lavie/B14_14.mp4",
+    "score": {
+      "BRISQUE": 9.41583251953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.172,
+        1.867,
+        3.016,
+        2.578,
+        1.812
+      ],
+      "VIIDEO": 0.5484098792076111,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.20406344532966614,
+      "MUSIQ": 79.24154472351074
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B14_15",
+    "video_path": "./Video/Lavie/B14_15.mp4",
+    "score": {
+      "BRISQUE": 15.07757568359375,
+      "RAFT": false,
+      "VideoScore": [
+        2.516,
+        2.047,
+        2.844,
+        2.484,
+        1.883
+      ],
+      "VIIDEO": 0.762660026550293,
+      "Qalign": 4.34765625,
+      "ViCLIP": 0.254087895154953,
+      "MUSIQ": 74.42970275878906
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_01",
+    "video_path": "./Video/Lavie/B15_01.mp4",
+    "score": {
+      "BRISQUE": 61.854461669921875,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.859,
+        2.719,
+        2.375,
+        2.812
+      ],
+      "VIIDEO": 0.4301161766052246,
+      "Qalign": 3.68359375,
+      "ViCLIP": 0.2579500675201416,
+      "MUSIQ": 39.85308003425598
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_02",
+    "video_path": "./Video/Lavie/B15_02.mp4",
+    "score": {
+      "BRISQUE": -10.47662353515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.453,
+        2.953,
+        2.656,
+        2.281
+      ],
+      "VIIDEO": 0.6299818158149719,
+      "Qalign": 4.06640625,
+      "ViCLIP": 0.201273575425148,
+      "MUSIQ": 74.69390869140625
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_03",
+    "video_path": "./Video/Lavie/B15_03.mp4",
+    "score": {
+      "BRISQUE": 23.86492919921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.359,
+        3.078,
+        2.891,
+        2.234
+      ],
+      "VIIDEO": 0.7134000658988953,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.2927684187889099,
+      "MUSIQ": 68.66096663475037
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_04",
+    "video_path": "./Video/Lavie/B15_04.mp4",
+    "score": {
+      "BRISQUE": 1.64276123046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.266,
+        3.031,
+        2.641,
+        2.172
+      ],
+      "VIIDEO": 0.5738021731376648,
+      "Qalign": 4.30859375,
+      "ViCLIP": 0.22351451218128204,
+      "MUSIQ": 73.7890133857727
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_05",
+    "video_path": "./Video/Lavie/B15_05.mp4",
+    "score": {
+      "BRISQUE": -8.5272216796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.422,
+        2.969,
+        2.531,
+        2.141
+      ],
+      "VIIDEO": 0.4153698682785034,
+      "Qalign": 4.359375,
+      "ViCLIP": 0.21465963125228882,
+      "MUSIQ": 76.61066341400146
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_06",
+    "video_path": "./Video/Lavie/B15_06.mp4",
+    "score": {
+      "BRISQUE": 25.107666015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.328,
+        2.141,
+        2.812,
+        2.656,
+        1.875
+      ],
+      "VIIDEO": 0.456501841545105,
+      "Qalign": 4.21875,
+      "ViCLIP": 0.2860678732395172,
+      "MUSIQ": 71.8328971862793
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_07",
+    "video_path": "./Video/Lavie/B15_07.mp4",
+    "score": {
+      "BRISQUE": 56.52745056152344,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.562,
+        2.891,
+        2.547,
+        2.562
+      ],
+      "VIIDEO": 0.556013822555542,
+      "Qalign": 3.037109375,
+      "ViCLIP": 0.19398818910121918,
+      "MUSIQ": 42.507174015045166
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_08",
+    "video_path": "./Video/Lavie/B15_08.mp4",
+    "score": {
+      "BRISQUE": 27.385955810546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.406,
+        2.984,
+        2.641,
+        2.391
+      ],
+      "VIIDEO": 0.4866759479045868,
+      "Qalign": 3.46484375,
+      "ViCLIP": 0.23559723794460297,
+      "MUSIQ": 32.93446242809296
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_09",
+    "video_path": "./Video/Lavie/B15_09.mp4",
+    "score": {
+      "BRISQUE": 15.628204345703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.188,
+        2.984,
+        2.547,
+        2.078
+      ],
+      "VIIDEO": 0.5920422077178955,
+      "Qalign": 3.00390625,
+      "ViCLIP": 0.2001778781414032,
+      "MUSIQ": 49.46136021614075
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_10",
+    "video_path": "./Video/Lavie/B15_10.mp4",
+    "score": {
+      "BRISQUE": 26.935791015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.578,
+        2.938,
+        2.453,
+        2.406
+      ],
+      "VIIDEO": 0.5320627093315125,
+      "Qalign": 4.1796875,
+      "ViCLIP": 0.18928903341293335,
+      "MUSIQ": 78.82725429534912
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_11",
+    "video_path": "./Video/Lavie/B15_11.mp4",
+    "score": {
+      "BRISQUE": 17.12994384765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.109,
+        2.922,
+        2.516,
+        1.828
+      ],
+      "VIIDEO": 0.46549510955810547,
+      "Qalign": 4.2890625,
+      "ViCLIP": 0.1716156303882599,
+      "MUSIQ": 77.33577632904053
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B15_12",
+    "video_path": "./Video/Lavie/B15_12.mp4",
+    "score": {
+      "BRISQUE": 19.272552490234375,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.203,
+        3.031,
+        2.672,
+        2.109
+      ],
+      "VIIDEO": 0.6316632032394409,
+      "Qalign": 3.93359375,
+      "ViCLIP": 0.21400341391563416,
+      "MUSIQ": 56.273313760757446
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_01",
+    "video_path": "./Video/Lavie/B21_01.mp4",
+    "score": {
+      "BRISQUE": 47.24822998046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.062,
+        2.984,
+        2.453,
+        2.109
+      ],
+      "VIIDEO": 0.7218953371047974,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.22548112273216248,
+      "MUSIQ": 71.95195579528809
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_02",
+    "video_path": "./Video/Lavie/B21_02.mp4",
+    "score": {
+      "BRISQUE": 23.944854736328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.359,
+        3.031,
+        2.703,
+        2.25
+      ],
+      "VIIDEO": 0.4685807228088379,
+      "Qalign": 3.94921875,
+      "ViCLIP": 0.3046422600746155,
+      "MUSIQ": 71.49101209640503
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_03",
+    "video_path": "./Video/Lavie/B21_03.mp4",
+    "score": {
+      "BRISQUE": 34.31327819824219,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.172,
+        3.047,
+        2.578,
+        2.188
+      ],
+      "VIIDEO": 0.7131709456443787,
+      "Qalign": 2.7890625,
+      "ViCLIP": 0.22879281640052795,
+      "MUSIQ": 41.725332140922546
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_04",
+    "video_path": "./Video/Lavie/B21_04.mp4",
+    "score": {
+      "BRISQUE": 39.73651123046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.078,
+        2.953,
+        2.594,
+        1.922
+      ],
+      "VIIDEO": 0.6329637169837952,
+      "Qalign": 3.84375,
+      "ViCLIP": 0.2491726279258728,
+      "MUSIQ": 67.41909265518188
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_05",
+    "video_path": "./Video/Lavie/B21_05.mp4",
+    "score": {
+      "BRISQUE": 19.995086669921875,
+      "RAFT": false,
+      "VideoScore": [
+        2.344,
+        2.344,
+        2.844,
+        2.328,
+        2.188
+      ],
+      "VIIDEO": 0.7192996144294739,
+      "Qalign": 3.6796875,
+      "ViCLIP": 0.24334555864334106,
+      "MUSIQ": 59.32818102836609
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_06",
+    "video_path": "./Video/Lavie/B21_06.mp4",
+    "score": {
+      "BRISQUE": 16.631500244140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.531,
+        2.766,
+        2.312,
+        2.438
+      ],
+      "VIIDEO": 0.7917733192443848,
+      "Qalign": 4.078125,
+      "ViCLIP": 0.20529787242412567,
+      "MUSIQ": 66.44907331466675
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_07",
+    "video_path": "./Video/Lavie/B21_07.mp4",
+    "score": {
+      "BRISQUE": 35.821441650390625,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.297,
+        2.922,
+        2.281,
+        2.188
+      ],
+      "VIIDEO": 0.5193914175033569,
+      "Qalign": 3.908203125,
+      "ViCLIP": 0.1554812788963318,
+      "MUSIQ": 67.86895990371704
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_08",
+    "video_path": "./Video/Lavie/B21_08.mp4",
+    "score": {
+      "BRISQUE": 29.249267578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.406,
+        2.969,
+        2.625,
+        2.406
+      ],
+      "VIIDEO": 0.5852852463722229,
+      "Qalign": 3.626953125,
+      "ViCLIP": 0.25679290294647217,
+      "MUSIQ": 36.347116470336914
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_09",
+    "video_path": "./Video/Lavie/B21_09.mp4",
+    "score": {
+      "BRISQUE": 27.58953857421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.438,
+        2.703,
+        2.5,
+        2.281
+      ],
+      "VIIDEO": 0.500837504863739,
+      "Qalign": 3.978515625,
+      "ViCLIP": 0.2362794280052185,
+      "MUSIQ": 61.30569267272949
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_10",
+    "video_path": "./Video/Lavie/B21_10.mp4",
+    "score": {
+      "BRISQUE": 34.015838623046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.344,
+        3.047,
+        2.578,
+        2.328
+      ],
+      "VIIDEO": 0.5047669410705566,
+      "Qalign": 3.8125,
+      "ViCLIP": 0.22261562943458557,
+      "MUSIQ": 41.01424312591553
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_11",
+    "video_path": "./Video/Lavie/B21_11.mp4",
+    "score": {
+      "BRISQUE": 30.5377197265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.453,
+        2.969,
+        2.688,
+        2.469
+      ],
+      "VIIDEO": 0.6770864725112915,
+      "Qalign": 2.701171875,
+      "ViCLIP": 0.1901235431432724,
+      "MUSIQ": 41.98179340362549
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_12",
+    "video_path": "./Video/Lavie/B21_12.mp4",
+    "score": {
+      "BRISQUE": 19.537078857421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        1.867,
+        3.062,
+        2.562,
+        1.688
+      ],
+      "VIIDEO": 0.6436200141906738,
+      "Qalign": 4.0546875,
+      "ViCLIP": 0.2285686880350113,
+      "MUSIQ": 65.96507620811462
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_13",
+    "video_path": "./Video/Lavie/B21_13.mp4",
+    "score": {
+      "BRISQUE": 26.42620849609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.141,
+        1.812,
+        3.016,
+        2.5,
+        1.742
+      ],
+      "VIIDEO": 0.7431017756462097,
+      "Qalign": 4.05078125,
+      "ViCLIP": 0.24082666635513306,
+      "MUSIQ": 76.85996723175049
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B21_14",
+    "video_path": "./Video/Lavie/B21_14.mp4",
+    "score": {
+      "BRISQUE": 31.86279296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        1.797,
+        3.0,
+        2.219,
+        1.828
+      ],
+      "VIIDEO": 0.6048399806022644,
+      "Qalign": 3.87890625,
+      "ViCLIP": 0.21614259481430054,
+      "MUSIQ": 68.15081548690796
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_01",
+    "video_path": "./Video/Lavie/B22_01.mp4",
+    "score": {
+      "BRISQUE": 22.311920166015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.297,
+        3.094,
+        2.766,
+        2.297
+      ],
+      "VIIDEO": 0.5479345321655273,
+      "Qalign": 3.7109375,
+      "ViCLIP": 0.2246454358100891,
+      "MUSIQ": 58.32074952125549
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_02",
+    "video_path": "./Video/Lavie/B22_02.mp4",
+    "score": {
+      "BRISQUE": 25.15447998046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.203,
+        3.0,
+        2.531,
+        2.078
+      ],
+      "VIIDEO": 0.5624082088470459,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.20789645612239838,
+      "MUSIQ": 54.57723951339722
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_03",
+    "video_path": "./Video/Lavie/B22_03.mp4",
+    "score": {
+      "BRISQUE": 48.550689697265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.484,
+        2.875,
+        1.984,
+        2.562
+      ],
+      "VIIDEO": 0.2507551610469818,
+      "Qalign": 2.0703125,
+      "ViCLIP": 0.20604699850082397,
+      "MUSIQ": 30.516741156578064
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_04",
+    "video_path": "./Video/Lavie/B22_04.mp4",
+    "score": {
+      "BRISQUE": 39.51727294921875,
+      "RAFT": false,
+      "VideoScore": [
+        2.344,
+        1.773,
+        2.844,
+        2.297,
+        1.867
+      ],
+      "VIIDEO": 0.8802282810211182,
+      "Qalign": 4.07421875,
+      "ViCLIP": 0.2022552192211151,
+      "MUSIQ": 73.57318353652954
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_05",
+    "video_path": "./Video/Lavie/B22_05.mp4",
+    "score": {
+      "BRISQUE": 22.2181396484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        1.961,
+        3.125,
+        2.5,
+        1.969
+      ],
+      "VIIDEO": 0.6780604124069214,
+      "Qalign": 2.8203125,
+      "ViCLIP": 0.18737977743148804,
+      "MUSIQ": 47.87675368785858
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_06",
+    "video_path": "./Video/Lavie/B22_06.mp4",
+    "score": {
+      "BRISQUE": 47.13153076171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.297,
+        3.0,
+        2.625,
+        2.359
+      ],
+      "VIIDEO": 0.452493816614151,
+      "Qalign": 2.998046875,
+      "ViCLIP": 0.19487793743610382,
+      "MUSIQ": 26.08800172805786
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_07",
+    "video_path": "./Video/Lavie/B22_07.mp4",
+    "score": {
+      "BRISQUE": 42.306915283203125,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.391,
+        3.062,
+        2.812,
+        2.375
+      ],
+      "VIIDEO": 0.7120686173439026,
+      "Qalign": 2.09375,
+      "ViCLIP": 0.21994265913963318,
+      "MUSIQ": 29.831149578094482
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_08",
+    "video_path": "./Video/Lavie/B22_08.mp4",
+    "score": {
+      "BRISQUE": 26.39788818359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.328,
+        3.0,
+        2.547,
+        2.344
+      ],
+      "VIIDEO": 0.5313779711723328,
+      "Qalign": 2.646484375,
+      "ViCLIP": 0.17695613205432892,
+      "MUSIQ": 26.771463632583618
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_09",
+    "video_path": "./Video/Lavie/B22_09.mp4",
+    "score": {
+      "BRISQUE": -4.860260009765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.172,
+        3.031,
+        2.625,
+        2.062
+      ],
+      "VIIDEO": 0.4819466471672058,
+      "Qalign": 3.984375,
+      "ViCLIP": 0.21815770864486694,
+      "MUSIQ": 62.34050512313843
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_10",
+    "video_path": "./Video/Lavie/B22_10.mp4",
+    "score": {
+      "BRISQUE": 52.9254150390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.562,
+        2.953,
+        2.594,
+        2.625
+      ],
+      "VIIDEO": 0.3619837760925293,
+      "Qalign": 2.7421875,
+      "ViCLIP": 0.21824556589126587,
+      "MUSIQ": 30.52139401435852
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_11",
+    "video_path": "./Video/Lavie/B22_11.mp4",
+    "score": {
+      "BRISQUE": 11.045440673828125,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.516,
+        2.953,
+        2.109,
+        2.531
+      ],
+      "VIIDEO": 0.7040412425994873,
+      "Qalign": 3.193359375,
+      "ViCLIP": 0.1905415952205658,
+      "MUSIQ": 48.411118507385254
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B22_12",
+    "video_path": "./Video/Lavie/B22_12.mp4",
+    "score": {
+      "BRISQUE": 22.54833984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        1.945,
+        3.078,
+        2.641,
+        1.961
+      ],
+      "VIIDEO": 0.7045927047729492,
+      "Qalign": 3.8125,
+      "ViCLIP": 0.2678232789039612,
+      "MUSIQ": 70.97452330589294
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_01",
+    "video_path": "./Video/Lavie/B31_01.mp4",
+    "score": {
+      "BRISQUE": 23.816864013671875,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.688,
+        2.812,
+        2.578,
+        2.609
+      ],
+      "VIIDEO": 0.5417901277542114,
+      "Qalign": 2.9140625,
+      "ViCLIP": 0.23465171456336975,
+      "MUSIQ": 38.64257884025574
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_02",
+    "video_path": "./Video/Lavie/B31_02.mp4",
+    "score": {
+      "BRISQUE": 24.1204833984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.375,
+        3.047,
+        2.75,
+        2.297
+      ],
+      "VIIDEO": 0.45404642820358276,
+      "Qalign": 3.576171875,
+      "ViCLIP": 0.2237471342086792,
+      "MUSIQ": 41.24847149848938
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_03",
+    "video_path": "./Video/Lavie/B31_03.mp4",
+    "score": {
+      "BRISQUE": 35.3848876953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        2.0,
+        3.0,
+        2.453,
+        2.031
+      ],
+      "VIIDEO": 0.6697909235954285,
+      "Qalign": 4.05078125,
+      "ViCLIP": 0.19615569710731506,
+      "MUSIQ": 63.2637722492218
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_04",
+    "video_path": "./Video/Lavie/B31_04.mp4",
+    "score": {
+      "BRISQUE": 23.99713134765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.469,
+        2.969,
+        2.422,
+        2.406
+      ],
+      "VIIDEO": 0.5055243968963623,
+      "Qalign": 3.9609375,
+      "ViCLIP": 0.13902148604393005,
+      "MUSIQ": 55.090916872024536
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_05",
+    "video_path": "./Video/Lavie/B31_05.mp4",
+    "score": {
+      "BRISQUE": 25.231292724609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        1.992,
+        3.0,
+        2.406,
+        1.984
+      ],
+      "VIIDEO": 0.675909698009491,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.2615235149860382,
+      "MUSIQ": 74.44464921951294
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_06",
+    "video_path": "./Video/Lavie/B31_06.mp4",
+    "score": {
+      "BRISQUE": 32.606781005859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.188,
+        2.891,
+        2.703,
+        1.898
+      ],
+      "VIIDEO": 0.303533136844635,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.1637064814567566,
+      "MUSIQ": 71.65103149414062
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_07",
+    "video_path": "./Video/Lavie/B31_07.mp4",
+    "score": {
+      "BRISQUE": 30.50823974609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.297,
+        3.0,
+        2.656,
+        2.172
+      ],
+      "VIIDEO": 0.5447536110877991,
+      "Qalign": 3.896484375,
+      "ViCLIP": 0.2329007387161255,
+      "MUSIQ": 70.86885213851929
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_08",
+    "video_path": "./Video/Lavie/B31_08.mp4",
+    "score": {
+      "BRISQUE": 30.152435302734375,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.531,
+        2.953,
+        2.703,
+        2.484
+      ],
+      "VIIDEO": 0.4609454572200775,
+      "Qalign": 3.94921875,
+      "ViCLIP": 0.1979369968175888,
+      "MUSIQ": 53.210259675979614
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_09",
+    "video_path": "./Video/Lavie/B31_09.mp4",
+    "score": {
+      "BRISQUE": 34.06414794921875,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.844,
+        2.578,
+        2.422,
+        2.781
+      ],
+      "VIIDEO": 0.5699502229690552,
+      "Qalign": 2.98046875,
+      "ViCLIP": 0.23479516804218292,
+      "MUSIQ": 28.62936568260193
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_10",
+    "video_path": "./Video/Lavie/B31_10.mp4",
+    "score": {
+      "BRISQUE": 17.91412353515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.656,
+        2.922,
+        2.812,
+        2.516
+      ],
+      "VIIDEO": 0.5304684638977051,
+      "Qalign": 3.861328125,
+      "ViCLIP": 0.26468682289123535,
+      "MUSIQ": 52.30724811553955
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_11",
+    "video_path": "./Video/Lavie/B31_11.mp4",
+    "score": {
+      "BRISQUE": 18.696807861328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.094,
+        3.0,
+        2.391,
+        2.109
+      ],
+      "VIIDEO": 0.5470626950263977,
+      "Qalign": 3.8984375,
+      "ViCLIP": 0.18468166887760162,
+      "MUSIQ": 57.731465339660645
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_12",
+    "video_path": "./Video/Lavie/B31_12.mp4",
+    "score": {
+      "BRISQUE": 25.8671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.281,
+        3.062,
+        2.672,
+        2.234
+      ],
+      "VIIDEO": 0.5218864679336548,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.2743709087371826,
+      "MUSIQ": 67.75010800361633
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_13",
+    "video_path": "./Video/Lavie/B31_13.mp4",
+    "score": {
+      "BRISQUE": 13.62103271484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.203,
+        3.031,
+        2.422,
+        2.109
+      ],
+      "VIIDEO": 0.6154989004135132,
+      "Qalign": 3.439453125,
+      "ViCLIP": 0.170242041349411,
+      "MUSIQ": 61.85918831825256
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B31_14",
+    "video_path": "./Video/Lavie/B31_14.mp4",
+    "score": {
+      "BRISQUE": 63.277252197265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.266,
+        3.0,
+        2.5,
+        2.344
+      ],
+      "VIIDEO": 0.6131637096405029,
+      "Qalign": 2.509765625,
+      "ViCLIP": 0.23721909523010254,
+      "MUSIQ": 22.559769988059998
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_01",
+    "video_path": "./Video/Lavie/B32_01.mp4",
+    "score": {
+      "BRISQUE": 34.44248962402344,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.359,
+        2.938,
+        2.594,
+        2.391
+      ],
+      "VIIDEO": 0.7990004420280457,
+      "Qalign": 2.919921875,
+      "ViCLIP": 0.18097369372844696,
+      "MUSIQ": 37.836188077926636
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_02",
+    "video_path": "./Video/Lavie/B32_02.mp4",
+    "score": {
+      "BRISQUE": 6.70953369140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.359,
+        2.219,
+        2.938,
+        2.672,
+        2.016
+      ],
+      "VIIDEO": 0.4993860125541687,
+      "Qalign": 3.708984375,
+      "ViCLIP": 0.21722078323364258,
+      "MUSIQ": 53.57529902458191
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_03",
+    "video_path": "./Video/Lavie/B32_03.mp4",
+    "score": {
+      "BRISQUE": 35.11712646484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.297,
+        3.0,
+        2.625,
+        2.109
+      ],
+      "VIIDEO": 0.43334507942199707,
+      "Qalign": 4.1796875,
+      "ViCLIP": 0.14887705445289612,
+      "MUSIQ": 72.14941215515137
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_04",
+    "video_path": "./Video/Lavie/B32_04.mp4",
+    "score": {
+      "BRISQUE": 13.267822265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.234,
+        3.078,
+        2.781,
+        2.203
+      ],
+      "VIIDEO": 0.6059966683387756,
+      "Qalign": 3.658203125,
+      "ViCLIP": 0.22466135025024414,
+      "MUSIQ": 55.89894485473633
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_05",
+    "video_path": "./Video/Lavie/B32_05.mp4",
+    "score": {
+      "BRISQUE": 20.55072021484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        1.93,
+        3.047,
+        2.594,
+        2.109
+      ],
+      "VIIDEO": 0.5490630269050598,
+      "Qalign": 3.912109375,
+      "ViCLIP": 0.22452354431152344,
+      "MUSIQ": 36.299777030944824
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_06",
+    "video_path": "./Video/Lavie/B32_06.mp4",
+    "score": {
+      "BRISQUE": 23.03167724609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.203,
+        1.852,
+        3.062,
+        2.422,
+        1.891
+      ],
+      "VIIDEO": 0.5785772204399109,
+      "Qalign": 3.955078125,
+      "ViCLIP": 0.1885661631822586,
+      "MUSIQ": 73.71605825424194
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_07",
+    "video_path": "./Video/Lavie/B32_07.mp4",
+    "score": {
+      "BRISQUE": 16.542236328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.578,
+        2.891,
+        2.422,
+        2.406
+      ],
+      "VIIDEO": 0.6656080484390259,
+      "Qalign": 4.23828125,
+      "ViCLIP": 0.18188180029392242,
+      "MUSIQ": 74.30714702606201
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_08",
+    "video_path": "./Video/Lavie/B32_08.mp4",
+    "score": {
+      "BRISQUE": 24.787994384765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.156,
+        2.984,
+        2.5,
+        2.344
+      ],
+      "VIIDEO": 0.5554533004760742,
+      "Qalign": 2.75390625,
+      "ViCLIP": 0.2513437867164612,
+      "MUSIQ": 46.5977725982666
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_09",
+    "video_path": "./Video/Lavie/B32_09.mp4",
+    "score": {
+      "BRISQUE": 11.327362060546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.125,
+        2.75,
+        2.391,
+        2.047
+      ],
+      "VIIDEO": 0.5538905262947083,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.2043982595205307,
+      "MUSIQ": 71.56551194190979
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_10",
+    "video_path": "./Video/Lavie/B32_10.mp4",
+    "score": {
+      "BRISQUE": 27.148223876953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.828,
+        2.672,
+        2.406,
+        2.766
+      ],
+      "VIIDEO": 0.7440094351768494,
+      "Qalign": 3.505859375,
+      "ViCLIP": 0.2312208116054535,
+      "MUSIQ": 41.99695110321045
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B32_11",
+    "video_path": "./Video/Lavie/B32_11.mp4",
+    "score": {
+      "BRISQUE": 27.918487548828125,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        2.172,
+        3.016,
+        2.672,
+        2.172
+      ],
+      "VIIDEO": 0.5636537075042725,
+      "Qalign": 3.681640625,
+      "ViCLIP": 0.203695148229599,
+      "MUSIQ": 63.63775634765625
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_01",
+    "video_path": "./Video/Lavie/B33_01.mp4",
+    "score": {
+      "BRISQUE": 35.699249267578125,
+      "RAFT": false,
+      "VideoScore": [
+        2.453,
+        2.234,
+        2.75,
+        2.562,
+        1.984
+      ],
+      "VIIDEO": 0.6616447567939758,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.1751878410577774,
+      "MUSIQ": 76.82766389846802
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_02",
+    "video_path": "./Video/Lavie/B33_02.mp4",
+    "score": {
+      "BRISQUE": 48.85333251953125,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.688,
+        2.75,
+        2.594,
+        2.562
+      ],
+      "VIIDEO": 0.3798345625400543,
+      "Qalign": 4.07421875,
+      "ViCLIP": 0.1866680383682251,
+      "MUSIQ": 79.06821298599243
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_03",
+    "video_path": "./Video/Lavie/B33_03.mp4",
+    "score": {
+      "BRISQUE": 30.522491455078125,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.578,
+        2.531,
+        2.641,
+        2.625
+      ],
+      "VIIDEO": 0.40977993607521057,
+      "Qalign": 3.97265625,
+      "ViCLIP": 0.1987951397895813,
+      "MUSIQ": 61.264135122299194
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_04",
+    "video_path": "./Video/Lavie/B33_04.mp4",
+    "score": {
+      "BRISQUE": 23.19195556640625,
+      "RAFT": false,
+      "VideoScore": [
+        2.422,
+        2.281,
+        2.781,
+        2.516,
+        1.922
+      ],
+      "VIIDEO": 0.35808810591697693,
+      "Qalign": 4.12890625,
+      "ViCLIP": 0.25333213806152344,
+      "MUSIQ": 77.05405807495117
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_05",
+    "video_path": "./Video/Lavie/B33_05.mp4",
+    "score": {
+      "BRISQUE": 25.343475341796875,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.422,
+        2.844,
+        2.688,
+        2.219
+      ],
+      "VIIDEO": 0.7307277321815491,
+      "Qalign": 3.919921875,
+      "ViCLIP": 0.18744660913944244,
+      "MUSIQ": 77.08793497085571
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_06",
+    "video_path": "./Video/Lavie/B33_06.mp4",
+    "score": {
+      "BRISQUE": 23.22552490234375,
+      "RAFT": false,
+      "VideoScore": [
+        2.391,
+        2.078,
+        2.922,
+        2.469,
+        1.75
+      ],
+      "VIIDEO": 0.5233391523361206,
+      "Qalign": 4.30078125,
+      "ViCLIP": 0.1849033534526825,
+      "MUSIQ": 76.33444905281067
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_07",
+    "video_path": "./Video/Lavie/B33_07.mp4",
+    "score": {
+      "BRISQUE": 16.5252685546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.547,
+        2.938,
+        2.766,
+        2.375
+      ],
+      "VIIDEO": 0.5916056632995605,
+      "Qalign": 3.69140625,
+      "ViCLIP": 0.19774433970451355,
+      "MUSIQ": 55.17662310600281
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_08",
+    "video_path": "./Video/Lavie/B33_08.mp4",
+    "score": {
+      "BRISQUE": 26.959442138671875,
+      "RAFT": false,
+      "VideoScore": [
+        2.375,
+        2.062,
+        3.0,
+        2.531,
+        2.047
+      ],
+      "VIIDEO": 0.8489019870758057,
+      "Qalign": 3.947265625,
+      "ViCLIP": 0.20837169885635376,
+      "MUSIQ": 71.64403581619263
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_09",
+    "video_path": "./Video/Lavie/B33_09.mp4",
+    "score": {
+      "BRISQUE": 17.968780517578125,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.547,
+        2.906,
+        2.625,
+        2.297
+      ],
+      "VIIDEO": 0.618209183216095,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.20948511362075806,
+      "MUSIQ": 65.04315519332886
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B33_10",
+    "video_path": "./Video/Lavie/B33_10.mp4",
+    "score": {
+      "BRISQUE": 27.982208251953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.047,
+        2.906,
+        2.688,
+        1.648
+      ],
+      "VIIDEO": 0.7380553483963013,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.18194937705993652,
+      "MUSIQ": 76.8122124671936
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_01",
+    "video_path": "./Video/Lavie/B34_01.mp4",
+    "score": {
+      "BRISQUE": 50.866058349609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.422,
+        2.938,
+        2.609,
+        2.406
+      ],
+      "VIIDEO": 0.7474721670150757,
+      "Qalign": 2.927734375,
+      "ViCLIP": 0.20319311320781708,
+      "MUSIQ": 31.177192211151123
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_02",
+    "video_path": "./Video/Lavie/B34_02.mp4",
+    "score": {
+      "BRISQUE": 32.2724609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.781,
+        2.781,
+        2.578,
+        2.703
+      ],
+      "VIIDEO": 0.7108518481254578,
+      "Qalign": 3.5,
+      "ViCLIP": 0.25144192576408386,
+      "MUSIQ": 48.41766405105591
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_03",
+    "video_path": "./Video/Lavie/B34_03.mp4",
+    "score": {
+      "BRISQUE": 51.955291748046875,
+      "RAFT": false,
+      "VideoScore": [
+        2.422,
+        2.406,
+        2.984,
+        2.734,
+        2.406
+      ],
+      "VIIDEO": 0.6488720178604126,
+      "Qalign": 2.83984375,
+      "ViCLIP": 0.1935722827911377,
+      "MUSIQ": 43.86485195159912
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_04",
+    "video_path": "./Video/Lavie/B34_04.mp4",
+    "score": {
+      "BRISQUE": 35.543701171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.516,
+        3.016,
+        2.844,
+        2.453
+      ],
+      "VIIDEO": 0.7238672971725464,
+      "Qalign": 2.609375,
+      "ViCLIP": 0.24150142073631287,
+      "MUSIQ": 39.47692012786865
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_05",
+    "video_path": "./Video/Lavie/B34_05.mp4",
+    "score": {
+      "BRISQUE": 48.91998291015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.406,
+        2.953,
+        2.766,
+        2.406
+      ],
+      "VIIDEO": 0.6848318576812744,
+      "Qalign": 3.685546875,
+      "ViCLIP": 0.228127121925354,
+      "MUSIQ": 43.68721866607666
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_06",
+    "video_path": "./Video/Lavie/B34_06.mp4",
+    "score": {
+      "BRISQUE": 32.098114013671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.156,
+        3.031,
+        2.594,
+        2.125
+      ],
+      "VIIDEO": 0.6567449569702148,
+      "Qalign": 3.083984375,
+      "ViCLIP": 0.23995405435562134,
+      "MUSIQ": 38.140809297561646
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_07",
+    "video_path": "./Video/Lavie/B34_07.mp4",
+    "score": {
+      "BRISQUE": 34.026611328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.156,
+        3.016,
+        2.578,
+        2.031
+      ],
+      "VIIDEO": 0.6266612410545349,
+      "Qalign": 3.845703125,
+      "ViCLIP": 0.17833825945854187,
+      "MUSIQ": 76.45146632194519
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_08",
+    "video_path": "./Video/Lavie/B34_08.mp4",
+    "score": {
+      "BRISQUE": 33.35552978515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.094,
+        2.906,
+        2.516,
+        1.633
+      ],
+      "VIIDEO": 0.6336860060691833,
+      "Qalign": 4.23828125,
+      "ViCLIP": 0.18729223310947418,
+      "MUSIQ": 75.71785354614258
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_09",
+    "video_path": "./Video/Lavie/B34_09.mp4",
+    "score": {
+      "BRISQUE": 44.351043701171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.734,
+        2.938,
+        2.625,
+        2.656
+      ],
+      "VIIDEO": 0.3715395927429199,
+      "Qalign": 2.751953125,
+      "ViCLIP": 0.25150853395462036,
+      "MUSIQ": 29.830090045928955
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B34_10",
+    "video_path": "./Video/Lavie/B34_10.mp4",
+    "score": {
+      "BRISQUE": 42.212860107421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.266,
+        3.016,
+        2.672,
+        2.266
+      ],
+      "VIIDEO": 0.5558379292488098,
+      "Qalign": 3.279296875,
+      "ViCLIP": 0.23083195090293884,
+      "MUSIQ": 44.29984903335571
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_01",
+    "video_path": "./Video/Lavie/B41_01.mp4",
+    "score": {
+      "BRISQUE": 32.257080078125,
+      "RAFT": true,
+      "VideoScore": [
+        2.719,
+        2.719,
+        2.922,
+        2.703,
+        2.609
+      ],
+      "VIIDEO": 0.5757632255554199,
+      "Qalign": 4.38671875,
+      "ViCLIP": 0.1404818892478943,
+      "MUSIQ": 79.14931774139404
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_02",
+    "video_path": "./Video/Lavie/B41_02.mp4",
+    "score": {
+      "BRISQUE": 51.18157958984375,
+      "RAFT": false,
+      "VideoScore": [
+        2.781,
+        2.453,
+        2.766,
+        2.422,
+        2.328
+      ],
+      "VIIDEO": 0.8489406108856201,
+      "Qalign": 4.1875,
+      "ViCLIP": 0.19341112673282623,
+      "MUSIQ": 74.58336973190308
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_03",
+    "video_path": "./Video/Lavie/B41_03.mp4",
+    "score": {
+      "BRISQUE": 45.151275634765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.406,
+        3.016,
+        2.672,
+        2.391
+      ],
+      "VIIDEO": 0.49714145064353943,
+      "Qalign": 3.3828125,
+      "ViCLIP": 0.17051586508750916,
+      "MUSIQ": 46.928398847579956
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_04",
+    "video_path": "./Video/Lavie/B41_04.mp4",
+    "score": {
+      "BRISQUE": 23.618804931640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.484,
+        2.953,
+        2.469,
+        2.375
+      ],
+      "VIIDEO": 0.2659571170806885,
+      "Qalign": 4.4296875,
+      "ViCLIP": 0.20707717537879944,
+      "MUSIQ": 77.13914251327515
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_05",
+    "video_path": "./Video/Lavie/B41_05.mp4",
+    "score": {
+      "BRISQUE": 21.408233642578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.641,
+        2.938,
+        2.75,
+        2.516
+      ],
+      "VIIDEO": 0.6113789677619934,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.25553131103515625,
+      "MUSIQ": 56.1659152507782
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_06",
+    "video_path": "./Video/Lavie/B41_06.mp4",
+    "score": {
+      "BRISQUE": 28.825042724609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.562,
+        2.875,
+        2.031,
+        2.406
+      ],
+      "VIIDEO": 0.6289457678794861,
+      "Qalign": 4.23828125,
+      "ViCLIP": 0.282571405172348,
+      "MUSIQ": 77.94761610031128
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_07",
+    "video_path": "./Video/Lavie/B41_07.mp4",
+    "score": {
+      "BRISQUE": 22.5340576171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.234,
+        3.016,
+        2.406,
+        2.312
+      ],
+      "VIIDEO": 0.5384798049926758,
+      "Qalign": 2.9921875,
+      "ViCLIP": 0.17772381007671356,
+      "MUSIQ": 41.39734601974487
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_08",
+    "video_path": "./Video/Lavie/B41_08.mp4",
+    "score": {
+      "BRISQUE": 32.506317138671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.625,
+        2.953,
+        2.719,
+        2.469
+      ],
+      "VIIDEO": 0.6722878217697144,
+      "Qalign": 3.1875,
+      "ViCLIP": 0.26730817556381226,
+      "MUSIQ": 53.504743814468384
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_09",
+    "video_path": "./Video/Lavie/B41_09.mp4",
+    "score": {
+      "BRISQUE": 26.294891357421875,
+      "RAFT": false,
+      "VideoScore": [
+        2.344,
+        2.312,
+        2.766,
+        2.562,
+        1.812
+      ],
+      "VIIDEO": 0.6349657773971558,
+      "Qalign": 4.6171875,
+      "ViCLIP": 0.2440079301595688,
+      "MUSIQ": 75.3035659790039
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_10",
+    "video_path": "./Video/Lavie/B41_10.mp4",
+    "score": {
+      "BRISQUE": 14.701568603515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.078,
+        3.094,
+        2.719,
+        2.109
+      ],
+      "VIIDEO": 0.6053774952888489,
+      "Qalign": 3.892578125,
+      "ViCLIP": 0.23033137619495392,
+      "MUSIQ": 70.02960181236267
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_11",
+    "video_path": "./Video/Lavie/B41_11.mp4",
+    "score": {
+      "BRISQUE": -0.777008056640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.609,
+        3.109,
+        2.672,
+        2.453
+      ],
+      "VIIDEO": 0.4050285816192627,
+      "Qalign": 4.7109375,
+      "ViCLIP": 0.23913058638572693,
+      "MUSIQ": 68.6044054031372
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_12",
+    "video_path": "./Video/Lavie/B41_12.mp4",
+    "score": {
+      "BRISQUE": 16.239898681640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.547,
+        2.969,
+        2.703,
+        2.516
+      ],
+      "VIIDEO": 0.4860975444316864,
+      "Qalign": 3.478515625,
+      "ViCLIP": 0.2444993406534195,
+      "MUSIQ": 33.86087465286255
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B41_13",
+    "video_path": "./Video/Lavie/B41_13.mp4",
+    "score": {
+      "BRISQUE": 5.13421630859375,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.719,
+        2.781,
+        2.578,
+        2.547
+      ],
+      "VIIDEO": 0.7078633308410645,
+      "Qalign": 4.55078125,
+      "ViCLIP": 0.19045531749725342,
+      "MUSIQ": 76.24498844146729
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_01",
+    "video_path": "./Video/Lavie/B42_01.mp4",
+    "score": {
+      "BRISQUE": 21.286834716796875,
+      "RAFT": false,
+      "VideoScore": [
+        2.344,
+        2.312,
+        2.891,
+        2.734,
+        2.297
+      ],
+      "VIIDEO": 0.5639781355857849,
+      "Qalign": 3.951171875,
+      "ViCLIP": 0.17201878130435944,
+      "MUSIQ": 75.01563024520874
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_02",
+    "video_path": "./Video/Lavie/B42_02.mp4",
+    "score": {
+      "BRISQUE": 7.3863525390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.75,
+        2.906,
+        2.484,
+        2.641
+      ],
+      "VIIDEO": 0.4818422794342041,
+      "Qalign": 4.33203125,
+      "ViCLIP": 0.21272239089012146,
+      "MUSIQ": 77.87095069885254
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_03",
+    "video_path": "./Video/Lavie/B42_03.mp4",
+    "score": {
+      "BRISQUE": 32.19842529296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.547,
+        2.609,
+        2.812,
+        2.453,
+        2.469
+      ],
+      "VIIDEO": 0.6291130185127258,
+      "Qalign": 4.265625,
+      "ViCLIP": 0.239818274974823,
+      "MUSIQ": 75.70193338394165
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_04",
+    "video_path": "./Video/Lavie/B42_04.mp4",
+    "score": {
+      "BRISQUE": 42.436309814453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.484,
+        3.031,
+        2.766,
+        2.375
+      ],
+      "VIIDEO": 0.3820295035839081,
+      "Qalign": 3.31640625,
+      "ViCLIP": 0.21120521426200867,
+      "MUSIQ": 41.23794507980347
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_05",
+    "video_path": "./Video/Lavie/B42_05.mp4",
+    "score": {
+      "BRISQUE": 38.614654541015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.094,
+        2.906,
+        2.469,
+        1.914
+      ],
+      "VIIDEO": 0.700294554233551,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.25076642632484436,
+      "MUSIQ": 74.23129749298096
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_06",
+    "video_path": "./Video/Lavie/B42_06.mp4",
+    "score": {
+      "BRISQUE": 29.00115966796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.141,
+        3.016,
+        2.641,
+        2.156
+      ],
+      "VIIDEO": 0.48953238129615784,
+      "Qalign": 3.794921875,
+      "ViCLIP": 0.17676866054534912,
+      "MUSIQ": 69.55040311813354
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_07",
+    "video_path": "./Video/Lavie/B42_07.mp4",
+    "score": {
+      "BRISQUE": 28.985260009765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        2.297,
+        3.062,
+        2.766,
+        2.281
+      ],
+      "VIIDEO": 0.6984596848487854,
+      "Qalign": 3.2578125,
+      "ViCLIP": 0.2497217357158661,
+      "MUSIQ": 34.41044497489929
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_08",
+    "video_path": "./Video/Lavie/B42_08.mp4",
+    "score": {
+      "BRISQUE": 29.64404296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        2.141,
+        3.0,
+        2.281,
+        2.266
+      ],
+      "VIIDEO": 0.6784573197364807,
+      "Qalign": 2.984375,
+      "ViCLIP": 0.21750909090042114,
+      "MUSIQ": 37.68544936180115
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_09",
+    "video_path": "./Video/Lavie/B42_09.mp4",
+    "score": {
+      "BRISQUE": 36.10577392578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.906,
+        2.625,
+        2.562,
+        2.828
+      ],
+      "VIIDEO": 0.750117838382721,
+      "Qalign": 3.537109375,
+      "ViCLIP": 0.2685834765434265,
+      "MUSIQ": 36.2074191570282
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_10",
+    "video_path": "./Video/Lavie/B42_10.mp4",
+    "score": {
+      "BRISQUE": 20.6685791015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.391,
+        2.984,
+        2.594,
+        2.266
+      ],
+      "VIIDEO": 0.4780847728252411,
+      "Qalign": 4.375,
+      "ViCLIP": 0.1710953712463379,
+      "MUSIQ": 62.71058106422424
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_11",
+    "video_path": "./Video/Lavie/B42_11.mp4",
+    "score": {
+      "BRISQUE": 28.13323974609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.266,
+        3.031,
+        2.719,
+        2.281
+      ],
+      "VIIDEO": 0.6086307168006897,
+      "Qalign": 3.271484375,
+      "ViCLIP": 0.2668936848640442,
+      "MUSIQ": 37.58062410354614
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B42_12",
+    "video_path": "./Video/Lavie/B42_12.mp4",
+    "score": {
+      "BRISQUE": 41.99658203125,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.828,
+        2.969,
+        2.703,
+        2.781
+      ],
+      "VIIDEO": 0.5212934017181396,
+      "Qalign": 3.529296875,
+      "ViCLIP": 0.266279011964798,
+      "MUSIQ": 51.27203965187073
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_01",
+    "video_path": "./Video/Lavie/B43_01.mp4",
+    "score": {
+      "BRISQUE": 15.151519775390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.172,
+        3.062,
+        2.594,
+        2.219
+      ],
+      "VIIDEO": 0.6103543043136597,
+      "Qalign": 4.2734375,
+      "ViCLIP": 0.20706738531589508,
+      "MUSIQ": 78.43740463256836
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_02",
+    "video_path": "./Video/Lavie/B43_02.mp4",
+    "score": {
+      "BRISQUE": 11.09112548828125,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.844,
+        2.844,
+        2.625,
+        2.672
+      ],
+      "VIIDEO": 0.3574613928794861,
+      "Qalign": 4.04296875,
+      "ViCLIP": 0.24732914566993713,
+      "MUSIQ": 55.322980880737305
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_03",
+    "video_path": "./Video/Lavie/B43_03.mp4",
+    "score": {
+      "BRISQUE": 22.47869873046875,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.625,
+        2.812,
+        2.578,
+        2.453
+      ],
+      "VIIDEO": 0.3799854516983032,
+      "Qalign": 4.30859375,
+      "ViCLIP": 0.1833038330078125,
+      "MUSIQ": 76.8326301574707
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_04",
+    "video_path": "./Video/Lavie/B43_04.mp4",
+    "score": {
+      "BRISQUE": 26.82806396484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.719,
+        2.984,
+        2.438,
+        2.594
+      ],
+      "VIIDEO": 0.5950818061828613,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.15561114251613617,
+      "MUSIQ": 78.70428133010864
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_05",
+    "video_path": "./Video/Lavie/B43_05.mp4",
+    "score": {
+      "BRISQUE": 25.71087646484375,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.484,
+        2.891,
+        2.547,
+        2.297
+      ],
+      "VIIDEO": 0.5478432774543762,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.18086937069892883,
+      "MUSIQ": 75.3591833114624
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_06",
+    "video_path": "./Video/Lavie/B43_06.mp4",
+    "score": {
+      "BRISQUE": 30.54278564453125,
+      "RAFT": false,
+      "VideoScore": [
+        2.484,
+        2.469,
+        2.906,
+        2.5,
+        2.484
+      ],
+      "VIIDEO": 0.45604208111763,
+      "Qalign": 3.77734375,
+      "ViCLIP": 0.1925729215145111,
+      "MUSIQ": 47.7906756401062
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_07",
+    "video_path": "./Video/Lavie/B43_07.mp4",
+    "score": {
+      "BRISQUE": 12.5904541015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.844,
+        2.547,
+        2.484,
+        2.75
+      ],
+      "VIIDEO": 0.6420770883560181,
+      "Qalign": 3.306640625,
+      "ViCLIP": 0.23351629078388214,
+      "MUSIQ": 58.91969037055969
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_08",
+    "video_path": "./Video/Lavie/B43_08.mp4",
+    "score": {
+      "BRISQUE": 9.774078369140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.656,
+        2.719,
+        2.531,
+        2.531
+      ],
+      "VIIDEO": 0.7030097842216492,
+      "Qalign": 3.970703125,
+      "ViCLIP": 0.09985797107219696,
+      "MUSIQ": 70.57916831970215
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_09",
+    "video_path": "./Video/Lavie/B43_09.mp4",
+    "score": {
+      "BRISQUE": 9.262664794921875,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.797,
+        2.812,
+        2.781,
+        2.688
+      ],
+      "VIIDEO": 0.2774977385997772,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.21834464371204376,
+      "MUSIQ": 46.05767107009888
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_10",
+    "video_path": "./Video/Lavie/B43_10.mp4",
+    "score": {
+      "BRISQUE": 2.0189208984375,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.5,
+        2.734,
+        2.547,
+        2.234
+      ],
+      "VIIDEO": 0.4883038103580475,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.21181386709213257,
+      "MUSIQ": 77.30537509918213
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B43_11",
+    "video_path": "./Video/Lavie/B43_11.mp4",
+    "score": {
+      "BRISQUE": 5.14404296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.484,
+        2.938,
+        2.594,
+        2.266
+      ],
+      "VIIDEO": 0.6760189533233643,
+      "Qalign": 4.30859375,
+      "ViCLIP": 0.16778551042079926,
+      "MUSIQ": 76.1847596168518
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_01",
+    "video_path": "./Video/Lavie/B51_01.mp4",
+    "score": {
+      "BRISQUE": 3.473846435546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.328,
+        2.984,
+        2.406,
+        1.922
+      ],
+      "VIIDEO": 0.48133620619773865,
+      "Qalign": 3.966796875,
+      "ViCLIP": 0.1935330331325531,
+      "MUSIQ": 58.40660357475281
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_02",
+    "video_path": "./Video/Lavie/B51_02.mp4",
+    "score": {
+      "BRISQUE": 24.182952880859375,
+      "RAFT": false,
+      "VideoScore": [
+        2.312,
+        2.5,
+        2.844,
+        2.484,
+        2.328
+      ],
+      "VIIDEO": 0.5161455869674683,
+      "Qalign": 3.943359375,
+      "ViCLIP": 0.1981968730688095,
+      "MUSIQ": 72.14641666412354
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_03",
+    "video_path": "./Video/Lavie/B51_03.mp4",
+    "score": {
+      "BRISQUE": 30.375640869140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.281,
+        2.125,
+        3.0,
+        2.547,
+        1.844
+      ],
+      "VIIDEO": 0.5379956960678101,
+      "Qalign": 3.640625,
+      "ViCLIP": 0.2427370399236679,
+      "MUSIQ": 68.96914482116699
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_04",
+    "video_path": "./Video/Lavie/B51_04.mp4",
+    "score": {
+      "BRISQUE": 16.899505615234375,
+      "RAFT": false,
+      "VideoScore": [
+        2.422,
+        2.391,
+        2.969,
+        2.406,
+        2.406
+      ],
+      "VIIDEO": 0.503783106803894,
+      "Qalign": 3.404296875,
+      "ViCLIP": 0.19927699863910675,
+      "MUSIQ": 53.18216395378113
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_05",
+    "video_path": "./Video/Lavie/B51_05.mp4",
+    "score": {
+      "BRISQUE": 22.96978759765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.703,
+        2.719,
+        2.5,
+        2.578
+      ],
+      "VIIDEO": 0.6587827205657959,
+      "Qalign": 4.4296875,
+      "ViCLIP": 0.1352541148662567,
+      "MUSIQ": 72.77064144611359
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_06",
+    "video_path": "./Video/Lavie/B51_06.mp4",
+    "score": {
+      "BRISQUE": 57.520050048828125,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.578,
+        2.969,
+        2.812,
+        2.547
+      ],
+      "VIIDEO": 0.6005058288574219,
+      "Qalign": 2.771484375,
+      "ViCLIP": 0.2145392894744873,
+      "MUSIQ": 27.157050609588623
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_07",
+    "video_path": "./Video/Lavie/B51_07.mp4",
+    "score": {
+      "BRISQUE": 23.426239013671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.312,
+        2.922,
+        2.438,
+        1.977
+      ],
+      "VIIDEO": 0.6667274832725525,
+      "Qalign": 3.57421875,
+      "ViCLIP": 0.19599448144435883,
+      "MUSIQ": 55.719011545181274
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_08",
+    "video_path": "./Video/Lavie/B51_08.mp4",
+    "score": {
+      "BRISQUE": 30.74627685546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.188,
+        2.984,
+        2.344,
+        2.109
+      ],
+      "VIIDEO": 0.5112144351005554,
+      "Qalign": 2.876953125,
+      "ViCLIP": 0.2152540385723114,
+      "MUSIQ": 39.32033658027649
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_09",
+    "video_path": "./Video/Lavie/B51_09.mp4",
+    "score": {
+      "BRISQUE": 29.09088134765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        2.109,
+        3.094,
+        2.797,
+        2.016
+      ],
+      "VIIDEO": 0.6078420877456665,
+      "Qalign": 3.09375,
+      "ViCLIP": 0.2119435966014862,
+      "MUSIQ": 49.66074502468109
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_10",
+    "video_path": "./Video/Lavie/B51_10.mp4",
+    "score": {
+      "BRISQUE": 5.34283447265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.141,
+        3.094,
+        2.578,
+        2.047
+      ],
+      "VIIDEO": 0.5689502954483032,
+      "Qalign": 3.666015625,
+      "ViCLIP": 0.2867359519004822,
+      "MUSIQ": 65.40456509590149
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_11",
+    "video_path": "./Video/Lavie/B51_11.mp4",
+    "score": {
+      "BRISQUE": 44.72930908203125,
+      "RAFT": false,
+      "VideoScore": [
+        2.406,
+        2.438,
+        2.984,
+        2.719,
+        2.453
+      ],
+      "VIIDEO": 0.5884411334991455,
+      "Qalign": 3.68359375,
+      "ViCLIP": 0.1830747276544571,
+      "MUSIQ": 46.922141551971436
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B51_12",
+    "video_path": "./Video/Lavie/B51_12.mp4",
+    "score": {
+      "BRISQUE": 16.619384765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.344,
+        3.062,
+        2.531,
+        1.969
+      ],
+      "VIIDEO": 0.5464817881584167,
+      "Qalign": 4.08984375,
+      "ViCLIP": 0.22937776148319244,
+      "MUSIQ": 62.009551763534546
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_01",
+    "video_path": "./Video/Lavie/B52_01.mp4",
+    "score": {
+      "BRISQUE": 40.898284912109375,
+      "RAFT": true,
+      "VideoScore": [
+        2.125,
+        2.016,
+        2.953,
+        2.125,
+        2.156
+      ],
+      "VIIDEO": 0.6376804709434509,
+      "Qalign": 2.9140625,
+      "ViCLIP": 0.17830073833465576,
+      "MUSIQ": 20.178326964378357
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_02",
+    "video_path": "./Video/Lavie/B52_02.mp4",
+    "score": {
+      "BRISQUE": 30.201385498046875,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.609,
+        2.547,
+        2.312,
+        2.547
+      ],
+      "VIIDEO": 0.8093969225883484,
+      "Qalign": 4.546875,
+      "ViCLIP": 0.20278164744377136,
+      "MUSIQ": 70.84076261520386
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_03",
+    "video_path": "./Video/Lavie/B52_03.mp4",
+    "score": {
+      "BRISQUE": 43.51898193359375,
+      "RAFT": false,
+      "VideoScore": [
+        2.344,
+        2.188,
+        2.984,
+        2.609,
+        1.859
+      ],
+      "VIIDEO": 0.7446566224098206,
+      "Qalign": 4.015625,
+      "ViCLIP": 0.2601814270019531,
+      "MUSIQ": 62.756197690963745
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_04",
+    "video_path": "./Video/Lavie/B52_04.mp4",
+    "score": {
+      "BRISQUE": 65.56112670898438,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.062,
+        3.062,
+        2.609,
+        2.234
+      ],
+      "VIIDEO": 0.8155277967453003,
+      "Qalign": 2.4140625,
+      "ViCLIP": 0.23175093531608582,
+      "MUSIQ": 28.583982944488525
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_05",
+    "video_path": "./Video/Lavie/B52_05.mp4",
+    "score": {
+      "BRISQUE": 23.34393310546875,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.719,
+        2.891,
+        2.516,
+        2.453
+      ],
+      "VIIDEO": 0.5506209135055542,
+      "Qalign": 4.30078125,
+      "ViCLIP": 0.1344531625509262,
+      "MUSIQ": 73.72879409790039
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_06",
+    "video_path": "./Video/Lavie/B52_06.mp4",
+    "score": {
+      "BRISQUE": 29.121002197265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.406,
+        2.938,
+        2.703,
+        2.344
+      ],
+      "VIIDEO": 0.5865930914878845,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.19576428830623627,
+      "MUSIQ": 59.81871747970581
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_07",
+    "video_path": "./Video/Lavie/B52_07.mp4",
+    "score": {
+      "BRISQUE": 32.98370361328125,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.688,
+        2.781,
+        2.531,
+        2.547
+      ],
+      "VIIDEO": 0.5993664264678955,
+      "Qalign": 2.919921875,
+      "ViCLIP": 0.2699067294597626,
+      "MUSIQ": 51.762550354003906
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_08",
+    "video_path": "./Video/Lavie/B52_08.mp4",
+    "score": {
+      "BRISQUE": -0.97601318359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.625,
+        3.047,
+        2.344,
+        2.469
+      ],
+      "VIIDEO": 0.3362811207771301,
+      "Qalign": 4.01171875,
+      "ViCLIP": 0.1966329663991928,
+      "MUSIQ": 68.31992387771606
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_09",
+    "video_path": "./Video/Lavie/B52_09.mp4",
+    "score": {
+      "BRISQUE": 25.3516845703125,
+      "RAFT": false,
+      "VideoScore": [
+        2.406,
+        2.312,
+        2.828,
+        2.391,
+        2.141
+      ],
+      "VIIDEO": 0.825785219669342,
+      "Qalign": 3.98828125,
+      "ViCLIP": 0.2664615213871002,
+      "MUSIQ": 78.38094711303711
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_10",
+    "video_path": "./Video/Lavie/B52_10.mp4",
+    "score": {
+      "BRISQUE": 26.365264892578125,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.562,
+        2.656,
+        2.391,
+        2.594
+      ],
+      "VIIDEO": 0.7355912923812866,
+      "Qalign": 2.37890625,
+      "ViCLIP": 0.20478489995002747,
+      "MUSIQ": 37.816463589668274
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_11",
+    "video_path": "./Video/Lavie/B52_11.mp4",
+    "score": {
+      "BRISQUE": 15.32427978515625,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.578,
+        2.656,
+        2.5,
+        2.328
+      ],
+      "VIIDEO": 0.6500099301338196,
+      "Qalign": 3.75390625,
+      "ViCLIP": 0.19979315996170044,
+      "MUSIQ": 52.884501218795776
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "B52_12",
+    "video_path": "./Video/Lavie/B52_12.mp4",
+    "score": {
+      "BRISQUE": 39.854400634765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.219,
+        3.031,
+        2.531,
+        2.141
+      ],
+      "VIIDEO": 0.6945645213127136,
+      "Qalign": 3.076171875,
+      "ViCLIP": 0.21072393655776978,
+      "MUSIQ": 51.54762935638428
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_01_01",
+    "video_path": "./Video/Lavie/L2_01_01.mp4",
+    "score": {
+      "BRISQUE": 7.55889892578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.328,
+        3.047,
+        2.594,
+        2.203
+      ],
+      "VIIDEO": 0.7254120111465454,
+      "Qalign": 3.876953125,
+      "ViCLIP": 0.21248726546764374,
+      "MUSIQ": 72.67067956924438
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_01_02",
+    "video_path": "./Video/Lavie/L2_01_02.mp4",
+    "score": {
+      "BRISQUE": 23.031646728515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.016,
+        2.984,
+        2.469,
+        1.883
+      ],
+      "VIIDEO": 0.6440234780311584,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.22940108180046082,
+      "MUSIQ": 68.93861532211304
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_01_03",
+    "video_path": "./Video/Lavie/L2_01_03.mp4",
+    "score": {
+      "BRISQUE": 29.76275634765625,
+      "RAFT": false,
+      "VideoScore": [
+        2.391,
+        2.094,
+        3.047,
+        2.703,
+        1.977
+      ],
+      "VIIDEO": 0.578571081161499,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.3241131007671356,
+      "MUSIQ": 74.94650363922119
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_01_04",
+    "video_path": "./Video/Lavie/L2_01_04.mp4",
+    "score": {
+      "BRISQUE": 6.448455810546875,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.562,
+        2.922,
+        2.656,
+        2.5
+      ],
+      "VIIDEO": 0.6615461111068726,
+      "Qalign": 3.8203125,
+      "ViCLIP": 0.21465906500816345,
+      "MUSIQ": 55.384700536727905
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_02_01",
+    "video_path": "./Video/Lavie/L2_02_01.mp4",
+    "score": {
+      "BRISQUE": 34.33062744140625,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        1.945,
+        3.047,
+        2.719,
+        1.789
+      ],
+      "VIIDEO": 0.5811291337013245,
+      "Qalign": 4.19140625,
+      "ViCLIP": 0.22112226486206055,
+      "MUSIQ": 74.58419036865234
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_02_02",
+    "video_path": "./Video/Lavie/L2_02_02.mp4",
+    "score": {
+      "BRISQUE": 41.814361572265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.141,
+        3.078,
+        2.672,
+        2.156
+      ],
+      "VIIDEO": 0.7607741951942444,
+      "Qalign": 2.83203125,
+      "ViCLIP": 0.2548708915710449,
+      "MUSIQ": 31.997124552726746
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_02_03",
+    "video_path": "./Video/Lavie/L2_02_03.mp4",
+    "score": {
+      "BRISQUE": 35.2318115234375,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.703,
+        2.891,
+        2.422,
+        2.531
+      ],
+      "VIIDEO": 0.24910876154899597,
+      "Qalign": 3.947265625,
+      "ViCLIP": 0.18215422332286835,
+      "MUSIQ": 76.8303656578064
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_02_04",
+    "video_path": "./Video/Lavie/L2_02_04.mp4",
+    "score": {
+      "BRISQUE": 17.906280517578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        1.953,
+        3.031,
+        2.188,
+        1.984
+      ],
+      "VIIDEO": 0.8265690207481384,
+      "Qalign": 3.21484375,
+      "ViCLIP": 0.2036421000957489,
+      "MUSIQ": 64.1227777004242
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_03_01",
+    "video_path": "./Video/Lavie/L2_03_01.mp4",
+    "score": {
+      "BRISQUE": 30.736419677734375,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.5,
+        2.984,
+        2.484,
+        2.406
+      ],
+      "VIIDEO": 0.7031672596931458,
+      "Qalign": 2.978515625,
+      "ViCLIP": 0.21851609647274017,
+      "MUSIQ": 34.62212944030762
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_03_02",
+    "video_path": "./Video/Lavie/L2_03_02.mp4",
+    "score": {
+      "BRISQUE": 63.12626647949219,
+      "RAFT": false,
+      "VideoScore": [
+        2.375,
+        2.406,
+        2.891,
+        2.516,
+        2.266
+      ],
+      "VIIDEO": 0.205256387591362,
+      "Qalign": 2.05859375,
+      "ViCLIP": 0.19964060187339783,
+      "MUSIQ": 70.74722528457642
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_03_03",
+    "video_path": "./Video/Lavie/L2_03_03.mp4",
+    "score": {
+      "BRISQUE": 17.568572998046875,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.406,
+        2.938,
+        2.25,
+        2.391
+      ],
+      "VIIDEO": 0.6501660943031311,
+      "Qalign": 3.169921875,
+      "ViCLIP": 0.19373922049999237,
+      "MUSIQ": 31.224273085594177
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_03_04",
+    "video_path": "./Video/Lavie/L2_03_04.mp4",
+    "score": {
+      "BRISQUE": 27.74798583984375,
+      "RAFT": false,
+      "VideoScore": [
+        2.297,
+        2.141,
+        3.016,
+        2.625,
+        2.188
+      ],
+      "VIIDEO": 0.5498359799385071,
+      "Qalign": 2.578125,
+      "ViCLIP": 0.2204192578792572,
+      "MUSIQ": 49.02079224586487
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_04_01",
+    "video_path": "./Video/Lavie/L2_04_01.mp4",
+    "score": {
+      "BRISQUE": 27.204498291015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.219,
+        1.914,
+        3.016,
+        2.656,
+        1.742
+      ],
+      "VIIDEO": 0.6944885849952698,
+      "Qalign": 3.99609375,
+      "ViCLIP": 0.2720026671886444,
+      "MUSIQ": 74.3173565864563
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_04_02",
+    "video_path": "./Video/Lavie/L2_04_02.mp4",
+    "score": {
+      "BRISQUE": 79.74166870117188,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.5,
+        2.922,
+        2.547,
+        2.469
+      ],
+      "VIIDEO": 0.8452434539794922,
+      "Qalign": 2.84765625,
+      "ViCLIP": 0.2390948385000229,
+      "MUSIQ": 27.047732949256897
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_04_03",
+    "video_path": "./Video/Lavie/L2_04_03.mp4",
+    "score": {
+      "BRISQUE": 11.1123046875,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.359,
+        2.984,
+        2.703,
+        2.25
+      ],
+      "VIIDEO": 0.5776647925376892,
+      "Qalign": 4.59765625,
+      "ViCLIP": 0.22887058556079865,
+      "MUSIQ": 73.22021484375
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_04_04",
+    "video_path": "./Video/Lavie/L2_04_04.mp4",
+    "score": {
+      "BRISQUE": 41.910125732421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.297,
+        2.984,
+        2.797,
+        2.312
+      ],
+      "VIIDEO": 0.48649778962135315,
+      "Qalign": 2.888671875,
+      "ViCLIP": 0.20054417848587036,
+      "MUSIQ": 41.25304841995239
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_05_01",
+    "video_path": "./Video/Lavie/L2_05_01.mp4",
+    "score": {
+      "BRISQUE": 39.799652099609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.578,
+        2.953,
+        2.688,
+        2.406
+      ],
+      "VIIDEO": 0.6488823294639587,
+      "Qalign": 3.587890625,
+      "ViCLIP": 0.25033944845199585,
+      "MUSIQ": 46.56255078315735
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_05_02",
+    "video_path": "./Video/Lavie/L2_05_02.mp4",
+    "score": {
+      "BRISQUE": 16.12017822265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.531,
+        2.891,
+        2.375,
+        2.406
+      ],
+      "VIIDEO": 0.6402578353881836,
+      "Qalign": 3.919921875,
+      "ViCLIP": 0.29780149459838867,
+      "MUSIQ": 67.79079627990723
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_05_03",
+    "video_path": "./Video/Lavie/L2_05_03.mp4",
+    "score": {
+      "BRISQUE": 0.753875732421875,
+      "RAFT": false,
+      "VideoScore": [
+        2.703,
+        2.75,
+        2.844,
+        2.438,
+        2.641
+      ],
+      "VIIDEO": 0.4075367748737335,
+      "Qalign": 4.60546875,
+      "ViCLIP": 0.15381541848182678,
+      "MUSIQ": 78.13766050338745
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_05_04",
+    "video_path": "./Video/Lavie/L2_05_04.mp4",
+    "score": {
+      "BRISQUE": 47.37420654296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.766,
+        2.734,
+        2.5,
+        2.656
+      ],
+      "VIIDEO": 0.5006647109985352,
+      "Qalign": 3.099609375,
+      "ViCLIP": 0.26125311851501465,
+      "MUSIQ": 52.3701868057251
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_06_01",
+    "video_path": "./Video/Lavie/L2_06_01.mp4",
+    "score": {
+      "BRISQUE": 34.8509521484375,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.344,
+        3.016,
+        2.609,
+        2.266
+      ],
+      "VIIDEO": 0.51350998878479,
+      "Qalign": 3.7890625,
+      "ViCLIP": 0.18532925844192505,
+      "MUSIQ": 62.73205518722534
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_06_02",
+    "video_path": "./Video/Lavie/L2_06_02.mp4",
+    "score": {
+      "BRISQUE": 26.0145263671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.25,
+        1.961,
+        2.938,
+        2.609,
+        1.625
+      ],
+      "VIIDEO": 0.5409364104270935,
+      "Qalign": 4.375,
+      "ViCLIP": 0.19115915894508362,
+      "MUSIQ": 78.58680057525635
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_06_03",
+    "video_path": "./Video/Lavie/L2_06_03.mp4",
+    "score": {
+      "BRISQUE": 15.2095947265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.141,
+        3.031,
+        2.484,
+        2.125
+      ],
+      "VIIDEO": 0.6233322620391846,
+      "Qalign": 3.423828125,
+      "ViCLIP": 0.2459726184606552,
+      "MUSIQ": 57.78905129432678
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_06_04",
+    "video_path": "./Video/Lavie/L2_06_04.mp4",
+    "score": {
+      "BRISQUE": 27.532470703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        1.719,
+        3.047,
+        2.641,
+        1.641
+      ],
+      "VIIDEO": 0.690012514591217,
+      "Qalign": 4.01953125,
+      "ViCLIP": 0.24084992706775665,
+      "MUSIQ": 77.03176784515381
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_07_01",
+    "video_path": "./Video/Lavie/L2_07_01.mp4",
+    "score": {
+      "BRISQUE": 2.3621826171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        2.047,
+        2.953,
+        2.531,
+        1.695
+      ],
+      "VIIDEO": 0.3516499698162079,
+      "Qalign": 4.1171875,
+      "ViCLIP": 0.25060728192329407,
+      "MUSIQ": 71.38373970985413
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_07_02",
+    "video_path": "./Video/Lavie/L2_07_02.mp4",
+    "score": {
+      "BRISQUE": 36.542388916015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        2.062,
+        2.969,
+        2.562,
+        2.109
+      ],
+      "VIIDEO": 0.6012645363807678,
+      "Qalign": 3.662109375,
+      "ViCLIP": 0.2594284415245056,
+      "MUSIQ": 56.443716049194336
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_07_03",
+    "video_path": "./Video/Lavie/L2_07_03.mp4",
+    "score": {
+      "BRISQUE": 0.53875732421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.297,
+        2.891,
+        2.5,
+        2.109
+      ],
+      "VIIDEO": 0.4057639539241791,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.15215399861335754,
+      "MUSIQ": 73.9788703918457
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_07_04",
+    "video_path": "./Video/Lavie/L2_07_04.mp4",
+    "score": {
+      "BRISQUE": 21.3106689453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        1.859,
+        3.016,
+        2.594,
+        1.758
+      ],
+      "VIIDEO": 0.6781538724899292,
+      "Qalign": 3.546875,
+      "ViCLIP": 0.21996672451496124,
+      "MUSIQ": 60.83553719520569
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_08_01",
+    "video_path": "./Video/Lavie/L2_08_01.mp4",
+    "score": {
+      "BRISQUE": 21.427978515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        1.922,
+        2.938,
+        2.547,
+        1.656
+      ],
+      "VIIDEO": 0.6737379431724548,
+      "Qalign": 3.8671875,
+      "ViCLIP": 0.22187770903110504,
+      "MUSIQ": 73.56250047683716
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_08_02",
+    "video_path": "./Video/Lavie/L2_08_02.mp4",
+    "score": {
+      "BRISQUE": 21.68890380859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.094,
+        3.094,
+        2.844,
+        1.984
+      ],
+      "VIIDEO": 0.6296710968017578,
+      "Qalign": 3.6328125,
+      "ViCLIP": 0.2718358337879181,
+      "MUSIQ": 38.34464693069458
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_08_03",
+    "video_path": "./Video/Lavie/L2_08_03.mp4",
+    "score": {
+      "BRISQUE": 26.069732666015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.156,
+        3.0,
+        2.562,
+        2.031
+      ],
+      "VIIDEO": 0.617649495601654,
+      "Qalign": 3.525390625,
+      "ViCLIP": 0.22346636652946472,
+      "MUSIQ": 55.33773851394653
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_08_04",
+    "video_path": "./Video/Lavie/L2_08_04.mp4",
+    "score": {
+      "BRISQUE": 32.507904052734375,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.188,
+        3.031,
+        2.531,
+        2.062
+      ],
+      "VIIDEO": 0.4408304691314697,
+      "Qalign": 4.3203125,
+      "ViCLIP": 0.20007021725177765,
+      "MUSIQ": 79.2347640991211
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_09_01",
+    "video_path": "./Video/Lavie/L2_09_01.mp4",
+    "score": {
+      "BRISQUE": 29.277130126953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.234,
+        2.984,
+        2.656,
+        2.219
+      ],
+      "VIIDEO": 0.6376143097877502,
+      "Qalign": 3.486328125,
+      "ViCLIP": 0.20321716368198395,
+      "MUSIQ": 49.38450384140015
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_09_02",
+    "video_path": "./Video/Lavie/L2_09_02.mp4",
+    "score": {
+      "BRISQUE": 24.011199951171875,
+      "RAFT": true,
+      "VideoScore": [
+        2.25,
+        2.172,
+        3.016,
+        2.688,
+        2.062
+      ],
+      "VIIDEO": 0.629177987575531,
+      "Qalign": 3.7578125,
+      "ViCLIP": 0.1884819120168686,
+      "MUSIQ": 64.60094976425171
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_09_03",
+    "video_path": "./Video/Lavie/L2_09_03.mp4",
+    "score": {
+      "BRISQUE": 42.61651611328125,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.625,
+        2.719,
+        2.688,
+        2.516
+      ],
+      "VIIDEO": 0.5334904193878174,
+      "Qalign": 4.08984375,
+      "ViCLIP": 0.24095532298088074,
+      "MUSIQ": 72.55293416976929
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_09_04",
+    "video_path": "./Video/Lavie/L2_09_04.mp4",
+    "score": {
+      "BRISQUE": 11.078216552734375,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.734,
+        2.609,
+        2.516,
+        2.641
+      ],
+      "VIIDEO": 0.7231811285018921,
+      "Qalign": 4.22265625,
+      "ViCLIP": 0.20473167300224304,
+      "MUSIQ": 78.21510982513428
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_10_01",
+    "video_path": "./Video/Lavie/L2_10_01.mp4",
+    "score": {
+      "BRISQUE": 37.1881103515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.328,
+        2.984,
+        2.594,
+        2.266
+      ],
+      "VIIDEO": 0.6150707602500916,
+      "Qalign": 3.89453125,
+      "ViCLIP": 0.29090601205825806,
+      "MUSIQ": 54.46449899673462
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_10_02",
+    "video_path": "./Video/Lavie/L2_10_02.mp4",
+    "score": {
+      "BRISQUE": 30.313323974609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.469,
+        2.781,
+        2.75,
+        2.344
+      ],
+      "VIIDEO": 0.5708483457565308,
+      "Qalign": 3.216796875,
+      "ViCLIP": 0.20688052475452423,
+      "MUSIQ": 41.387086629867554
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_10_03",
+    "video_path": "./Video/Lavie/L2_10_03.mp4",
+    "score": {
+      "BRISQUE": 6.813079833984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.688,
+        2.859,
+        3.0,
+        2.75,
+        2.797
+      ],
+      "VIIDEO": 0.3795783519744873,
+      "Qalign": 4.26953125,
+      "ViCLIP": 0.2326679527759552,
+      "MUSIQ": 75.43724012374878
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_10_04",
+    "video_path": "./Video/Lavie/L2_10_04.mp4",
+    "score": {
+      "BRISQUE": 39.4752197265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.625,
+        2.906,
+        2.75,
+        2.562
+      ],
+      "VIIDEO": 0.6047504544258118,
+      "Qalign": 3.302734375,
+      "ViCLIP": 0.2463541328907013,
+      "MUSIQ": 44.94872450828552
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_11_01",
+    "video_path": "./Video/Lavie/L2_11_01.mp4",
+    "score": {
+      "BRISQUE": 23.8414306640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.391,
+        2.953,
+        2.609,
+        2.375
+      ],
+      "VIIDEO": 0.7035045623779297,
+      "Qalign": 3.033203125,
+      "ViCLIP": 0.17900770902633667,
+      "MUSIQ": 50.088961601257324
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_11_02",
+    "video_path": "./Video/Lavie/L2_11_02.mp4",
+    "score": {
+      "BRISQUE": 30.894866943359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.438,
+        2.922,
+        2.594,
+        2.328
+      ],
+      "VIIDEO": 0.5629802346229553,
+      "Qalign": 2.90625,
+      "ViCLIP": 0.16067925095558167,
+      "MUSIQ": 47.81020474433899
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_11_03",
+    "video_path": "./Video/Lavie/L2_11_03.mp4",
+    "score": {
+      "BRISQUE": 13.967193603515625,
+      "RAFT": false,
+      "VideoScore": [
+        2.328,
+        1.992,
+        3.047,
+        2.672,
+        2.031
+      ],
+      "VIIDEO": 0.5312663912773132,
+      "Qalign": 3.814453125,
+      "ViCLIP": 0.22149254381656647,
+      "MUSIQ": 79.5978684425354
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_11_04",
+    "video_path": "./Video/Lavie/L2_11_04.mp4",
+    "score": {
+      "BRISQUE": 16.96710205078125,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.0,
+        3.062,
+        2.641,
+        1.953
+      ],
+      "VIIDEO": 0.5501376390457153,
+      "Qalign": 3.580078125,
+      "ViCLIP": 0.2305891364812851,
+      "MUSIQ": 69.31629133224487
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_12_01",
+    "video_path": "./Video/Lavie/L2_12_01.mp4",
+    "score": {
+      "BRISQUE": 37.499267578125,
+      "RAFT": false,
+      "VideoScore": [
+        2.312,
+        2.375,
+        3.0,
+        2.75,
+        2.266
+      ],
+      "VIIDEO": 0.6096593737602234,
+      "Qalign": 3.49609375,
+      "ViCLIP": 0.2588645815849304,
+      "MUSIQ": 46.67726755142212
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_12_02",
+    "video_path": "./Video/Lavie/L2_12_02.mp4",
+    "score": {
+      "BRISQUE": 29.3017578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.391,
+        2.969,
+        2.594,
+        2.172
+      ],
+      "VIIDEO": 0.5222629308700562,
+      "Qalign": 3.87109375,
+      "ViCLIP": 0.1780415028333664,
+      "MUSIQ": 66.38501501083374
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_12_03",
+    "video_path": "./Video/Lavie/L2_12_03.mp4",
+    "score": {
+      "BRISQUE": 32.489776611328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.344,
+        3.016,
+        2.859,
+        2.234
+      ],
+      "VIIDEO": 0.5490038394927979,
+      "Qalign": 3.716796875,
+      "ViCLIP": 0.247174933552742,
+      "MUSIQ": 73.45221757888794
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_12_04",
+    "video_path": "./Video/Lavie/L2_12_04.mp4",
+    "score": {
+      "BRISQUE": 22.837432861328125,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.609,
+        2.75,
+        2.656,
+        2.5
+      ],
+      "VIIDEO": 0.5533421635627747,
+      "Qalign": 2.580078125,
+      "ViCLIP": 0.193979412317276,
+      "MUSIQ": 50.148478507995605
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_13_01",
+    "video_path": "./Video/Lavie/L2_13_01.mp4",
+    "score": {
+      "BRISQUE": 3.17498779296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.25,
+        1.93,
+        3.0,
+        2.641,
+        1.844
+      ],
+      "VIIDEO": 0.7130862474441528,
+      "Qalign": 3.2421875,
+      "ViCLIP": 0.11126193404197693,
+      "MUSIQ": 43.08352029323578
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_13_02",
+    "video_path": "./Video/Lavie/L2_13_02.mp4",
+    "score": {
+      "BRISQUE": 21.874725341796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.438,
+        3.016,
+        2.703,
+        2.328
+      ],
+      "VIIDEO": 0.679252564907074,
+      "Qalign": 3.158203125,
+      "ViCLIP": 0.24196672439575195,
+      "MUSIQ": 34.117650866508484
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_13_03",
+    "video_path": "./Video/Lavie/L2_13_03.mp4",
+    "score": {
+      "BRISQUE": 19.474365234375,
+      "RAFT": false,
+      "VideoScore": [
+        2.406,
+        2.219,
+        2.922,
+        2.609,
+        1.883
+      ],
+      "VIIDEO": 0.46847668290138245,
+      "Qalign": 4.11328125,
+      "ViCLIP": 0.2351647913455963,
+      "MUSIQ": 71.69281339645386
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_13_04",
+    "video_path": "./Video/Lavie/L2_13_04.mp4",
+    "score": {
+      "BRISQUE": 29.455718994140625,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.359,
+        2.984,
+        2.688,
+        2.266
+      ],
+      "VIIDEO": 0.547086775302887,
+      "Qalign": 4.06640625,
+      "ViCLIP": 0.1995745301246643,
+      "MUSIQ": 70.63610219955444
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_14_01",
+    "video_path": "./Video/Lavie/L2_14_01.mp4",
+    "score": {
+      "BRISQUE": -0.51641845703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.641,
+        2.797,
+        2.766,
+        2.531,
+        2.688
+      ],
+      "VIIDEO": 0.37009647488594055,
+      "Qalign": 3.8515625,
+      "ViCLIP": 0.17859868705272675,
+      "MUSIQ": 73.60819625854492
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_14_02",
+    "video_path": "./Video/Lavie/L2_14_02.mp4",
+    "score": {
+      "BRISQUE": 39.6165771484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.188,
+        3.062,
+        2.672,
+        2.219
+      ],
+      "VIIDEO": 0.6328628063201904,
+      "Qalign": 2.900390625,
+      "ViCLIP": 0.21791771054267883,
+      "MUSIQ": 36.43668031692505
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_14_03",
+    "video_path": "./Video/Lavie/L2_14_03.mp4",
+    "score": {
+      "BRISQUE": 19.879150390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.344,
+        2.984,
+        2.625,
+        2.266
+      ],
+      "VIIDEO": 0.45789316296577454,
+      "Qalign": 3.337890625,
+      "ViCLIP": 0.15401943027973175,
+      "MUSIQ": 54.79498553276062
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_14_04",
+    "video_path": "./Video/Lavie/L2_14_04.mp4",
+    "score": {
+      "BRISQUE": 38.191558837890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.297,
+        2.984,
+        2.719,
+        2.375
+      ],
+      "VIIDEO": 0.5257875323295593,
+      "Qalign": 3.21484375,
+      "ViCLIP": 0.18288332223892212,
+      "MUSIQ": 33.3511528968811
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_15_01",
+    "video_path": "./Video/Lavie/L2_15_01.mp4",
+    "score": {
+      "BRISQUE": 33.230010986328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.219,
+        1.891,
+        3.125,
+        2.656,
+        1.977
+      ],
+      "VIIDEO": 0.6537997126579285,
+      "Qalign": 3.98828125,
+      "ViCLIP": 0.2253139466047287,
+      "MUSIQ": 57.54508352279663
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_15_02",
+    "video_path": "./Video/Lavie/L2_15_02.mp4",
+    "score": {
+      "BRISQUE": 20.142181396484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        1.953,
+        3.016,
+        2.562,
+        1.844
+      ],
+      "VIIDEO": 0.7642860412597656,
+      "Qalign": 3.70703125,
+      "ViCLIP": 0.22048652172088623,
+      "MUSIQ": 70.89381861686707
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_15_03",
+    "video_path": "./Video/Lavie/L2_15_03.mp4",
+    "score": {
+      "BRISQUE": 27.891448974609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.328,
+        2.969,
+        2.703,
+        2.281
+      ],
+      "VIIDEO": 0.6230186820030212,
+      "Qalign": 3.59765625,
+      "ViCLIP": 0.2132892608642578,
+      "MUSIQ": 49.700456380844116
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_15_04",
+    "video_path": "./Video/Lavie/L2_15_04.mp4",
+    "score": {
+      "BRISQUE": 16.9287109375,
+      "RAFT": false,
+      "VideoScore": [
+        2.484,
+        2.078,
+        2.938,
+        2.469,
+        1.906
+      ],
+      "VIIDEO": 0.622755229473114,
+      "Qalign": 4.2265625,
+      "ViCLIP": 0.20748329162597656,
+      "MUSIQ": 76.33164930343628
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_16_01",
+    "video_path": "./Video/Lavie/L2_16_01.mp4",
+    "score": {
+      "BRISQUE": 48.842864990234375,
+      "RAFT": false,
+      "VideoScore": [
+        2.391,
+        2.156,
+        2.875,
+        2.656,
+        1.984
+      ],
+      "VIIDEO": 0.5984194874763489,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.23162975907325745,
+      "MUSIQ": 71.9749665260315
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_16_02",
+    "video_path": "./Video/Lavie/L2_16_02.mp4",
+    "score": {
+      "BRISQUE": 23.40478515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.125,
+        3.141,
+        2.688,
+        2.062
+      ],
+      "VIIDEO": 0.7608852982521057,
+      "Qalign": 3.751953125,
+      "ViCLIP": 0.26416516304016113,
+      "MUSIQ": 54.55467391014099
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_16_03",
+    "video_path": "./Video/Lavie/L2_16_03.mp4",
+    "score": {
+      "BRISQUE": 34.70587158203125,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.156,
+        3.016,
+        2.578,
+        2.125
+      ],
+      "VIIDEO": 0.6245425939559937,
+      "Qalign": 3.4453125,
+      "ViCLIP": 0.2043888419866562,
+      "MUSIQ": 41.944384932518005
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_16_04",
+    "video_path": "./Video/Lavie/L2_16_04.mp4",
+    "score": {
+      "BRISQUE": 5.1820068359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.25,
+        2.984,
+        2.375,
+        2.109
+      ],
+      "VIIDEO": 0.5878586173057556,
+      "Qalign": 4.16015625,
+      "ViCLIP": 0.19120019674301147,
+      "MUSIQ": 66.69901442527771
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_17_01",
+    "video_path": "./Video/Lavie/L2_17_01.mp4",
+    "score": {
+      "BRISQUE": 13.859344482421875,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.625,
+        2.562,
+        2.469,
+        2.531
+      ],
+      "VIIDEO": 0.4912456274032593,
+      "Qalign": 3.939453125,
+      "ViCLIP": 0.21045458316802979,
+      "MUSIQ": 67.28291654586792
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_17_02",
+    "video_path": "./Video/Lavie/L2_17_02.mp4",
+    "score": {
+      "BRISQUE": 17.876800537109375,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.25,
+        2.938,
+        2.5,
+        2.141
+      ],
+      "VIIDEO": 0.6667152047157288,
+      "Qalign": 4.1953125,
+      "ViCLIP": 0.1728573739528656,
+      "MUSIQ": 76.65867614746094
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_17_03",
+    "video_path": "./Video/Lavie/L2_17_03.mp4",
+    "score": {
+      "BRISQUE": 14.550140380859375,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.859,
+        2.781,
+        2.531,
+        2.594
+      ],
+      "VIIDEO": 0.5179490447044373,
+      "Qalign": 4.125,
+      "ViCLIP": 0.1767721325159073,
+      "MUSIQ": 72.33429670333862
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_17_04",
+    "video_path": "./Video/Lavie/L2_17_04.mp4",
+    "score": {
+      "BRISQUE": 19.287811279296875,
+      "RAFT": false,
+      "VideoScore": [
+        2.438,
+        2.344,
+        2.953,
+        2.562,
+        2.141
+      ],
+      "VIIDEO": 0.602769672870636,
+      "Qalign": 4.0390625,
+      "ViCLIP": 0.22045034170150757,
+      "MUSIQ": 74.68362140655518
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_18_01",
+    "video_path": "./Video/Lavie/L2_18_01.mp4",
+    "score": {
+      "BRISQUE": 15.73846435546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.203,
+        2.797,
+        2.219,
+        1.719
+      ],
+      "VIIDEO": 0.5023404955863953,
+      "Qalign": 4.66796875,
+      "ViCLIP": 0.2016844004392624,
+      "MUSIQ": 77.03285837173462
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_18_02",
+    "video_path": "./Video/Lavie/L2_18_02.mp4",
+    "score": {
+      "BRISQUE": 38.59832763671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.734,
+        2.938,
+        2.953,
+        2.766,
+        2.844
+      ],
+      "VIIDEO": 0.37125465273857117,
+      "Qalign": 4.22265625,
+      "ViCLIP": 0.1481768637895584,
+      "MUSIQ": 77.79855346679688
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_18_03",
+    "video_path": "./Video/Lavie/L2_18_03.mp4",
+    "score": {
+      "BRISQUE": 39.9066162109375,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.422,
+        2.984,
+        2.625,
+        2.406
+      ],
+      "VIIDEO": 0.6378908753395081,
+      "Qalign": 2.4375,
+      "ViCLIP": 0.2163960337638855,
+      "MUSIQ": 22.37044334411621
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_18_04",
+    "video_path": "./Video/Lavie/L2_18_04.mp4",
+    "score": {
+      "BRISQUE": 27.546844482421875,
+      "RAFT": false,
+      "VideoScore": [
+        2.297,
+        2.188,
+        3.016,
+        2.594,
+        1.953
+      ],
+      "VIIDEO": 0.4932543635368347,
+      "Qalign": 3.8671875,
+      "ViCLIP": 0.25383561849594116,
+      "MUSIQ": 76.92165470123291
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_19_01",
+    "video_path": "./Video/Lavie/L2_19_01.mp4",
+    "score": {
+      "BRISQUE": 31.4407958984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.266,
+        2.062,
+        3.047,
+        2.625,
+        2.062
+      ],
+      "VIIDEO": 0.7090073227882385,
+      "Qalign": 3.02734375,
+      "ViCLIP": 0.1960689127445221,
+      "MUSIQ": 44.84469532966614
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_19_02",
+    "video_path": "./Video/Lavie/L2_19_02.mp4",
+    "score": {
+      "BRISQUE": 13.66058349609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.703,
+        2.859,
+        2.906,
+        2.75,
+        2.703
+      ],
+      "VIIDEO": 0.43543148040771484,
+      "Qalign": 4.4921875,
+      "ViCLIP": 0.14737652242183685,
+      "MUSIQ": 72.99256324768066
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_19_03",
+    "video_path": "./Video/Lavie/L2_19_03.mp4",
+    "score": {
+      "BRISQUE": 42.16070556640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.125,
+        2.906,
+        2.656,
+        1.844
+      ],
+      "VIIDEO": 0.4697704315185547,
+      "Qalign": 4.19140625,
+      "ViCLIP": 0.20033499598503113,
+      "MUSIQ": 79.41636800765991
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_19_04",
+    "video_path": "./Video/Lavie/L2_19_04.mp4",
+    "score": {
+      "BRISQUE": 36.4755859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.141,
+        2.047,
+        3.047,
+        2.516,
+        2.156
+      ],
+      "VIIDEO": 0.5126202702522278,
+      "Qalign": 2.892578125,
+      "ViCLIP": 0.21565863490104675,
+      "MUSIQ": 44.763997316360474
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_20_01",
+    "video_path": "./Video/Lavie/L2_20_01.mp4",
+    "score": {
+      "BRISQUE": 37.95556640625,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.688,
+        2.625,
+        2.625,
+        2.469
+      ],
+      "VIIDEO": 0.7101131677627563,
+      "Qalign": 3.921875,
+      "ViCLIP": 0.20266801118850708,
+      "MUSIQ": 78.00524044036865
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_20_02",
+    "video_path": "./Video/Lavie/L2_20_02.mp4",
+    "score": {
+      "BRISQUE": 40.856414794921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.766,
+        2.953,
+        2.375,
+        2.609
+      ],
+      "VIIDEO": 0.370157390832901,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.20487232506275177,
+      "MUSIQ": 75.650559425354
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_20_03",
+    "video_path": "./Video/Lavie/L2_20_03.mp4",
+    "score": {
+      "BRISQUE": 43.63372802734375,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.531,
+        2.953,
+        2.844,
+        2.391
+      ],
+      "VIIDEO": 0.598034679889679,
+      "Qalign": 3.361328125,
+      "ViCLIP": 0.2383631467819214,
+      "MUSIQ": 47.723631858825684
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_20_04",
+    "video_path": "./Video/Lavie/L2_20_04.mp4",
+    "score": {
+      "BRISQUE": 13.1763916015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.453,
+        2.219,
+        2.938,
+        2.562,
+        2.078
+      ],
+      "VIIDEO": 0.7604593634605408,
+      "Qalign": 4.1796875,
+      "ViCLIP": 0.1860353797674179,
+      "MUSIQ": 76.41850805282593
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_21_01",
+    "video_path": "./Video/Lavie/L2_21_01.mp4",
+    "score": {
+      "BRISQUE": 31.80902099609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.0,
+        2.938,
+        2.469,
+        1.891
+      ],
+      "VIIDEO": 0.6541721224784851,
+      "Qalign": 3.89453125,
+      "ViCLIP": 0.22278986871242523,
+      "MUSIQ": 69.45655179023743
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_21_02",
+    "video_path": "./Video/Lavie/L2_21_02.mp4",
+    "score": {
+      "BRISQUE": 97.26094055175781,
+      "RAFT": false,
+      "VideoScore": [
+        2.516,
+        2.5,
+        2.672,
+        2.031,
+        2.516
+      ],
+      "VIIDEO": 0.8664990663528442,
+      "Qalign": 2.642578125,
+      "ViCLIP": 0.15806683897972107,
+      "MUSIQ": 25.86064177751541
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_21_03",
+    "video_path": "./Video/Lavie/L2_21_03.mp4",
+    "score": {
+      "BRISQUE": 21.87908935546875,
+      "RAFT": false,
+      "VideoScore": [
+        2.391,
+        2.328,
+        2.734,
+        2.609,
+        1.883
+      ],
+      "VIIDEO": 0.6464444398880005,
+      "Qalign": 4.19921875,
+      "ViCLIP": 0.24979355931282043,
+      "MUSIQ": 75.34817218780518
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_21_04",
+    "video_path": "./Video/Lavie/L2_21_04.mp4",
+    "score": {
+      "BRISQUE": 40.8297119140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.797,
+        2.75,
+        2.516,
+        2.734
+      ],
+      "VIIDEO": 0.503839373588562,
+      "Qalign": 3.810546875,
+      "ViCLIP": 0.19963720440864563,
+      "MUSIQ": 54.65081834793091
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_22_01",
+    "video_path": "./Video/Lavie/L2_22_01.mp4",
+    "score": {
+      "BRISQUE": 14.255218505859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.062,
+        3.047,
+        2.609,
+        2.0
+      ],
+      "VIIDEO": 0.5950509309768677,
+      "Qalign": 3.828125,
+      "ViCLIP": 0.18950150907039642,
+      "MUSIQ": 65.33495116233826
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_22_02",
+    "video_path": "./Video/Lavie/L2_22_02.mp4",
+    "score": {
+      "BRISQUE": 15.21466064453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.375,
+        2.891,
+        2.344,
+        2.25
+      ],
+      "VIIDEO": 0.5801997780799866,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.2381247878074646,
+      "MUSIQ": 65.84353709220886
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_22_03",
+    "video_path": "./Video/Lavie/L2_22_03.mp4",
+    "score": {
+      "BRISQUE": 30.025421142578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.078,
+        3.016,
+        2.703,
+        2.062
+      ],
+      "VIIDEO": 0.6301450133323669,
+      "Qalign": 3.98046875,
+      "ViCLIP": 0.18149042129516602,
+      "MUSIQ": 72.8158049583435
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_22_04",
+    "video_path": "./Video/Lavie/L2_22_04.mp4",
+    "score": {
+      "BRISQUE": 58.843414306640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.484,
+        2.969,
+        2.812,
+        2.422
+      ],
+      "VIIDEO": 0.47627007961273193,
+      "Qalign": 2.484375,
+      "ViCLIP": 0.24602267146110535,
+      "MUSIQ": 23.735648036003113
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_23_01",
+    "video_path": "./Video/Lavie/L2_23_01.mp4",
+    "score": {
+      "BRISQUE": 6.9512939453125,
+      "RAFT": false,
+      "VideoScore": [
+        2.656,
+        2.797,
+        2.891,
+        2.703,
+        2.656
+      ],
+      "VIIDEO": 0.394386351108551,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.1898116022348404,
+      "MUSIQ": 71.17028617858887
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_23_02",
+    "video_path": "./Video/Lavie/L2_23_02.mp4",
+    "score": {
+      "BRISQUE": 45.57379150390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.25,
+        2.266,
+        3.0,
+        2.547,
+        2.234
+      ],
+      "VIIDEO": 0.5769285559654236,
+      "Qalign": 2.658203125,
+      "ViCLIP": 0.1947953850030899,
+      "MUSIQ": 32.195377349853516
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_23_03",
+    "video_path": "./Video/Lavie/L2_23_03.mp4",
+    "score": {
+      "BRISQUE": 8.877593994140625,
+      "RAFT": true,
+      "VideoScore": [
+        2.625,
+        2.484,
+        2.625,
+        2.422,
+        2.375
+      ],
+      "VIIDEO": 0.5545618534088135,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.15076150000095367,
+      "MUSIQ": 76.91539907455444
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_23_04",
+    "video_path": "./Video/Lavie/L2_23_04.mp4",
+    "score": {
+      "BRISQUE": 30.768310546875,
+      "RAFT": true,
+      "VideoScore": [
+        2.172,
+        2.141,
+        2.953,
+        2.484,
+        2.141
+      ],
+      "VIIDEO": 0.5877631902694702,
+      "Qalign": 3.484375,
+      "ViCLIP": 0.2438720464706421,
+      "MUSIQ": 58.274906635284424
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_24_01",
+    "video_path": "./Video/Lavie/L2_24_01.mp4",
+    "score": {
+      "BRISQUE": 26.51361083984375,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.641,
+        2.641,
+        2.344,
+        2.516
+      ],
+      "VIIDEO": 0.7691081166267395,
+      "Qalign": 4.1796875,
+      "ViCLIP": 0.24461552500724792,
+      "MUSIQ": 78.8881402015686
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_24_02",
+    "video_path": "./Video/Lavie/L2_24_02.mp4",
+    "score": {
+      "BRISQUE": 14.208984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.562,
+        2.531,
+        2.875,
+        2.562,
+        2.328
+      ],
+      "VIIDEO": 0.3684763014316559,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.2801143527030945,
+      "MUSIQ": 73.11635065078735
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_24_03",
+    "video_path": "./Video/Lavie/L2_24_03.mp4",
+    "score": {
+      "BRISQUE": 18.845703125,
+      "RAFT": false,
+      "VideoScore": [
+        2.594,
+        2.5,
+        2.984,
+        2.547,
+        2.297
+      ],
+      "VIIDEO": 0.44023677706718445,
+      "Qalign": 3.701171875,
+      "ViCLIP": 0.21478188037872314,
+      "MUSIQ": 69.46004676818848
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_24_04",
+    "video_path": "./Video/Lavie/L2_24_04.mp4",
+    "score": {
+      "BRISQUE": 23.057952880859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.328,
+        2.016,
+        2.891,
+        2.328,
+        1.961
+      ],
+      "VIIDEO": 0.6278017163276672,
+      "Qalign": 3.390625,
+      "ViCLIP": 0.22412385046482086,
+      "MUSIQ": 59.48332381248474
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_25_01",
+    "video_path": "./Video/Lavie/L2_25_01.mp4",
+    "score": {
+      "BRISQUE": 31.85693359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.469,
+        3.016,
+        2.734,
+        2.344
+      ],
+      "VIIDEO": 0.6031762957572937,
+      "Qalign": 3.869140625,
+      "ViCLIP": 0.26756957173347473,
+      "MUSIQ": 54.5752329826355
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_25_02",
+    "video_path": "./Video/Lavie/L2_25_02.mp4",
+    "score": {
+      "BRISQUE": 7.63763427734375,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.578,
+        3.0,
+        2.672,
+        2.328
+      ],
+      "VIIDEO": 0.7226294279098511,
+      "Qalign": 4.109375,
+      "ViCLIP": 0.1875198781490326,
+      "MUSIQ": 70.46196413040161
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_25_03",
+    "video_path": "./Video/Lavie/L2_25_03.mp4",
+    "score": {
+      "BRISQUE": 17.994964599609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.453,
+        2.578,
+        2.844,
+        2.766,
+        2.406
+      ],
+      "VIIDEO": 0.7366338968276978,
+      "Qalign": 3.263671875,
+      "ViCLIP": 0.22649520635604858,
+      "MUSIQ": 51.238609075546265
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L2_25_04",
+    "video_path": "./Video/Lavie/L2_25_04.mp4",
+    "score": {
+      "BRISQUE": 41.85150146484375,
+      "RAFT": true,
+      "VideoScore": [
+        2.531,
+        2.516,
+        2.953,
+        2.703,
+        2.484
+      ],
+      "VIIDEO": 0.4477587640285492,
+      "Qalign": 2.83984375,
+      "ViCLIP": 0.203687846660614,
+      "MUSIQ": 47.83565711975098
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_01_01",
+    "video_path": "./Video/Lavie/L3_01_01.mp4",
+    "score": {
+      "BRISQUE": 21.38238525390625,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.594,
+        2.875,
+        2.703,
+        2.406
+      ],
+      "VIIDEO": 0.5655549168586731,
+      "Qalign": 3.763671875,
+      "ViCLIP": 0.22772133350372314,
+      "MUSIQ": 74.71035480499268
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_01_02",
+    "video_path": "./Video/Lavie/L3_01_02.mp4",
+    "score": {
+      "BRISQUE": 40.651214599609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.484,
+        2.875,
+        2.766,
+        2.406,
+        2.75
+      ],
+      "VIIDEO": 0.41670146584510803,
+      "Qalign": 3.681640625,
+      "ViCLIP": 0.21774619817733765,
+      "MUSIQ": 49.496910572052
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_01_03",
+    "video_path": "./Video/Lavie/L3_01_03.mp4",
+    "score": {
+      "BRISQUE": 26.256561279296875,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.281,
+        2.938,
+        2.688,
+        2.188
+      ],
+      "VIIDEO": 0.6198130249977112,
+      "Qalign": 4.20703125,
+      "ViCLIP": 0.14791829884052277,
+      "MUSIQ": 76.1054916381836
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_01_04",
+    "video_path": "./Video/Lavie/L3_01_04.mp4",
+    "score": {
+      "BRISQUE": 17.819244384765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.125,
+        2.969,
+        2.641,
+        2.031
+      ],
+      "VIIDEO": 0.671844482421875,
+      "Qalign": 4.17578125,
+      "ViCLIP": 0.18113096058368683,
+      "MUSIQ": 53.03815007209778
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_02_01",
+    "video_path": "./Video/Lavie/L3_02_01.mp4",
+    "score": {
+      "BRISQUE": 20.60626220703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.109,
+        2.984,
+        2.516,
+        2.047
+      ],
+      "VIIDEO": 0.5948135852813721,
+      "Qalign": 3.8359375,
+      "ViCLIP": 0.20853707194328308,
+      "MUSIQ": 54.71991014480591
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_02_02",
+    "video_path": "./Video/Lavie/L3_02_02.mp4",
+    "score": {
+      "BRISQUE": 12.05712890625,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.688,
+        2.828,
+        2.25,
+        2.484
+      ],
+      "VIIDEO": 0.5985777974128723,
+      "Qalign": 3.615234375,
+      "ViCLIP": 0.1522168219089508,
+      "MUSIQ": 70.86980962753296
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_02_03",
+    "video_path": "./Video/Lavie/L3_02_03.mp4",
+    "score": {
+      "BRISQUE": 38.558837890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.188,
+        2.25,
+        3.078,
+        2.688,
+        2.297
+      ],
+      "VIIDEO": 0.48167285323143005,
+      "Qalign": 2.021484375,
+      "ViCLIP": 0.25596991181373596,
+      "MUSIQ": 18.70700216293335
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_02_04",
+    "video_path": "./Video/Lavie/L3_02_04.mp4",
+    "score": {
+      "BRISQUE": 27.327545166015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.609,
+        2.484,
+        2.953,
+        2.531,
+        2.406
+      ],
+      "VIIDEO": 0.4492771029472351,
+      "Qalign": 3.568359375,
+      "ViCLIP": 0.2173856645822525,
+      "MUSIQ": 74.47597885131836
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_03_01",
+    "video_path": "./Video/Lavie/L3_03_01.mp4",
+    "score": {
+      "BRISQUE": 72.5147705078125,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.453,
+        2.891,
+        2.594,
+        2.5
+      ],
+      "VIIDEO": 0.5713617205619812,
+      "Qalign": 2.482421875,
+      "ViCLIP": 0.17933231592178345,
+      "MUSIQ": 27.393344521522522
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_03_02",
+    "video_path": "./Video/Lavie/L3_03_02.mp4",
+    "score": {
+      "BRISQUE": 67.88502502441406,
+      "RAFT": true,
+      "VideoScore": [
+        2.156,
+        2.016,
+        2.922,
+        2.047,
+        2.109
+      ],
+      "VIIDEO": 0.7373102307319641,
+      "Qalign": 2.908203125,
+      "ViCLIP": 0.2690674364566803,
+      "MUSIQ": 36.71852767467499
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_03_03",
+    "video_path": "./Video/Lavie/L3_03_03.mp4",
+    "score": {
+      "BRISQUE": 7.862213134765625,
+      "RAFT": false,
+      "VideoScore": [
+        2.375,
+        2.141,
+        3.016,
+        2.531,
+        1.797
+      ],
+      "VIIDEO": 0.2738005220890045,
+      "Qalign": 4.234375,
+      "ViCLIP": 0.16565269231796265,
+      "MUSIQ": 74.57119798660278
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_03_04",
+    "video_path": "./Video/Lavie/L3_03_04.mp4",
+    "score": {
+      "BRISQUE": 50.40966796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.172,
+        1.984,
+        2.906,
+        2.422,
+        2.078
+      ],
+      "VIIDEO": 0.8284857869148254,
+      "Qalign": 3.3984375,
+      "ViCLIP": 0.1432584673166275,
+      "MUSIQ": 69.57385158538818
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_04_01",
+    "video_path": "./Video/Lavie/L3_04_01.mp4",
+    "score": {
+      "BRISQUE": 20.655120849609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.375,
+        2.906,
+        2.625,
+        2.266
+      ],
+      "VIIDEO": 0.5609146952629089,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.20978331565856934,
+      "MUSIQ": 75.54860925674438
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_04_02",
+    "video_path": "./Video/Lavie/L3_04_02.mp4",
+    "score": {
+      "BRISQUE": 9.99468994140625,
+      "RAFT": true,
+      "VideoScore": [
+        2.172,
+        1.719,
+        3.047,
+        2.609,
+        1.68
+      ],
+      "VIIDEO": 0.6453004479408264,
+      "Qalign": 4.09375,
+      "ViCLIP": 0.2389172911643982,
+      "MUSIQ": 71.81683540344238
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_04_03",
+    "video_path": "./Video/Lavie/L3_04_03.mp4",
+    "score": {
+      "BRISQUE": 3.333984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.672,
+        2.844,
+        2.828,
+        2.469,
+        2.781
+      ],
+      "VIIDEO": 0.3207065463066101,
+      "Qalign": 3.9296875,
+      "ViCLIP": 0.21498069167137146,
+      "MUSIQ": 66.54385375976562
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_04_04",
+    "video_path": "./Video/Lavie/L3_04_04.mp4",
+    "score": {
+      "BRISQUE": 30.967498779296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        1.906,
+        3.031,
+        2.5,
+        1.906
+      ],
+      "VIIDEO": 0.6581517457962036,
+      "Qalign": 3.810546875,
+      "ViCLIP": 0.19503477215766907,
+      "MUSIQ": 64.55801963806152
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_05_01",
+    "video_path": "./Video/Lavie/L3_05_01.mp4",
+    "score": {
+      "BRISQUE": 7.602386474609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.672,
+        2.891,
+        2.547,
+        2.531
+      ],
+      "VIIDEO": 0.46347159147262573,
+      "Qalign": 4.0703125,
+      "ViCLIP": 0.15787102282047272,
+      "MUSIQ": 75.76665830612183
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_05_02",
+    "video_path": "./Video/Lavie/L3_05_02.mp4",
+    "score": {
+      "BRISQUE": 44.37274169921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.594,
+        2.766,
+        2.828,
+        2.516,
+        2.641
+      ],
+      "VIIDEO": 0.45645803213119507,
+      "Qalign": 4.08203125,
+      "ViCLIP": 0.13578875362873077,
+      "MUSIQ": 62.414191007614136
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_05_03",
+    "video_path": "./Video/Lavie/L3_05_03.mp4",
+    "score": {
+      "BRISQUE": -1.941802978515625,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.609,
+        2.922,
+        2.797,
+        2.422
+      ],
+      "VIIDEO": 0.7607715725898743,
+      "Qalign": 4.1484375,
+      "ViCLIP": 0.19050022959709167,
+      "MUSIQ": 77.98953580856323
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_05_04",
+    "video_path": "./Video/Lavie/L3_05_04.mp4",
+    "score": {
+      "BRISQUE": 41.66748046875,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.531,
+        2.656,
+        2.516,
+        2.328
+      ],
+      "VIIDEO": 0.5983924269676208,
+      "Qalign": 3.966796875,
+      "ViCLIP": 0.18391819298267365,
+      "MUSIQ": 77.25641822814941
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_06_01",
+    "video_path": "./Video/Lavie/L3_06_01.mp4",
+    "score": {
+      "BRISQUE": 35.912261962890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.281,
+        2.984,
+        2.609,
+        2.297
+      ],
+      "VIIDEO": 0.6502100825309753,
+      "Qalign": 3.5546875,
+      "ViCLIP": 0.18083667755126953,
+      "MUSIQ": 33.961626172065735
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_06_02",
+    "video_path": "./Video/Lavie/L3_06_02.mp4",
+    "score": {
+      "BRISQUE": 30.060699462890625,
+      "RAFT": false,
+      "VideoScore": [
+        2.484,
+        2.25,
+        3.0,
+        2.422,
+        2.141
+      ],
+      "VIIDEO": 0.34730958938598633,
+      "Qalign": 4.1484375,
+      "ViCLIP": 0.19875523447990417,
+      "MUSIQ": 78.1607666015625
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_06_03",
+    "video_path": "./Video/Lavie/L3_06_03.mp4",
+    "score": {
+      "BRISQUE": 31.620941162109375,
+      "RAFT": false,
+      "VideoScore": [
+        2.391,
+        2.297,
+        2.781,
+        2.594,
+        1.891
+      ],
+      "VIIDEO": 0.5940060019493103,
+      "Qalign": 4.15234375,
+      "ViCLIP": 0.21607741713523865,
+      "MUSIQ": 71.86518812179565
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_06_04",
+    "video_path": "./Video/Lavie/L3_06_04.mp4",
+    "score": {
+      "BRISQUE": 27.685272216796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.172,
+        1.836,
+        2.969,
+        2.5,
+        1.75
+      ],
+      "VIIDEO": 0.5242209434509277,
+      "Qalign": 3.681640625,
+      "ViCLIP": 0.21809592843055725,
+      "MUSIQ": 64.90231013298035
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_07_01",
+    "video_path": "./Video/Lavie/L3_07_01.mp4",
+    "score": {
+      "BRISQUE": 13.871612548828125,
+      "RAFT": false,
+      "VideoScore": [
+        2.375,
+        2.172,
+        3.062,
+        2.562,
+        2.062
+      ],
+      "VIIDEO": 0.33047449588775635,
+      "Qalign": 4.37109375,
+      "ViCLIP": 0.16991890966892242,
+      "MUSIQ": 76.13438701629639
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_07_02",
+    "video_path": "./Video/Lavie/L3_07_02.mp4",
+    "score": {
+      "BRISQUE": 26.03631591796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.234,
+        3.062,
+        2.734,
+        2.141
+      ],
+      "VIIDEO": 0.6637663841247559,
+      "Qalign": 3.73046875,
+      "ViCLIP": 0.19653134047985077,
+      "MUSIQ": 55.93412899971008
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_07_03",
+    "video_path": "./Video/Lavie/L3_07_03.mp4",
+    "score": {
+      "BRISQUE": 22.8173828125,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.25,
+        2.859,
+        2.578,
+        1.961
+      ],
+      "VIIDEO": 0.6163023114204407,
+      "Qalign": 4.4140625,
+      "ViCLIP": 0.20348456501960754,
+      "MUSIQ": 73.41893768310547
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_07_04",
+    "video_path": "./Video/Lavie/L3_07_04.mp4",
+    "score": {
+      "BRISQUE": 43.424957275390625,
+      "RAFT": false,
+      "VideoScore": [
+        2.453,
+        2.609,
+        2.781,
+        2.578,
+        2.531
+      ],
+      "VIIDEO": 0.6295313239097595,
+      "Qalign": 2.94921875,
+      "ViCLIP": 0.17890241742134094,
+      "MUSIQ": 54.99631309509277
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_08_01",
+    "video_path": "./Video/Lavie/L3_08_01.mp4",
+    "score": {
+      "BRISQUE": 3.523345947265625,
+      "RAFT": false,
+      "VideoScore": [
+        2.359,
+        2.172,
+        2.938,
+        2.656,
+        1.922
+      ],
+      "VIIDEO": 0.6586548089981079,
+      "Qalign": 4.1640625,
+      "ViCLIP": 0.23046086728572845,
+      "MUSIQ": 74.756582736969
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_08_02",
+    "video_path": "./Video/Lavie/L3_08_02.mp4",
+    "score": {
+      "BRISQUE": 12.60089111328125,
+      "RAFT": false,
+      "VideoScore": [
+        2.453,
+        2.219,
+        2.875,
+        2.547,
+        1.977
+      ],
+      "VIIDEO": 0.5536462068557739,
+      "Qalign": 4.28515625,
+      "ViCLIP": 0.2214421182870865,
+      "MUSIQ": 77.29974889755249
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_08_03",
+    "video_path": "./Video/Lavie/L3_08_03.mp4",
+    "score": {
+      "BRISQUE": 44.01873779296875,
+      "RAFT": false,
+      "VideoScore": [
+        2.516,
+        2.547,
+        2.859,
+        2.5,
+        2.438
+      ],
+      "VIIDEO": 0.47539135813713074,
+      "Qalign": 3.74609375,
+      "ViCLIP": 0.2403208315372467,
+      "MUSIQ": 54.957892179489136
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_08_04",
+    "video_path": "./Video/Lavie/L3_08_04.mp4",
+    "score": {
+      "BRISQUE": 28.4173583984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.359,
+        2.359,
+        2.875,
+        2.406,
+        2.125
+      ],
+      "VIIDEO": 0.49467289447784424,
+      "Qalign": 4.11328125,
+      "ViCLIP": 0.211837500333786,
+      "MUSIQ": 73.37368249893188
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_09_01",
+    "video_path": "./Video/Lavie/L3_09_01.mp4",
+    "score": {
+      "BRISQUE": 28.007843017578125,
+      "RAFT": false,
+      "VideoScore": [
+        2.578,
+        2.688,
+        2.594,
+        2.484,
+        2.547
+      ],
+      "VIIDEO": 0.5315603017807007,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.22578203678131104,
+      "MUSIQ": 62.76197862625122
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_09_02",
+    "video_path": "./Video/Lavie/L3_09_02.mp4",
+    "score": {
+      "BRISQUE": 28.535308837890625,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.531,
+        2.703,
+        1.547,
+        2.469
+      ],
+      "VIIDEO": 0.33578595519065857,
+      "Qalign": 4.3515625,
+      "ViCLIP": 0.15728211402893066,
+      "MUSIQ": 79.90491247177124
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_09_03",
+    "video_path": "./Video/Lavie/L3_09_03.mp4",
+    "score": {
+      "BRISQUE": 4.254547119140625,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.766,
+        2.812,
+        2.688,
+        2.641
+      ],
+      "VIIDEO": 0.2789987325668335,
+      "Qalign": 4.16796875,
+      "ViCLIP": 0.2015770971775055,
+      "MUSIQ": 67.85512113571167
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_09_04",
+    "video_path": "./Video/Lavie/L3_09_04.mp4",
+    "score": {
+      "BRISQUE": 9.58148193359375,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.281,
+        2.969,
+        2.5,
+        2.234
+      ],
+      "VIIDEO": 0.6388940215110779,
+      "Qalign": 4.39453125,
+      "ViCLIP": 0.17851680517196655,
+      "MUSIQ": 77.47816705703735
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_10_01",
+    "video_path": "./Video/Lavie/L3_10_01.mp4",
+    "score": {
+      "BRISQUE": 15.28924560546875,
+      "RAFT": false,
+      "VideoScore": [
+        2.281,
+        2.125,
+        2.922,
+        2.547,
+        2.203
+      ],
+      "VIIDEO": 0.811976969242096,
+      "Qalign": 3.85546875,
+      "ViCLIP": 0.25422903895378113,
+      "MUSIQ": 62.57990050315857
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_10_02",
+    "video_path": "./Video/Lavie/L3_10_02.mp4",
+    "score": {
+      "BRISQUE": 54.60260009765625,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.281,
+        3.031,
+        2.688,
+        2.203
+      ],
+      "VIIDEO": 0.5453265309333801,
+      "Qalign": 3.0859375,
+      "ViCLIP": 0.26441413164138794,
+      "MUSIQ": 38.239498019218445
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_10_03",
+    "video_path": "./Video/Lavie/L3_10_03.mp4",
+    "score": {
+      "BRISQUE": 22.865753173828125,
+      "RAFT": false,
+      "VideoScore": [
+        2.344,
+        1.961,
+        2.938,
+        2.656,
+        1.609
+      ],
+      "VIIDEO": 0.5737911462783813,
+      "Qalign": 4.171875,
+      "ViCLIP": 0.24005822837352753,
+      "MUSIQ": 78.47271299362183
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_10_04",
+    "video_path": "./Video/Lavie/L3_10_04.mp4",
+    "score": {
+      "BRISQUE": 31.34747314453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.562,
+        3.0,
+        2.5,
+        2.422
+      ],
+      "VIIDEO": 0.32554346323013306,
+      "Qalign": 4.55859375,
+      "ViCLIP": 0.18730826675891876,
+      "MUSIQ": 68.59953308105469
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_11_01",
+    "video_path": "./Video/Lavie/L3_11_01.mp4",
+    "score": {
+      "BRISQUE": 55.228973388671875,
+      "RAFT": true,
+      "VideoScore": [
+        2.109,
+        1.938,
+        2.953,
+        2.266,
+        1.938
+      ],
+      "VIIDEO": 0.5162434577941895,
+      "Qalign": 2.224609375,
+      "ViCLIP": 0.13779816031455994,
+      "MUSIQ": 32.51483070850372
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_11_02",
+    "video_path": "./Video/Lavie/L3_11_02.mp4",
+    "score": {
+      "BRISQUE": 56.543212890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.453,
+        2.969,
+        2.625,
+        2.312
+      ],
+      "VIIDEO": 0.5713932514190674,
+      "Qalign": 3.37109375,
+      "ViCLIP": 0.2495553195476532,
+      "MUSIQ": 30.918554663658142
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_11_03",
+    "video_path": "./Video/Lavie/L3_11_03.mp4",
+    "score": {
+      "BRISQUE": 48.619903564453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.453,
+        2.453,
+        3.0,
+        2.453,
+        2.234
+      ],
+      "VIIDEO": 0.20485013723373413,
+      "Qalign": 3.869140625,
+      "ViCLIP": 0.18724972009658813,
+      "MUSIQ": 66.88376593589783
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_11_04",
+    "video_path": "./Video/Lavie/L3_11_04.mp4",
+    "score": {
+      "BRISQUE": 52.746795654296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.266,
+        3.031,
+        2.688,
+        2.203
+      ],
+      "VIIDEO": 0.6079280376434326,
+      "Qalign": 3.763671875,
+      "ViCLIP": 0.2216600477695465,
+      "MUSIQ": 51.2372510433197
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_12_01",
+    "video_path": "./Video/Lavie/L3_12_01.mp4",
+    "score": {
+      "BRISQUE": 29.079788208007812,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.281,
+        2.766,
+        2.391,
+        2.125
+      ],
+      "VIIDEO": 0.6738753914833069,
+      "Qalign": 3.49609375,
+      "ViCLIP": 0.16790467500686646,
+      "MUSIQ": 62.66253125667572
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_12_02",
+    "video_path": "./Video/Lavie/L3_12_02.mp4",
+    "score": {
+      "BRISQUE": 38.135345458984375,
+      "RAFT": true,
+      "VideoScore": [
+        2.25,
+        2.234,
+        3.0,
+        2.656,
+        2.156
+      ],
+      "VIIDEO": 0.7254960536956787,
+      "Qalign": 3.505859375,
+      "ViCLIP": 0.23944403231143951,
+      "MUSIQ": 45.253156661987305
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_12_03",
+    "video_path": "./Video/Lavie/L3_12_03.mp4",
+    "score": {
+      "BRISQUE": 11.5274658203125,
+      "RAFT": false,
+      "VideoScore": [
+        2.438,
+        2.125,
+        2.875,
+        2.625,
+        1.852
+      ],
+      "VIIDEO": 0.46335017681121826,
+      "Qalign": 4.0703125,
+      "ViCLIP": 0.22234028577804565,
+      "MUSIQ": 72.46923112869263
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_12_04",
+    "video_path": "./Video/Lavie/L3_12_04.mp4",
+    "score": {
+      "BRISQUE": 11.05224609375,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.703,
+        2.875,
+        2.453,
+        2.547
+      ],
+      "VIIDEO": 0.5084890127182007,
+      "Qalign": 4.62109375,
+      "ViCLIP": 0.1888246089220047,
+      "MUSIQ": 71.38104248046875
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_13_01",
+    "video_path": "./Video/Lavie/L3_13_01.mp4",
+    "score": {
+      "BRISQUE": 14.160491943359375,
+      "RAFT": false,
+      "VideoScore": [
+        2.438,
+        2.484,
+        2.766,
+        2.609,
+        2.422
+      ],
+      "VIIDEO": 0.6296831965446472,
+      "Qalign": 4.1015625,
+      "ViCLIP": 0.22891902923583984,
+      "MUSIQ": 69.3758430480957
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_13_02",
+    "video_path": "./Video/Lavie/L3_13_02.mp4",
+    "score": {
+      "BRISQUE": 38.99420166015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.547,
+        2.672,
+        2.891,
+        2.375,
+        2.578
+      ],
+      "VIIDEO": 0.22980371117591858,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.22929278016090393,
+      "MUSIQ": 75.77993202209473
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_13_03",
+    "video_path": "./Video/Lavie/L3_13_03.mp4",
+    "score": {
+      "BRISQUE": 66.35305786132812,
+      "RAFT": true,
+      "VideoScore": [
+        2.297,
+        2.297,
+        2.969,
+        2.609,
+        2.359
+      ],
+      "VIIDEO": 0.4391380548477173,
+      "Qalign": 2.677734375,
+      "ViCLIP": 0.1752566397190094,
+      "MUSIQ": 27.91292405128479
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_13_04",
+    "video_path": "./Video/Lavie/L3_13_04.mp4",
+    "score": {
+      "BRISQUE": 21.737091064453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.047,
+        2.906,
+        2.312,
+        1.953
+      ],
+      "VIIDEO": 0.7236425280570984,
+      "Qalign": 4.046875,
+      "ViCLIP": 0.2371884435415268,
+      "MUSIQ": 75.46974039077759
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_14_01",
+    "video_path": "./Video/Lavie/L3_14_01.mp4",
+    "score": {
+      "BRISQUE": 18.976837158203125,
+      "RAFT": true,
+      "VideoScore": [
+        2.234,
+        2.078,
+        3.078,
+        2.656,
+        2.062
+      ],
+      "VIIDEO": 0.7776498198509216,
+      "Qalign": 3.814453125,
+      "ViCLIP": 0.15435843169689178,
+      "MUSIQ": 58.58452320098877
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_14_02",
+    "video_path": "./Video/Lavie/L3_14_02.mp4",
+    "score": {
+      "BRISQUE": 6.495819091796875,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.734,
+        2.797,
+        2.609,
+        2.625
+      ],
+      "VIIDEO": 0.5376758575439453,
+      "Qalign": 4.0078125,
+      "ViCLIP": 0.19355924427509308,
+      "MUSIQ": 53.416993379592896
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_14_03",
+    "video_path": "./Video/Lavie/L3_14_03.mp4",
+    "score": {
+      "BRISQUE": 34.06024169921875,
+      "RAFT": false,
+      "VideoScore": [
+        2.375,
+        2.062,
+        3.0,
+        2.734,
+        1.875
+      ],
+      "VIIDEO": 0.4202440083026886,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.21562659740447998,
+      "MUSIQ": 78.64257383346558
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_14_04",
+    "video_path": "./Video/Lavie/L3_14_04.mp4",
+    "score": {
+      "BRISQUE": 36.845855712890625,
+      "RAFT": true,
+      "VideoScore": [
+        2.25,
+        2.219,
+        3.016,
+        2.688,
+        2.25
+      ],
+      "VIIDEO": 0.6513402462005615,
+      "Qalign": 3.75,
+      "ViCLIP": 0.2479393035173416,
+      "MUSIQ": 39.17351484298706
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_15_01",
+    "video_path": "./Video/Lavie/L3_15_01.mp4",
+    "score": {
+      "BRISQUE": 18.845001220703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.516,
+        2.406,
+        2.938,
+        2.797,
+        2.266
+      ],
+      "VIIDEO": 0.6373422145843506,
+      "Qalign": 3.72265625,
+      "ViCLIP": 0.2419940084218979,
+      "MUSIQ": 68.82952928543091
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_15_02",
+    "video_path": "./Video/Lavie/L3_15_02.mp4",
+    "score": {
+      "BRISQUE": 28.29412841796875,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.391,
+        2.906,
+        2.438,
+        2.172
+      ],
+      "VIIDEO": 0.26900506019592285,
+      "Qalign": 3.357421875,
+      "ViCLIP": 0.19646210968494415,
+      "MUSIQ": 80.29630327224731
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_15_03",
+    "video_path": "./Video/Lavie/L3_15_03.mp4",
+    "score": {
+      "BRISQUE": 11.021392822265625,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.219,
+        2.859,
+        2.547,
+        1.953
+      ],
+      "VIIDEO": 0.7914014458656311,
+      "Qalign": 4.02734375,
+      "ViCLIP": 0.22189444303512573,
+      "MUSIQ": 72.10227131843567
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L3_15_04",
+    "video_path": "./Video/Lavie/L3_15_04.mp4",
+    "score": {
+      "BRISQUE": 49.9222412109375,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.531,
+        2.906,
+        2.703,
+        2.438
+      ],
+      "VIIDEO": 0.5003039240837097,
+      "Qalign": 3.466796875,
+      "ViCLIP": 0.22361072897911072,
+      "MUSIQ": 54.451096534729004
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_01_01",
+    "video_path": "./Video/Lavie/L4_01_01.mp4",
+    "score": {
+      "BRISQUE": 11.1363525390625,
+      "RAFT": false,
+      "VideoScore": [
+        2.469,
+        2.422,
+        2.844,
+        2.516,
+        2.094
+      ],
+      "VIIDEO": 0.6632549166679382,
+      "Qalign": 4.203125,
+      "ViCLIP": 0.16485825181007385,
+      "MUSIQ": 70.2796745300293
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_01_02",
+    "video_path": "./Video/Lavie/L4_01_02.mp4",
+    "score": {
+      "BRISQUE": 7.719024658203125,
+      "RAFT": false,
+      "VideoScore": [
+        2.391,
+        2.344,
+        3.031,
+        2.641,
+        2.266
+      ],
+      "VIIDEO": 0.6539655327796936,
+      "Qalign": 4.05859375,
+      "ViCLIP": 0.23594218492507935,
+      "MUSIQ": 78.75109243392944
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_01_03",
+    "video_path": "./Video/Lavie/L4_01_03.mp4",
+    "score": {
+      "BRISQUE": 10.61572265625,
+      "RAFT": false,
+      "VideoScore": [
+        2.438,
+        2.203,
+        2.938,
+        2.5,
+        1.977
+      ],
+      "VIIDEO": 0.5537261366844177,
+      "Qalign": 3.92578125,
+      "ViCLIP": 0.16716058552265167,
+      "MUSIQ": 78.3040018081665
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_01_04",
+    "video_path": "./Video/Lavie/L4_01_04.mp4",
+    "score": {
+      "BRISQUE": 6.102691650390625,
+      "RAFT": false,
+      "VideoScore": [
+        2.484,
+        2.688,
+        2.688,
+        2.547,
+        2.641
+      ],
+      "VIIDEO": 0.8151453733444214,
+      "Qalign": 3.71484375,
+      "ViCLIP": 0.19958756864070892,
+      "MUSIQ": 61.028888463974
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_02_01",
+    "video_path": "./Video/Lavie/L4_02_01.mp4",
+    "score": {
+      "BRISQUE": 37.324188232421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.281,
+        2.172,
+        3.047,
+        2.641,
+        1.93
+      ],
+      "VIIDEO": 0.4007893204689026,
+      "Qalign": 3.92578125,
+      "ViCLIP": 0.19225484132766724,
+      "MUSIQ": 74.67107105255127
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_02_02",
+    "video_path": "./Video/Lavie/L4_02_02.mp4",
+    "score": {
+      "BRISQUE": 23.287353515625,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.156,
+        2.922,
+        2.297,
+        1.969
+      ],
+      "VIIDEO": 0.5538437366485596,
+      "Qalign": 3.40234375,
+      "ViCLIP": 0.20663365721702576,
+      "MUSIQ": 66.40917134284973
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_02_03",
+    "video_path": "./Video/Lavie/L4_02_03.mp4",
+    "score": {
+      "BRISQUE": -2.235931396484375,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.594,
+        2.75,
+        2.5,
+        2.484
+      ],
+      "VIIDEO": 0.40759870409965515,
+      "Qalign": 4.40234375,
+      "ViCLIP": 0.21028049290180206,
+      "MUSIQ": 75.73941040039062
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_02_04",
+    "video_path": "./Video/Lavie/L4_02_04.mp4",
+    "score": {
+      "BRISQUE": 14.84625244140625,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.016,
+        2.984,
+        2.531,
+        1.758
+      ],
+      "VIIDEO": 0.7231183648109436,
+      "Qalign": 3.904296875,
+      "ViCLIP": 0.2401440441608429,
+      "MUSIQ": 75.733145236969
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_03_01",
+    "video_path": "./Video/Lavie/L4_03_01.mp4",
+    "score": {
+      "BRISQUE": 12.783966064453125,
+      "RAFT": false,
+      "VideoScore": [
+        2.531,
+        2.703,
+        2.969,
+        2.469,
+        2.438
+      ],
+      "VIIDEO": 0.516976535320282,
+      "Qalign": 4.13671875,
+      "ViCLIP": 0.194907084107399,
+      "MUSIQ": 60.75391173362732
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_03_02",
+    "video_path": "./Video/Lavie/L4_03_02.mp4",
+    "score": {
+      "BRISQUE": 3.43341064453125,
+      "RAFT": false,
+      "VideoScore": [
+        2.438,
+        2.484,
+        3.0,
+        2.719,
+        2.219
+      ],
+      "VIIDEO": 0.5307049751281738,
+      "Qalign": 3.849609375,
+      "ViCLIP": 0.2023760974407196,
+      "MUSIQ": 69.69275569915771
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_03_03",
+    "video_path": "./Video/Lavie/L4_03_03.mp4",
+    "score": {
+      "BRISQUE": 26.24456787109375,
+      "RAFT": true,
+      "VideoScore": [
+        2.609,
+        2.797,
+        2.844,
+        2.516,
+        2.594
+      ],
+      "VIIDEO": 0.40689772367477417,
+      "Qalign": 4.52734375,
+      "ViCLIP": 0.1664162576198578,
+      "MUSIQ": 75.13140535354614
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_03_04",
+    "video_path": "./Video/Lavie/L4_03_04.mp4",
+    "score": {
+      "BRISQUE": 25.921661376953125,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.719,
+        3.031,
+        2.328,
+        2.516
+      ],
+      "VIIDEO": 0.3913882076740265,
+      "Qalign": 4.3046875,
+      "ViCLIP": 0.20135633647441864,
+      "MUSIQ": 54.59443402290344
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_04_01",
+    "video_path": "./Video/Lavie/L4_04_01.mp4",
+    "score": {
+      "BRISQUE": 28.648406982421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.203,
+        1.977,
+        3.0,
+        2.516,
+        2.203
+      ],
+      "VIIDEO": 0.6656392812728882,
+      "Qalign": 2.859375,
+      "ViCLIP": 0.18196462094783783,
+      "MUSIQ": 41.93675571680069
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_04_02",
+    "video_path": "./Video/Lavie/L4_04_02.mp4",
+    "score": {
+      "BRISQUE": 43.089508056640625,
+      "RAFT": true,
+      "VideoScore": [
+        2.109,
+        1.758,
+        2.953,
+        2.516,
+        1.672
+      ],
+      "VIIDEO": 0.6608781814575195,
+      "Qalign": 2.4453125,
+      "ViCLIP": 0.21022948622703552,
+      "MUSIQ": 35.732956290245056
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_04_03",
+    "video_path": "./Video/Lavie/L4_04_03.mp4",
+    "score": {
+      "BRISQUE": 9.519775390625,
+      "RAFT": true,
+      "VideoScore": [
+        2.391,
+        2.281,
+        2.875,
+        2.375,
+        2.109
+      ],
+      "VIIDEO": 0.6549314260482788,
+      "Qalign": 3.912109375,
+      "ViCLIP": 0.2519519627094269,
+      "MUSIQ": 77.08925580978394
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_04_04",
+    "video_path": "./Video/Lavie/L4_04_04.mp4",
+    "score": {
+      "BRISQUE": 14.907012939453125,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.344,
+        2.906,
+        2.438,
+        2.203
+      ],
+      "VIIDEO": 0.50086510181427,
+      "Qalign": 4.29296875,
+      "ViCLIP": 0.18242645263671875,
+      "MUSIQ": 78.73009586334229
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_05_01",
+    "video_path": "./Video/Lavie/L4_05_01.mp4",
+    "score": {
+      "BRISQUE": 6.24151611328125,
+      "RAFT": true,
+      "VideoScore": [
+        2.344,
+        2.109,
+        2.953,
+        2.609,
+        1.844
+      ],
+      "VIIDEO": 0.607650637626648,
+      "Qalign": 4.15625,
+      "ViCLIP": 0.2432662695646286,
+      "MUSIQ": 79.65115880966187
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_05_02",
+    "video_path": "./Video/Lavie/L4_05_02.mp4",
+    "score": {
+      "BRISQUE": 37.11181640625,
+      "RAFT": false,
+      "VideoScore": [
+        2.5,
+        2.297,
+        2.859,
+        2.484,
+        1.945
+      ],
+      "VIIDEO": 0.7529067993164062,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.2689691185951233,
+      "MUSIQ": 79.11351728439331
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_05_03",
+    "video_path": "./Video/Lavie/L4_05_03.mp4",
+    "score": {
+      "BRISQUE": -12.984100341796875,
+      "RAFT": false,
+      "VideoScore": [
+        2.406,
+        2.109,
+        2.906,
+        2.516,
+        1.836
+      ],
+      "VIIDEO": 0.5776333212852478,
+      "Qalign": 4.2734375,
+      "ViCLIP": 0.17464971542358398,
+      "MUSIQ": 76.48255205154419
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_05_04",
+    "video_path": "./Video/Lavie/L4_05_04.mp4",
+    "score": {
+      "BRISQUE": 35.661468505859375,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.391,
+        2.984,
+        2.688,
+        2.297
+      ],
+      "VIIDEO": 0.487242192029953,
+      "Qalign": 3.890625,
+      "ViCLIP": 0.2810887098312378,
+      "MUSIQ": 62.6510009765625
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_06_01",
+    "video_path": "./Video/Lavie/L4_06_01.mp4",
+    "score": {
+      "BRISQUE": 40.2657470703125,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.438,
+        3.062,
+        2.781,
+        2.359
+      ],
+      "VIIDEO": 0.6658100485801697,
+      "Qalign": 3.119140625,
+      "ViCLIP": 0.1968984603881836,
+      "MUSIQ": 48.490946769714355
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_06_02",
+    "video_path": "./Video/Lavie/L4_06_02.mp4",
+    "score": {
+      "BRISQUE": 11.103424072265625,
+      "RAFT": false,
+      "VideoScore": [
+        2.375,
+        2.406,
+        2.844,
+        2.375,
+        2.125
+      ],
+      "VIIDEO": 0.6571388840675354,
+      "Qalign": 4.2890625,
+      "ViCLIP": 0.22180043160915375,
+      "MUSIQ": 77.54063844680786
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_06_03",
+    "video_path": "./Video/Lavie/L4_06_03.mp4",
+    "score": {
+      "BRISQUE": 19.3436279296875,
+      "RAFT": true,
+      "VideoScore": [
+        2.438,
+        2.469,
+        2.938,
+        2.672,
+        2.359
+      ],
+      "VIIDEO": 0.6461993455886841,
+      "Qalign": 3.583984375,
+      "ViCLIP": 0.2153802514076233,
+      "MUSIQ": 59.653367042541504
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_06_04",
+    "video_path": "./Video/Lavie/L4_06_04.mp4",
+    "score": {
+      "BRISQUE": 0.553070068359375,
+      "RAFT": false,
+      "VideoScore": [
+        2.625,
+        2.672,
+        2.953,
+        2.562,
+        2.5
+      ],
+      "VIIDEO": 0.6384482383728027,
+      "Qalign": 4.24609375,
+      "ViCLIP": 0.23461073637008667,
+      "MUSIQ": 63.91635489463806
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_07_01",
+    "video_path": "./Video/Lavie/L4_07_01.mp4",
+    "score": {
+      "BRISQUE": 16.381011962890625,
+      "RAFT": false,
+      "VideoScore": [
+        2.562,
+        2.75,
+        2.625,
+        2.828,
+        2.562
+      ],
+      "VIIDEO": 0.5326195955276489,
+      "Qalign": 3.75390625,
+      "ViCLIP": 0.2308785319328308,
+      "MUSIQ": 54.1845588684082
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_07_02",
+    "video_path": "./Video/Lavie/L4_07_02.mp4",
+    "score": {
+      "BRISQUE": -16.721649169921875,
+      "RAFT": true,
+      "VideoScore": [
+        2.469,
+        2.656,
+        2.891,
+        2.594,
+        2.422
+      ],
+      "VIIDEO": 0.5012238621711731,
+      "Qalign": 3.865234375,
+      "ViCLIP": 0.18740713596343994,
+      "MUSIQ": 62.51388669013977
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_07_03",
+    "video_path": "./Video/Lavie/L4_07_03.mp4",
+    "score": {
+      "BRISQUE": 24.60357666015625,
+      "RAFT": false,
+      "VideoScore": [
+        2.641,
+        2.828,
+        3.047,
+        2.641,
+        2.609
+      ],
+      "VIIDEO": 0.45253613591194153,
+      "Qalign": 3.857421875,
+      "ViCLIP": 0.22569540143013,
+      "MUSIQ": 66.93789339065552
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_07_04",
+    "video_path": "./Video/Lavie/L4_07_04.mp4",
+    "score": {
+      "BRISQUE": 24.209808349609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.344,
+        3.016,
+        2.688,
+        2.375
+      ],
+      "VIIDEO": 0.6246082782745361,
+      "Qalign": 2.666015625,
+      "ViCLIP": 0.27285340428352356,
+      "MUSIQ": 32.999481439590454
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_08_01",
+    "video_path": "./Video/Lavie/L4_08_01.mp4",
+    "score": {
+      "BRISQUE": 24.250091552734375,
+      "RAFT": true,
+      "VideoScore": [
+        2.5,
+        2.234,
+        2.922,
+        2.547,
+        2.203
+      ],
+      "VIIDEO": 0.6809653043746948,
+      "Qalign": 3.681640625,
+      "ViCLIP": 0.1626856029033661,
+      "MUSIQ": 76.56650495529175
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_08_02",
+    "video_path": "./Video/Lavie/L4_08_02.mp4",
+    "score": {
+      "BRISQUE": 35.469329833984375,
+      "RAFT": false,
+      "VideoScore": [
+        2.281,
+        1.992,
+        3.031,
+        2.484,
+        1.977
+      ],
+      "VIIDEO": 0.5891921520233154,
+      "Qalign": 4.171875,
+      "ViCLIP": 0.1973925679922104,
+      "MUSIQ": 75.35308647155762
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_08_03",
+    "video_path": "./Video/Lavie/L4_08_03.mp4",
+    "score": {
+      "BRISQUE": 11.5594482421875,
+      "RAFT": true,
+      "VideoScore": [
+        2.656,
+        2.781,
+        2.984,
+        2.609,
+        2.656
+      ],
+      "VIIDEO": 0.46275874972343445,
+      "Qalign": 4.1328125,
+      "ViCLIP": 0.1853167861700058,
+      "MUSIQ": 76.47615146636963
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_08_04",
+    "video_path": "./Video/Lavie/L4_08_04.mp4",
+    "score": {
+      "BRISQUE": 12.7374267578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.406,
+        2.266,
+        2.906,
+        2.688,
+        1.938
+      ],
+      "VIIDEO": 0.6152971386909485,
+      "Qalign": 3.89453125,
+      "ViCLIP": 0.21298368275165558,
+      "MUSIQ": 61.566370725631714
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_09_01",
+    "video_path": "./Video/Lavie/L4_09_01.mp4",
+    "score": {
+      "BRISQUE": 25.767486572265625,
+      "RAFT": false,
+      "VideoScore": [
+        2.406,
+        2.172,
+        2.938,
+        2.641,
+        1.914
+      ],
+      "VIIDEO": 0.6865700483322144,
+      "Qalign": 4.4609375,
+      "ViCLIP": 0.19608156383037567,
+      "MUSIQ": 76.82776021957397
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_09_02",
+    "video_path": "./Video/Lavie/L4_09_02.mp4",
+    "score": {
+      "BRISQUE": 6.497467041015625,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.594,
+        2.875,
+        2.562,
+        2.359
+      ],
+      "VIIDEO": 0.7099782824516296,
+      "Qalign": 3.998046875,
+      "ViCLIP": 0.2378140091896057,
+      "MUSIQ": 68.86906480789185
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_09_03",
+    "video_path": "./Video/Lavie/L4_09_03.mp4",
+    "score": {
+      "BRISQUE": 25.60662841796875,
+      "RAFT": true,
+      "VideoScore": [
+        2.422,
+        2.391,
+        2.875,
+        2.578,
+        2.031
+      ],
+      "VIIDEO": 0.4463208019733429,
+      "Qalign": 4.125,
+      "ViCLIP": 0.22015507519245148,
+      "MUSIQ": 78.33336353302002
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_09_04",
+    "video_path": "./Video/Lavie/L4_09_04.mp4",
+    "score": {
+      "BRISQUE": 34.046661376953125,
+      "RAFT": true,
+      "VideoScore": [
+        2.375,
+        2.391,
+        2.906,
+        2.422,
+        2.422
+      ],
+      "VIIDEO": 0.8014668822288513,
+      "Qalign": 3.203125,
+      "ViCLIP": 0.22646242380142212,
+      "MUSIQ": 54.92389392852783
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_10_01",
+    "video_path": "./Video/Lavie/L4_10_01.mp4",
+    "score": {
+      "BRISQUE": 16.931671142578125,
+      "RAFT": true,
+      "VideoScore": [
+        2.312,
+        2.016,
+        2.984,
+        2.422,
+        1.891
+      ],
+      "VIIDEO": 0.5423535108566284,
+      "Qalign": 4.3828125,
+      "ViCLIP": 0.181543231010437,
+      "MUSIQ": 76.62219285964966
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_10_02",
+    "video_path": "./Video/Lavie/L4_10_02.mp4",
+    "score": {
+      "BRISQUE": 7.86285400390625,
+      "RAFT": false,
+      "VideoScore": [
+        2.406,
+        2.484,
+        2.828,
+        2.516,
+        2.234
+      ],
+      "VIIDEO": 0.6137350797653198,
+      "Qalign": 4.0625,
+      "ViCLIP": 0.18169276416301727,
+      "MUSIQ": 75.64795064926147
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_10_03",
+    "video_path": "./Video/Lavie/L4_10_03.mp4",
+    "score": {
+      "BRISQUE": 24.157257080078125,
+      "RAFT": false,
+      "VideoScore": [
+        2.516,
+        2.516,
+        2.875,
+        2.422,
+        2.25
+      ],
+      "VIIDEO": 0.5299760103225708,
+      "Qalign": 3.888671875,
+      "ViCLIP": 0.1754883974790573,
+      "MUSIQ": 74.1016411781311
+    }
+  },
+  {
+    "model": "Lavie",
+    "config_id": "L4_10_04",
+    "video_path": "./Video/Lavie/L4_10_04.mp4",
+    "score": {
+      "BRISQUE": 20.48089599609375,
+      "RAFT": true,
+      "VideoScore": [
+        2.484,
+        2.469,
+        3.016,
+        2.625,
+        2.375
+      ],
+      "VIIDEO": 0.5712409019470215,
+      "Qalign": 3.451171875,
+      "ViCLIP": 0.17463412880897522,
+      "MUSIQ": 53.55884122848511
+    }
+  }
+]

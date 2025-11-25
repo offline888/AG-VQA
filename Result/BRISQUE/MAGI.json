@@ -1,0 +1,1607 @@
+{
+    "imaging_quality": [
+        0.4937092294057208,
+        [
+            {
+                "video_path": "./Video/MAGI/B34_07.mp4",
+                "video_results": 53.65104675292969
+            },
+            {
+                "video_path": "./Video/MAGI/B15_11.mp4",
+                "video_results": 26.270406087239582
+            },
+            {
+                "video_path": "./Video/MAGI/L2_07_04.mp4",
+                "video_results": 45.056742350260414
+            },
+            {
+                "video_path": "./Video/MAGI/B42_05.mp4",
+                "video_results": 47.67657979329427
+            },
+            {
+                "video_path": "./Video/MAGI/B42_01.mp4",
+                "video_results": 48.683563232421875
+            },
+            {
+                "video_path": "./Video/MAGI/L4_08_02.mp4",
+                "video_results": 62.23384094238281
+            },
+            {
+                "video_path": "./Video/MAGI/B15_03.mp4",
+                "video_results": 58.25081888834635
+            },
+            {
+                "video_path": "./Video/MAGI/L3_05_04.mp4",
+                "video_results": 38.99278259277344
+            },
+            {
+                "video_path": "./Video/MAGI/B31_03.mp4",
+                "video_results": 51.80803426106771
+            },
+            {
+                "video_path": "./Video/MAGI/B21_12.mp4",
+                "video_results": 50.00280253092448
+            },
+            {
+                "video_path": "./Video/MAGI/L2_10_01.mp4",
+                "video_results": 47.073221842447914
+            },
+            {
+                "video_path": "./Video/MAGI/L2_18_01.mp4",
+                "video_results": 48.66255187988281
+            },
+            {
+                "video_path": "./Video/MAGI/L3_15_03.mp4",
+                "video_results": 49.82648213704427
+            },
+            {
+                "video_path": "./Video/MAGI/B14_02.mp4",
+                "video_results": 60.48370361328125
+            },
+            {
+                "video_path": "./Video/MAGI/B51_08.mp4",
+                "video_results": 49.21197509765625
+            },
+            {
+                "video_path": "./Video/MAGI/B21_01.mp4",
+                "video_results": 59.340576171875
+            },
+            {
+                "video_path": "./Video/MAGI/L2_09_03.mp4",
+                "video_results": 44.74244181315104
+            },
+            {
+                "video_path": "./Video/MAGI/B33_02.mp4",
+                "video_results": 45.396219889322914
+            },
+            {
+                "video_path": "./Video/MAGI/L3_14_04.mp4",
+                "video_results": 16.198872884114582
+            },
+            {
+                "video_path": "./Video/MAGI/B51_04.mp4",
+                "video_results": 49.900126139322914
+            },
+            {
+                "video_path": "./Video/MAGI/B33_10.mp4",
+                "video_results": 45.32826232910156
+            },
+            {
+                "video_path": "./Video/MAGI/L4_04_04.mp4",
+                "video_results": 49.3489023844401
+            },
+            {
+                "video_path": "./Video/MAGI/L4_02_04.mp4",
+                "video_results": 26.270406087239582
+            },
+            {
+                "video_path": "./Video/MAGI/B22_11.mp4",
+                "video_results": 48.60864766438802
+            },
+            {
+                "video_path": "./Video/MAGI/B52_12.mp4",
+                "video_results": 45.85411580403646
+            },
+            {
+                "video_path": "./Video/MAGI/L2_14_04.mp4",
+                "video_results": 48.654337565104164
+            },
+            {
+                "video_path": "./Video/MAGI/B13_08.mp4",
+                "video_results": 41.68298848470052
+            },
+            {
+                "video_path": "./Video/MAGI/L3_06_03.mp4",
+                "video_results": 78.38647715250652
+            },
+            {
+                "video_path": "./Video/MAGI/L3_01_01.mp4",
+                "video_results": 63.08055623372396
+            },
+            {
+                "video_path": "./Video/MAGI/B42_10.mp4",
+                "video_results": 46.65625508626302
+            },
+            {
+                "video_path": "./Video/MAGI/B14_13.mp4",
+                "video_results": 36.97217305501302
+            },
+            {
+                "video_path": "./Video/MAGI/L3_10_04.mp4",
+                "video_results": 43.440653483072914
+            },
+            {
+                "video_path": "./Video/MAGI/B41_10.mp4",
+                "video_results": 54.72642517089844
+            },
+            {
+                "video_path": "./Video/MAGI/L4_03_03.mp4",
+                "video_results": 25.021153767903645
+            },
+            {
+                "video_path": "./Video/MAGI/L2_12_04.mp4",
+                "video_results": 45.85936482747396
+            },
+            {
+                "video_path": "./Video/MAGI/L2_22_04.mp4",
+                "video_results": 41.77234395345052
+            },
+            {
+                "video_path": "./Video/MAGI/L2_20_02.mp4",
+                "video_results": 45.14771016438802
+            },
+            {
+                "video_path": "./Video/MAGI/L2_20_01.mp4",
+                "video_results": 49.78148396809896
+            },
+            {
+                "video_path": "./Video/MAGI/B43_05.mp4",
+                "video_results": 46.88752237955729
+            },
+            {
+                "video_path": "./Video/MAGI/L4_06_02.mp4",
+                "video_results": 48.1421864827474
+            },
+            {
+                "video_path": "./Video/MAGI/L2_25_04.mp4",
+                "video_results": 44.84747314453125
+            },
+            {
+                "video_path": "./Video/MAGI/L2_04_01.mp4",
+                "video_results": 49.79200236002604
+            },
+            {
+                "video_path": "./Video/MAGI/L2_01_03.mp4",
+                "video_results": 46.889750162760414
+            },
+            {
+                "video_path": "./Video/MAGI/B11_12.mp4",
+                "video_results": 65.52537536621094
+            },
+            {
+                "video_path": "./Video/MAGI/B33_08.mp4",
+                "video_results": 45.10602823893229
+            },
+            {
+                "video_path": "./Video/MAGI/L2_21_03.mp4",
+                "video_results": 44.01470438639323
+            },
+            {
+                "video_path": "./Video/MAGI/B11_16.mp4",
+                "video_results": 66.08571879069011
+            },
+            {
+                "video_path": "./Video/MAGI/B11_08.mp4",
+                "video_results": 50.6927490234375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_15_04.mp4",
+                "video_results": 46.36387634277344
+            },
+            {
+                "video_path": "./Video/MAGI/B52_05.mp4",
+                "video_results": 53.11369323730469
+            },
+            {
+                "video_path": "./Video/MAGI/B22_01.mp4",
+                "video_results": 53.38105773925781
+            },
+            {
+                "video_path": "./Video/MAGI/L3_09_04.mp4",
+                "video_results": 53.677103678385414
+            },
+            {
+                "video_path": "./Video/MAGI/B14_01.mp4",
+                "video_results": 51.98284403483073
+            },
+            {
+                "video_path": "./Video/MAGI/L2_13_02.mp4",
+                "video_results": 48.0140380859375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_19_03.mp4",
+                "video_results": 42.10960896809896
+            },
+            {
+                "video_path": "./Video/MAGI/B12_05.mp4",
+                "video_results": 78.38647715250652
+            },
+            {
+                "video_path": "./Video/MAGI/B31_05.mp4",
+                "video_results": 43.68864949544271
+            },
+            {
+                "video_path": "./Video/MAGI/L3_01_02.mp4",
+                "video_results": 36.82787577311198
+            },
+            {
+                "video_path": "./Video/MAGI/L3_02_01.mp4",
+                "video_results": 50.41393025716146
+            },
+            {
+                "video_path": "./Video/MAGI/B51_03.mp4",
+                "video_results": 53.769917805989586
+            },
+            {
+                "video_path": "./Video/MAGI/L2_10_03.mp4",
+                "video_results": 46.29319763183594
+            },
+            {
+                "video_path": "./Video/MAGI/L3_12_04.mp4",
+                "video_results": 55.49314880371094
+            },
+            {
+                "video_path": "./Video/MAGI/L2_03_03.mp4",
+                "video_results": 42.78802998860677
+            },
+            {
+                "video_path": "./Video/MAGI/L3_04_02.mp4",
+                "video_results": 53.74518839518229
+            },
+            {
+                "video_path": "./Video/MAGI/L3_05_03.mp4",
+                "video_results": 65.86165873209636
+            },
+            {
+                "video_path": "./Video/MAGI/B13_12.mp4",
+                "video_results": 38.88238525390625
+            },
+            {
+                "video_path": "./Video/MAGI/L4_05_01.mp4",
+                "video_results": 65.02059427897136
+            },
+            {
+                "video_path": "./Video/MAGI/L3_04_04.mp4",
+                "video_results": 66.08571879069011
+            },
+            {
+                "video_path": "./Video/MAGI/L3_14_02.mp4",
+                "video_results": 59.35457865397135
+            },
+            {
+                "video_path": "./Video/MAGI/L2_17_02.mp4",
+                "video_results": 47.209014892578125
+            },
+            {
+                "video_path": "./Video/MAGI/L4_07_01.mp4",
+                "video_results": 44.96537780761719
+            },
+            {
+                "video_path": "./Video/MAGI/B12_07.mp4",
+                "video_results": 40.268229166666664
+            },
+            {
+                "video_path": "./Video/MAGI/L3_08_04.mp4",
+                "video_results": 63.03453572591146
+            },
+            {
+                "video_path": "./Video/MAGI/B33_04.mp4",
+                "video_results": 47.119527180989586
+            },
+            {
+                "video_path": "./Video/MAGI/L3_14_01.mp4",
+                "video_results": 50.16770935058594
+            },
+            {
+                "video_path": "./Video/MAGI/B51_05.mp4",
+                "video_results": 46.47388712565104
+            },
+            {
+                "video_path": "./Video/MAGI/B21_08.mp4",
+                "video_results": 65.02059427897136
+            },
+            {
+                "video_path": "./Video/MAGI/L2_06_02.mp4",
+                "video_results": 45.246785481770836
+            },
+            {
+                "video_path": "./Video/MAGI/L4_08_01.mp4",
+                "video_results": 65.19201914469402
+            },
+            {
+                "video_path": "./Video/MAGI/L3_05_02.mp4",
+                "video_results": 40.24427795410156
+            },
+            {
+                "video_path": "./Video/MAGI/B13_10.mp4",
+                "video_results": 43.440653483072914
+            },
+            {
+                "video_path": "./Video/MAGI/B21_02.mp4",
+                "video_results": 25.021153767903645
+            },
+            {
+                "video_path": "./Video/MAGI/B32_11.mp4",
+                "video_results": 46.704081217447914
+            },
+            {
+                "video_path": "./Video/MAGI/B32_04.mp4",
+                "video_results": 48.2834218343099
+            },
+            {
+                "video_path": "./Video/MAGI/B22_10.mp4",
+                "video_results": 54.53850809733073
+            },
+            {
+                "video_path": "./Video/MAGI/L4_04_02.mp4",
+                "video_results": 45.51128641764323
+            },
+            {
+                "video_path": "./Video/MAGI/L2_16_02.mp4",
+                "video_results": 51.2884775797526
+            },
+            {
+                "video_path": "./Video/MAGI/L2_05_02.mp4",
+                "video_results": 43.3964589436849
+            },
+            {
+                "video_path": "./Video/MAGI/L3_10_03.mp4",
+                "video_results": 58.1626230875651
+            },
+            {
+                "video_path": "./Video/MAGI/L4_05_04.mp4",
+                "video_results": 76.68630472819011
+            },
+            {
+                "video_path": "./Video/MAGI/B33_01.mp4",
+                "video_results": 46.316792805989586
+            },
+            {
+                "video_path": "./Video/MAGI/B11_10.mp4",
+                "video_results": 42.93555704752604
+            },
+            {
+                "video_path": "./Video/MAGI/L3_13_04.mp4",
+                "video_results": 56.092814127604164
+            },
+            {
+                "video_path": "./Video/MAGI/L2_25_02.mp4",
+                "video_results": 42.36930847167969
+            },
+            {
+                "video_path": "./Video/MAGI/L3_05_01.mp4",
+                "video_results": 43.00181579589844
+            },
+            {
+                "video_path": "./Video/MAGI/B14_05.mp4",
+                "video_results": 35.7274424235026
+            },
+            {
+                "video_path": "./Video/MAGI/B43_01.mp4",
+                "video_results": 46.108784993489586
+            },
+            {
+                "video_path": "./Video/MAGI/L2_15_03.mp4",
+                "video_results": 42.836568196614586
+            },
+            {
+                "video_path": "./Video/MAGI/B42_03.mp4",
+                "video_results": 43.7179209391276
+            },
+            {
+                "video_path": "./Video/MAGI/L3_06_01.mp4",
+                "video_results": 56.63402303059896
+            },
+            {
+                "video_path": "./Video/MAGI/L4_09_03.mp4",
+                "video_results": 44.57708231608073
+            },
+            {
+                "video_path": "./Video/MAGI/B22_03.mp4",
+                "video_results": 62.063323974609375
+            },
+            {
+                "video_path": "./Video/MAGI/B12_08.mp4",
+                "video_results": 65.64754740397136
+            },
+            {
+                "video_path": "./Video/MAGI/L4_03_01.mp4",
+                "video_results": 54.920745849609375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_06_04.mp4",
+                "video_results": 49.93999735514323
+            },
+            {
+                "video_path": "./Video/MAGI/L3_15_02.mp4",
+                "video_results": 54.22974650065104
+            },
+            {
+                "video_path": "./Video/MAGI/L3_02_03.mp4",
+                "video_results": 62.78876241048177
+            },
+            {
+                "video_path": "./Video/MAGI/L2_01_02.mp4",
+                "video_results": 45.90206400553385
+            },
+            {
+                "video_path": "./Video/MAGI/L2_14_02.mp4",
+                "video_results": 47.82928466796875
+            },
+            {
+                "video_path": "./Video/MAGI/L4_02_03.mp4",
+                "video_results": 25.274831136067707
+            },
+            {
+                "video_path": "./Video/MAGI/B52_08.mp4",
+                "video_results": 52.96521504720052
+            },
+            {
+                "video_path": "./Video/MAGI/L2_04_02.mp4",
+                "video_results": 40.47514851888021
+            },
+            {
+                "video_path": "./Video/MAGI/B51_10.mp4",
+                "video_results": 48.1495361328125
+            },
+            {
+                "video_path": "./Video/MAGI/L3_12_03.mp4",
+                "video_results": 35.7274424235026
+            },
+            {
+                "video_path": "./Video/MAGI/B41_12.mp4",
+                "video_results": 50.22021993001302
+            },
+            {
+                "video_path": "./Video/MAGI/L3_13_02.mp4",
+                "video_results": 55.489013671875
+            },
+            {
+                "video_path": "./Video/MAGI/L2_21_02.mp4",
+                "video_results": 44.31481424967448
+            },
+            {
+                "video_path": "./Video/MAGI/L4_08_03.mp4",
+                "video_results": 75.32445780436198
+            },
+            {
+                "video_path": "./Video/MAGI/B43_11.mp4",
+                "video_results": 45.725433349609375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_21_01.mp4",
+                "video_results": 45.39330037434896
+            },
+            {
+                "video_path": "./Video/MAGI/B11_07.mp4",
+                "video_results": 62.78876241048177
+            },
+            {
+                "video_path": "./Video/MAGI/L2_15_02.mp4",
+                "video_results": 50.952555338541664
+            },
+            {
+                "video_path": "./Video/MAGI/B42_02.mp4",
+                "video_results": 44.89044698079427
+            },
+            {
+                "video_path": "./Video/MAGI/L2_14_03.mp4",
+                "video_results": 44.73793029785156
+            },
+            {
+                "video_path": "./Video/MAGI/B31_08.mp4",
+                "video_results": 45.62932332356771
+            },
+            {
+                "video_path": "./Video/MAGI/B42_12.mp4",
+                "video_results": 53.3532460530599
+            },
+            {
+                "video_path": "./Video/MAGI/B52_02.mp4",
+                "video_results": 50.62859598795573
+            },
+            {
+                "video_path": "./Video/MAGI/L3_12_01.mp4",
+                "video_results": 58.74019877115885
+            },
+            {
+                "video_path": "./Video/MAGI/L4_02_02.mp4",
+                "video_results": 44.01061503092448
+            },
+            {
+                "video_path": "./Video/MAGI/L2_19_01.mp4",
+                "video_results": 45.1033935546875
+            },
+            {
+                "video_path": "./Video/MAGI/L3_07_04.mp4",
+                "video_results": 42.07392374674479
+            },
+            {
+                "video_path": "./Video/MAGI/B12_10.mp4",
+                "video_results": 42.07392374674479
+            },
+            {
+                "video_path": "./Video/MAGI/B21_10.mp4",
+                "video_results": 51.45209757486979
+            },
+            {
+                "video_path": "./Video/MAGI/B21_11.mp4",
+                "video_results": 76.68630472819011
+            },
+            {
+                "video_path": "./Video/MAGI/B15_05.mp4",
+                "video_results": 65.13491821289062
+            },
+            {
+                "video_path": "./Video/MAGI/L2_06_03.mp4",
+                "video_results": 49.99266052246094
+            },
+            {
+                "video_path": "./Video/MAGI/B41_11.mp4",
+                "video_results": 50.032430013020836
+            },
+            {
+                "video_path": "./Video/MAGI/L2_02_01.mp4",
+                "video_results": 41.04425048828125
+            },
+            {
+                "video_path": "./Video/MAGI/B12_06.mp4",
+                "video_results": 54.28878275553385
+            },
+            {
+                "video_path": "./Video/MAGI/L4_09_02.mp4",
+                "video_results": 48.60864766438802
+            },
+            {
+                "video_path": "./Video/MAGI/B22_08.mp4",
+                "video_results": 75.32445780436198
+            },
+            {
+                "video_path": "./Video/MAGI/B14_10.mp4",
+                "video_results": 56.092814127604164
+            },
+            {
+                "video_path": "./Video/MAGI/B43_09.mp4",
+                "video_results": 46.59283447265625
+            },
+            {
+                "video_path": "./Video/MAGI/L2_07_02.mp4",
+                "video_results": 48.101806640625
+            },
+            {
+                "video_path": "./Video/MAGI/L4_08_04.mp4",
+                "video_results": 40.78094482421875
+            },
+            {
+                "video_path": "./Video/MAGI/B41_04.mp4",
+                "video_results": 51.768798828125
+            },
+            {
+                "video_path": "./Video/MAGI/B51_01.mp4",
+                "video_results": 54.05437215169271
+            },
+            {
+                "video_path": "./Video/MAGI/L2_19_04.mp4",
+                "video_results": 45.59359232584635
+            },
+            {
+                "video_path": "./Video/MAGI/L4_07_04.mp4",
+                "video_results": 31.950083414713543
+            },
+            {
+                "video_path": "./Video/MAGI/B32_02.mp4",
+                "video_results": 45.088460286458336
+            },
+            {
+                "video_path": "./Video/MAGI/L4_06_04.mp4",
+                "video_results": 53.38105773925781
+            },
+            {
+                "video_path": "./Video/MAGI/L3_01_04.mp4",
+                "video_results": 70.31937154134114
+            },
+            {
+                "video_path": "./Video/MAGI/B22_09.mp4",
+                "video_results": 40.78094482421875
+            },
+            {
+                "video_path": "./Video/MAGI/B51_02.mp4",
+                "video_results": 48.28248596191406
+            },
+            {
+                "video_path": "./Video/MAGI/B22_06.mp4",
+                "video_results": 65.19201914469402
+            },
+            {
+                "video_path": "./Video/MAGI/B34_08.mp4",
+                "video_results": 49.23340352376302
+            },
+            {
+                "video_path": "./Video/MAGI/B12_04.mp4",
+                "video_results": 44.89600626627604
+            },
+            {
+                "video_path": "./Video/MAGI/B43_07.mp4",
+                "video_results": 53.901957194010414
+            },
+            {
+                "video_path": "./Video/MAGI/B12_09.mp4",
+                "video_results": 36.735137939453125
+            },
+            {
+                "video_path": "./Video/MAGI/L4_10_03.mp4",
+                "video_results": 52.28703308105469
+            },
+            {
+                "video_path": "./Video/MAGI/B34_05.mp4",
+                "video_results": 45.19703674316406
+            },
+            {
+                "video_path": "./Video/MAGI/B21_09.mp4",
+                "video_results": 43.61053975423177
+            },
+            {
+                "video_path": "./Video/MAGI/B51_06.mp4",
+                "video_results": 46.56566365559896
+            },
+            {
+                "video_path": "./Video/MAGI/L3_08_01.mp4",
+                "video_results": 45.40856424967448
+            },
+            {
+                "video_path": "./Video/MAGI/B15_01.mp4",
+                "video_results": 54.22974650065104
+            },
+            {
+                "video_path": "./Video/MAGI/L4_01_03.mp4",
+                "video_results": 41.773396809895836
+            },
+            {
+                "video_path": "./Video/MAGI/L2_16_03.mp4",
+                "video_results": 45.34251912434896
+            },
+            {
+                "video_path": "./Video/MAGI/B14_09.mp4",
+                "video_results": 71.25442504882812
+            },
+            {
+                "video_path": "./Video/MAGI/L2_12_03.mp4",
+                "video_results": 46.1903076171875
+            },
+            {
+                "video_path": "./Video/MAGI/B51_09.mp4",
+                "video_results": 46.38994344075521
+            },
+            {
+                "video_path": "./Video/MAGI/B32_06.mp4",
+                "video_results": 52.54644266764323
+            },
+            {
+                "video_path": "./Video/MAGI/L4_10_02.mp4",
+                "video_results": 51.80803426106771
+            },
+            {
+                "video_path": "./Video/MAGI/L2_24_02.mp4",
+                "video_results": 45.159586588541664
+            },
+            {
+                "video_path": "./Video/MAGI/B33_09.mp4",
+                "video_results": 47.581013997395836
+            },
+            {
+                "video_path": "./Video/MAGI/L2_07_03.mp4",
+                "video_results": 48.00387064615885
+            },
+            {
+                "video_path": "./Video/MAGI/L3_03_02.mp4",
+                "video_results": 42.93555704752604
+            },
+            {
+                "video_path": "./Video/MAGI/B43_10.mp4",
+                "video_results": 44.346537272135414
+            },
+            {
+                "video_path": "./Video/MAGI/L3_09_01.mp4",
+                "video_results": 65.3937479654948
+            },
+            {
+                "video_path": "./Video/MAGI/L2_20_04.mp4",
+                "video_results": 48.230244954427086
+            },
+            {
+                "video_path": "./Video/MAGI/B34_01.mp4",
+                "video_results": 49.578206380208336
+            },
+            {
+                "video_path": "./Video/MAGI/L2_02_04.mp4",
+                "video_results": 45.254486083984375
+            },
+            {
+                "video_path": "./Video/MAGI/L3_02_02.mp4",
+                "video_results": 34.191975911458336
+            },
+            {
+                "video_path": "./Video/MAGI/B12_01.mp4",
+                "video_results": 65.86165873209636
+            },
+            {
+                "video_path": "./Video/MAGI/L2_24_03.mp4",
+                "video_results": 47.55867004394531
+            },
+            {
+                "video_path": "./Video/MAGI/L2_20_03.mp4",
+                "video_results": 45.7432607014974
+            },
+            {
+                "video_path": "./Video/MAGI/L4_06_03.mp4",
+                "video_results": 49.04197692871094
+            },
+            {
+                "video_path": "./Video/MAGI/B22_12.mp4",
+                "video_results": 44.57708231608073
+            },
+            {
+                "video_path": "./Video/MAGI/B31_01.mp4",
+                "video_results": 82.07212829589844
+            },
+            {
+                "video_path": "./Video/MAGI/B14_03.mp4",
+                "video_results": 58.74019877115885
+            },
+            {
+                "video_path": "./Video/MAGI/B33_06.mp4",
+                "video_results": 53.71512349446615
+            },
+            {
+                "video_path": "./Video/MAGI/B13_02.mp4",
+                "video_results": 63.03453572591146
+            },
+            {
+                "video_path": "./Video/MAGI/L3_03_03.mp4",
+                "video_results": 48.96197509765625
+            },
+            {
+                "video_path": "./Video/MAGI/L2_12_01.mp4",
+                "video_results": 47.10241190592448
+            },
+            {
+                "video_path": "./Video/MAGI/L4_05_03.mp4",
+                "video_results": 51.45209757486979
+            },
+            {
+                "video_path": "./Video/MAGI/B52_04.mp4",
+                "video_results": 46.05884297688802
+            },
+            {
+                "video_path": "./Video/MAGI/B52_01.mp4",
+                "video_results": 54.05034383138021
+            },
+            {
+                "video_path": "./Video/MAGI/L3_03_04.mp4",
+                "video_results": 65.52537536621094
+            },
+            {
+                "video_path": "./Video/MAGI/B15_02.mp4",
+                "video_results": 49.82648213704427
+            },
+            {
+                "video_path": "./Video/MAGI/L2_05_01.mp4",
+                "video_results": 45.43030802408854
+            },
+            {
+                "video_path": "./Video/MAGI/L2_13_03.mp4",
+                "video_results": 50.80726623535156
+            },
+            {
+                "video_path": "./Video/MAGI/B11_09.mp4",
+                "video_results": 54.98809305826823
+            },
+            {
+                "video_path": "./Video/MAGI/B13_05.mp4",
+                "video_results": 49.08443705240885
+            },
+            {
+                "video_path": "./Video/MAGI/B15_07.mp4",
+                "video_results": 70.55571746826172
+            },
+            {
+                "video_path": "./Video/MAGI/L2_03_01.mp4",
+                "video_results": 47.698099772135414
+            },
+            {
+                "video_path": "./Video/MAGI/B42_08.mp4",
+                "video_results": 45.974395751953125
+            },
+            {
+                "video_path": "./Video/MAGI/B32_03.mp4",
+                "video_results": 55.71604919433594
+            },
+            {
+                "video_path": "./Video/MAGI/B14_06.mp4",
+                "video_results": 55.49314880371094
+            },
+            {
+                "video_path": "./Video/MAGI/B34_10.mp4",
+                "video_results": 44.8644765218099
+            },
+            {
+                "video_path": "./Video/MAGI/B21_14.mp4",
+                "video_results": 49.04197692871094
+            },
+            {
+                "video_path": "./Video/MAGI/L2_13_04.mp4",
+                "video_results": 45.66481018066406
+            },
+            {
+                "video_path": "./Video/MAGI/B31_06.mp4",
+                "video_results": 48.8406728108724
+            },
+            {
+                "video_path": "./Video/MAGI/L4_03_04.mp4",
+                "video_results": 88.26454671223958
+            },
+            {
+                "video_path": "./Video/MAGI/B34_03.mp4",
+                "video_results": 53.74214172363281
+            },
+            {
+                "video_path": "./Video/MAGI/L2_15_01.mp4",
+                "video_results": 42.47935994466146
+            },
+            {
+                "video_path": "./Video/MAGI/L2_17_01.mp4",
+                "video_results": 49.811808268229164
+            },
+            {
+                "video_path": "./Video/MAGI/B21_04.mp4",
+                "video_results": 37.1165771484375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_06_01.mp4",
+                "video_results": 47.57160441080729
+            },
+            {
+                "video_path": "./Video/MAGI/L2_01_01.mp4",
+                "video_results": 51.170247395833336
+            },
+            {
+                "video_path": "./Video/MAGI/B31_09.mp4",
+                "video_results": 48.44526672363281
+            },
+            {
+                "video_path": "./Video/MAGI/B31_04.mp4",
+                "video_results": 52.28703308105469
+            },
+            {
+                "video_path": "./Video/MAGI/B12_12.mp4",
+                "video_results": 29.396560668945312
+            },
+            {
+                "video_path": "./Video/MAGI/L4_09_01.mp4",
+                "video_results": 54.53850809733073
+            },
+            {
+                "video_path": "./Video/MAGI/B22_05.mp4",
+                "video_results": 31.950083414713543
+            },
+            {
+                "video_path": "./Video/MAGI/L2_19_02.mp4",
+                "video_results": 53.12230936686198
+            },
+            {
+                "video_path": "./Video/MAGI/B14_07.mp4",
+                "video_results": 30.441731770833332
+            },
+            {
+                "video_path": "./Video/MAGI/L2_04_04.mp4",
+                "video_results": 49.576253255208336
+            },
+            {
+                "video_path": "./Video/MAGI/B13_06.mp4",
+                "video_results": 53.677103678385414
+            },
+            {
+                "video_path": "./Video/MAGI/L2_01_04.mp4",
+                "video_results": 47.591288248697914
+            },
+            {
+                "video_path": "./Video/MAGI/L2_09_02.mp4",
+                "video_results": 49.833343505859375
+            },
+            {
+                "video_path": "./Video/MAGI/B43_02.mp4",
+                "video_results": 45.2447255452474
+            },
+            {
+                "video_path": "./Video/MAGI/L2_17_03.mp4",
+                "video_results": 51.18415323893229
+            },
+            {
+                "video_path": "./Video/MAGI/L4_07_02.mp4",
+                "video_results": 62.063323974609375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_09_04.mp4",
+                "video_results": 47.809590657552086
+            },
+            {
+                "video_path": "./Video/MAGI/L3_11_04.mp4",
+                "video_results": 60.48370361328125
+            },
+            {
+                "video_path": "./Video/MAGI/L4_10_01.mp4",
+                "video_results": 67.90544128417969
+            },
+            {
+                "video_path": "./Video/MAGI/L2_03_04.mp4",
+                "video_results": 49.26641845703125
+            },
+            {
+                "video_path": "./Video/MAGI/B15_09.mp4",
+                "video_results": 44.01061503092448
+            },
+            {
+                "video_path": "./Video/MAGI/B31_11.mp4",
+                "video_results": 44.939554850260414
+            },
+            {
+                "video_path": "./Video/MAGI/B13_07.mp4",
+                "video_results": 51.06177266438802
+            },
+            {
+                "video_path": "./Video/MAGI/L2_05_04.mp4",
+                "video_results": 49.53531392415365
+            },
+            {
+                "video_path": "./Video/MAGI/B11_01.mp4",
+                "video_results": 63.08055623372396
+            },
+            {
+                "video_path": "./Video/MAGI/B15_12.mp4",
+                "video_results": 54.920745849609375
+            },
+            {
+                "video_path": "./Video/MAGI/B34_02.mp4",
+                "video_results": 48.51978047688802
+            },
+            {
+                "video_path": "./Video/MAGI/L3_01_03.mp4",
+                "video_results": 48.582377115885414
+            },
+            {
+                "video_path": "./Video/MAGI/B32_07.mp4",
+                "video_results": 54.64640808105469
+            },
+            {
+                "video_path": "./Video/MAGI/L2_22_01.mp4",
+                "video_results": 46.97233581542969
+            },
+            {
+                "video_path": "./Video/MAGI/B51_07.mp4",
+                "video_results": 49.5686289469401
+            },
+            {
+                "video_path": "./Video/MAGI/B34_09.mp4",
+                "video_results": 46.48747762044271
+            },
+            {
+                "video_path": "./Video/MAGI/L2_23_04.mp4",
+                "video_results": 46.15643310546875
+            },
+            {
+                "video_path": "./Video/MAGI/L3_03_01.mp4",
+                "video_results": 54.98809305826823
+            },
+            {
+                "video_path": "./Video/MAGI/B43_06.mp4",
+                "video_results": 46.8058115641276
+            },
+            {
+                "video_path": "./Video/MAGI/B14_11.mp4",
+                "video_results": 50.16770935058594
+            },
+            {
+                "video_path": "./Video/MAGI/B13_09.mp4",
+                "video_results": 58.1626230875651
+            },
+            {
+                "video_path": "./Video/MAGI/B32_01.mp4",
+                "video_results": 45.5464833577474
+            },
+            {
+                "video_path": "./Video/MAGI/L3_11_03.mp4",
+                "video_results": 51.98284403483073
+            },
+            {
+                "video_path": "./Video/MAGI/L2_17_04.mp4",
+                "video_results": 44.10493469238281
+            },
+            {
+                "video_path": "./Video/MAGI/B31_02.mp4",
+                "video_results": 67.90544128417969
+            },
+            {
+                "video_path": "./Video/MAGI/B11_02.mp4",
+                "video_results": 36.82787577311198
+            },
+            {
+                "video_path": "./Video/MAGI/B41_05.mp4",
+                "video_results": 47.35564676920573
+            },
+            {
+                "video_path": "./Video/MAGI/B11_14.mp4",
+                "video_results": 53.74518839518229
+            },
+            {
+                "video_path": "./Video/MAGI/L3_07_01.mp4",
+                "video_results": 40.268229166666664
+            },
+            {
+                "video_path": "./Video/MAGI/L3_06_02.mp4",
+                "video_results": 44.89600626627604
+            },
+            {
+                "video_path": "./Video/MAGI/L4_09_04.mp4",
+                "video_results": 82.07212829589844
+            },
+            {
+                "video_path": "./Video/MAGI/L4_04_01.mp4",
+                "video_results": 37.1165771484375
+            },
+            {
+                "video_path": "./Video/MAGI/L3_10_01.mp4",
+                "video_results": 51.06177266438802
+            },
+            {
+                "video_path": "./Video/MAGI/L2_08_02.mp4",
+                "video_results": 46.72083536783854
+            },
+            {
+                "video_path": "./Video/MAGI/L3_13_01.mp4",
+                "video_results": 30.441731770833332
+            },
+            {
+                "video_path": "./Video/MAGI/B52_06.mp4",
+                "video_results": 46.14997355143229
+            },
+            {
+                "video_path": "./Video/MAGI/B42_09.mp4",
+                "video_results": 47.46592712402344
+            },
+            {
+                "video_path": "./Video/MAGI/L2_04_03.mp4",
+                "video_results": 45.29908752441406
+            },
+            {
+                "video_path": "./Video/MAGI/L4_07_03.mp4",
+                "video_results": 44.35702006022135
+            },
+            {
+                "video_path": "./Video/MAGI/L2_03_02.mp4",
+                "video_results": 45.021769205729164
+            },
+            {
+                "video_path": "./Video/MAGI/B32_05.mp4",
+                "video_results": 49.75553894042969
+            },
+            {
+                "video_path": "./Video/MAGI/B32_08.mp4",
+                "video_results": 44.619832356770836
+            },
+            {
+                "video_path": "./Video/MAGI/B41_09.mp4",
+                "video_results": 43.99708048502604
+            },
+            {
+                "video_path": "./Video/MAGI/L2_25_01.mp4",
+                "video_results": 46.1310068766276
+            },
+            {
+                "video_path": "./Video/MAGI/L2_23_01.mp4",
+                "video_results": 49.419830322265625
+            },
+            {
+                "video_path": "./Video/MAGI/L3_04_03.mp4",
+                "video_results": 56.14241027832031
+            },
+            {
+                "video_path": "./Video/MAGI/L2_02_03.mp4",
+                "video_results": 43.217305501302086
+            },
+            {
+                "video_path": "./Video/MAGI/L3_11_01.mp4",
+                "video_results": 33.81436665852865
+            },
+            {
+                "video_path": "./Video/MAGI/L4_01_01.mp4",
+                "video_results": 31.009363810221355
+            },
+            {
+                "video_path": "./Video/MAGI/L3_09_03.mp4",
+                "video_results": 49.08443705240885
+            },
+            {
+                "video_path": "./Video/MAGI/L2_22_03.mp4",
+                "video_results": 44.47245788574219
+            },
+            {
+                "video_path": "./Video/MAGI/B21_13.mp4",
+                "video_results": 48.1421864827474
+            },
+            {
+                "video_path": "./Video/MAGI/L2_21_04.mp4",
+                "video_results": 46.26885477701823
+            },
+            {
+                "video_path": "./Video/MAGI/B52_10.mp4",
+                "video_results": 46.78296915690104
+            },
+            {
+                "video_path": "./Video/MAGI/L2_22_02.mp4",
+                "video_results": 45.987202962239586
+            },
+            {
+                "video_path": "./Video/MAGI/L2_25_03.mp4",
+                "video_results": 47.58649698893229
+            },
+            {
+                "video_path": "./Video/MAGI/B32_09.mp4",
+                "video_results": 44.08110046386719
+            },
+            {
+                "video_path": "./Video/MAGI/L2_07_01.mp4",
+                "video_results": 46.52656555175781
+            },
+            {
+                "video_path": "./Video/MAGI/B13_11.mp4",
+                "video_results": 33.81436665852865
+            },
+            {
+                "video_path": "./Video/MAGI/L2_10_02.mp4",
+                "video_results": 46.09203592936198
+            },
+            {
+                "video_path": "./Video/MAGI/L2_18_04.mp4",
+                "video_results": 49.87440490722656
+            },
+            {
+                "video_path": "./Video/MAGI/B15_06.mp4",
+                "video_results": 41.773396809895836
+            },
+            {
+                "video_path": "./Video/MAGI/L2_23_03.mp4",
+                "video_results": 47.45155334472656
+            },
+            {
+                "video_path": "./Video/MAGI/L2_23_02.mp4",
+                "video_results": 46.85608927408854
+            },
+            {
+                "video_path": "./Video/MAGI/B41_03.mp4",
+                "video_results": 49.9321034749349
+            },
+            {
+                "video_path": "./Video/MAGI/B42_11.mp4",
+                "video_results": 52.99019877115885
+            },
+            {
+                "video_path": "./Video/MAGI/B33_05.mp4",
+                "video_results": 50.54771931966146
+            },
+            {
+                "video_path": "./Video/MAGI/L2_24_04.mp4",
+                "video_results": 45.0521494547526
+            },
+            {
+                "video_path": "./Video/MAGI/L3_04_01.mp4",
+                "video_results": 51.31392923990885
+            },
+            {
+                "video_path": "./Video/MAGI/L2_08_03.mp4",
+                "video_results": 45.58708190917969
+            },
+            {
+                "video_path": "./Video/MAGI/B13_03.mp4",
+                "video_results": 65.3937479654948
+            },
+            {
+                "video_path": "./Video/MAGI/B42_04.mp4",
+                "video_results": 46.21179707845052
+            },
+            {
+                "video_path": "./Video/MAGI/B32_10.mp4",
+                "video_results": 45.680338541666664
+            },
+            {
+                "video_path": "./Video/MAGI/L2_12_02.mp4",
+                "video_results": 47.68888854980469
+            },
+            {
+                "video_path": "./Video/MAGI/B51_12.mp4",
+                "video_results": 45.29972839355469
+            },
+            {
+                "video_path": "./Video/MAGI/L3_07_03.mp4",
+                "video_results": 36.735137939453125
+            },
+            {
+                "video_path": "./Video/MAGI/B21_07.mp4",
+                "video_results": 49.3489023844401
+            },
+            {
+                "video_path": "./Video/MAGI/B15_04.mp4",
+                "video_results": 31.009363810221355
+            },
+            {
+                "video_path": "./Video/MAGI/B12_03.mp4",
+                "video_results": 56.63402303059896
+            },
+            {
+                "video_path": "./Video/MAGI/B51_11.mp4",
+                "video_results": 47.22331237792969
+            },
+            {
+                "video_path": "./Video/MAGI/B41_01.mp4",
+                "video_results": 44.39355977376302
+            },
+            {
+                "video_path": "./Video/MAGI/L3_02_04.mp4",
+                "video_results": 50.6927490234375
+            },
+            {
+                "video_path": "./Video/MAGI/B31_12.mp4",
+                "video_results": 47.85022989908854
+            },
+            {
+                "video_path": "./Video/MAGI/L2_11_01.mp4",
+                "video_results": 47.43211873372396
+            },
+            {
+                "video_path": "./Video/MAGI/B22_07.mp4",
+                "video_results": 62.23384094238281
+            },
+            {
+                "video_path": "./Video/MAGI/L2_11_02.mp4",
+                "video_results": 44.95814514160156
+            },
+            {
+                "video_path": "./Video/MAGI/B21_05.mp4",
+                "video_results": 45.51128641764323
+            },
+            {
+                "video_path": "./Video/MAGI/L3_08_02.mp4",
+                "video_results": 29.396560668945312
+            },
+            {
+                "video_path": "./Video/MAGI/L3_06_04.mp4",
+                "video_results": 54.28878275553385
+            },
+            {
+                "video_path": "./Video/MAGI/B22_02.mp4",
+                "video_results": 44.96537780761719
+            },
+            {
+                "video_path": "./Video/MAGI/L2_16_01.mp4",
+                "video_results": 44.95374043782552
+            },
+            {
+                "video_path": "./Video/MAGI/B15_08.mp4",
+                "video_results": 78.21213277180989
+            },
+            {
+                "video_path": "./Video/MAGI/L2_09_01.mp4",
+                "video_results": 46.6707509358724
+            },
+            {
+                "video_path": "./Video/MAGI/L4_01_02.mp4",
+                "video_results": 65.13491821289062
+            },
+            {
+                "video_path": "./Video/MAGI/B11_15.mp4",
+                "video_results": 56.14241027832031
+            },
+            {
+                "video_path": "./Video/MAGI/B52_11.mp4",
+                "video_results": 52.973103841145836
+            },
+            {
+                "video_path": "./Video/MAGI/L4_05_02.mp4",
+                "video_results": 43.61053975423177
+            },
+            {
+                "video_path": "./Video/MAGI/B31_10.mp4",
+                "video_results": 46.82024129231771
+            },
+            {
+                "video_path": "./Video/MAGI/B12_11.mp4",
+                "video_results": 45.40856424967448
+            },
+            {
+                "video_path": "./Video/MAGI/B11_13.mp4",
+                "video_results": 51.31392923990885
+            },
+            {
+                "video_path": "./Video/MAGI/L2_10_04.mp4",
+                "video_results": 46.92654927571615
+            },
+            {
+                "video_path": "./Video/MAGI/B42_06.mp4",
+                "video_results": 45.66047668457031
+            },
+            {
+                "video_path": "./Video/MAGI/L3_09_02.mp4",
+                "video_results": 45.338653564453125
+            },
+            {
+                "video_path": "./Video/MAGI/B14_12.mp4",
+                "video_results": 59.35457865397135
+            },
+            {
+                "video_path": "./Video/MAGI/B11_03.mp4",
+                "video_results": 48.582377115885414
+            },
+            {
+                "video_path": "./Video/MAGI/B14_04.mp4",
+                "video_results": 55.177103678385414
+            },
+            {
+                "video_path": "./Video/MAGI/L3_15_01.mp4",
+                "video_results": 51.77992248535156
+            },
+            {
+                "video_path": "./Video/MAGI/B41_13.mp4",
+                "video_results": 44.72827657063802
+            },
+            {
+                "video_path": "./Video/MAGI/L3_13_03.mp4",
+                "video_results": 71.25442504882812
+            },
+            {
+                "video_path": "./Video/MAGI/L2_14_01.mp4",
+                "video_results": 47.46773783365885
+            },
+            {
+                "video_path": "./Video/MAGI/L2_11_03.mp4",
+                "video_results": 47.9823252360026
+            },
+            {
+                "video_path": "./Video/MAGI/B52_03.mp4",
+                "video_results": 54.03752136230469
+            },
+            {
+                "video_path": "./Video/MAGI/L2_08_04.mp4",
+                "video_results": 46.9314931233724
+            },
+            {
+                "video_path": "./Video/MAGI/B33_07.mp4",
+                "video_results": 43.99175516764323
+            },
+            {
+                "video_path": "./Video/MAGI/L3_10_02.mp4",
+                "video_results": 41.68298848470052
+            },
+            {
+                "video_path": "./Video/MAGI/B41_06.mp4",
+                "video_results": 48.129547119140625
+            },
+            {
+                "video_path": "./Video/MAGI/B11_04.mp4",
+                "video_results": 70.31937154134114
+            },
+            {
+                "video_path": "./Video/MAGI/B14_08.mp4",
+                "video_results": 55.489013671875
+            },
+            {
+                "video_path": "./Video/MAGI/B41_02.mp4",
+                "video_results": 46.0552978515625
+            },
+            {
+                "video_path": "./Video/MAGI/L3_12_02.mp4",
+                "video_results": 55.177103678385414
+            },
+            {
+                "video_path": "./Video/MAGI/B11_05.mp4",
+                "video_results": 50.41393025716146
+            },
+            {
+                "video_path": "./Video/MAGI/L2_13_01.mp4",
+                "video_results": 51.14447021484375
+            },
+            {
+                "video_path": "./Video/MAGI/L2_11_04.mp4",
+                "video_results": 44.90629577636719
+            },
+            {
+                "video_path": "./Video/MAGI/L4_02_01.mp4",
+                "video_results": 78.21213277180989
+            },
+            {
+                "video_path": "./Video/MAGI/B43_08.mp4",
+                "video_results": 45.60186258951823
+            },
+            {
+                "video_path": "./Video/MAGI/B41_08.mp4",
+                "video_results": 49.218363444010414
+            },
+            {
+                "video_path": "./Video/MAGI/L4_01_04.mp4",
+                "video_results": 70.55571746826172
+            },
+            {
+                "video_path": "./Video/MAGI/L4_06_01.mp4",
+                "video_results": 50.00280253092448
+            },
+            {
+                "video_path": "./Video/MAGI/B41_07.mp4",
+                "video_results": 47.57316589355469
+            },
+            {
+                "video_path": "./Video/MAGI/L4_04_03.mp4",
+                "video_results": 39.1232655843099
+            },
+            {
+                "video_path": "./Video/MAGI/B11_18.mp4",
+                "video_results": 40.24427795410156
+            },
+            {
+                "video_path": "./Video/MAGI/L3_15_04.mp4",
+                "video_results": 58.25081888834635
+            },
+            {
+                "video_path": "./Video/MAGI/L3_11_02.mp4",
+                "video_results": 38.88238525390625
+            },
+            {
+                "video_path": "./Video/MAGI/B13_01.mp4",
+                "video_results": 55.60881551106771
+            },
+            {
+                "video_path": "./Video/MAGI/B14_14.mp4",
+                "video_results": 16.198872884114582
+            },
+            {
+                "video_path": "./Video/MAGI/B34_04.mp4",
+                "video_results": 46.61292012532552
+            },
+            {
+                "video_path": "./Video/MAGI/B52_07.mp4",
+                "video_results": 46.9374033610026
+            },
+            {
+                "video_path": "./Video/MAGI/B43_03.mp4",
+                "video_results": 44.220062255859375
+            },
+            {
+                "video_path": "./Video/MAGI/B42_07.mp4",
+                "video_results": 47.53951517740885
+            },
+            {
+                "video_path": "./Video/MAGI/B11_17.mp4",
+                "video_results": 43.00181579589844
+            },
+            {
+                "video_path": "./Video/MAGI/B11_11.mp4",
+                "video_results": 48.96197509765625
+            },
+            {
+                "video_path": "./Video/MAGI/L2_05_03.mp4",
+                "video_results": 50.85420227050781
+            },
+            {
+                "video_path": "./Video/MAGI/B52_09.mp4",
+                "video_results": 49.13115437825521
+            },
+            {
+                "video_path": "./Video/MAGI/B31_14.mp4",
+                "video_results": 50.0904795328776
+            },
+            {
+                "video_path": "./Video/MAGI/L2_08_01.mp4",
+                "video_results": 41.344329833984375
+            },
+            {
+                "video_path": "./Video/MAGI/B34_06.mp4",
+                "video_results": 47.8370107014974
+            },
+            {
+                "video_path": "./Video/MAGI/L2_18_02.mp4",
+                "video_results": 40.55811055501302
+            },
+            {
+                "video_path": "./Video/MAGI/L2_02_02.mp4",
+                "video_results": 44.99127197265625
+            },
+            {
+                "video_path": "./Video/MAGI/B11_06.mp4",
+                "video_results": 34.191975911458336
+            },
+            {
+                "video_path": "./Video/MAGI/L3_14_03.mp4",
+                "video_results": 36.97217305501302
+            },
+            {
+                "video_path": "./Video/MAGI/L3_08_03.mp4",
+                "video_results": 55.60881551106771
+            },
+            {
+                "video_path": "./Video/MAGI/B21_03.mp4",
+                "video_results": 88.26454671223958
+            },
+            {
+                "video_path": "./Video/MAGI/B33_03.mp4",
+                "video_results": 53.11809794108073
+            },
+            {
+                "video_path": "./Video/MAGI/B22_04.mp4",
+                "video_results": 44.35702006022135
+            },
+            {
+                "video_path": "./Video/MAGI/B13_04.mp4",
+                "video_results": 45.338653564453125
+            },
+            {
+                "video_path": "./Video/MAGI/B21_06.mp4",
+                "video_results": 39.1232655843099
+            },
+            {
+                "video_path": "./Video/MAGI/L2_16_04.mp4",
+                "video_results": 51.17698669433594
+            },
+            {
+                "video_path": "./Video/MAGI/L2_24_01.mp4",
+                "video_results": 46.19104512532552
+            },
+            {
+                "video_path": "./Video/MAGI/B12_02.mp4",
+                "video_results": 38.99278259277344
+            },
+            {
+                "video_path": "./Video/MAGI/B31_07.mp4",
+                "video_results": 46.23409525553385
+            },
+            {
+                "video_path": "./Video/MAGI/B31_13.mp4",
+                "video_results": 50.086873372395836
+            },
+            {
+                "video_path": "./Video/MAGI/L3_07_02.mp4",
+                "video_results": 65.64754740397136
+            },
+            {
+                "video_path": "./Video/MAGI/B14_15.mp4",
+                "video_results": 51.77992248535156
+            },
+            {
+                "video_path": "./Video/MAGI/L4_10_04.mp4",
+                "video_results": 43.68864949544271
+            },
+            {
+                "video_path": "./Video/MAGI/L4_03_02.mp4",
+                "video_results": 59.340576171875
+            },
+            {
+                "video_path": "./Video/MAGI/B15_10.mp4",
+                "video_results": 25.274831136067707
+            },
+            {
+                "video_path": "./Video/MAGI/B43_04.mp4",
+                "video_results": 46.387115478515625
+            },
+            {
+                "video_path": "./Video/MAGI/L2_18_03.mp4",
+                "video_results": 43.059061686197914
+            }
+        ]
+    ]
+}

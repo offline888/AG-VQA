@@ -1,0 +1,1607 @@
+{
+    "imaging_quality": [
+        0.2619608234405517,
+        [
+            {
+                "video_path": "./Video/Lavie/B34_07.mp4",
+                "video_results": 34.026611328125
+            },
+            {
+                "video_path": "./Video/Lavie/B15_11.mp4",
+                "video_results": 17.12994384765625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_07_04.mp4",
+                "video_results": 21.3106689453125
+            },
+            {
+                "video_path": "./Video/Lavie/B42_05.mp4",
+                "video_results": 38.614654541015625
+            },
+            {
+                "video_path": "./Video/Lavie/B42_01.mp4",
+                "video_results": 21.286834716796875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_08_02.mp4",
+                "video_results": 35.469329833984375
+            },
+            {
+                "video_path": "./Video/Lavie/B15_03.mp4",
+                "video_results": 23.86492919921875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_05_04.mp4",
+                "video_results": 41.66748046875
+            },
+            {
+                "video_path": "./Video/Lavie/B31_03.mp4",
+                "video_results": 35.3848876953125
+            },
+            {
+                "video_path": "./Video/Lavie/B21_12.mp4",
+                "video_results": 19.537078857421875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_10_01.mp4",
+                "video_results": 37.1881103515625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_18_01.mp4",
+                "video_results": 15.73846435546875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_15_03.mp4",
+                "video_results": 11.021392822265625
+            },
+            {
+                "video_path": "./Video/Lavie/B14_02.mp4",
+                "video_results": 41.6668701171875
+            },
+            {
+                "video_path": "./Video/Lavie/B51_08.mp4",
+                "video_results": 30.74627685546875
+            },
+            {
+                "video_path": "./Video/Lavie/B21_01.mp4",
+                "video_results": 47.24822998046875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_09_03.mp4",
+                "video_results": 42.61651611328125
+            },
+            {
+                "video_path": "./Video/Lavie/B33_02.mp4",
+                "video_results": 48.85333251953125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_14_04.mp4",
+                "video_results": 36.845855712890625
+            },
+            {
+                "video_path": "./Video/Lavie/B51_04.mp4",
+                "video_results": 16.899505615234375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_10.mp4",
+                "video_results": 27.982208251953125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_04_04.mp4",
+                "video_results": 14.907012939453125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_02_04.mp4",
+                "video_results": 14.84625244140625
+            },
+            {
+                "video_path": "./Video/Lavie/B22_11.mp4",
+                "video_results": 11.045440673828125
+            },
+            {
+                "video_path": "./Video/Lavie/B52_12.mp4",
+                "video_results": 39.854400634765625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_14_04.mp4",
+                "video_results": 38.191558837890625
+            },
+            {
+                "video_path": "./Video/Lavie/B13_08.mp4",
+                "video_results": 22.090240478515625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_06_03.mp4",
+                "video_results": 31.620941162109375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_01_01.mp4",
+                "video_results": 21.38238525390625
+            },
+            {
+                "video_path": "./Video/Lavie/B42_10.mp4",
+                "video_results": 20.6685791015625
+            },
+            {
+                "video_path": "./Video/Lavie/B14_13.mp4",
+                "video_results": 17.3013916015625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_10_04.mp4",
+                "video_results": 31.34747314453125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_10.mp4",
+                "video_results": 14.701568603515625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_03_03.mp4",
+                "video_results": 26.24456787109375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_12_04.mp4",
+                "video_results": 22.837432861328125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_22_04.mp4",
+                "video_results": 58.843414306640625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_20_02.mp4",
+                "video_results": 40.856414794921875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_20_01.mp4",
+                "video_results": 37.95556640625
+            },
+            {
+                "video_path": "./Video/Lavie/B43_05.mp4",
+                "video_results": 25.71087646484375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_06_02.mp4",
+                "video_results": 11.103424072265625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_25_04.mp4",
+                "video_results": 41.85150146484375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_04_01.mp4",
+                "video_results": 27.204498291015625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_01_03.mp4",
+                "video_results": 29.76275634765625
+            },
+            {
+                "video_path": "./Video/Lavie/B11_12.mp4",
+                "video_results": 38.391876220703125
+            },
+            {
+                "video_path": "./Video/Lavie/B33_08.mp4",
+                "video_results": 26.959442138671875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_21_03.mp4",
+                "video_results": 21.87908935546875
+            },
+            {
+                "video_path": "./Video/Lavie/B11_16.mp4",
+                "video_results": 34.34136962890625
+            },
+            {
+                "video_path": "./Video/Lavie/B11_08.mp4",
+                "video_results": 19.651031494140625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_15_04.mp4",
+                "video_results": 16.9287109375
+            },
+            {
+                "video_path": "./Video/Lavie/B52_05.mp4",
+                "video_results": 23.34393310546875
+            },
+            {
+                "video_path": "./Video/Lavie/B22_01.mp4",
+                "video_results": 22.311920166015625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_09_04.mp4",
+                "video_results": 9.58148193359375
+            },
+            {
+                "video_path": "./Video/Lavie/B14_01.mp4",
+                "video_results": 36.774139404296875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_13_02.mp4",
+                "video_results": 21.874725341796875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_19_03.mp4",
+                "video_results": 42.16070556640625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_05.mp4",
+                "video_results": 36.612274169921875
+            },
+            {
+                "video_path": "./Video/Lavie/B31_05.mp4",
+                "video_results": 25.231292724609375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_01_02.mp4",
+                "video_results": 40.651214599609375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_02_01.mp4",
+                "video_results": 20.60626220703125
+            },
+            {
+                "video_path": "./Video/Lavie/B51_03.mp4",
+                "video_results": 30.375640869140625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_10_03.mp4",
+                "video_results": 6.813079833984375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_12_04.mp4",
+                "video_results": 11.05224609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_03_03.mp4",
+                "video_results": 17.568572998046875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_04_02.mp4",
+                "video_results": 9.99468994140625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_05_03.mp4",
+                "video_results": -1.941802978515625
+            },
+            {
+                "video_path": "./Video/Lavie/B13_12.mp4",
+                "video_results": 31.739776611328125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_05_01.mp4",
+                "video_results": 6.24151611328125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_04_04.mp4",
+                "video_results": 30.967498779296875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_14_02.mp4",
+                "video_results": 6.495819091796875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_17_02.mp4",
+                "video_results": 17.876800537109375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_07_01.mp4",
+                "video_results": 16.381011962890625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_07.mp4",
+                "video_results": 34.70416259765625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_08_04.mp4",
+                "video_results": 28.4173583984375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_04.mp4",
+                "video_results": 23.19195556640625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_14_01.mp4",
+                "video_results": 18.976837158203125
+            },
+            {
+                "video_path": "./Video/Lavie/B51_05.mp4",
+                "video_results": 22.96978759765625
+            },
+            {
+                "video_path": "./Video/Lavie/B21_08.mp4",
+                "video_results": 29.249267578125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_06_02.mp4",
+                "video_results": 26.0145263671875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_08_01.mp4",
+                "video_results": 24.250091552734375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_05_02.mp4",
+                "video_results": 44.37274169921875
+            },
+            {
+                "video_path": "./Video/Lavie/B13_10.mp4",
+                "video_results": 40.5103759765625
+            },
+            {
+                "video_path": "./Video/Lavie/B21_02.mp4",
+                "video_results": 23.944854736328125
+            },
+            {
+                "video_path": "./Video/Lavie/B32_11.mp4",
+                "video_results": 27.918487548828125
+            },
+            {
+                "video_path": "./Video/Lavie/B32_04.mp4",
+                "video_results": 13.267822265625
+            },
+            {
+                "video_path": "./Video/Lavie/B22_10.mp4",
+                "video_results": 52.9254150390625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_04_02.mp4",
+                "video_results": 43.089508056640625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_16_02.mp4",
+                "video_results": 23.40478515625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_05_02.mp4",
+                "video_results": 16.12017822265625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_10_03.mp4",
+                "video_results": 22.865753173828125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_05_04.mp4",
+                "video_results": 35.661468505859375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_01.mp4",
+                "video_results": 35.699249267578125
+            },
+            {
+                "video_path": "./Video/Lavie/B11_10.mp4",
+                "video_results": 30.760711669921875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_13_04.mp4",
+                "video_results": 21.737091064453125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_25_02.mp4",
+                "video_results": 7.63763427734375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_05_01.mp4",
+                "video_results": 7.602386474609375
+            },
+            {
+                "video_path": "./Video/Lavie/B14_05.mp4",
+                "video_results": 14.651519775390625
+            },
+            {
+                "video_path": "./Video/Lavie/B43_01.mp4",
+                "video_results": 15.151519775390625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_15_03.mp4",
+                "video_results": 27.891448974609375
+            },
+            {
+                "video_path": "./Video/Lavie/B42_03.mp4",
+                "video_results": 32.19842529296875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_06_01.mp4",
+                "video_results": 35.912261962890625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_09_03.mp4",
+                "video_results": 25.60662841796875
+            },
+            {
+                "video_path": "./Video/Lavie/B22_03.mp4",
+                "video_results": 48.550689697265625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_08.mp4",
+                "video_results": 65.055419921875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_03_01.mp4",
+                "video_results": 12.783966064453125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_06_04.mp4",
+                "video_results": 27.532470703125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_15_02.mp4",
+                "video_results": 28.29412841796875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_02_03.mp4",
+                "video_results": 38.558837890625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_01_02.mp4",
+                "video_results": 23.031646728515625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_14_02.mp4",
+                "video_results": 39.6165771484375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_02_03.mp4",
+                "video_results": -2.235931396484375
+            },
+            {
+                "video_path": "./Video/Lavie/B52_08.mp4",
+                "video_results": -0.97601318359375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_04_02.mp4",
+                "video_results": 79.74166870117188
+            },
+            {
+                "video_path": "./Video/Lavie/B51_10.mp4",
+                "video_results": 5.34283447265625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_12_03.mp4",
+                "video_results": 11.5274658203125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_12.mp4",
+                "video_results": 16.239898681640625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_13_02.mp4",
+                "video_results": 38.99420166015625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_21_02.mp4",
+                "video_results": 97.26094055175781
+            },
+            {
+                "video_path": "./Video/Lavie/L4_08_03.mp4",
+                "video_results": 11.5594482421875
+            },
+            {
+                "video_path": "./Video/Lavie/B43_11.mp4",
+                "video_results": 5.14404296875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_21_01.mp4",
+                "video_results": 31.80902099609375
+            },
+            {
+                "video_path": "./Video/Lavie/B11_07.mp4",
+                "video_results": 59.599151611328125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_15_02.mp4",
+                "video_results": 20.142181396484375
+            },
+            {
+                "video_path": "./Video/Lavie/B42_02.mp4",
+                "video_results": 7.3863525390625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_14_03.mp4",
+                "video_results": 19.879150390625
+            },
+            {
+                "video_path": "./Video/Lavie/B31_08.mp4",
+                "video_results": 30.152435302734375
+            },
+            {
+                "video_path": "./Video/Lavie/B42_12.mp4",
+                "video_results": 41.99658203125
+            },
+            {
+                "video_path": "./Video/Lavie/B52_02.mp4",
+                "video_results": 30.201385498046875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_12_01.mp4",
+                "video_results": 29.079788208007812
+            },
+            {
+                "video_path": "./Video/Lavie/L4_02_02.mp4",
+                "video_results": 23.287353515625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_19_01.mp4",
+                "video_results": 31.4407958984375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_07_04.mp4",
+                "video_results": 43.424957275390625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_10.mp4",
+                "video_results": 31.46856689453125
+            },
+            {
+                "video_path": "./Video/Lavie/B21_10.mp4",
+                "video_results": 34.015838623046875
+            },
+            {
+                "video_path": "./Video/Lavie/B21_11.mp4",
+                "video_results": 30.5377197265625
+            },
+            {
+                "video_path": "./Video/Lavie/B15_05.mp4",
+                "video_results": -8.5272216796875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_06_03.mp4",
+                "video_results": 15.2095947265625
+            },
+            {
+                "video_path": "./Video/Lavie/B41_11.mp4",
+                "video_results": -0.777008056640625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_02_01.mp4",
+                "video_results": 34.33062744140625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_06.mp4",
+                "video_results": 32.89306640625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_09_02.mp4",
+                "video_results": 6.497467041015625
+            },
+            {
+                "video_path": "./Video/Lavie/B22_08.mp4",
+                "video_results": 26.39788818359375
+            },
+            {
+                "video_path": "./Video/Lavie/B14_10.mp4",
+                "video_results": 38.721771240234375
+            },
+            {
+                "video_path": "./Video/Lavie/B43_09.mp4",
+                "video_results": 9.262664794921875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_07_02.mp4",
+                "video_results": 36.542388916015625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_08_04.mp4",
+                "video_results": 12.7374267578125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_04.mp4",
+                "video_results": 23.618804931640625
+            },
+            {
+                "video_path": "./Video/Lavie/B51_01.mp4",
+                "video_results": 3.473846435546875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_19_04.mp4",
+                "video_results": 36.4755859375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_07_04.mp4",
+                "video_results": 24.209808349609375
+            },
+            {
+                "video_path": "./Video/Lavie/B32_02.mp4",
+                "video_results": 6.70953369140625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_06_04.mp4",
+                "video_results": 0.553070068359375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_01_04.mp4",
+                "video_results": 17.819244384765625
+            },
+            {
+                "video_path": "./Video/Lavie/B22_09.mp4",
+                "video_results": -4.860260009765625
+            },
+            {
+                "video_path": "./Video/Lavie/B51_02.mp4",
+                "video_results": 24.182952880859375
+            },
+            {
+                "video_path": "./Video/Lavie/B22_06.mp4",
+                "video_results": 47.13153076171875
+            },
+            {
+                "video_path": "./Video/Lavie/B34_08.mp4",
+                "video_results": 33.35552978515625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_04.mp4",
+                "video_results": 16.844573974609375
+            },
+            {
+                "video_path": "./Video/Lavie/B43_07.mp4",
+                "video_results": 12.5904541015625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_09.mp4",
+                "video_results": 20.569000244140625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_10_03.mp4",
+                "video_results": 24.157257080078125
+            },
+            {
+                "video_path": "./Video/Lavie/B34_05.mp4",
+                "video_results": 48.91998291015625
+            },
+            {
+                "video_path": "./Video/Lavie/B21_09.mp4",
+                "video_results": 27.58953857421875
+            },
+            {
+                "video_path": "./Video/Lavie/B51_06.mp4",
+                "video_results": 57.520050048828125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_08_01.mp4",
+                "video_results": 3.523345947265625
+            },
+            {
+                "video_path": "./Video/Lavie/B15_01.mp4",
+                "video_results": 61.854461669921875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_01_03.mp4",
+                "video_results": 10.61572265625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_16_03.mp4",
+                "video_results": 34.70587158203125
+            },
+            {
+                "video_path": "./Video/Lavie/B14_09.mp4",
+                "video_results": 14.69390869140625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_12_03.mp4",
+                "video_results": 32.489776611328125
+            },
+            {
+                "video_path": "./Video/Lavie/B51_09.mp4",
+                "video_results": 29.09088134765625
+            },
+            {
+                "video_path": "./Video/Lavie/B32_06.mp4",
+                "video_results": 23.03167724609375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_10_02.mp4",
+                "video_results": 7.86285400390625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_24_02.mp4",
+                "video_results": 14.208984375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_09.mp4",
+                "video_results": 17.968780517578125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_07_03.mp4",
+                "video_results": 0.53875732421875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_03_02.mp4",
+                "video_results": 67.88502502441406
+            },
+            {
+                "video_path": "./Video/Lavie/B43_10.mp4",
+                "video_results": 2.0189208984375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_09_01.mp4",
+                "video_results": 28.007843017578125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_20_04.mp4",
+                "video_results": 13.1763916015625
+            },
+            {
+                "video_path": "./Video/Lavie/B34_01.mp4",
+                "video_results": 50.866058349609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_02_04.mp4",
+                "video_results": 17.906280517578125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_02_02.mp4",
+                "video_results": 12.05712890625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_01.mp4",
+                "video_results": 40.338592529296875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_24_03.mp4",
+                "video_results": 18.845703125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_20_03.mp4",
+                "video_results": 43.63372802734375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_06_03.mp4",
+                "video_results": 19.3436279296875
+            },
+            {
+                "video_path": "./Video/Lavie/B22_12.mp4",
+                "video_results": 22.54833984375
+            },
+            {
+                "video_path": "./Video/Lavie/B31_01.mp4",
+                "video_results": 23.816864013671875
+            },
+            {
+                "video_path": "./Video/Lavie/B14_03.mp4",
+                "video_results": 13.18450927734375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_06.mp4",
+                "video_results": 23.22552490234375
+            },
+            {
+                "video_path": "./Video/Lavie/B13_02.mp4",
+                "video_results": 16.29791259765625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_03_03.mp4",
+                "video_results": 7.862213134765625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_12_01.mp4",
+                "video_results": 37.499267578125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_05_03.mp4",
+                "video_results": -12.984100341796875
+            },
+            {
+                "video_path": "./Video/Lavie/B52_04.mp4",
+                "video_results": 65.56112670898438
+            },
+            {
+                "video_path": "./Video/Lavie/B52_01.mp4",
+                "video_results": 40.898284912109375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_03_04.mp4",
+                "video_results": 50.40966796875
+            },
+            {
+                "video_path": "./Video/Lavie/B15_02.mp4",
+                "video_results": -10.47662353515625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_05_01.mp4",
+                "video_results": 39.799652099609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_13_03.mp4",
+                "video_results": 19.474365234375
+            },
+            {
+                "video_path": "./Video/Lavie/B11_09.mp4",
+                "video_results": 5.359954833984375
+            },
+            {
+                "video_path": "./Video/Lavie/B13_05.mp4",
+                "video_results": 13.737152099609375
+            },
+            {
+                "video_path": "./Video/Lavie/B15_07.mp4",
+                "video_results": 56.52745056152344
+            },
+            {
+                "video_path": "./Video/Lavie/L2_03_01.mp4",
+                "video_results": 30.736419677734375
+            },
+            {
+                "video_path": "./Video/Lavie/B42_08.mp4",
+                "video_results": 29.64404296875
+            },
+            {
+                "video_path": "./Video/Lavie/B32_03.mp4",
+                "video_results": 35.11712646484375
+            },
+            {
+                "video_path": "./Video/Lavie/B14_06.mp4",
+                "video_results": 31.893341064453125
+            },
+            {
+                "video_path": "./Video/Lavie/B34_10.mp4",
+                "video_results": 42.212860107421875
+            },
+            {
+                "video_path": "./Video/Lavie/B21_14.mp4",
+                "video_results": 31.86279296875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_13_04.mp4",
+                "video_results": 29.455718994140625
+            },
+            {
+                "video_path": "./Video/Lavie/B31_06.mp4",
+                "video_results": 32.606781005859375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_03_04.mp4",
+                "video_results": 25.921661376953125
+            },
+            {
+                "video_path": "./Video/Lavie/B34_03.mp4",
+                "video_results": 51.955291748046875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_15_01.mp4",
+                "video_results": 33.230010986328125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_17_01.mp4",
+                "video_results": 13.859344482421875
+            },
+            {
+                "video_path": "./Video/Lavie/B21_04.mp4",
+                "video_results": 39.73651123046875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_06_01.mp4",
+                "video_results": 34.8509521484375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_01_01.mp4",
+                "video_results": 7.55889892578125
+            },
+            {
+                "video_path": "./Video/Lavie/B31_09.mp4",
+                "video_results": 34.06414794921875
+            },
+            {
+                "video_path": "./Video/Lavie/B31_04.mp4",
+                "video_results": 23.99713134765625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_12.mp4",
+                "video_results": 63.798126220703125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_09_01.mp4",
+                "video_results": 25.767486572265625
+            },
+            {
+                "video_path": "./Video/Lavie/B22_05.mp4",
+                "video_results": 22.2181396484375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_19_02.mp4",
+                "video_results": 13.66058349609375
+            },
+            {
+                "video_path": "./Video/Lavie/B14_07.mp4",
+                "video_results": 14.8255615234375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_04_04.mp4",
+                "video_results": 41.910125732421875
+            },
+            {
+                "video_path": "./Video/Lavie/B13_06.mp4",
+                "video_results": 26.042724609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_01_04.mp4",
+                "video_results": 6.448455810546875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_09_02.mp4",
+                "video_results": 24.011199951171875
+            },
+            {
+                "video_path": "./Video/Lavie/B43_02.mp4",
+                "video_results": 11.09112548828125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_17_03.mp4",
+                "video_results": 14.550140380859375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_07_02.mp4",
+                "video_results": -16.721649169921875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_09_04.mp4",
+                "video_results": 11.078216552734375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_11_04.mp4",
+                "video_results": 52.746795654296875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_10_01.mp4",
+                "video_results": 16.931671142578125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_03_04.mp4",
+                "video_results": 27.74798583984375
+            },
+            {
+                "video_path": "./Video/Lavie/B15_09.mp4",
+                "video_results": 15.628204345703125
+            },
+            {
+                "video_path": "./Video/Lavie/B31_11.mp4",
+                "video_results": 18.696807861328125
+            },
+            {
+                "video_path": "./Video/Lavie/B13_07.mp4",
+                "video_results": 32.29022216796875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_05_04.mp4",
+                "video_results": 47.37420654296875
+            },
+            {
+                "video_path": "./Video/Lavie/B11_01.mp4",
+                "video_results": 39.624755859375
+            },
+            {
+                "video_path": "./Video/Lavie/B15_12.mp4",
+                "video_results": 19.272552490234375
+            },
+            {
+                "video_path": "./Video/Lavie/B34_02.mp4",
+                "video_results": 32.2724609375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_01_03.mp4",
+                "video_results": 26.256561279296875
+            },
+            {
+                "video_path": "./Video/Lavie/B32_07.mp4",
+                "video_results": 16.542236328125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_22_01.mp4",
+                "video_results": 14.255218505859375
+            },
+            {
+                "video_path": "./Video/Lavie/B51_07.mp4",
+                "video_results": 23.426239013671875
+            },
+            {
+                "video_path": "./Video/Lavie/B34_09.mp4",
+                "video_results": 44.351043701171875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_23_04.mp4",
+                "video_results": 30.768310546875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_03_01.mp4",
+                "video_results": 72.5147705078125
+            },
+            {
+                "video_path": "./Video/Lavie/B43_06.mp4",
+                "video_results": 30.54278564453125
+            },
+            {
+                "video_path": "./Video/Lavie/B14_11.mp4",
+                "video_results": 30.651397705078125
+            },
+            {
+                "video_path": "./Video/Lavie/B13_09.mp4",
+                "video_results": 11.341033935546875
+            },
+            {
+                "video_path": "./Video/Lavie/B32_01.mp4",
+                "video_results": 34.44248962402344
+            },
+            {
+                "video_path": "./Video/Lavie/L3_11_03.mp4",
+                "video_results": 48.619903564453125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_17_04.mp4",
+                "video_results": 19.287811279296875
+            },
+            {
+                "video_path": "./Video/Lavie/B31_02.mp4",
+                "video_results": 24.1204833984375
+            },
+            {
+                "video_path": "./Video/Lavie/B11_02.mp4",
+                "video_results": 14.731597900390625
+            },
+            {
+                "video_path": "./Video/Lavie/B41_05.mp4",
+                "video_results": 21.408233642578125
+            },
+            {
+                "video_path": "./Video/Lavie/B11_14.mp4",
+                "video_results": 19.256011962890625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_07_01.mp4",
+                "video_results": 13.871612548828125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_06_02.mp4",
+                "video_results": 30.060699462890625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_09_04.mp4",
+                "video_results": 34.046661376953125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_04_01.mp4",
+                "video_results": 28.648406982421875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_10_01.mp4",
+                "video_results": 15.28924560546875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_08_02.mp4",
+                "video_results": 21.68890380859375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_13_01.mp4",
+                "video_results": 14.160491943359375
+            },
+            {
+                "video_path": "./Video/Lavie/B52_06.mp4",
+                "video_results": 29.121002197265625
+            },
+            {
+                "video_path": "./Video/Lavie/B42_09.mp4",
+                "video_results": 36.10577392578125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_04_03.mp4",
+                "video_results": 11.1123046875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_07_03.mp4",
+                "video_results": 24.60357666015625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_03_02.mp4",
+                "video_results": 63.12626647949219
+            },
+            {
+                "video_path": "./Video/Lavie/B32_05.mp4",
+                "video_results": 20.55072021484375
+            },
+            {
+                "video_path": "./Video/Lavie/B32_08.mp4",
+                "video_results": 24.787994384765625
+            },
+            {
+                "video_path": "./Video/Lavie/B41_09.mp4",
+                "video_results": 26.294891357421875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_25_01.mp4",
+                "video_results": 31.85693359375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_23_01.mp4",
+                "video_results": 6.9512939453125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_04_03.mp4",
+                "video_results": 3.333984375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_02_03.mp4",
+                "video_results": 35.2318115234375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_11_01.mp4",
+                "video_results": 55.228973388671875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_01_01.mp4",
+                "video_results": 11.1363525390625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_09_03.mp4",
+                "video_results": 4.254547119140625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_22_03.mp4",
+                "video_results": 30.025421142578125
+            },
+            {
+                "video_path": "./Video/Lavie/B21_13.mp4",
+                "video_results": 26.42620849609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_21_04.mp4",
+                "video_results": 40.8297119140625
+            },
+            {
+                "video_path": "./Video/Lavie/B52_10.mp4",
+                "video_results": 26.365264892578125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_22_02.mp4",
+                "video_results": 15.21466064453125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_25_03.mp4",
+                "video_results": 17.994964599609375
+            },
+            {
+                "video_path": "./Video/Lavie/B32_09.mp4",
+                "video_results": 11.327362060546875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_07_01.mp4",
+                "video_results": 2.3621826171875
+            },
+            {
+                "video_path": "./Video/Lavie/B13_11.mp4",
+                "video_results": 8.71319580078125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_10_02.mp4",
+                "video_results": 30.313323974609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_18_04.mp4",
+                "video_results": 27.546844482421875
+            },
+            {
+                "video_path": "./Video/Lavie/B15_06.mp4",
+                "video_results": 25.107666015625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_23_03.mp4",
+                "video_results": 8.877593994140625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_23_02.mp4",
+                "video_results": 45.57379150390625
+            },
+            {
+                "video_path": "./Video/Lavie/B41_03.mp4",
+                "video_results": 45.151275634765625
+            },
+            {
+                "video_path": "./Video/Lavie/B42_11.mp4",
+                "video_results": 28.13323974609375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_05.mp4",
+                "video_results": 25.343475341796875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_24_04.mp4",
+                "video_results": 23.057952880859375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_04_01.mp4",
+                "video_results": 20.655120849609375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_08_03.mp4",
+                "video_results": 26.069732666015625
+            },
+            {
+                "video_path": "./Video/Lavie/B13_03.mp4",
+                "video_results": 30.862152099609375
+            },
+            {
+                "video_path": "./Video/Lavie/B42_04.mp4",
+                "video_results": 42.436309814453125
+            },
+            {
+                "video_path": "./Video/Lavie/B32_10.mp4",
+                "video_results": 27.148223876953125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_12_02.mp4",
+                "video_results": 29.3017578125
+            },
+            {
+                "video_path": "./Video/Lavie/B51_12.mp4",
+                "video_results": 16.619384765625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_07_03.mp4",
+                "video_results": 22.8173828125
+            },
+            {
+                "video_path": "./Video/Lavie/B21_07.mp4",
+                "video_results": 35.821441650390625
+            },
+            {
+                "video_path": "./Video/Lavie/B15_04.mp4",
+                "video_results": 1.64276123046875
+            },
+            {
+                "video_path": "./Video/Lavie/B12_03.mp4",
+                "video_results": 30.098358154296875
+            },
+            {
+                "video_path": "./Video/Lavie/B51_11.mp4",
+                "video_results": 44.72930908203125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_01.mp4",
+                "video_results": 32.257080078125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_02_04.mp4",
+                "video_results": 27.327545166015625
+            },
+            {
+                "video_path": "./Video/Lavie/B31_12.mp4",
+                "video_results": 25.8671875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_11_01.mp4",
+                "video_results": 23.8414306640625
+            },
+            {
+                "video_path": "./Video/Lavie/B22_07.mp4",
+                "video_results": 42.306915283203125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_11_02.mp4",
+                "video_results": 30.894866943359375
+            },
+            {
+                "video_path": "./Video/Lavie/B21_05.mp4",
+                "video_results": 19.995086669921875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_08_02.mp4",
+                "video_results": 12.60089111328125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_06_04.mp4",
+                "video_results": 27.685272216796875
+            },
+            {
+                "video_path": "./Video/Lavie/B22_02.mp4",
+                "video_results": 25.15447998046875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_16_01.mp4",
+                "video_results": 48.842864990234375
+            },
+            {
+                "video_path": "./Video/Lavie/B15_08.mp4",
+                "video_results": 27.385955810546875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_09_01.mp4",
+                "video_results": 29.277130126953125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_01_02.mp4",
+                "video_results": 7.719024658203125
+            },
+            {
+                "video_path": "./Video/Lavie/B11_15.mp4",
+                "video_results": 24.232574462890625
+            },
+            {
+                "video_path": "./Video/Lavie/B52_11.mp4",
+                "video_results": 15.32427978515625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_05_02.mp4",
+                "video_results": 37.11181640625
+            },
+            {
+                "video_path": "./Video/Lavie/B31_10.mp4",
+                "video_results": 17.91412353515625
+            },
+            {
+                "video_path": "./Video/Lavie/B12_11.mp4",
+                "video_results": 21.140167236328125
+            },
+            {
+                "video_path": "./Video/Lavie/B11_13.mp4",
+                "video_results": 24.812713623046875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_10_04.mp4",
+                "video_results": 39.4752197265625
+            },
+            {
+                "video_path": "./Video/Lavie/B42_06.mp4",
+                "video_results": 29.00115966796875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_09_02.mp4",
+                "video_results": 28.535308837890625
+            },
+            {
+                "video_path": "./Video/Lavie/B14_12.mp4",
+                "video_results": 7.020355224609375
+            },
+            {
+                "video_path": "./Video/Lavie/B11_03.mp4",
+                "video_results": -7.549774169921875
+            },
+            {
+                "video_path": "./Video/Lavie/B14_04.mp4",
+                "video_results": 27.600433349609375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_15_01.mp4",
+                "video_results": 18.845001220703125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_13.mp4",
+                "video_results": 5.13421630859375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_13_03.mp4",
+                "video_results": 66.35305786132812
+            },
+            {
+                "video_path": "./Video/Lavie/L2_14_01.mp4",
+                "video_results": -0.51641845703125
+            },
+            {
+                "video_path": "./Video/Lavie/L2_11_03.mp4",
+                "video_results": 13.967193603515625
+            },
+            {
+                "video_path": "./Video/Lavie/B52_03.mp4",
+                "video_results": 43.51898193359375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_08_04.mp4",
+                "video_results": 32.507904052734375
+            },
+            {
+                "video_path": "./Video/Lavie/B33_07.mp4",
+                "video_results": 16.5252685546875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_10_02.mp4",
+                "video_results": 54.60260009765625
+            },
+            {
+                "video_path": "./Video/Lavie/B41_06.mp4",
+                "video_results": 28.825042724609375
+            },
+            {
+                "video_path": "./Video/Lavie/B11_04.mp4",
+                "video_results": 25.7958984375
+            },
+            {
+                "video_path": "./Video/Lavie/B14_08.mp4",
+                "video_results": 46.569122314453125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_02.mp4",
+                "video_results": 51.18157958984375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_12_02.mp4",
+                "video_results": 38.135345458984375
+            },
+            {
+                "video_path": "./Video/Lavie/B11_05.mp4",
+                "video_results": 18.275238037109375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_13_01.mp4",
+                "video_results": 3.17498779296875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_11_04.mp4",
+                "video_results": 16.96710205078125
+            },
+            {
+                "video_path": "./Video/Lavie/L4_02_01.mp4",
+                "video_results": 37.324188232421875
+            },
+            {
+                "video_path": "./Video/Lavie/B43_08.mp4",
+                "video_results": 9.774078369140625
+            },
+            {
+                "video_path": "./Video/Lavie/B41_08.mp4",
+                "video_results": 32.506317138671875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_01_04.mp4",
+                "video_results": 6.102691650390625
+            },
+            {
+                "video_path": "./Video/Lavie/L4_06_01.mp4",
+                "video_results": 40.2657470703125
+            },
+            {
+                "video_path": "./Video/Lavie/B41_07.mp4",
+                "video_results": 22.5340576171875
+            },
+            {
+                "video_path": "./Video/Lavie/L4_04_03.mp4",
+                "video_results": 9.519775390625
+            },
+            {
+                "video_path": "./Video/Lavie/B11_18.mp4",
+                "video_results": 24.90997314453125
+            },
+            {
+                "video_path": "./Video/Lavie/L3_15_04.mp4",
+                "video_results": 49.9222412109375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_11_02.mp4",
+                "video_results": 56.543212890625
+            },
+            {
+                "video_path": "./Video/Lavie/B13_01.mp4",
+                "video_results": 22.482208251953125
+            },
+            {
+                "video_path": "./Video/Lavie/B14_14.mp4",
+                "video_results": 9.41583251953125
+            },
+            {
+                "video_path": "./Video/Lavie/B34_04.mp4",
+                "video_results": 35.543701171875
+            },
+            {
+                "video_path": "./Video/Lavie/B52_07.mp4",
+                "video_results": 32.98370361328125
+            },
+            {
+                "video_path": "./Video/Lavie/B43_03.mp4",
+                "video_results": 22.47869873046875
+            },
+            {
+                "video_path": "./Video/Lavie/B42_07.mp4",
+                "video_results": 28.985260009765625
+            },
+            {
+                "video_path": "./Video/Lavie/B11_17.mp4",
+                "video_results": 13.75506591796875
+            },
+            {
+                "video_path": "./Video/Lavie/B11_11.mp4",
+                "video_results": 26.6116943359375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_05_03.mp4",
+                "video_results": 0.753875732421875
+            },
+            {
+                "video_path": "./Video/Lavie/B52_09.mp4",
+                "video_results": 25.3516845703125
+            },
+            {
+                "video_path": "./Video/Lavie/B31_14.mp4",
+                "video_results": 63.277252197265625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_08_01.mp4",
+                "video_results": 21.427978515625
+            },
+            {
+                "video_path": "./Video/Lavie/B34_06.mp4",
+                "video_results": 32.098114013671875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_18_02.mp4",
+                "video_results": 38.59832763671875
+            },
+            {
+                "video_path": "./Video/Lavie/L2_02_02.mp4",
+                "video_results": 41.814361572265625
+            },
+            {
+                "video_path": "./Video/Lavie/B11_06.mp4",
+                "video_results": 35.81060791015625
+            },
+            {
+                "video_path": "./Video/Lavie/L3_14_03.mp4",
+                "video_results": 34.06024169921875
+            },
+            {
+                "video_path": "./Video/Lavie/L3_08_03.mp4",
+                "video_results": 44.01873779296875
+            },
+            {
+                "video_path": "./Video/Lavie/B21_03.mp4",
+                "video_results": 34.31327819824219
+            },
+            {
+                "video_path": "./Video/Lavie/B33_03.mp4",
+                "video_results": 30.522491455078125
+            },
+            {
+                "video_path": "./Video/Lavie/B22_04.mp4",
+                "video_results": 39.51727294921875
+            },
+            {
+                "video_path": "./Video/Lavie/B13_04.mp4",
+                "video_results": 2.134613037109375
+            },
+            {
+                "video_path": "./Video/Lavie/B21_06.mp4",
+                "video_results": 16.631500244140625
+            },
+            {
+                "video_path": "./Video/Lavie/L2_16_04.mp4",
+                "video_results": 5.1820068359375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_24_01.mp4",
+                "video_results": 26.51361083984375
+            },
+            {
+                "video_path": "./Video/Lavie/B12_02.mp4",
+                "video_results": 10.776702880859375
+            },
+            {
+                "video_path": "./Video/Lavie/B31_07.mp4",
+                "video_results": 30.50823974609375
+            },
+            {
+                "video_path": "./Video/Lavie/B31_13.mp4",
+                "video_results": 13.62103271484375
+            },
+            {
+                "video_path": "./Video/Lavie/L3_07_02.mp4",
+                "video_results": 26.03631591796875
+            },
+            {
+                "video_path": "./Video/Lavie/B14_15.mp4",
+                "video_results": 15.07757568359375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_10_04.mp4",
+                "video_results": 20.48089599609375
+            },
+            {
+                "video_path": "./Video/Lavie/L4_03_02.mp4",
+                "video_results": 3.43341064453125
+            },
+            {
+                "video_path": "./Video/Lavie/B15_10.mp4",
+                "video_results": 26.935791015625
+            },
+            {
+                "video_path": "./Video/Lavie/B43_04.mp4",
+                "video_results": 26.82806396484375
+            },
+            {
+                "video_path": "./Video/Lavie/L2_18_03.mp4",
+                "video_results": 39.9066162109375
+            }
+        ]
+    ]
+}
