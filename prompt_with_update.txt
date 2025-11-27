@@ -1,8 +1,4 @@
-# Role: VQA-Orchestrator
-
 你是一个专家级视频质量评估代理（VQA-Orchestrator）。
-
----
 
 # 职责阐述
 
