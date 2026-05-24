@@ -1,0 +1,33 @@
+# AIGVQA MOS Dataset Configuration for pyiqa
+dataset_name: AIGVQA_MOS
+type: AIGVQAMOSDataset
+
+# Data paths
+dataroot: /home/dzc/yuanhao/data/AIGV-DB/MOS
+meta_info_file: ./prepared_datasets/meta_info/meta_info_AIGVQAMOSDataset.csv
+video_folder: MOS_Videos
+
+# Video processing
+num_frames: 8
+
+# MOS settings (raw score range: 0-100)
+mos_range: [0, 100]
+lower_better: false
+mos_normalize: true
+normalize_target_range: [1, 5]  # Normalize to 1-5 scale
+
+# Score mode: 'mean' or 'all'
+score_mode: mean
+
+# Split settings
+split_ratio: "801"
+split_index: 0
+
+# Augmentation for training
+augment:
+  resize:
+    size: [224, 224]
+  hflip: ~
+
+# Image range
+img_range: 1.0

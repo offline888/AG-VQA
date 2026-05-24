@@ -1,0 +1,26 @@
+dataset: VideoFeedback2_VQ
+data_root: /path/to/your/VideoFeedback2
+phase: train
+name: VideoFeedback2_VQ_train
+
+type: VideoFeedback2Dataset
+dataroot: /path/to/your/VideoFeedback2
+meta_info_file: /path/to/your/VideoFeedback2/data_27k_train_SFT.json
+video_folder: videos
+num_frames: 8
+dimension: vq  # Options: vq (visual quality), t2v (text-to-video alignment), pc (physical consistency), all
+
+mos_range: [1, 5]
+lower_better: false
+mos_normalize: false
+
+augment:
+  random_crop:
+    size: 224
+  random_square_resize:
+    size_range: [256, 384]
+  hflip: {}
+
+batch_size_per_gpu: 8
+num_worker_per_gpu: 4
+dataset_enlarge_ratio: 1

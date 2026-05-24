@@ -1,0 +1,162 @@
+name: PEVQA_Baseline_T2VQA_5fold
+model_type: PEVQABaselineModel
+num_gpu: 1
+manual_seed: 42
+
+network:
+  type: PEVQA_Baseline
+  backbone: PE-Core-B16-224
+  device: cuda
+
+train:
+  optim:
+    type: AdamW
+    lr: 1.0e-4
+    weight_decay: 0.01
+    betas: [0.9, 0.999]
+
+  total_iter: 30000
+  warmup_iter: 1000
+
+  scheduler:
+    type: CosineAnnealingLR
+    T_max: 30000
+    eta_min: 1.0e-6
+
+  mos_loss_opt:
+    type: MSELoss
+    loss_weight: 1.0
+
+  metric_loss_opt:
+    type: PLCCLoss
+    loss_weight: 0.5
+
+  pixel_config:
+    loss_scaling: 1.0
+
+logger:
+  print_freq: 100
+  save_checkpoint_freq: 5000
+  save_latest_freq: 5000
+  use_tb_logger: false
+
+val:
+  val_freq: 100
+  save_img: false
+  save_quiet: true
+  pbar: true
+  key_metric: srcc
+  max_val_samples: 100
+
+  metrics:
+    T2VQA_val:
+      srcc:
+        type: calculate_srcc
+      plcc:
+        type: calculate_plcc
+      krcc:
+        type: calculate_krcc
+    AIGVQA_MOS:
+      srcc:
+        type: calculate_srcc
+      plcc:
+        type: calculate_plcc
+      krcc:
+        type: calculate_krcc
+
+datasets:
+  train:
+    name: T2VQA
+    type: T2VQADataset
+    dataroot: /home/dzc/yuanhao/data/T2VQA-DB
+    meta_info_file: ./prepared_datasets/meta_info/meta_info_T2VQADataset.csv
+    video_folder: ~
+
+    num_frames: 8
+    phase: train
+
+    split_ratio: "801"
+    split_index: 0
+
+    mos_range: [0, 100]
+    lower_better: false
+    mos_normalize: false
+
+    augment:
+      resize:
+        size: [224, 224]
+      hflip: ~
+
+    img_range: 1.0
+
+    use_shuffle: true
+    num_worker_per_gpu: 16
+    batch_size_per_gpu: 16
+    dataset_enlarge_ratio: 1
+
+  val:
+    name: T2VQA_val
+    type: T2VQADataset
+    dataroot: /home/dzc/yuanhao/data/T2VQA-DB
+    meta_info_file: ./prepared_datasets/meta_info/meta_info_T2VQADataset.csv
+    video_folder: ~
+
+    num_frames: 8
+    phase: val
+
+    split_ratio: "801"
+    split_index: 0
+
+    mos_range: [0, 100]
+    lower_better: false
+    mos_normalize: false
+
+    img_range: 1.0
+
+    num_worker_per_gpu: 16
+    batch_size_per_gpu: 16
+    dataset_enlarge_ratio: 1
+
+    max_val_samples: 100
+
+  val_AIGVQA:
+    name: AIGVQA_MOS
+    type: AIGVQAMOSDataset
+    dataroot: /home/dzc/yuanhao/data/AIGV-DB/MOS
+    meta_info_file: ./prepared_datasets/meta_info/meta_info_AIGVQAMOSDataset.csv
+    video_folder: MOS_Videos
+
+    num_frames: 8
+    phase: val
+
+    augment:
+      resize:
+        size: [224, 224]
+
+    mos_range: [0, 100]
+    lower_better: false
+    mos_normalize: true
+    normalize_target_range: [1, 5]
+    score_mode: mean
+
+    img_range: 1.0
+
+    num_worker_per_gpu: 16
+    batch_size_per_gpu: 16
+    dataset_enlarge_ratio: 1
+
+    max_val_samples: 500
+
+path:
+  log: ./logs/${name}
+  results: ./results/${name}
+  checkpoint: ./checkpoints/${name}
+  resume_state: ~
+
+dist_params:
+  init_method: distributed:///tmp/tmp_world
+  backend: nccl
+  world_size: 1
+
+split_num: 5
+save_final_results_path: ./results/${name}/final_results.txt

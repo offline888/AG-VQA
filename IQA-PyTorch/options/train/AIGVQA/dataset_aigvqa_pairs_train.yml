@@ -1,0 +1,24 @@
+dataset: AIGVQA_Pairs
+data_root: /path/to/your/AIGV-DB
+phase: train
+name: AIGVQA_Pairs_train
+
+type: AIGVQAPairsDataset
+dataroot: /path/to/your/AIGV-DB/Pairs
+pairs_meta_file: /path/to/your/AIGV-DB/Pairs/pairs_annotation.xlsx
+prompt_meta_file: /path/to/your/AIGV-DB/Pairs/pairs_prompt.xlsx
+video_folder: Pairs_Videos
+num_frames: 8
+dimension: overall  # Options: overall, temporal, alignment
+preference_mode: binary  # Options: binary (1/2), prob (0/1)
+
+augment:
+  random_crop:
+    size: 224
+  random_square_resize:
+    size_range: [256, 384]
+  hflip: {}
+
+batch_size_per_gpu: 8
+num_worker_per_gpu: 4
+dataset_enlarge_ratio: 1

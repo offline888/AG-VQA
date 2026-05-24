@@ -1,0 +1,26 @@
+dataset: AIGVQA_MOS
+data_root: /path/to/your/AIGV-DB
+phase: train
+name: AIGVQA_MOS_train
+
+type: AIGVQAMOSDataset
+dataroot: /path/to/your/AIGV-DB/MOS
+meta_info_file: /path/to/your/AIGV-DB/MOS/mos.xlsx
+video_folder: MOS_Videos
+num_frames: 8
+score_mode: mean  # Options: mean (average of 4 scores), all (use all 4 individual scores)
+
+mos_range: [0, 100]
+lower_better: false
+mos_normalize: false
+
+augment:
+  random_crop:
+    size: 224
+  random_square_resize:
+    size_range: [256, 384]
+  hflip: {}
+
+batch_size_per_gpu: 8
+num_worker_per_gpu: 4
+dataset_enlarge_ratio: 1

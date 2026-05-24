@@ -1,0 +1,29 @@
+# T2VQA Dataset Configuration for pyiqa
+dataset_name: T2VQA
+type: T2VQADataset
+
+# Data paths
+dataroot: /home/dzc/yuanhao/data/T2VQA-DB
+meta_info_file: ./prepared_datasets/meta_info/meta_info_T2VQADataset.csv
+video_folder: ~  # Videos are directly in dataroot
+
+# Video processing
+num_frames: 8
+
+# MOS settings (raw score range: 0-100)
+mos_range: [0, 100]
+lower_better: false
+mos_normalize: false
+
+# Split settings
+split_ratio: "801"
+split_index: 0
+
+# Augmentation for training
+augment:
+  resize:
+    size: [224, 224]
+  hflip: ~
+
+# Image range
+img_range: 1.0

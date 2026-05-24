@@ -1,0 +1,31 @@
+# VideoFeedback2 Dataset Configuration for pyiqa (JSONL format)
+dataset_name: VideoFeedback2_JSONL
+type: VideoFeedback2Dataset
+
+# Data paths
+dataroot: /home/dzc/yuanhao/data/VideoFeedback2
+meta_info_file: ./prepared_datasets/meta_info/meta_info_VideoFeedback2Dataset.jsonl
+video_folder: ~
+
+# Video processing
+num_frames: 8
+
+# Quality dimension: 'vq', 't2v', 'pc', or 'all'
+dimension: vq
+
+# MOS settings (raw score range: 1-5)
+mos_range: [1, 5]
+lower_better: false
+mos_normalize: false
+
+# Split settings (JSONL uses all data, no split)
+# To use splits with JSONL, provide split_file separately
+
+# Augmentation for training
+augment:
+  resize:
+    size: [224, 224]
+  hflip: ~
+
+# Image range
+img_range: 1.0

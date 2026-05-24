@@ -1,0 +1,25 @@
+dataset: T2VQA
+data_root: /path/to/your/T2VQA-DB
+phase: train
+name: T2VQA_dataset_train
+
+type: T2VQADataset
+dataroot: /path/to/your/T2VQA-DB
+meta_info_file: /path/to/your/T2VQA-DB/info.txt
+video_folder: videos
+num_frames: 8
+
+mos_range: [1, 5]
+lower_better: false
+mos_normalize: false
+
+augment:
+  random_crop:
+    size: 224
+  random_square_resize:
+    size_range: [256, 384]
+  hflip: {}
+
+batch_size_per_gpu: 8
+num_worker_per_gpu: 4
+dataset_enlarge_ratio: 1
